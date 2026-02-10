@@ -1,0 +1,89 @@
+{
+  "id": "dialog_5198",
+  "segments": [
+    {
+      "text": "Do you want some dessert ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No thanks . We just need our check . Have you seen the waitress ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Where is our waitress anyway ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , the service hasn't been the best . Is that our waitress over there ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'll walk over and get the bill , since I don't think the waitress is coming over here any time soon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good idea . Just bring it back and we'll figure it out together .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "So the bill is $ 36.00 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "How much do you think we should leave for a tip ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "My first inclination is to leave nothing for a tip .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I agree , but we don't really know the whole story . There may have been problems in the kitchen beyond her control .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let's leave 10 % , so that we at least leave something for the service .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "I agree . We will leave $ 3.60 for the tip .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

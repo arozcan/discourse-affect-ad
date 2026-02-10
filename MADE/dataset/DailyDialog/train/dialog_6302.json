@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6302",
+  "segments": [
+    {
+      "text": "May I take your order ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'd like to see the menu , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , I'm so sorry . I thought you had one . Here you are .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Don't you have any Chinese food ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm afraid we don't . But I'm sure you'll enjoy our lunch special .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

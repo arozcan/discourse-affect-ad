@@ -1,0 +1,82 @@
+{
+  "id": "dialog_9007",
+  "segments": [
+    {
+      "text": "Good evening .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good evening . We've a reservation for a table for four . My name is Tim .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let me check the list . Yes , we do have a reservation under Mr . Tim .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "But there is a change in the number of people . There are seven of us . Three of my friends are coming soon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "It doesn't matter . Follow me , please . What do you think of the table in the center of the dining room ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , it's a window table that we've booked .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry , but you see , all the tables by the window are small , with up to 4 seats .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I see . We'll have to make up with the center one .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you for your understanding , Mr . Tim .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "If a Mr . Wu comes to look for me , just take him here .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I will .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "dialog_236",
+  "segments": [
+    {
+      "text": "What are you doing here today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I would like to fight my ticket .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Is the arresting officer in the courtroom today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , the officer is here today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What's your case ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I was pulled over for running a red light , but I never did .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you believe that the officer lied ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "There was a camera on the signal . So , he was obviously lying .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Your license plate was caught on camera ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "A picture of my license plate was never taken .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Since there is no picture of your license plate on record , I'm going to let you go .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you . I'm glad that you believe me .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 4
+    }
+  ]
+}

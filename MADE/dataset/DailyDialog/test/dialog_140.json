@@ -1,0 +1,40 @@
+{
+  "id": "dialog_140",
+  "segments": [
+    {
+      "text": "I want to buy a black suit .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainty.Do you want double breasted suit or single breasted suit ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I prefer single breasted suit .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about this one ? It's a very nice 3 - piece suit .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "That looks great . Do you have ties here ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    }
+  ]
+}

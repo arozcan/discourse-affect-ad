@@ -1,0 +1,75 @@
+{
+  "id": "dialog_11020",
+  "segments": [
+    {
+      "text": "What happened to your car ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "A tow truck was towing my car and put all those dents in my car .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are they going to pay you for the damages ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "They're saying it was already there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What the hell . That doesn't make sense . What are you going to do ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have to go to court . A cop was there so he can prove that the damage wasn't there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sucks . I'd be pissed if that happened to me .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I got an estimate and it's four thousand dollars .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh my gosh . Damn ... screw the court , I would burn down their store .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "We'll see what happens after court .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

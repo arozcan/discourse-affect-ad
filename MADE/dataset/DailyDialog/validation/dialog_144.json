@@ -1,0 +1,40 @@
+{
+  "id": "dialog_144",
+  "segments": [
+    {
+      "text": "Are you ready to order , sir ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I would like a roast duck and my friend wants steaks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "How do you like your steaks ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'd like it medium-well .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , sir , wait a minute .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

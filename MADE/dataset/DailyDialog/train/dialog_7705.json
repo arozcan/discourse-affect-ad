@@ -1,0 +1,89 @@
+{
+  "id": "dialog_7705",
+  "segments": [
+    {
+      "text": "Welcome , what would you like to order ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I would like to get a double cheeseburger .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Would you like everything on it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I would like everything on it , thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you want any fries ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let me get some large curly fries .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can I get you anything to drink ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure , how about a medium Pepsi ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Is that everything ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "That'll be all . Thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're welcome , and your total is $ 5.48 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you . Here you go .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 4
+    }
+  ]
+}

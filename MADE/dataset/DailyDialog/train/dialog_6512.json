@@ -1,0 +1,54 @@
+{
+  "id": "dialog_6512",
+  "segments": [
+    {
+      "text": "I was told that your company had been in the furniture industry for many years . What kinds of products do you generally handle ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "We mostly handle office furniture . We supply first-class furniture . Here are our catalogue and the pattern books . You can see the material is superior and with all the latest styles . Can you give me some idea about what you're looking for ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You know , we want to totally furnish our new office building . This is a list of what we need . Could you give me a ballpark figure for everything on this list ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "The price varies somewhat according to the size of your order . Would you tell us the quantity you want so that we can work out an offer ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "If the furniture is pleasantly designed and high-quality stuff , we intend to buy several thousand sets .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "It's our pleasure to do business with you . We'll let you have the offer next Wednesday at the latest .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "I hope you will make us your best offer , CIF New York .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "monologue_9225",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, that overflowing sink is gross, water just pouring out.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9343002438545227
+    },
+    {
+      "text": "The puddle's spreading, soaking the floor and cabinets.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4563835859298706
+    },
+    {
+      "text": "The woman's standing in it, unaware and calm.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8222804069519043
+    },
+    {
+      "text": "Her dress might get ruined from the splashes.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.540091872215271
+    },
+    {
+      "text": "Dishes stacked on the counter, probably dirty too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49759161472320557
+    },
+    {
+      "text": "Now the kids, climbing up for cookies like little thieves.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4939298629760742
+    },
+    {
+      "text": "The stool's legs are all splayed out, unstable mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.39641886949539185
+    },
+    {
+      "text": "Boy's reaching in, could drop everything.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5841432213783264
+    },
+    {
+      "text": "Girl's just waiting, hand out like it's no big deal.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46965688467025757
+    },
+    {
+      "text": "Water damage everywhere, what a sloppy scene.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5399923324584961
+    },
+    {
+      "text": "The window shows a clean garden, total opposite.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.815382182598114
+    },
+    {
+      "text": "This kitchen's turning into a swamp.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3245263397693634
+    },
+    {
+      "text": "Someone turn off that faucet already!",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6839601993560791
+    }
+  ]
+}

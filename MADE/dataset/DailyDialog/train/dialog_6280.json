@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6280",
+  "segments": [
+    {
+      "text": "I am past my stop . Would you please let me get off ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry . It's not allowed . You have to wait till the next station .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , that's OK .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Can you please slow down ? I am not in a hurry .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

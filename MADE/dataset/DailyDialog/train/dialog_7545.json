@@ -1,0 +1,131 @@
+{
+  "id": "dialog_7545",
+  "segments": [
+    {
+      "text": "Hello . My name ’ s Linda Brown . What can I do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi . I ’ m Tom Peterson . I ’ m looking for a one-bedroom apartment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Certainly . First , I would like to ask you some questions to identify your needs before I show you what we have .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s fine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "What price range are you interested in ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , between $ 350-400 a month .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay . Do you have a special location in mind ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ d like to live somewhere near the university , or at least on a bus line .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "When would you like to move in ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "As soon as possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "How about the end of this month ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    },
+    {
+      "text": "Are there any special features that you would like to have , such as , a dishwasher , a balcony , a swimming pool , central air conditionining , etc . ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 2
+    },
+    {
+      "text": "I would like to have a dishwasher and central air conditioning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay . Here are the photos of the apartments that fit your preferences .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you . This one looks nice . Is it near the university ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . It ’ s only 5 minutes walk from the campus .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s good . I ’ d like to see it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 17,
+      "dialog_act": 1
+    }
+  ]
+}

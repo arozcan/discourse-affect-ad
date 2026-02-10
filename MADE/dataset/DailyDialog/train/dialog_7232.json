@@ -1,0 +1,89 @@
+{
+  "id": "dialog_7232",
+  "segments": [
+    {
+      "text": "Good morning ! Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , let me see some of your hats , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , come this way , please . How does this one fit you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's a little bit tight .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me stretch it for you . How is that now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it fits all right now . I'll take it . Please put it in a bag and I'll take along .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . Here you are .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "How much is it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Thirty-five yuan .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here is the money .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks . Nothing else , today ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "Nothing else , thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_8134",
+  "segments": [
+    {
+      "text": "I am so busy today .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m not sure . Perhaps you could do the shopping .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ ll be glad to help .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Or maybe make the beds .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "All you have to do is to ask for help .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thanks . That ’ s terrific !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m ready and willing to help .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

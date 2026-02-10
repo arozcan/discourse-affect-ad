@@ -1,0 +1,47 @@
+{
+  "id": "dialog_3379",
+  "segments": [
+    {
+      "text": "You must be Wily . It's nice to meet you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Nice to meet you , Mr . Wilson .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Tim , please . Please be seated .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "So , Wily , you have been with IBM for two years ready for change ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I think I'm ready for new challenges .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

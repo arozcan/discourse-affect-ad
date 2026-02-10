@@ -1,0 +1,47 @@
+{
+  "id": "dialog_9523",
+  "segments": [
+    {
+      "text": "Could you copy this document for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "It's my pleasure . How many copies would you want ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "A hundred and fifty . No , wait , make that a hundred and sixty .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , sir . Will there be anything else ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "No , thank you . That will be all for now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Your document will be ready in about ten minutes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

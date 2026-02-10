@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9885",
+  "segments": [
+    {
+      "text": "Mr . Johnson , there's something I'd like to talk over with you . Would sometime this week be convenient for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let me see . Would it be all right on Wednesday morning ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That'll be fine .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Then I will see you in my office at ten Wednesday morning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

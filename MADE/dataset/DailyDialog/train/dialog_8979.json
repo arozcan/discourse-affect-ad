@@ -1,0 +1,47 @@
+{
+  "id": "dialog_8979",
+  "segments": [
+    {
+      "text": "I'd like to send this parcel to Spain , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do you want to send it by airmail or by surface mail ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , how long will it take if I send it by surface mail ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "About five weeks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , dear . It won't get there for New Year's Day if I send it by surface mail . How much will it cost if I send it by air ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just a moment . I'll weigh it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

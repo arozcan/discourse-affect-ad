@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2474",
+  "segments": [
+    {
+      "text": "Is there something wrong ? You look so sad .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "My house was robbed last night and the thieves stole all my furniture .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "No wonder you look so upset . Have you called the police ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I have . But I have to wait .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

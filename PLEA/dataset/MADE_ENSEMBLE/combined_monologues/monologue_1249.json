@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1249",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The woman's apron flutters slightly as she moves, her hands steady on the plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8875792622566223
+    },
+    {
+      "text": "I almost feel happy watching her work so diligently, so content in her task.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9011803865432739
+    },
+    {
+      "text": "But then I glance at the pile of dishes stacked precariously nearby and feel a wave of disgust.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9140944480895996
+    },
+    {
+      "text": "The children are too busy with their scheme to care about the state of the kitchen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7790350914001465
+    },
+    {
+      "text": "I can’t help but feel angry that they’re getting away with this.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.622892439365387
+    },
+    {
+      "text": "They’re so absorbed in their cookie mission that they’re blind to the dangers.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.48467424511909485
+    },
+    {
+      "text": "It’s like a ticking clock, the quiet before a possible disaster.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6650898456573486
+    }
+  ]
+}

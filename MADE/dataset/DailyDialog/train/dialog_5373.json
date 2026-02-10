@@ -1,0 +1,75 @@
+{
+  "id": "dialog_5373",
+  "segments": [
+    {
+      "text": "Have you made a reservation ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I have booked a table for four . My name is Liu Fan .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "We have had a window table reserved for you . This way , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "You're welcome .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can we see the menu , please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'll bring it over .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Anything good for this evening ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "We have squirrel shaped mandarin fish , seeds prawn , etc .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Very good , we'll take them all .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

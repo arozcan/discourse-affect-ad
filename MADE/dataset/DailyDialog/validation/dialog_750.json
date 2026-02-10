@@ -1,0 +1,89 @@
+{
+  "id": "dialog_750",
+  "segments": [
+    {
+      "text": "How are you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Very well .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you need help with something ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I need to make a transfer .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "What account would you like to transfer the money from ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I want to transfer money from my savings account .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Where do you want the money to go to ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "I want the money to be transferred into my checking account .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "How much money are you going to transfer today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "$ 200 will be fine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is that all I can do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "I won ’ t be needing anything else .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_152",
+  "segments": [
+    {
+      "text": "We're having a sixties party next week . Do you want to come ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What is a sixties party ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "You come dressed in anything from the sixties .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sounds like fun . But where can I get clothes that old ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Check out your mom's closet . I'll bet she still has something .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good idea . Can I bring some music from that period too ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "That will be great ! Do you have LPs or Cds ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Don't tell me you have a record player !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

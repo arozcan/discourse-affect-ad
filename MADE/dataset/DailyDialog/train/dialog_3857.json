@@ -1,0 +1,47 @@
+{
+  "id": "dialog_3857",
+  "segments": [
+    {
+      "text": "I've heard of ground-level ozone but can you explain what it is exactly ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it's one of the main air pollutants . Factories don't emit it directly into the air . It's actually formed when nitrogen oxides and VOC emissions come into contact with heat and sunlight .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sorry ? What does VOC stand for ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , Vous are ' volatile organic compounds ' . That's a technical term for solvents or other chemicals found in things like paint .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , what damage does ozone do to the environment ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , it can cause smog , which can affect people's health - especially people with breathing difficulties .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

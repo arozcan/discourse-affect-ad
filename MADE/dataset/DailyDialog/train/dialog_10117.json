@@ -1,0 +1,61 @@
+{
+  "id": "dialog_10117",
+  "segments": [
+    {
+      "text": "Hello . Welcome !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello . I'd like to have my nails manicured .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "This way please . We offer multiple manicure services here . Do you want a full service ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't need the full service .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "But the full service will make your nails look much prettier and it is on discount now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , thanks . All I need is painting and polishing .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK . Please sit down . I hope you will be satisfied with our service .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks very much .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

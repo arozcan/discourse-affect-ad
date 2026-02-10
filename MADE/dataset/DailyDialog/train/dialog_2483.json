@@ -1,0 +1,75 @@
+{
+  "id": "dialog_2483",
+  "segments": [
+    {
+      "text": "I hear you're being sent to Madrid for the annual conference . Is that right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it would be my first trip overseas . Actually , it's going to be my first time leaving the country .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you serious ? You haven't even been anywhere on vacation ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I have never vacationed anywhere exotic . But even if I don't get a chance to travel on my personal time , at least I can travel on company time !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , being able to go to the conference sounds like such a great opportunity . Have you applied at the embassy for a visa yet ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it wasn't too hard to get . All I had to do was fill out the paperwork and pay the application fee .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "You leave next Tuesday , right ? What time is your flight ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "My flight departs at 7 am . I have everything except for my luggage ready .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "If your flight is leaving so early , I can take you to the airport and see you off . I'll still be able to make it into the office by 9 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "That would be great ! Thanks a lot !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

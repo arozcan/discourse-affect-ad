@@ -1,0 +1,40 @@
+{
+  "id": "dialog_7139",
+  "segments": [
+    {
+      "text": "You're having coffee , aren't you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I always have coffee in the morning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What are you going to have to eat ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm going to order scrambled eggs and toast . What about you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "That sounds good to me . I'll have the same .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

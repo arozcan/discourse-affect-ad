@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3859",
+  "segments": [
+    {
+      "text": "Do you have the day off today ? How come you're not at work now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't have the day off . Our labor union is staging a nationwide strike today , all of the workers in our department are supporting the labor union by participating and not going in to work this week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you serious ? Why would they have to go to such extreme measures like a strike ? Doesn't your company have a pretty good corporate image ? I'll bet the folks at headquarters are going nuts over something as serious as a strike ...",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It happens quite often , actually.Whenever there arises a dispute between the union and the executive group , the first thing they do is to call a strike . Usually it only lasts a day or two before both sides can come to an agreement and we start work again . Anyhow , it's a nice , unanticipated holiday ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

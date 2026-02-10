@@ -1,0 +1,47 @@
+{
+  "id": "dialog_11001",
+  "segments": [
+    {
+      "text": "Excuse me . Are these chips on sale ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . You will save 90 cents on each bag .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is there any limit ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , no limit . You can take as many as you want .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s good . Thanks .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "You ’ re welcome .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

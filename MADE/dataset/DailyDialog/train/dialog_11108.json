@@ -1,0 +1,47 @@
+{
+  "id": "dialog_11108",
+  "segments": [
+    {
+      "text": "Housekeeping , may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I'm missing a sweater . I sent it in the laundry yesterday , but my laundry was returned without it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "May I have your room number , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "505 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "505 . Let me check it out . Just a moment , please . I'm sorry . You're right . We have found your sweater . We made a mistake delivering the laundry . We'll send it up to your room at once . We're very sorry for the inconvenience",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's all right",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

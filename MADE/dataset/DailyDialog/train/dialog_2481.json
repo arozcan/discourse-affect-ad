@@ -1,0 +1,47 @@
+{
+  "id": "dialog_2481",
+  "segments": [
+    {
+      "text": "Have we met ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't think so . Michael .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello , Michael . My name's Shirley . Pleased to meet you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Pleased to meet you , too , Shirley . So , what do you do ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I work in marketing . I'm a regional marketing manager for an IT company . Normally , I work out of Beijing , but I'm here on business . My friend Judy over there , she lives here and she invited me to this party . And you ? How about you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I live here . I was invited by George-he's the tall guy over there . He looks a bit drunk , actually ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

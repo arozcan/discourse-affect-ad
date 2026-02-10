@@ -1,0 +1,82 @@
+{
+  "id": "dialog_27",
+  "segments": [
+    {
+      "text": "Next , please . Hello , may I help you , sir ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I want to send a registered airmail letter to France .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , it comes four dollars twenty cents .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Here is five dollars .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here is your change . Please wait for your receipt of the registered mail .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I also want to pack up my package . This is the notes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let me see . En .. just a minute . Here it is . I need your signature on this note .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , one more thing , where can I mail this letter ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Drop it in the mail box mark out of town . at that corner .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you very much .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "You ‘ re welcome .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

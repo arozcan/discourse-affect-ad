@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1498",
+  "segments": [
+    {
+      "text": "It was great meeting you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Me too .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Maybe we can meet again sometime ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course , but I'll have to go now .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

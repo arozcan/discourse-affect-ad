@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2381",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a woman standing in front of the sink, completely focused on drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9173130989074707
+    },
+    {
+      "text": "Her apron is a lovely shade of blue, and the way she polishes the dish is almost mesmerizing.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.836784839630127
+    },
+    {
+      "text": "Yet, I can't help but notice the water overflowing from the sink, trickling down the cabinet doors.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5773913264274597
+    },
+    {
+      "text": "How can she be so absorbed and not realize the chaos around her?",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.815399169921875
+    },
+    {
+      "text": "The puddle is growing larger at her feet, and it makes me anxious just watching it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6648973822593689
+    },
+    {
+      "text": "The outside garden looks so peaceful through the window, contrasting sharply with the mess inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.39715418219566345
+    },
+    {
+      "text": "I wish she would just take a moment to look around, to see what’s happening right in front of her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5013807415962219
+    }
+  ]
+}

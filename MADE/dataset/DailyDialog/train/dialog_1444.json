@@ -1,0 +1,68 @@
+{
+  "id": "dialog_1444",
+  "segments": [
+    {
+      "text": "What's the time now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sorry , I don't know , there's something wrong with my watch .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You've simply forgotten to wind it up , have you ? When do you usually wind it up ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "In the coming , before going to work .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "You got up so late today . You have , I think . Turn on the TV and set your watch by it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . I'll turn it on .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "All right . It's just four o'clock .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I'm setting my watch at four . Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "You are welcome .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0601",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a light streaming through the window, illuminating the chaos of the kitchen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8239308595657349
+    },
+    {
+      "text": "The contrast between the peaceful garden and the turmoil inside strikes me as odd.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.36435970664024353
+    },
+    {
+      "text": "The boy is determined to reach the cookie jar, and I can't help but find it funny.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8333294987678528
+    },
+    {
+      "text": "But there's a part of me that feels uneasy about how close he is to falling.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4195358157157898
+    },
+    {
+      "text": "His little fingers stretch toward the jar, while my heart races in anticipation of what might happen next.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6070677042007446
+    },
+    {
+      "text": "The woman remains oblivious, continuing her dishwashing as if everything is perfectly normal.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7552782297134399
+    },
+    {
+      "text": "I just wish she would look up and see the lively mischief unfolding behind her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7836233377456665
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_4054",
+  "segments": [
+    {
+      "text": "Mr.Ben , What do you think of the book ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's an excellent one . I like it very much .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It includes a lot of useful words and phrases .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I agree with you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

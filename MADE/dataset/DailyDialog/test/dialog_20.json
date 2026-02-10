@@ -1,0 +1,89 @@
+{
+  "id": "dialog_20",
+  "segments": [
+    {
+      "text": "Why'd you pull me over ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Are you aware that you drove through a red light ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ran a red light ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , you did .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I apologize , but I didn't realize that I did .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Weren't you taught that yellow means slow down , not speed up ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "I did learn that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , then why did you speed up ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't know what to tell you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm going to have to write you a ticket .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "I understand .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 4
+    },
+    {
+      "text": "Here you go . Don't do that again .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    }
+  ]
+}

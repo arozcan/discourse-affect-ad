@@ -1,0 +1,33 @@
+{
+  "id": "dialog_611",
+  "segments": [
+    {
+      "text": "Do you mind if I get a lift in your car , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I don ’ t see any problem , only the car is a bit old .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh you ’ re so kind !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Get in .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

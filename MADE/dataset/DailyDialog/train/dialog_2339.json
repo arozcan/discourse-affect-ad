@@ -1,0 +1,61 @@
+{
+  "id": "dialog_2339",
+  "segments": [
+    {
+      "text": "Hey , Brad . How was your day ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Pretty good . Where are you going ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm going home .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wait . We have to return to our homeroom and wait to be dismissed .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is that right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Our homeroom teacher has to take attendance again to make sure that we're all here .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "So he takes attendance once in the morning and once in the afternoon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah . I'm going to my locker to get my jacket . Catch you later .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

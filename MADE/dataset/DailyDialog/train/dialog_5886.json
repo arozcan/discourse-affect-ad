@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5886",
+  "segments": [
+    {
+      "text": "I would like to have this laundry done .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Please fill out the form first .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . By the way , I would like to have this sweater washed by hand in cold water . It might shrink otherwise .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "By hand in cold water . Got it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

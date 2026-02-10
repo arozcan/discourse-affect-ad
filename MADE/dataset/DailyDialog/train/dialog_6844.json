@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6844",
+  "segments": [
+    {
+      "text": "The operation in the lab is radioactive and dangerous , so work with care . Have you got ear muffs and gloves ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Do I have to wear ear muffs and gloves ? I am not used to working with them on .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , you have to . It is a safety rule of the company . You could not only lose your job but your hearing if you don't .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . I'll go and get a pair of them .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

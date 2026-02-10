@@ -1,0 +1,47 @@
+{
+  "id": "dialog_9371",
+  "segments": [
+    {
+      "text": "Hello , welcome to the International Business Counter , Sir . What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi . I need some help with these documents under L / C .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course . Is there a problem with them ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . My Manager sent me in , there's a problem with the shipping time . It's been delayed quite significantly and my manager is unwilling to accept it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "You will need to return the documents . That's no problem ; we can deal with that for you now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you . I need to get this done as soon as possible ; my manager is tearing his hair out !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

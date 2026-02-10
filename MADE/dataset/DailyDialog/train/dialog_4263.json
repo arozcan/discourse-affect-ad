@@ -1,0 +1,89 @@
+{
+  "id": "dialog_4263",
+  "segments": [
+    {
+      "text": "Hey , Jane ... are you familiar with our company's insurance policies ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Umm ... I think so . What's up ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've never really paid attention to the fine print of our insurance policies ... but it looks like I'm going to need to make a claim .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? Are you OK ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have a slipped disc in my lower back and the doctor says surgery is probably the best option . Does our worker insurance cover this kind of thing ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "If the injury is workplace related I'm sure it's completely covered .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hummum ... I think I'll have to talk to the doctor again about that.Anyway ... now that I'm going to have to make some claims , I think I'd better try and understand how the system works . Would you mind breaking it down for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . Basically we have two insurance policies for employees ... workman's compensation and medical insurance . The company pays the premiums for workman's compensation , and for a significant part of the medical coverage , but you pay part of that premium , too .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's the charge for insurance I see on my pay slip each month , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yep . Every country in the world has a different system , but here we buy insurance from a private provider .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "So workman's compensation is if I slip and break my arm while working in the office or on the job , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's right . The company pays for all your medical bills and there is also some financial compensation if you have to take days off to see doctors or spend time recuperating .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

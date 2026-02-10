@@ -1,0 +1,117 @@
+{
+  "id": "dialog_2863",
+  "segments": [
+    {
+      "text": "Hey Sarah , are you all right ? You look upset .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "As a matter of fact , I am a bit upset . I just came out of a meeting and it didn't go very well .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What happened ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No one would listen to any of my suggestions . Instead , they just kept arguing with each other .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Who was chairing the meeting ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Bob .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I can tell you from experience that Bob might come off a little strong sometimes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's exactly what happened ! He kept interrupting everyone with his own suggestions and did not want to hear what others had to say . Then he expected everyone to agree with him .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "What was the meeting about ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "We were trying to come up with ideas to streamline the office's workflow to make it more efficient .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's ironic that the meeting was anything but efficient .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Exactly . I had tons of ideas that I wanted to share , but they just wouldn't let me finish . What should I have done to get my point across ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 2
+    },
+    {
+      "text": "You have to keep things short and sweet . When you get a chance to speak , try not to get into too many unnecessary details .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 3
+    },
+    {
+      "text": "Short and sweet ? But what if I have to explain something complicated ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can always bring up the main points during the meeting and speak to those who are directly involved after the meeting . Not everyone needs to know all that information .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's a good idea , I think I will try that at the next meeting .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 4
+    }
+  ]
+}

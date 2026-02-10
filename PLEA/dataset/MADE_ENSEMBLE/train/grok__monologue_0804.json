@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0804",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Seeing this kitchen fills me with a sense of worry.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5160729289054871
+    },
+    {
+      "text": "The woman dries her plate, lost in the motion.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9186707735061646
+    },
+    {
+      "text": "But the overflowing sink is a disaster waiting.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6261454820632935
+    },
+    {
+      "text": "Water everywhere, damaging everything it touches.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.474692165851593
+    },
+    {
+      "text": "Her foot in the puddle— she could fall so easily.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5016858577728271
+    },
+    {
+      "text": "The children behind her, unnoticed in their antics.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8648840188980103
+    },
+    {
+      "text": "The boy teeters on that stool toward the cookies.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8974449634552002
+    },
+    {
+      "text": "One wrong move, and he'll tumble down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5964844226837158
+    },
+    {
+      "text": "The girl reaches up, unaware of the danger too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4093824028968811
+    },
+    {
+      "text": "It's sad how something joyful like cookies turns risky.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.899929404258728
+    },
+    {
+      "text": "The calm garden view contrasts this impending trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6663705110549927
+    },
+    {
+      "text": "I hope she turns around before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5035042762756348
+    },
+    {
+      "text": "This scene tugs at my heart with its vulnerabilities.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.35208263993263245
+    }
+  ]
+}

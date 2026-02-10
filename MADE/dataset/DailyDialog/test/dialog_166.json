@@ -1,0 +1,61 @@
+{
+  "id": "dialog_166",
+  "segments": [
+    {
+      "text": "What date would you like to depart , sir ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Do you have any seats for September 16th ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let's see ... I'm afraid the 16th is fully booked . But I have seats for the 17th .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "The 17th will be fine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "And what date will you be returning ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hmm , I guess on the 28th .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay , you're booked on American Airlines flight 710 , departing JFK at 6",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sounds good . Thanks a lot .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

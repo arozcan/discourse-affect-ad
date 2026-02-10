@@ -1,0 +1,68 @@
+{
+  "id": "dialog_5029",
+  "segments": [
+    {
+      "text": "Excuse me . Do you think I can get there in time to catch the 11:30 train ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , let me see . Now it's 11:00 sharp . It's a long way to go.If I take the shortest route , we may come across a traffic jam.If I take a less heavy route , it will save us 10 or more minutes , but you'll have to pay more . Which do you prefer ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you sure that I can get there in time if we take the less heavy route ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Generally speaking , we can if we go at this speed and nothing unexpected happens .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "How much more do I have to pay ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Compared to the shortest route , you may pay around 5 Euro more .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's acceptable . No one wants to miss a train .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK ... Here we are . We'll turn left at this cross . To go straight ahead is the shortest route .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

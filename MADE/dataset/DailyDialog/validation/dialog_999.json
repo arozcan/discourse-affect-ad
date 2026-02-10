@@ -1,0 +1,75 @@
+{
+  "id": "dialog_999",
+  "segments": [
+    {
+      "text": "Welcome , sir . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "May I have a look at that china tea set ? It is extremely beautiful .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "You've made a good choice . This china tea set is unusual . It was made in Jingdezhen .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Jingdezhen ? Oh , I know it . Isn't it called the capital of porcelain ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , sir .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , it must be very precious . Is it breakable ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , if you take some care when you use them .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "How much is it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Two thousand .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , it is beyond my purse .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

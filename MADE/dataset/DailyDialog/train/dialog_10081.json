@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10081",
+  "segments": [
+    {
+      "text": "Do you see that small white car over there ? It ’ s Tom ’ s new car .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , my God . It ’ s beautiful . But it looks expensive .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "It is very expensive . Tom ’ s father paid for it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I want to have a car like that . But I am not rich . And I don ’ t have a rich daddy .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "They are By new models now , they are not very expensive . Maybe you should look for one .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

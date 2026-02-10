@@ -1,0 +1,89 @@
+{
+  "id": "dialog_130",
+  "segments": [
+    {
+      "text": "Yikes ! What was that noise ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I had to blow my nose .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Did you have to blow right next to the phone ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Did you hear that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course I heard that . I thought a plane had crashed into your house .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "It wasn't that loud .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I will blow my nose sometime for you , and you'll see .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay . I'll take your word for it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "I thought you had an elephant in your house .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're funny .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "What did you say ? I think I've gone deaf .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm going into the bathroom to blow my nose . I'll be right back .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

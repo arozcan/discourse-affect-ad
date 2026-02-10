@@ -1,0 +1,40 @@
+{
+  "id": "dialog_4762",
+  "segments": [
+    {
+      "text": "Fred , have you made the plan for April 28th ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , sir . Shall I explain the details of the plan now ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "You go !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "According to your schedule , you will visit the Times Company , including its office building , workshops and stores , in the morning from 8: 30 to 11",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is there anything after the meeting ? In that case , would you add one plan ? I want to visit our guest Mr . Ross after the meeting . Can you arrange it for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

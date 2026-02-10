@@ -1,0 +1,40 @@
+{
+  "id": "dialog_1398",
+  "segments": [
+    {
+      "text": "I like football best of all .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's a very good game .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you watch it or do you still play it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I only watch now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

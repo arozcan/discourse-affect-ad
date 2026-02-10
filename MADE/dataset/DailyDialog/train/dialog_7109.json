@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7109",
+  "segments": [
+    {
+      "text": "Excuse me , young man ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , ma ’ am ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Could you point me in the direction of the bank ? I ’ Ve lost my way .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly , ma ’ am . Just take these stairs down to the first floor and turn left . You can ’ t miss it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

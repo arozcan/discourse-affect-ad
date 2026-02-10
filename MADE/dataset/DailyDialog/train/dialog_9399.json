@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9399",
+  "segments": [
+    {
+      "text": "Hi , Xavier . I'd like to go over the list of jobs for next week's maintenance shut .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . We've got a lot to do in a short time . We're planning to shut the line at midday on Wednesday and start up again at 6 pm the following day . We might need to extend the shut by about six hours .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Our production people won't be happy about that . We've got a full order book at the moment . Is there any way you could speed things up ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Not really . We need to dismantle the conveyor belt and replace the rollers .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

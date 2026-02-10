@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9646",
+  "segments": [
+    {
+      "text": "Could I have a word with you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , what is it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am disappointed with your work lately .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry . I've been having some problems .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

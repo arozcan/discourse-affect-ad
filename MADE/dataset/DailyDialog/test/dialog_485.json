@@ -1,0 +1,33 @@
+{
+  "id": "dialog_485",
+  "segments": [
+    {
+      "text": "John ? It ’ s Susan Miller .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , Susan . What ’ s up ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Do you know where that memo about office procedures is ? I want to give my secretary a copy .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m sorry . I have no idea . I haven ’ t seen that for ages .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_19",
+  "segments": [
+    {
+      "text": "Mr . Johnson ’ s office . Cindy speaking .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hi , Cindy . It ’ s Michael Kurt . Is Mr . Johnson in ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I ’ m sorry , Mr . Kurt . He ’ s stepped out for a bit . Would you like me to have him call you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , that ’ ll be great . I ’ m on extension 4283 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dialog_5070",
+  "segments": [
+    {
+      "text": "Do I check in for the train D8 08 to Shanghai here ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , show me your tickets please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here you are . By the way , when does the train leave ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "The train is driving after ten minutes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks . Where is my seat ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's over there . Have a good trip .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

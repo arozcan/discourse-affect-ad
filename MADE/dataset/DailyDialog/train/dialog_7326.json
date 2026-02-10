@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7326",
+  "segments": [
+    {
+      "text": "Are you going grocery shopping today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am , as a matter of fact . Do you have any special requests ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , please get some white bread , thick cut , some ham , not the processed stuff , some gouda cheese , some galla apples and . . .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Wait . This is sounding like a major list . Why don't you just come with me ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

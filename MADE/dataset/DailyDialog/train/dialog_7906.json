@@ -1,0 +1,82 @@
+{
+  "id": "dialog_7906",
+  "segments": [
+    {
+      "text": "Could I get some beef ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What kind of beef would you like to get ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Ground beef would be fine .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "How many pounds would you like ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Four pounds is enough .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "What kind of ground beef do you want ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm going to need extra lean ground beef .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "I can get that for you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thanks so much .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're welcome , Let me go wrap the ground beef up for you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks for everything .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 4
+    }
+  ]
+}

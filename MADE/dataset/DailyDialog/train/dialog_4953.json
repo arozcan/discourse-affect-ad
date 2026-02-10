@@ -1,0 +1,89 @@
+{
+  "id": "dialog_4953",
+  "segments": [
+    {
+      "text": "Are you okay ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What's wrong ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I got robbed !",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "By who ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Some guy on the street just mugged me .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you hurt ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , he just stole all of my things .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's crazy .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I need to go to the police station .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do you want me to take you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "That would be great . Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    }
+  ]
+}

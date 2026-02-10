@@ -1,0 +1,40 @@
+{
+  "id": "dialog_502",
+  "segments": [
+    {
+      "text": "It's located in the suburbs ? Well even though that sounds like a steal , I really want something downtown .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . Well the problem is that the apartments in the heart of the city are usually more expensive .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know , that's my problem . What do you think I should do ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , maybe you could get a two-bedroom apartment downtown and share the rent with a roommate .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , great idea !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

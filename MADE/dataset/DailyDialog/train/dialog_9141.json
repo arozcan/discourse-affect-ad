@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9141",
+  "segments": [
+    {
+      "text": "Would you like some drinks ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , what kinds of wine do you have ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "We have various kinds of wine . As for an appetizer , I advise you to order white wine or dry white wine .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you . Please bring us a bottle of dry white wine .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

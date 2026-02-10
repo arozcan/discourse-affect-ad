@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3939",
+  "segments": [
+    {
+      "text": "We ’ re going to the Dragon Boat Festival tomorrow . Feel like coming along ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . I ’ Ve never seen a dragon boat race .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Really ? I think you ’ ll love it .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "As long as I don ’ t have to row .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

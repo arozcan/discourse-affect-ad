@@ -1,0 +1,90 @@
+{
+  "id": "monologue_9800",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "The sink is overflowing, water everywhere—it's disgusting.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9636906385421753
+    },
+    {
+      "text": "The faucet just keeps running without stop.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6548386812210083
+    },
+    {
+      "text": "That woman is clueless, focused only on her plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.484880656003952
+    },
+    {
+      "text": "Puddle's widening right under her, she could slip badly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5229907631874084
+    },
+    {
+      "text": "The stool the boy's on is tilting back precariously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7416885495185852
+    },
+    {
+      "text": "He's got his hand in the cookie jar, smiling I bet.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4464057981967926
+    },
+    {
+      "text": "The girl's waiting patiently with her arm stretched out.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8643460273742676
+    },
+    {
+      "text": "They're breaking the rules, sneaking those treats.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5421184301376343
+    },
+    {
+      "text": "The window overlooks a tidy yard, so serene.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5763176083564758
+    },
+    {
+      "text": "Inside, the mess is going to cause real trouble.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4655015468597412
+    },
+    {
+      "text": "Dishes stacked on the counter might topple too.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6972715258598328
+    },
+    {
+      "text": "I feel bad for the cabinets taking all that water damage.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9389967918395996
+    }
+  ]
+}

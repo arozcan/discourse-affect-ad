@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5948",
+  "segments": [
+    {
+      "text": "Hello , Mr . Kramer . Could you spare a minute ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s about all I can spare , Karen . What do you need ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I need to talk to you about that new secretary you ’ Ve hired . I think I ’ m going to have some problems working with her .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "She seems to be quite qualified . If it ’ s a personal problem , I ’ d prefer it if you would work it out between yourselves .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

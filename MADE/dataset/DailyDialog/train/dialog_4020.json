@@ -1,0 +1,68 @@
+{
+  "id": "dialog_4020",
+  "segments": [
+    {
+      "text": "I've heard that Tom is going to move .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ? Are you sure about that ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , he is going to move next month .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Where is he going ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "He is going to Canada and to live with his son .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "What a pity !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why did you say that ? It's a good thing for him to live with his son .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "I know that . But it's pity for us to lose such a good neighbour . You know I always appreciate Tom's company .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Me too . But anyway we hope he lives happily in the future .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

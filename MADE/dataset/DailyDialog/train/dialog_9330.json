@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9330",
+  "segments": [
+    {
+      "text": "Good morning , I want to send this parcel to Taiwan .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Airmail or surface mail ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "How long would surface mail take , compared with airmail ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , anything up to 3 or 4 months for surface mail . It depends on the sailing of the ships . Airmail would only take 1 to 2 weeks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "How much would this parcel cost me by airmail ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just let me weigh it for you . That's 2 lb . and 6 oz . That's be £ 10 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks . That'll be OK .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

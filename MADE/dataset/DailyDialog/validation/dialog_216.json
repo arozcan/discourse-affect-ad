@@ -1,0 +1,54 @@
+{
+  "id": "dialog_216",
+  "segments": [
+    {
+      "text": "Good morning , sir . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm Bill . I'm in Room 908 . Can you change the room for me ? It's too noisy . My wife was woken up several times by the noise the baggage elevator made . She said it was too much for her .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm awfully sorry , sir . I do apologize . Room 908 is at the end of the corridor . It's possible that the noise is heard early in the morning when all is quiet .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Anyhow , I'd like to change our room .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem , sir . We'll manage it , but we don't have any spare room today . Could you wait till tomorrow ? The American People-to-people Education Delegation will be leaving tomorrow morning . There'll be some rooms for you to choose from .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . I hope we'll be able to enjoy our stay in a quiet suite tomorrow evening and have a sound sleep .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Be sure . I'll make a note of that . Everything will be taken care of . And if there is anything more you need , please let us know .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_1264",
+  "segments": [
+    {
+      "text": "Welcome ! Sophia told us you were coming !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Um ... It's wonderful to be here . Uh ... this place looks really cozy .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you ! Your cheeks are as red as a tomato ! Are you shy ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Maybe ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Some of my grappa will cure your shyness .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is that a kind of alcohol ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's a clear spirit we drink any time of the day . You will love it !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Great . My face will turn even redder !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

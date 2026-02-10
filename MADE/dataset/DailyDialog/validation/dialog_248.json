@@ -1,0 +1,33 @@
+{
+  "id": "dialog_248",
+  "segments": [
+    {
+      "text": "Hi , I am afraid that the fax machine in my room won ’ t be working till tomorrow . A technician has just come and checked it . He will bring me a new one tomorrow . It seems there is a big problem with mine and it will take some days for repairing . Can I use the one in your office ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course you can . I am sure this one works very well . I just sent dozens of pages . How many pages are you sending ? Are you familiar with my fax machine ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I think you have the same model as I have . Does your fax machine print out immediately a transmission protocol ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it will print immediately .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

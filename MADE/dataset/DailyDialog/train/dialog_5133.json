@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5133",
+  "segments": [
+    {
+      "text": "Good evening ! I don't believe we've met before . May I introduce myself ? My name is Jack .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's a pleasure to meet you . My name is Lucy .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm very happy to meet you . You're from the United States , aren't you ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I'm from Salt Lake City .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I've been to Salt Lake City a few times . I really like your city .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm glad to hear that . I think it's the nicest city in the United States .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

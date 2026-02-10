@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6774",
+  "segments": [
+    {
+      "text": "Peter ? This is Steven from China . I've got the document you want .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Great . Send it to me by FedEx tomorrow morning . Or better , call Federal Express for a pick-up . That way I'll get it even earlier .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That'll cost me a fortune .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Don't worry about that . I'll reimburse you as soon as I receive the package .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . I'll try . But I'm not sure Federal Express picks up mail in this city . If that's the case , I'll send the package through Chinese express mail service .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

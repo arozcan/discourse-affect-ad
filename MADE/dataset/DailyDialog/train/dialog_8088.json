@@ -1,0 +1,47 @@
+{
+  "id": "dialog_8088",
+  "segments": [
+    {
+      "text": "Can you put me through to Mr . Lining ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , speaking . Can I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am calling to let you know that you are selected to fill the position of Project Manager .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am happy to hear that and I'll accept that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "By the way , are you married ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I am single .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

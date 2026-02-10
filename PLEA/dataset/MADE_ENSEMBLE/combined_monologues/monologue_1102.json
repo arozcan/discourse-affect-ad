@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1102",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The kitchen is awash in warm light, yet it feels like a scene brewing with trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6811695694923401
+    },
+    {
+      "text": "I notice the puddle growing larger, creeping dangerously across the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6858639717102051
+    },
+    {
+      "text": "This negligence is hard to watch; it almost makes me feel angry.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5048675537109375
+    },
+    {
+      "text": "Yet the sight of the children enjoying their cookie heist is heartwarming.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8160866498947144
+    },
+    {
+      "text": "I think the boy is so brave, but my stomach drops at the thought of him falling.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7503162622451782
+    },
+    {
+      "text": "The girl’s raised hand seems so hopeful, yet it feels utterly wrong.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.2464807629585266
+    },
+    {
+      "text": "The moment is so fragile; I can almost feel the tension hanging in the air.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3539610505104065
+    }
+  ]
+}

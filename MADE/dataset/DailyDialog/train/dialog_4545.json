@@ -1,0 +1,47 @@
+{
+  "id": "dialog_4545",
+  "segments": [
+    {
+      "text": "You're right--Italian ! Ha ! Ha ! I was trying to trick you , but you didn't fall for it !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I almost did ! Actually , I don't know that much about coffee , even though I sell it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I could give you a few pointers if you want . I know a lot about coffee .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks . Maybe if things slow down later I'll stop by your table .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'm Robert , at your service .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Rita . Nice to meet you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

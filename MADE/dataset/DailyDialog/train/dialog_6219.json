@@ -1,0 +1,54 @@
+{
+  "id": "dialog_6219",
+  "segments": [
+    {
+      "text": "Excuse me . Is this seat taken ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , it isn't .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Am I on right bus to Chicago ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , no . This is going in the opposite direction .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , my God !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I suggest you get off at the next stop and ask again at the station .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "I will . Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

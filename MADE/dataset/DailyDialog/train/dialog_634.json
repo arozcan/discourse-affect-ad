@@ -1,0 +1,82 @@
+{
+  "id": "dialog_634",
+  "segments": [
+    {
+      "text": "I was supposed to meet with you at half past one .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I see . What did you need to see me about ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "There's a problem with my schedule .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What's the problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Two of my classes occur at the same time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I can see that's a problem .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is it at all possible for you to fix that error ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I can . Would you still like to have both of these classes ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "I want to keep both of them , if that's possible .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , let me find you one of these classes on a different day .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thanks a lot .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

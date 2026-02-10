@@ -1,0 +1,69 @@
+{
+  "id": "monologue_0243",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing from the sink, and I’m worried someone is going to slip and fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9061858654022217
+    },
+    {
+      "text": "The woman is just drying that plate, completely unaware of the danger around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.28260141611099243
+    },
+    {
+      "text": "The boy is balancing on that stool, and I’m terrified he’s going to fall and hurt himself.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.827660858631134
+    },
+    {
+      "text": "The girl is just standing there, waiting for a cookie, and it’s scary how unaware she is of the risks.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.46302589774131775
+    },
+    {
+      "text": "The floor is getting more slippery, and I’m afraid someone is going to get hurt if they don’t clean it up soon.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9135941863059998
+    },
+    {
+      "text": "The cookie jar is almost empty, and I think the boy is going to regret taking so many if he falls.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4604106545448303
+    },
+    {
+      "text": "The garden outside looks so peaceful, but inside, everything is a disaster waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.29393699765205383
+    },
+    {
+      "text": "I hope the woman turns around soon and sees what’s happening before it’s too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5197011828422546
+    },
+    {
+      "text": "The boy is still reaching for more cookies, and I’m afraid he’s going to fall any second now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4911769926548004
+    }
+  ]
+}

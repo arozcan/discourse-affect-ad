@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8005",
+  "segments": [
+    {
+      "text": "Hello , Steven . We're thinking of appointing an agent for our products . I want you to find one for us .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . What sort of agent , exactly ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "The agent we are looking for will help us in Britain with publicity , advertising and so on .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . I ’ ll make enquiries .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "dialog_8398",
+  "segments": [
+    {
+      "text": "Did you enjoy your meal ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , we really enjoyed it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "May I interest you in some dessert ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , that sounds great .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , we have chocolate mousse cake , homemade fresh strawberry shortcake , and a spicy rum apple crisp for our specials .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "The apple crisp sounds great .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Since there are four of you , would you like to split a second dessert ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Good suggestion . Could you please bring us a chocolate mousse cake and four dessert forks , please ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Would you like coffee or tea with your dessert ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let's have four coffees , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . I will be right back with your desserts and drinks .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you ! We have really enjoyed our meal here .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

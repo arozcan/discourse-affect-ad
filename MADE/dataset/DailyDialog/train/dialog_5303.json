@@ -1,0 +1,26 @@
+{
+  "id": "dialog_5303",
+  "segments": [
+    {
+      "text": "Can you loan me fifty dollars until pay day ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry I've already gone through my paycheck for the week .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you just the same .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

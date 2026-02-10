@@ -1,0 +1,75 @@
+{
+  "id": "dialog_47",
+  "segments": [
+    {
+      "text": "This is Lincoln Bank , Consumer Credit Department . How can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Ah , hello . I'm calling to find out how I apply for a car loan .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "We offer a Personal Automobile Consumer Loan . The application process is pretty straight forward . I trust you have enough funds to cover the 20 % down payment ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I do . It's ready and waiting in my account .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "The next step is for us to recommend a dealer to you , who are already contracted to us , so ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Could I just stop you there ? Sorry to interrupt , but I have already been to your appointed dealer and selected the car I want .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That will certainly cut down the processing time . We can move on to the next step . Do you have the purchase price ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it's 110,000 RIB . So , with the down payment done , I will need to borrow 70,000 RIB .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "What we need you to do next is to come into the branch with a correctly filled in application form , ID card , proof of residency , proof of income , the agreement from the agent and of course the 20 % down payment .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I have everything here . OK , I'll come in and see you later today . Maybe I could have my new car as early as next week ! How exciting !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

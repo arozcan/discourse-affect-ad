@@ -1,0 +1,131 @@
+{
+  "id": "dialog_7120",
+  "segments": [
+    {
+      "text": "Good morning ! Marquette General Hospital . Tia speaking . May I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , this is Emily Wang , I want to see a doctor today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Your medical card No . , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "GRM 789051",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks . Do you have an appointment , Ms . Wang ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . But it is urgent , and I need to see a doctor as soon as possible . I am really in bad shape .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "What is the matter ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have a high fever and a bad headache .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Have you taken your temperature ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I took my temperature last night . It was 102 degrees . But right now I feel my fevers is up to 103 degrees .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Anything else bothering you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "I can not stop coughing , and I can not stop sneezing . I vomited blood last night . Sorry , I am coughing again .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , you can come to a work-in clinic today . You do not need an appointment .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 3
+    },
+    {
+      "text": "What time should I come ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "Any time between 8 a . m . to 9 p . m .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok . Thank you very much .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 1
+    },
+    {
+      "text": "You are very welcome . Anything else I can do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 17,
+      "dialog_act": 1
+    }
+  ]
+}

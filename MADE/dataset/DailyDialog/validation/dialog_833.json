@@ -1,0 +1,96 @@
+{
+  "id": "dialog_833",
+  "segments": [
+    {
+      "text": "Taxi !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , sir . Where to ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "The city square , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Are you in a hurry ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I have to be there to meet a friend at 5 thirty pm . So we're sure we can get there on time ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm afraid not , sir . Generally we can , but you know how it is in the rush hour now .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Here's the extra 5 $ for you if you can get me there on time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . I'll do my best .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh.we made it . Thank you . How much do I own you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "The reading on the kilometer is 12 $ .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here's the money , keep the changes , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do you need a receipt ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 12,
+      "dialog_act": 1
+    }
+  ]
+}

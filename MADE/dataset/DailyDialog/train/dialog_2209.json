@@ -1,0 +1,54 @@
+{
+  "id": "dialog_2209",
+  "segments": [
+    {
+      "text": "Excuse me ! I don't have time to waste . I've been here almost one full hour !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sorry , madam . You have to wait your turn . The parking lot is full .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Unbelievable ! Parking in this city is such a nightmare !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Madam , patience is a virtue .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , gosh ! I have to go to the restroom so bad ! I can't bear it anymore !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sure a spot will open up soon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , look ! There's a spot open next to the public restroom ! Can I take it ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 2
+    }
+  ]
+}

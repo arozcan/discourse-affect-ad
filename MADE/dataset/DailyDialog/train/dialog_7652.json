@@ -1,0 +1,47 @@
+{
+  "id": "dialog_7652",
+  "segments": [
+    {
+      "text": "I would like to take my vacation next month .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "How long did you have in mind ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I would like to take my two weeks vacation time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Seeing as next month is our slow season , that should not be a problem .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Great . I will make my reservations as necessary .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Just make sure to turn in all the necessary paperwork to ensure there are no problems with the days you want to take off .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

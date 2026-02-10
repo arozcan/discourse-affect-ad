@@ -1,0 +1,33 @@
+{
+  "id": "dialog_298",
+  "segments": [
+    {
+      "text": "Excuse me , but can I draw on my account for payment of things I buy in China ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly , sir . How much do you draw ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "RIB 8,000 , please . Would you please tell me my balance ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , sir . Your balance is RIB 34,000 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

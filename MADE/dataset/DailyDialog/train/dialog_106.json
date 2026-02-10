@@ -1,0 +1,40 @@
+{
+  "id": "dialog_106",
+  "segments": [
+    {
+      "text": "So the company decided to cancel your trip to Hong Kong ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , The SARS epidemic is not under effective control yet . So I'd better not risk it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Maybe it's a good things . If you don't have to go to Hong Kong , you can take a break and take things easy for a while .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "You are right . Maybe we should work out a fitness plan and start to do more exercise . Sitting around in the office all day is no way of keeping fit .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's a good idea . Let's see if we can get more people in this plan . There isn't much business these days anyway , so I think many people will be interested .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

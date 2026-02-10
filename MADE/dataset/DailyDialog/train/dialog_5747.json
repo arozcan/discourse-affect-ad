@@ -1,0 +1,138 @@
+{
+  "id": "dialog_5747",
+  "segments": [
+    {
+      "text": "this bloody computer !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "what seems to be the problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "my computer just crashed again for the third time today !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "what were you doing when it crashed ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "i was just opening up an attachment in an email about winning the lottery .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I think that might have been a virus .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "oh , no ! I thought it seemed a bit strange .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "what kind of computer do you have , a Mac or a PC ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "it's a PC . doesn't everyone have a PC in this office ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "no , some people have Macs now , too .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "what's the difference ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "PCs often crash from virus , but it's nearly impossible to get a virus from a Mac .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "I didn't know that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "has your computer turned back on yet ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "yes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "did you end up losing any of your work ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 2
+    },
+    {
+      "text": "fortunately , I saved my work right before it crashed , so it should be OK .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 1
+    },
+    {
+      "text": "you should probably call the IT department and have them check your computer for virus .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 17,
+      "dialog_act": 3
+    },
+    {
+      "text": "that's a good idea . I'll call them now . Thanks for your help !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 18,
+      "dialog_act": 4
+    }
+  ]
+}

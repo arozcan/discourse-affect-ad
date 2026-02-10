@@ -1,0 +1,47 @@
+{
+  "id": "dialog_276",
+  "segments": [
+    {
+      "text": "Hi , could we have two orange juice smoothies ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Would you like those with yogurt ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , why not ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "What else would you like to add ? We highly recommend caterpillar fungus .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Caterpillar fungus ? ! What the heck is that ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s a special kind of Chinese herb . It ’ s good for you !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

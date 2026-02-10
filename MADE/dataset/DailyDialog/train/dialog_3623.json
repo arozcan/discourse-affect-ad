@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3623",
+  "segments": [
+    {
+      "text": "I'm afraid I've had a terrible row with my boss . What shall I do ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think you'd better apologize .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , but I can't . It wasn't my fault .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Maybe not , but I advice you to say it was your fault .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

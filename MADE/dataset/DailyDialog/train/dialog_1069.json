@@ -1,0 +1,61 @@
+{
+  "id": "dialog_1069",
+  "segments": [
+    {
+      "text": "Hi , Li Ming . You look upset . What's the matter ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "There will be a parents ' meeting in our class this Saturday and I am worried about it .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why ? We can leave school earlier that day .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I didn't do well in last exams . If my father knows it , he will beat me up .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I can't believe it . My parents never beat me .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "You know that my father is irritable .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "You can ask the teacher for help .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Good idea .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

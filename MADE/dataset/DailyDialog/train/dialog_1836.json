@@ -1,0 +1,26 @@
+{
+  "id": "dialog_1836",
+  "segments": [
+    {
+      "text": "Hi , Julie . I was in your neighborhood and I'd like to drop by .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Come on in . Would you care for a drink ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That sounds refreshing . Thanks !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

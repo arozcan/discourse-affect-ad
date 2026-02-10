@@ -1,0 +1,61 @@
+{
+  "id": "dialog_231",
+  "segments": [
+    {
+      "text": "Hello , Steven . How do you get along with your job ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Actually , I learn many things from it . I find that I am a quick learner in new things .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Practice makes perfect . By the way , what do you learn from your job ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "At first I didn't know anything about the machine . Now I know how to operate it . Besides , the work gives me a sense of fulfillment and achievement .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , you are a good learner . I must commend you for your good performance .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you . That's a long way to go for my job .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I appreciate your effort very much . The coffee break is over ; it's about time we set to work .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , let's go .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

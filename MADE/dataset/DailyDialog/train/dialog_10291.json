@@ -1,0 +1,89 @@
+{
+  "id": "dialog_10291",
+  "segments": [
+    {
+      "text": "Excuse me , I'd like to try some Chinese food .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "We serve excellent Chinese food . Which style do you prefer ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I know nothing about Chinese food . Could you give me some suggestions ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "It's divided into 8 big cuisines such as Cantonese food , Shandong food , Sichuan food etc .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Is there any difference ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , Cantonese food is lighter while Shandong food is heavier and spicy .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "How about Sichuan food ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Most Sichuan dishes are spicy and hot . They taste differently .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , really . I like hot food . So what is your recommendation for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "I think Mapo bean curd and shredded meat in chili sauce are quite special and delicious . We have a Sichuan food dining room . May I suggest you to go there ? It's on the third floor .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's my pleasure .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

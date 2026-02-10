@@ -1,0 +1,124 @@
+{
+  "id": "dialog_1711",
+  "segments": [
+    {
+      "text": "Are you ready to go the concert ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . Should we go there by bus so we aren't late ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Actually , why don't we go there by bike ? We could get stuck in traffic if we travel by bus in rush hour .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's true . Cycling is good for our environment , too . Let me just get my helmet then .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Is your helmet comfortable ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not really , but I liked the design , so I got it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Maybe you should think about getting a round helmet ; they're better .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'll think about it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Is that your new bicycle ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , my father gave it to me for my birthday . Do you like it ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's the newest 10 speed cycling mountain bike . These are really expensive !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Nothing but the best from my dad . I like everything about it except for the brakes . They are a bit sticky .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "I can fix those for you . Is there anything else wrong with it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , my saddle is too low for me . Do you know how to change the height ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's easy . It's important to have the saddle high enough so that your legs can extend fully when you are on your bicycle .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is that why my knees have felt sore after every time I've ridden my bike ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's possible . Give me a minute and I can fix these for you and then we can go .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 1
+    }
+  ]
+}

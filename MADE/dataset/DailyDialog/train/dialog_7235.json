@@ -1,0 +1,96 @@
+{
+  "id": "dialog_7235",
+  "segments": [
+    {
+      "text": "We'd like to rent a flat near the university .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Are you looking for somewhere for two people ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , we are . Obviously , we'd like something as cheap as possible . We've heard that there are places for 80 to 100 pounds a month .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , there are several place available in that price range near the university . Do you have any other requirements ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not really , no . We'd preferably like to live in a quiet street .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "How many rooms do you need in the flat ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "We'll need two bedrooms . The kitchen and dining room can be separate or combined .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok . I've got a list of place that fit your requirements . Let's just go through them . The first on the list costs 80 pounds a month , but it's on a noisy street and it's a little far from the university .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "How far away is it from the campus ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's about two miles away . that might be a little far to walk . Here's one that's about half a mile from the campus . The cost is 100 pounds a month and it's on a small street , just off a main street .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sounds ideal . Can we go to have a look at it ? we'd like to see it before making a final decision .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course . I'm not very busy at the moment . If you can wait for about 15 or 20 minutes . I can take you there .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you . That would be great .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 12,
+      "dialog_act": 4
+    }
+  ]
+}

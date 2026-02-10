@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0366",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water pouring over the sink, and it’s making me so angry.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9677126407623291
+    },
+    {
+      "text": "The woman is just standing there, doing nothing about it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5117928385734558
+    },
+    {
+      "text": "The children are being sneaky, and no one is stopping them.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4903649687767029
+    },
+    {
+      "text": "That stool is going to tip, and someone is going to get hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5726038217544556
+    },
+    {
+      "text": "I can’t stand how careless this whole situation is.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9664914608001709
+    },
+    {
+      "text": "The girl is just waiting for a cookie, not even noticing the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4417441785335541
+    },
+    {
+      "text": "The water is ruining the floor, and the woman doesn’t even care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5006522536277771
+    },
+    {
+      "text": "I want to yell at them all to pay attention.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7484755516052246
+    },
+    {
+      "text": "The garden outside looks so nice, but inside is a mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.40243515372276306
+    },
+    {
+      "text": "This is just frustrating to watch.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.49614840745925903
+    }
+  ]
+}

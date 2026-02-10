@@ -1,0 +1,89 @@
+{
+  "id": "dialog_25",
+  "segments": [
+    {
+      "text": "How are you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Great , thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I would actually like to view the apartment for rent today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m sorry , but you won ’ t be able to view it today .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Why not ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "You have to make an appointment first .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , okay . Can I do that right now ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Is this Friday okay ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Is 6 o ’ clock Friday evening okay ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I will schedule you for that time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you very much . See you then .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

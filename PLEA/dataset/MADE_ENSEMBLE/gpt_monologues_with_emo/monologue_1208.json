@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1208",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I can hear the soft sound of water running; it’s almost soothing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6906696557998657
+    },
+    {
+      "text": "Yet I know that water is a sign of trouble in this context.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7197354435920715
+    },
+    {
+      "text": "The sight of the woman so focused is both calming and frustrating; she should be more alert.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8192811012268066
+    },
+    {
+      "text": "Children's laughter floats through the air, a reminder of their carefree nature.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5029715299606323
+    },
+    {
+      "text": "But that joy is punctuated by the tension of what might happen next.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5933856964111328
+    },
+    {
+      "text": "I want to shout for her to look down, to break her concentration and see the mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4856741428375244
+    },
+    {
+      "text": "It’s hard not to feel a sense of impending disaster as I witness this unfolding scene.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3053622245788574
+    }
+  ]
+}

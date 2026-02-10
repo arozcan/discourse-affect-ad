@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7765",
+  "segments": [
+    {
+      "text": "Today , you need to pay 20 RIB in handling fees .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Can't you just take it from my account ? I can't be bothered with cash dealings today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I must tell you that because your banking has been such a large amount , you need to wait until you leave the country to get any currency back .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "You mean , if there is any left over ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , totally . It's nice to meet a customer who understands the system .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Right , so the deposit , if I don't draw on it will be blocked after you get the Deposit Certification ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's right . I know we have a complex system , but you have caught on so quickly .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

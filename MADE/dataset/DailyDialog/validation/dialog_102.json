@@ -1,0 +1,61 @@
+{
+  "id": "dialog_102",
+  "segments": [
+    {
+      "text": "Good morning , Kate . Long time no see .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good morning , Vera , Nice to meet you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Kate , I know you ’ Ve been a stewardess for more than one year . And I ’ ll have an interview on stewardess tomorrow . Can you tell me some etiquette about the interview ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course . First you should do up your long hair and do make up but not too thick .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Is there anything else I should pay attention to ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , when you attend the interview , you should pay attention to your manner , style of conversation and expression . You should keep smiling always , being polite when you talk with the interviewer . Don't move from time to time when you sit there . And you also should know how to use eye contact .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you , I've learned so much from you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "That ’ s all right . Hope you can do better tomorrow .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

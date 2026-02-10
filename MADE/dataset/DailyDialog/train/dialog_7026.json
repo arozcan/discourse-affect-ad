@@ -1,0 +1,47 @@
+{
+  "id": "dialog_7026",
+  "segments": [
+    {
+      "text": "Welcome to Game World . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'd like to get a good RPG . Can you recommend any ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . This one here just came out . It's got great 3D graphics and a cool story line . It's also got a multiplayer function so you can play against other people on the Internet .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "This one looks pretty good , but I'd like to see more before I make up my mind . Do you have any other suggestions ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "This one is also really cool . It's a sci-fi game in which you have to stop an alien invasion . The graphics on this one are spectacular .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hmm , it's a tough choice , but I think I'll go with this one .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

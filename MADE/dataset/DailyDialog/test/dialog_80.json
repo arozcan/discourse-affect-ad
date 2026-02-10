@@ -1,0 +1,26 @@
+{
+  "id": "dialog_80",
+  "segments": [
+    {
+      "text": "I wonder whether I could possibly borrow your new bicycle now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sorry , I'm using it myself.But you can use it this afternoon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you very much .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

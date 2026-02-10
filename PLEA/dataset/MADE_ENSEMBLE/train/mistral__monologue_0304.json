@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0304",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I notice the boy stretching for the cookie jar, and it makes me nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8663389086723328
+    },
+    {
+      "text": "That stool looks like it’s about to tip over any second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.36022311449050903
+    },
+    {
+      "text": "The girl is just standing there, waiting for a treat, completely unaware of the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.35103997588157654
+    },
+    {
+      "text": "I think the woman should turn around and see what’s happening.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6640017032623291
+    },
+    {
+      "text": "The water is just pouring out of the sink, and she doesn’t even care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4890691339969635
+    },
+    {
+      "text": "I wonder how long this has been going on.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5656715035438538
+    },
+    {
+      "text": "The scene outside the window is so peaceful, which makes the chaos inside even more ridiculous.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5000734925270081
+    },
+    {
+      "text": "I can’t help but feel like something bad is about to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5262977480888367
+    },
+    {
+      "text": "The boy is really reaching far, and I don’t think he’s going to make it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3271411955356598
+    },
+    {
+      "text": "I hope someone stops this before it’s too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4868227541446686
+    }
+  ]
+}

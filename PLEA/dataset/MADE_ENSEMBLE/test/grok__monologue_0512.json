@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0512",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This scene in the kitchen feels so ordinary at first.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7511037588119507
+    },
+    {
+      "text": "The woman in her apron is polishing that dish nicely.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5729295015335083
+    },
+    {
+      "text": "Sunlight from the window makes everything look bright.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.538110613822937
+    },
+    {
+      "text": "But oh no, the sink is flooding over the edge.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5423295497894287
+    },
+    {
+      "text": "Water's pouring down the cabinets; what a mess that's going to be.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3035546541213989
+    },
+    {
+      "text": "Her shoe's soaked, and she just keeps drying away.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5241241455078125
+    },
+    {
+      "text": "I can't believe she's oblivious to the puddle spreading.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.794883131980896
+    },
+    {
+      "text": "Meanwhile, the boy is climbing on that shaky stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5544471740722656
+    },
+    {
+      "text": "He's grabbing cookies from the jar up high.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9625195860862732
+    },
+    {
+      "text": "The stool's tilting back; it's dangerous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8785797357559204
+    },
+    {
+      "text": "The little girl is reaching up, excited for her share.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.846354603767395
+    },
+    {
+      "text": "They'll slip on that wet floor if they're not careful.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3886783719062805
+    },
+    {
+      "text": "The garden outside seems so calm compared to this chaos.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4491286277770996
+    }
+  ]
+}

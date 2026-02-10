@@ -1,0 +1,103 @@
+{
+  "id": "dialog_82",
+  "segments": [
+    {
+      "text": "Excuse me . Check please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , how was everything ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Very nice . Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Would you like this to-go ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , can you put it in a plastic bag ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , no problem . Here you are . That'll be 25 dollars .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Do you take credit cards ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , we accept Visa and MasterCard .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , here you are .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks . I'll be right back .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here's your receipt .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 12,
+      "dialog_act": 4
+    },
+    {
+      "text": "You're welcome . Please come again .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 13,
+      "dialog_act": 1
+    }
+  ]
+}

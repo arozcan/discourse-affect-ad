@@ -1,0 +1,61 @@
+{
+  "id": "dialog_900",
+  "segments": [
+    {
+      "text": "Hi ! Fiona ? I almost didn't recognize you . You are much thinner since I last saw you .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes . I have lost about ten kilos .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "How did you do it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am on a diet . And I do more exercise regularly .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What's the secret then ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "It lies in perseverance .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well . It's hard for me . I can't keep doing exercise .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "You should have a try .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

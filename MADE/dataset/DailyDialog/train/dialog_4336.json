@@ -1,0 +1,75 @@
+{
+  "id": "dialog_4336",
+  "segments": [
+    {
+      "text": "Are you excited about your trip next month ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes and no . I can ' t wait to go to Europe , but at the same time I am terrified .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I have acrophobia . I have a chronic fear of flying .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh really ? I have an uncle who is also terrified of flying . It ' s not that bad though , I mean , it is pretty scary to be in this big machine flying through the air at seven hundred miles per hour . I actually have arachnophobia .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "You ' re scared of spiders ? I actually have two more phobias . Acrophobia and glossophobia .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "I guess that explains why you are afraid of flying , but public speaking is not that bad .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you kidding ? When I get on stage , my palms start to sweat , I get really nervous and I can hardly speak .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I must confess I am a bit claustrophobic . I hate being in an elevator for more than 5 seconds .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "We are such weirdos right ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "dialog_4194",
+  "segments": [
+    {
+      "text": "It's almost Christmas . What are you doing this weekend ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Nothing special , just working . Why do you ask ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I still haven't finished my Christmas shopping . Do you want to go shopping with me this weekend ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'd like to , but I'm not sure if I can . Work has been really busy lately . Why don't we go on Friday instead ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Friday's not good . I think the stores will be very crowded and I have to work .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK , then let's try to go this weekend . I should know if I can go by Friday . Is it OK if I call you then ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , that's fine .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "What's your number ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "233-331-8828 . Let me give you my email address too . It's Tom861@gmail.com",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , I'll talk to you soon .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

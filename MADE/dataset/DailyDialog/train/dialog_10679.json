@@ -1,0 +1,124 @@
+{
+  "id": "dialog_10679",
+  "segments": [
+    {
+      "text": "Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I sent in my resume at the end of last week . I'm applying for the accounts assistant position .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "May I have your name please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "My name is Judy Liao . That's spelled L I A O .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Alright ... And did you have some specific questions about your application ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not really . I was in the neighborhood , and I just wanted to stop in to see if you received my resume .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , that's no problem . Just give me a moment , and I can check.Judy Liao . Let's see ... Yes , here it is . Judy Liao . We have received your resume .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is there anything else I can help you with ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , maybe . The ad in the newspaper said you wanted the resume , a cover letter , and two letters of recommendation . I included those things in the envelope . Is there anything else I should send ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , that is all we need . If we have those things included , that is sufficient .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do you know when they will start setting up interviews for the job ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm not really sure about that . But I know we are still receiving resumes.Maybe after a week or two they will start calling applicants .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Well , thank you very much for helping me . You have been very helpful .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "If you have any further questions , you can call any time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you . Goodbye .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 1
+    }
+  ]
+}

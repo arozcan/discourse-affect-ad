@@ -1,0 +1,54 @@
+{
+  "id": "dialog_331",
+  "segments": [
+    {
+      "text": "Where are you going this weekend ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m going to Hainan .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh really ? It ’ ll be nice and warm there . Have you been there before ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , actually it ’ s my second visit . I was there last October .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . What ’ s it like there ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , the life style is much more relaxed than here in the city . And the seafood is tastier !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , have a great time !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

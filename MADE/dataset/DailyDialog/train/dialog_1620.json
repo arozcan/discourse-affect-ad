@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1620",
+  "segments": [
+    {
+      "text": "I'm feeling hungry .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Isn't it time for dinner ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , let's get something to eat .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "How about Mac Donald's ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "monologue_2220",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Observing this kitchen, I feel a pang of sorrow.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9626240134239197
+    },
+    {
+      "text": "The woman is diligently drying the plate, lost in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8200843930244446
+    },
+    {
+      "text": "Yet the sink overflows unchecked, water wasting away.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47413185238838196
+    },
+    {
+      "text": "It's pooling on the floor, potentially ruining the cabinets.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3817349672317505
+    },
+    {
+      "text": "She stands unaware, one foot submerged in the mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6665719747543335
+    },
+    {
+      "text": "The children sneak cookies, but it's risky and secretive.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6360270977020264
+    },
+    {
+      "text": "The boy balances precariously on the tilting stool.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8531612157821655
+    },
+    {
+      "text": "He could fall and get injured in this wet chaos.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5800720453262329
+    },
+    {
+      "text": "The girl reaches eagerly, but it feels like trouble brewing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5005072355270386
+    },
+    {
+      "text": "Their innocence might lead to heartbreak.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8949829339981079
+    },
+    {
+      "text": "The peaceful garden outside highlights the neglect inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3972701132297516
+    },
+    {
+      "text": "It's sad how small oversights can spoil the home.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.932280957698822
+    },
+    {
+      "text": "I wish I could warn them before something goes wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49113669991493225
+    },
+    {
+      "text": "This scene tugs at my heartstrings.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5840636491775513
+    }
+  ]
+}

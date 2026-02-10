@@ -1,0 +1,75 @@
+{
+  "id": "dialog_5123",
+  "segments": [
+    {
+      "text": "I just received a phone call for an interview next week .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Congratulations ! This is your first interview ever .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "thank you , but I'm nervous . I don't know what to do.Could you tell me what should I do before an interview ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "sure , you should prepare so that you can give proper response when you're being interviewed .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "yeah , besides my personal introduction , what else should I prepare ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "you should collect as much information about the company and the position you're applying for as you can . It is important to show that you've done some research into the company . The interviewers Wil",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "then what should I do when I'm being interviewed ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "smile at the interviewers and look them in their eyes while trying to persuade them to select you . Try to act natural , let your personality , ability and interpersonal skills shine through the interview",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "are there any other things I should pay attention to ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "yeah , wear formal clothes to your interview and do be punctual . That'll leave your interviewers with a good first impression .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    }
+  ]
+}

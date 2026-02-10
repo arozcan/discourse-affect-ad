@@ -1,0 +1,124 @@
+{
+  "id": "dialog_10362",
+  "segments": [
+    {
+      "text": "Good morning , sir . Can I see your boarding pass , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here you are .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Excuse me , sir . This is your passport .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? Ugh ... Is there any difference ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . As a matter of fact , you can't board the plane without boarding pass .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Gee . I must have left it in my hotel room .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry sir . I can't let you pass .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "But when does the plane take off ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Ugh , in about thirty minutes , sir .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , my God ! What do I do now ? Bone head , bone head , bone head ( He smashes his head with his hand . ) .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Calm down , sir . You are creating a commotion .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "( The speaker in the airport says , ' Mr . Benjamin , we now have a boarding pass by the name of Benjamin at Lost and Found . ' ) Is that me ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 2
+    },
+    {
+      "text": "Could be .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , thank God . Thank you , I'll be right back .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "( Benjamin starts to run and then he seems to remember something and returns . ) Ugh , excuse me , where is the Lost and Found ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's down in the lobby . Turn left at exit B .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you , thank you , thanks again .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 16,
+      "dialog_act": 1
+    }
+  ]
+}

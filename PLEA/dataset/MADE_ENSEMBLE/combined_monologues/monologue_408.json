@@ -1,0 +1,55 @@
+{
+  "id": "monologue_408",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the sunlight streaming through the window, illuminating the kitchen.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8000192046165466
+    },
+    {
+      "text": "It creates such a warm atmosphere, a stark contrast to the chaos within.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5681406259536743
+    },
+    {
+      "text": "The garden outside looks serene, while inside it feels like a ticking time bomb.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.501491129398346
+    },
+    {
+      "text": "I find myself feeling disgusted by the mess forming at the woman’s feet.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9388910531997681
+    },
+    {
+      "text": "How does she not feel the cold wetness seeping into her shoe?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5348676443099976
+    },
+    {
+      "text": "I think this could have been a lovely scene if not for the potential disaster brewing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6614360213279724
+    },
+    {
+      "text": "I wish I could step in and warn them all before something terrible happens.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.47243398427963257
+    }
+  ]
+}

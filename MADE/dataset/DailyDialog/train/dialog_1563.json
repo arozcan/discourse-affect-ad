@@ -1,0 +1,54 @@
+{
+  "id": "dialog_1563",
+  "segments": [
+    {
+      "text": "What's up , buddy ? You look so upset .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I just broke up with a girl . Why didn't she understand that I loved her ?",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm sorry to hear that . What's your conflict ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't know . She always said I didn't love her , but I did .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Did you think about talking to her again ? Maybe she is waiting for your call .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have asked for a talk again , but she refused and said she wanted to be quiet .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Come on , guy . Maybe she isn't your right person .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_93",
+  "segments": [
+    {
+      "text": "Excuse me.Could you tell me how to return to the Hilton Hotel ? I am afraid I lost my way .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do you have a hotel card or something ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let's see.Yes , I have the address and telephone number here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , you're staying at the downtown Hilton.Then , you go down two blocks this way and turn left.You ' ll find it on the right .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I don't understand it very well.Will you draw me a map ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

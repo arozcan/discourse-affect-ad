@@ -1,0 +1,40 @@
+{
+  "id": "dialog_84",
+  "segments": [
+    {
+      "text": "How long will you stay in New York ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just tor three days . I won't need these luggages.CouId I put them here ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry . If you have here more than 24 hours between connecting flights , we can't check your luggage through London .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , maybe I can put them in the airport storage there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's right . It's over there .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

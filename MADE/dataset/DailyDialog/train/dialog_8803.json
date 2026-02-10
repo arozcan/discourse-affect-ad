@@ -1,0 +1,89 @@
+{
+  "id": "dialog_8803",
+  "segments": [
+    {
+      "text": "Why am I being arrested ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You have a warrant out for your arrest .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don't have a warrant .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "My computer shows that you have a bench warrant .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don't know what a bench warrant is .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "You apparently missed a court appearance .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I was never told to go to court .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "There's nothing I can do about that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "This isn't fair .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's life .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about my rights ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "Anything you say can and will be used against you in a court of law .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

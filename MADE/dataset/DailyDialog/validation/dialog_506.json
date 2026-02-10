@@ -1,0 +1,61 @@
+{
+  "id": "dialog_506",
+  "segments": [
+    {
+      "text": "I'm done . Can I watch TV ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here's some water . Take these multi-vitamins and Tylenol .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Uh ! I can't swallow them , Mom !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Your throat must be swollen .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do I have to take them ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Here , I'll break them up , so they're smaller . And here's some cough syrup .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yuck !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "I know , it tastes horrible . But it'll make you feel better . Try holding your nose . It won't taste as bad .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    }
+  ]
+}

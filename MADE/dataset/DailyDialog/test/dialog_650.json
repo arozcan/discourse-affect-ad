@@ -1,0 +1,47 @@
+{
+  "id": "dialog_650",
+  "segments": [
+    {
+      "text": "Well , I'm afraid I must be going now . I have no idea it was so late .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Stay for dinner with us .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid I can't . I have a dinner party at seven tonight . You see , I am going to England the day after tomorrow .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , I won't keep you then . It was very nice of you to come to see me .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "It has been a pleasure . Goodbye .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Goodbye . Thank you again for coming .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

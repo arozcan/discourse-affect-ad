@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9017",
+  "segments": [
+    {
+      "text": "Hello . I need to speak with Allan Cartwright .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "This is he . May I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I certainly hope so , I am about to stop doing business with your office .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m very sorry , Madam . Can you tell me what the problem is over the phone or would you like me to go to your office ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

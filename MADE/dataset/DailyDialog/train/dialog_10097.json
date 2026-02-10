@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10097",
+  "segments": [
+    {
+      "text": "Hello , Pauline ’ s Furniture Store , Faye speaking . How may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , I ordered a dining table last week . The order arrived today , but there are several scratches on the surface of the table . I would like to exchange it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m terribly sorry about that . We could take it back and deliver a new one to you early next week . Would that suit you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I'm hosting a dinner party this weekend . Couldn ’ t you make it any sooner ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Please hold on , I'll just check with the delivery department .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK , thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

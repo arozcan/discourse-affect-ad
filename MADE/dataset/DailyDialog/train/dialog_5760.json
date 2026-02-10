@@ -1,0 +1,89 @@
+{
+  "id": "dialog_5760",
+  "segments": [
+    {
+      "text": "What is your case against the police ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "They arrested me for nothing .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What do you mean ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "They weren ’ t supposed to arrest me .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Didn ’ t they let you go ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "They didn ’ t let me go until the next morning .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "So they kept you at the station ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "They sure did .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Did they tell you why they arrested you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "I matched the description of a robbery suspect .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "I understand .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "I want to take them to court .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 11,
+      "dialog_act": 3
+    }
+  ]
+}

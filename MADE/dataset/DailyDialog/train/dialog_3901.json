@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3901",
+  "segments": [
+    {
+      "text": "Just make yourself at home .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you . You are cooking up a storm .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Wouldn't you like some more chicken ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , thank you . I'm afraid I can't take in anymore .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

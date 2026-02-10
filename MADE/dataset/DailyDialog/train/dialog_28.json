@@ -1,0 +1,47 @@
+{
+  "id": "dialog_28",
+  "segments": [
+    {
+      "text": "How do you do , Prof.Smith .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "How do you do , Ms . Yang.You speak very good English .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you . I begin to like English even when I was a child .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Where did you learn it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "At school , in China.This is my first time to be out of my own country .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's amazing .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

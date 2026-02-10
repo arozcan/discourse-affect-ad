@@ -1,0 +1,26 @@
+{
+  "id": "dialog_2905",
+  "segments": [
+    {
+      "text": "Do I have to take these books here if I want to renew them ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can renew the books over the computer .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's so convenient .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

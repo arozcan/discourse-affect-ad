@@ -1,0 +1,47 @@
+{
+  "id": "dialog_643",
+  "segments": [
+    {
+      "text": "What ? How could you forget to reserve the concert tickets ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm sorry . I forget all about it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "How could you ? I reminded you just this morning .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's leap my mind . I really feel terrible about it .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I have been looking forward to this performance all month .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm really sorry I let you down . I'll make it up to you somehow .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

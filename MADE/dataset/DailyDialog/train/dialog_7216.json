@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7216",
+  "segments": [
+    {
+      "text": "I've found a nice place in this district.Three bedrooms , a large kitchen , high ceilings , a tile bath and a big drawing room .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "It sounds nice , but don't forget this is a seedy , run-down neighborhood .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What about the one on the Yellow River Road ? It's a two-bedroom one , and renovated building with an eat-in kitchen .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "It's a bit small but looks nice.What ' s more , it's only ten minutes ' walk to the company .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

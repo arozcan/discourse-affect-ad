@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8608",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen is a total mess—water everywhere, disgusting.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9561770558357239
+    },
+    {
+      "text": "The sink's overflowing like some sloppy plumbing nightmare.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3301061987876892
+    },
+    {
+      "text": "That woman's standing in the puddle, drying a plate without a care.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.431603342294693
+    },
+    {
+      "text": "Her foot's soaked, and she doesn't even wipe it off.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4857626259326935
+    },
+    {
+      "text": "Kids pilfering cookies from the jar—greedy little thieves.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.32846859097480774
+    },
+    {
+      "text": "The boy's on that rickety stool, hand deep in the sweets.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9152379035949707
+    },
+    {
+      "text": "Crumbly cookies dropping everywhere, what a waste.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.40322741866111755
+    },
+    {
+      "text": "The girl's begging for one, adding to the filth.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5388944745063782
+    },
+    {
+      "text": "Water streaming down the cabinets—it's ruining the wood.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4818672239780426
+    },
+    {
+      "text": "The garden outside is clean, but in here it's revolting.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9041159152984619
+    },
+    {
+      "text": "Dish towel all bunched and dirty now from the splash.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6223292350769043
+    },
+    {
+      "text": "I can't stand the sloppiness of it all.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8421435356140137
+    },
+    {
+      "text": "Potential slips on that wet floor make it even worse.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4554080069065094
+    }
+  ]
+}

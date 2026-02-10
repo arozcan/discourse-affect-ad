@@ -1,0 +1,61 @@
+{
+  "id": "dialog_7823",
+  "segments": [
+    {
+      "text": "I'm very worried , doctor . I'm afraid that I'm very ill .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why do you think so ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Because I feel tired all the time , even when I wake up in the morning . I find it very difficult to do any work . I have no appetite .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "How do you sleep ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Very badly , doctor .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you worried about anything ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , yes , I am . I'm worried about my work . I've just taken a new job . I earn a lot of money but it's difficult work . I'm always afraid of making a mistake .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , there's nothing much wrong with you . You're under too much pressure .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

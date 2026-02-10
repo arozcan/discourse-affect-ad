@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8679",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "It's such a sweet family moment, but something's off.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4125363826751709
+    },
+    {
+      "text": "The woman is diligently drying dishes, so absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7609456777572632
+    },
+    {
+      "text": "The kitchen feels warm with that daylight from the window.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5460439920425415
+    },
+    {
+      "text": "But the overflowing sink—it's heartbreaking to see the water waste.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8960084319114685
+    },
+    {
+      "text": "She's standing in the puddle, unaware, and it might ruin her day.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.49255308508872986
+    },
+    {
+      "text": "Then the children, trying to get cookies on their own.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8298761248588562
+    },
+    {
+      "text": "The boy's so determined, balancing on that stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6119450926780701
+    },
+    {
+      "text": "But if it tips, he could get hurt, and that would be awful.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5708377361297607
+    },
+    {
+      "text": "The girl waits patiently, her little hand raised.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8103359341621399
+    },
+    {
+      "text": "I feel sorry for them sneaking around like this.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9332024455070496
+    },
+    {
+      "text": "The calm garden view contrasts with this potential sadness inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5351004600524902
+    },
+    {
+      "text": "What if no one notices until it's too late?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.48916706442832947
+    },
+    {
+      "text": "It makes me think of how fragile these everyday moments are.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46570613980293274
+    },
+    {
+      "text": "I wish I could warn them gently.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49015164375305176
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0620",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I stand here, witnessing a moment that feels both joyful and reckless.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9293674230575562
+    },
+    {
+      "text": "The sunlight streaming through the window only adds to the warmth of the scene.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6277247667312622
+    },
+    {
+      "text": "Yet, I can’t shake off the feeling of unease as I watch the boy stretching for those cookies.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6129875183105469
+    },
+    {
+      "text": "His little fingers graze the jar, and my breath catches in my throat.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3377436697483063
+    },
+    {
+      "text": "The girl beside him is so hopeful, her excitement palpable as she holds her hand up.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7193291187286377
+    },
+    {
+      "text": "It’s a sweet moment, yet it feels overshadowed by impending disaster.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.40138399600982666
+    },
+    {
+      "text": "I think of the potential consequences if he falls or if someone slips in that puddle.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40571847558021545
+    },
+    {
+      "text": "The adult woman seems so detached, lost in her own world of dish drying.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.36904215812683105
+    },
+    {
+      "text": "I almost want to shout, to warn her of the chaos brewing behind her back.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40386682748794556
+    },
+    {
+      "text": "This kitchen, filled with the scent of cookies, is a paradise tinged with danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49270111322402954
+    }
+  ]
+}

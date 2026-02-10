@@ -1,0 +1,54 @@
+{
+  "id": "dialog_10879",
+  "segments": [
+    {
+      "text": "Good afternoon . What service do you require ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'd like to rent a safety deposit box here , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "For what purpose exactly , if you don't mind me asking ? I must ask because I need to know the size , you see .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No problem . My husband bought me some beautiful jewellery for our anniversary and I don't feel safe keeping it in the house . Initially , on the advice of a friend , I stored it in the freezer .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What a lovely gift . Yes , I can understand why you wouldn't be comfortable keeping something so valuable at home . I think one of our small ones will be perfect . Do you have some ID with you ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , right here . So , we can do this today , then ? That will definitely ease my mind .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly , just fill in this form , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

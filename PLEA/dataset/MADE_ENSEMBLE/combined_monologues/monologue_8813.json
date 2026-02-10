@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8813",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I can't believe what's happening in this kitchen drawing.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.941765308380127
+    },
+    {
+      "text": "The woman is drying dishes, but the sink behind her is flooding.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.808076798915863
+    },
+    {
+      "text": "Water is spilling everywhere, ruining the cabinets and floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4342522621154785
+    },
+    {
+      "text": "She's not even glancing at the mess under her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6353936195373535
+    },
+    {
+      "text": "The open window shows a nice garden outside, so serene.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7990157604217529
+    },
+    {
+      "text": "But inside, the boy is risking his neck on that tilting stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.637515664100647
+    },
+    {
+      "text": "He's pulling cookies from the jar high up in the cabinet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9603981971740723
+    },
+    {
+      "text": "The girl is reaching out, probably begging for one too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6577436327934265
+    },
+    {
+      "text": "They think they're being sneaky, but it's so obvious.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4106789529323578
+    },
+    {
+      "text": "If the stool tips, he'll fall right onto the wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4515452980995178
+    },
+    {
+      "text": "And with all that water, slipping is inevitable.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5398260951042175
+    },
+    {
+      "text": "The woman should be watching them instead of the plate.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5067965984344482
+    }
+  ]
+}

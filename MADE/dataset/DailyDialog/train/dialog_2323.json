@@ -1,0 +1,26 @@
+{
+  "id": "dialog_2323",
+  "segments": [
+    {
+      "text": "What happened to my cup ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I accidentally knocked it off the table and it broke . I'm really sorry .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don't worry about it . I've got another one I can use .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

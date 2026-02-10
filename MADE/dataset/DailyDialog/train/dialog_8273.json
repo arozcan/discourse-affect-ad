@@ -1,0 +1,89 @@
+{
+  "id": "dialog_8273",
+  "segments": [
+    {
+      "text": "Good morning . What seems to be the problem ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Good morning , doctor . I feel terrible . I ’ Ve god a cold and I have a rash here on my neck . I ’ m not sleeping well either . What do you think the problem could be ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ d say you ’ Ve been working too hard or are under stress for some reason . Have you been taking anything for your cold ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I bought some medicine at the chemist ’ s . I ’ Ve been taking it for three days .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good . I ’ m going to prescribe something stronger . It will make you feel drowsy , so you certainly should rest .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . I can afford to take a few days off work .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Have you been working hard recently ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I have . I had to get a project finished . It ’ s done now , so I can relax a little .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good . Let ’ s take a look at that rash ... it looks worse than it is . I ’ m going to prescribe some ointment for it . If the rash doesn ’ t clear up in a few days , come back and see me . Do you have any other symptoms ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have a bad headache , but ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don ’ t worry about that . It ’ s probably of the stress you ’ Ve been under . Just take some aspirin . Combined with the stronger cough medicine , it will make you feel very tired . You shouldn ’ t work or use any equipment which requires concentration . If I were you , I ’ d just sleep , read a book , or watch TV . Here is your prescription .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks doctor . I ’ ll get these immediately . Goodbye .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    }
+  ]
+}

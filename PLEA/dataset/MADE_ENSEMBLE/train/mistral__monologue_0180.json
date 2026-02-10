@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0180",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I notice the boy reaching into the cookie jar, balancing on that wobbly stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7461289167404175
+    },
+    {
+      "text": "He looks so determined, but that stool is about to tip over.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.36257055401802063
+    },
+    {
+      "text": "I can’t watch—what if he falls?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5008243918418884
+    },
+    {
+      "text": "The girl beside him is just waiting for a cookie, completely oblivious to the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5715395212173462
+    },
+    {
+      "text": "I think she trusts him to hand her one without falling.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8052639961242676
+    },
+    {
+      "text": "The woman drying dishes has no idea what’s happening behind her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.33982521295547485
+    },
+    {
+      "text": "It’s sad that she’s so distracted by something so small.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6898459196090698
+    },
+    {
+      "text": "I wonder if she’ll ever notice the mess or the kids.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4696686267852783
+    },
+    {
+      "text": "The water is just getting worse, and she’s still polishing that plate.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5903409719467163
+    },
+    {
+      "text": "I can’t believe how much of a mess this kitchen is becoming.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5448694825172424
+    }
+  ]
+}

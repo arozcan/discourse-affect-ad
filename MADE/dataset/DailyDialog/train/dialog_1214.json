@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1214",
+  "segments": [
+    {
+      "text": "Will you be okay when you immigrate to America ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure , I'm looking forward to it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about your parents ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'll get used to not seeing my parents .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

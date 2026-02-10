@@ -1,0 +1,61 @@
+{
+  "id": "dialog_246",
+  "segments": [
+    {
+      "text": "Oh dear , Miss , you are soaked ! Wow , it's really raining heavily outside .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , it sure is . I had to run here from work ! I need to rush as I'm on my lunch break .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well please , why don't you go ahead of me in line ? I'm in no hurry .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , that's so nice of you ! Thank you very much .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "My pleasure Miss . Actually , could you recommend what to eat here ? I've never been here before .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . Well , the avocado sandwich is delicious , and it's the healthiest thing on the menu . Personally , I think the beef salad is the tastiest choice . I usually get that . Also , the milkshakes are the best milkshakes in town !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , thanks for the suggestions .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , don't mention it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

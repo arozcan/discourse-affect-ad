@@ -1,0 +1,117 @@
+{
+  "id": "dialog_9816",
+  "segments": [
+    {
+      "text": "Taxi .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . Where would you like to go ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Central Park , please , but can you make a stop at Union Square ? I wanna pick up my friend there .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "How long do you think it will take to get to Union Square .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well . That depends on traffic , you know . It's pretty heavy this afternoon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can you make it in 15 mins . I am already 10 mins late .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'll try . Where exactly is your friend waiting ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "On the 14th Street side . Oh , we are already at the 16th Street . You are fast . Can you make a left at the next corner ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "You've got it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "I think he is around here . Can you slow down ? Ah , there he is .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here we are , Central Park !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you . How much is it ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 12,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , it's $ 12 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here's $ 15 . Keep the change .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 4
+    }
+  ]
+}

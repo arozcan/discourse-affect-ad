@@ -1,0 +1,47 @@
+{
+  "id": "dialog_539",
+  "segments": [
+    {
+      "text": "We have settled the question of price , quality and quantity . Now I am calling to talk about the terms of payment . What are your terms of payment ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well . We only accept the payment to be made by confirmed and irrevocable L \\ C , payable against shipping documents .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Payment by LC is the safest method , but could you make an exception and accept DA or DP ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid not . That is our usual practice , because we are sure we will get the right amount of money that way .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "What about the cost of delivery ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "We would like to do it in accordance with an F . O . B .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

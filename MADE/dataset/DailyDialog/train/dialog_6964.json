@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6964",
+  "segments": [
+    {
+      "text": "Waiter , can you come here for a moment ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , is there something wrong ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm afraid you've made a mistake . This isn't what I ordered .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "So sorry , I must have confused the orders . I'll check it .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "And also this soup is cold .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm really sorry , I'll bring you a hot one right away .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dialog_40",
+  "segments": [
+    {
+      "text": "Good afternoon ! Did you call for a plumber ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , yes I did . Please come in ! I ’ m so glad you came ! This old house is falling apart ! Come on into the bathroom . See , here , there ’ s water leaking everywhere !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see . Let me have a look . It seems that your toilet is clogged , and that ’ s why it won ’ t flush . Let me just get my plunger . No , that ’ s not working either . I suspect that there ’ s some sort of foreign object in the pipes that ‘ s causing a blockage . That ’ s what ’ s making your toilet overflow .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , that must be because of my four-year-old daughter . She is always flushing things down the toilet . You know how kids are .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , I have a little one myself . Anyway , these water pipes are really rusty , so they also should be changed . Thatcould be causing water to not drain completely , that might lead to more problems in the future . I would also suggest fixing this faucet that isn ’ t shutting off properly . I could have it all finished by today if it ’ s urgent .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That would be great ! Is it expensive ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let ’ s see ... I would say about eight hundred dollars .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

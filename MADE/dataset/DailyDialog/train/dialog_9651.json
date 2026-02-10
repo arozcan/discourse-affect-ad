@@ -1,0 +1,89 @@
+{
+  "id": "dialog_9651",
+  "segments": [
+    {
+      "text": "Hello . Dr . Brown ’ s Dental Office . How can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , this is Susan Smith . I ’ m calling about my appointment with Doctor Brown today at 3",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What happened ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I got the flu . I have a fever and a headache . Can I cancel my appointment ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , you can , but you ’ ll be charged for $ 10 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , there ’ s a charge ? Why ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "This is for the delayed cancellation . Because this time is reserved for you . If you are unable to keep an appointment , you should notify us 48 hours in advance . Otherwise , the charge will be made .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . That ’ s ok . I ’ ll pay .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks for your understanding . Do you want to make another appointment ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . Not right now . When I feel better I ’ ll call you again .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok . Take care .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 4
+    }
+  ]
+}

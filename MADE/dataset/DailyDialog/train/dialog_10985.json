@@ -1,0 +1,61 @@
+{
+  "id": "dialog_10985",
+  "segments": [
+    {
+      "text": "Could you come and help me mend the computer , Neel ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What's wrong with it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I can't log on the internet again .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me see . Did you change anything on your computer ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , never .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "What kind of anti-virus software do you use ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't have this kind of software .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you riding ? You have to install an anti-virus software on your computer . If not , you will be attacked by viruses , and it can lead your computer into failure .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 7,
+      "dialog_act": 2
+    }
+  ]
+}

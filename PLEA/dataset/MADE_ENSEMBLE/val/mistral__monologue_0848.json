@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0848",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy stretching for the cookie jar, and it’s making me nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9584904909133911
+    },
+    {
+      "text": "The stool is wobbling, and he’s going to fall any second.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5383847951889038
+    },
+    {
+      "text": "The girl is just standing there, waiting for her share like it’s no big deal.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4802461862564087
+    },
+    {
+      "text": "I can’t believe they’re doing this right in front of the woman.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8354781866073608
+    },
+    {
+      "text": "The water on the floor is just adding to the danger.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5592234134674072
+    },
+    {
+      "text": "I wonder if the woman will notice before it’s too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.515028178691864
+    },
+    {
+      "text": "The boy is really going for it, like he’s on a mission.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.676535964012146
+    },
+    {
+      "text": "I think they’re going to regret this if they get caught.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.40889158844947815
+    },
+    {
+      "text": "The garden outside looks so calm, like nothing is happening inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6140270233154297
+    },
+    {
+      "text": "I hope they at least enjoy the cookies if they succeed.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6019494533538818
+    }
+  ]
+}

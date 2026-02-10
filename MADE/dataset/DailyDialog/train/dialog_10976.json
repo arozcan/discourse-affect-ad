@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10976",
+  "segments": [
+    {
+      "text": "Ouch ! The water's too hot !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Get in slowly , sweetie . You'll get used to it . I'm gonna go and make you some chicken soup .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm not hungry , Mom .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I know you don't have an appetite , but you need to eat something . You'll get too weak if you don't eat .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh ... I'm sweating already . It's so hot . I can feel it boiling ! Can I get out yet ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's a good sign . But just soak a little longer , OK ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

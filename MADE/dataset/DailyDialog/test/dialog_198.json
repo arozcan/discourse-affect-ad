@@ -1,0 +1,75 @@
+{
+  "id": "dialog_198",
+  "segments": [
+    {
+      "text": "You guys are charging me $ 10 for a movie that I never ordered or saw .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let's see , sir . According to your file , you watched ' Titanic ' Monday evening .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , the wrong information is in my file . I was at a concert Monday night .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , your word overrules the file , sir . One moment , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I knew you'd see it my way .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sir , I deleted the $ 10 , but I had to add a $ 2 service charge to your bill .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Am I in the Twilight Zone ? You're charging me for a movie I never saw ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Please don't blame me , sir . Blame the computer programmer .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "This is highway robbery . I've got a good mind to call the police !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "If it makes you feel any better , other guests feel the same way .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

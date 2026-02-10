@@ -1,0 +1,68 @@
+{
+  "id": "dialog_621",
+  "segments": [
+    {
+      "text": "Hello , is this the ABC company ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , may I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "We have just arrived from Tokyo only ... looking for a reserve car of your company . All of above , we cannot find it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "What is your reservation number ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Our reservation number is J - 221 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me see . Oh , yes , we have your reservation number .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "You mean you haven ’ t arranged any car ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m sorry to say no .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here I ’ ll take taxi instead , how do you refund us ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    }
+  ]
+}

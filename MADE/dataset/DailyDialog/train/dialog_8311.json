@@ -1,0 +1,138 @@
+{
+  "id": "dialog_8311",
+  "segments": [
+    {
+      "text": "R :: Good morning . Room Reservations . May I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I ’ d like to reserve a room .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "R :: Thank you , sir . For which date and how many guests will there be in your party ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "From April 16th to 20th . Just my wife and myself .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "R :: From April 16th to 20th.And which kind of room would you prefer , sir ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "A Twin , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Could you hold the line please ? I ’ ll check our room availability . ( After a while ) Thank you for waiting , sir . We have a twin room at US $ 180 per night , will that be all right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , I ’ ll take it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you , sir . May I have your name and phone number , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure . May name is Aaron Johnson , and my phone number is 3242-5827 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "R :: Mr . Aaron Johnson , phone number is 3242-5827 . Excuse me , how do you spell your first name ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s double A , R , O , N .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Double A , R , O , N . Thank you , Mr . Johnson . May I know your arrival time on April 16th ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 2
+    },
+    {
+      "text": "Around 9 p . m .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "Mr . Johnson , for the unguaranteed reservation , we can only hold the room by 6 p . m . , because it is the peak season now . If you make a guaranteed reservation , we can hold the room overnight . Would you like to make a guaranteed reservation by credit card ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine . Do you accept American Express ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . May I know the number ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s 134986",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 17,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you , Mr . Johnson . You ’ Ve made a guaranteed reservation at the Guangzhou xx Hotel , from April 16th to 20th for 5 nights . If you can ’ t arrive as schedule , please inform us before 6 p . m . on April . hank you for calling and we look forward to serving you",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 18,
+      "dialog_act": 3
+    }
+  ]
+}

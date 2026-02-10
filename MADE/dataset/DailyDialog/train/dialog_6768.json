@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6768",
+  "segments": [
+    {
+      "text": "I'm sorry , sir . I'm going to have to ask you to leave .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What ? I was just having a friendly conversation with the lady here ...",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , she apparently doesn't think it's so friendly . Let's go .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I think there's been a misunderstanding !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "You'd better cooperate with me , sir , or ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK ! Just give her this for me !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

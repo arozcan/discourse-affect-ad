@@ -1,0 +1,40 @@
+{
+  "id": "dialog_529",
+  "segments": [
+    {
+      "text": "Hi , Mark , did you catch the game last night ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I was out . Was it worth watching ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "You didn ’ t hear ? Spain won , two to zero .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , really ? So , Spain is through to the next round ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah . The final is next week . You have to watch it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

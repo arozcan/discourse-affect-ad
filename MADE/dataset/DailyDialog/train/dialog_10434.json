@@ -1,0 +1,61 @@
+{
+  "id": "dialog_10434",
+  "segments": [
+    {
+      "text": "So can you fix it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m sorry sir . This computer is not broken or damaged . It ’ s simply just too old ! That ’ s why your programs and applications are running slow . There really isn ’ t much I can do .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What do you mean ? I bought this computer just three years ago !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , but technology is ever changing and technology is becoming obsolete faster and faster !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , I know where this is going . How much will it cost me to get a new computer ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , this desktop over here is our latest model . It has a four gigahertz processor with sixteen gigabytes in RAM and a hard disk with one terabyte . Of course , it includes a mouse , keyboard and desk speakers .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I have no idea what you are talking about . I just want to know if it ’ s good and if I will be able to play solitaire without the computer crashing or freezing all the time !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "This PC is top of the line and I guarantee it will never freeze ! If it does , we ’ ll give you your money back !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

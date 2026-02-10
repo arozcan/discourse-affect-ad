@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1757",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a woman standing in front of the sink, completely absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8930861949920654
+    },
+    {
+      "text": "The water from the faucet is overflowing, yet she seems blissfully unaware of the mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4607613682746887
+    },
+    {
+      "text": "I notice the puddle forming at her feet, spreading across the floor like a small pool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6028866171836853
+    },
+    {
+      "text": "Her focus is solely on the plate she's drying, as if nothing else exists in that moment.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7588164806365967
+    },
+    {
+      "text": "The sunlight streaming through the window gives the scene a warm, inviting glow.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6508632898330688
+    },
+    {
+      "text": "But that cozy atmosphere contrasts sharply with the chaos lurking behind her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6049214601516724
+    },
+    {
+      "text": "The children are playing a dangerous game, and I'm not sure she has any idea.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.38408443331718445
+    }
+  ]
+}

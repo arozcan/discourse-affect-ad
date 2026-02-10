@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5687",
+  "segments": [
+    {
+      "text": "I've just got a new printer . How often do I need to replace the print heads ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , under normal conditions each head lasts about 5 000 copies or so . It depends on the user , but about once a month is average .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "So if I don't print out very much , it could last a lot longer ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's right . It could last six months or more . This model's designed for heavy use . Don't worry - you'll get an error message telling you when to change the head .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

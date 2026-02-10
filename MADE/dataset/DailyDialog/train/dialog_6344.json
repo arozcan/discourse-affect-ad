@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6344",
+  "segments": [
+    {
+      "text": "Hi , Jim ! When did you get back ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yesterday . I was really sorry to see it end . The skiing was terrific !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m really jealous ! I won ’ t be able to get any time off for at least another three or four months .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sorry to hear that ! But I would definitely recommend this place !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

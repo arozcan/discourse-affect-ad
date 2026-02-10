@@ -1,0 +1,75 @@
+{
+  "id": "dialog_256",
+  "segments": [
+    {
+      "text": "Can ’ t you come in and have tea now , Peter ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Not yet , I must water the garden first .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Do you have to water it now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m afraid I must . Look at it ! It ’ s terribly dry .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What a nuisance !",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Last summer it was very dry , too . Don ’ t you remember ? I had to water it every day .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I ’ ll have tea by myself . That was quick ! Have you finished already ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , Look out of the window .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "It ’ s raining . That means you needn ’ t water the garden .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "That was a pleasant surprise . It means I can have tea , instead .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

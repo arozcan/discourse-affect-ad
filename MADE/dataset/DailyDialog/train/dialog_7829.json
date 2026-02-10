@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7829",
+  "segments": [
+    {
+      "text": "Hello , welcome to prise star hotel . How may I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , yes , I have a reservation . My secretary called and booked a room a couple of weeks ago , the reservation should be for a double bed , none smoking room .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "And what name of reservation made under ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It should be under Steve Johnson .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Mmm , let me see , it seems there is no Johnson listed for a room for tonight , is there any other name that you reservation list under ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , here is the confirmation number , would that help ? It is 898007 , I had the room booked with a visa cord card .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ah , yes , here it is , you have a standard double room , non smoking on the 3rd floor , I just need to see some identification and the credit card you booked the room with if you don ’ t mind .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

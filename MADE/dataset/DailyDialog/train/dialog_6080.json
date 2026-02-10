@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6080",
+  "segments": [
+    {
+      "text": "My parents are always saying I am not good enough .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really . What do they mean ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "They say my hair is too long , my room is too dirty and I am not good enough at school .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What do you think then ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don ’ t think they are right . I have tried my best and that's enough . It is unfair that they are always saying these thing . Sometimes I even feel deeply hurt .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

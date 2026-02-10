@@ -1,0 +1,110 @@
+{
+  "id": "dialog_724",
+  "segments": [
+    {
+      "text": "Doctor , save my baby , please",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What symptoms does he have ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "He has had a fever for one day . Just now at home , he had febrile convulsions with teeth and fists clenched and eyes turned up . We were at a loss what to do . We called an ambulance and brought the baby here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "How long did the convulsion last ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "About 3 minutes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Does he have any other complaints ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Three days ago , he began to cough , sneeze and have a running nose . Yesterday , he began to have a fever .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Have you taken his temperature ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "It was 38 ° C this morning and it was 39 ° C just now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me examine him to see if there is any rash . No rash .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Is it serious ? Is it meningitis ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , it is not meningitis . Just a high fever and convulsions , which results from a virus upper respiratory tract inflection .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Does he have to be admitted to hospital ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . No need for admission . I'll give the baby analgia nose drops to bring down the temperature first . Then I will give you a prescription . The pink tablets are used for his fever . When his temperature is over 38 ° C , give him one tablet . The other tablets are sedatives for his convulsions . The white liquid is for the cold . Give the baby plenty of water to drink .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you very much , doctor .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 4
+    }
+  ]
+}

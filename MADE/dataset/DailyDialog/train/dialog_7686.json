@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7686",
+  "segments": [
+    {
+      "text": "Good morning . Ru Via Hotel , Room Reservation . Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . This is Peter calling from New York , I have to change the date of reservation .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "How and in whose name has the reservation been made ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "By telephone and in my name .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Please wait a moment . I'll check it in the computer . Thanks for your waiting . You've booked 10 standard rooms for trade negotiation for March 5th , 6th and 7th , is it correct ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Right , but the negotiation has been postponed until 5th to 7th of April . Do you think it's possible for us to change the reservation ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let me check the reservation list . Fortunately , we have just 10 standard rooms available for the three days .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

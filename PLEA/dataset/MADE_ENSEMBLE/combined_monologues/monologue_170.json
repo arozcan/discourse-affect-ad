@@ -1,0 +1,55 @@
+{
+  "id": "monologue_170",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I can't help but chuckle at the sight of the children sneaking cookies, their faces lit up with glee.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9373229742050171
+    },
+    {
+      "text": "But then I remember the consequences of their actions and my laughter fades into concern.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.38779208064079285
+    },
+    {
+      "text": "It’s amazing how innocent intentions can lead to such reckless behavior.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5937248468399048
+    },
+    {
+      "text": "I notice the way the boy stretches and strains, completely focused on his goal, like a mini-hero on a quest.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49390551447868347
+    },
+    {
+      "text": "Yet with each stretch, I feel a twinge of fear for him; that stool can’t hold forever.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9158563017845154
+    },
+    {
+      "text": "The girl’s anticipation adds to the moment, her raised hand waiting like she’s about to catch something magical.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4816516041755676
+    },
+    {
+      "text": "And yet, nobody is aware of the lurking danger—it's like a bad movie where the audience knows what's coming but the characters don't.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.32087332010269165
+    }
+  ]
+}

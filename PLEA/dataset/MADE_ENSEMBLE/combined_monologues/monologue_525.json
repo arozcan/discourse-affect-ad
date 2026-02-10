@@ -1,0 +1,55 @@
+{
+  "id": "monologue_525",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The kitchen is such a familiar setting, yet it feels tense today.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5387320518493652
+    },
+    {
+      "text": "That overflowing sink is a small waterfall, and it genuinely surprises me how the woman seems oblivious.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7909960746765137
+    },
+    {
+      "text": "I can’t help but feel a little angry at the children for their sneaky little act.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8072962760925293
+    },
+    {
+      "text": "They should be asking for cookies instead of stealing them, learning respect for boundaries.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3958929777145386
+    },
+    {
+      "text": "I think about how easily things could go wrong: a slippery floor, a falling child.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4758915305137634
+    },
+    {
+      "text": "Yet, despite the tension, there is something bittersweet about their innocence.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46686509251594543
+    },
+    {
+      "text": "Watching them, I feel a mix of admiration and concern.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5216553211212158
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_5854",
+  "segments": [
+    {
+      "text": "Hello , Sir , may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I would like some information for requesting a loan .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Very well , here are the general terms of our loan policies . We pride ourselves in having the lowest interest rate in the country for personal loans .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . So let me get this straight . If I borrow let ’ s say , ten thousand dollars , how much will I have to pay each month ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "It depends on how long you take to pay it back . If we lend you ten thousand dollars at an annual interest rate of ten percent for forty eight months , you would have to pay each month a portion of the loan which is called the principal and another small portion of the annual interest rate . This of course is considering that you don ’ t default on a payment !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "It sounds good but , there is just one problem . I have a terrible credit score .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That is a very serious problem you see , the bank must assess your personal information , past loans , assets and any other relevant information such as your credit score in order to approve your loan .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "You know what ? I don ’ t really need the money . Thanks anyways !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    }
+  ]
+}

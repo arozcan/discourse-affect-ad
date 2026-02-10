@@ -1,0 +1,90 @@
+{
+  "id": "monologue_7666",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This scene in the kitchen is heartbreaking to watch.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.939845085144043
+    },
+    {
+      "text": "The woman is diligently drying dishes, oblivious to the disaster unfolding.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.48101937770843506
+    },
+    {
+      "text": "Water from the sink is flooding the floor, and she's standing right in it.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4776649475097656
+    },
+    {
+      "text": "I can almost feel the cold water soaking her shoes.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5040956735610962
+    },
+    {
+      "text": "The children are climbing dangerously on that unstable stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.33634769916534424
+    },
+    {
+      "text": "The boy is stretching so far, he could fall and hurt himself badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3417389392852783
+    },
+    {
+      "text": "The little girl looks so eager, not realizing the risk.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.29231998324394226
+    },
+    {
+      "text": "They're stealing cookies, but it's the danger that worries me most.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6696782112121582
+    },
+    {
+      "text": "The open window shows a nice garden, but inside it's all wrong.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.2756747007369995
+    },
+    {
+      "text": "Why isn't anyone paying attention to what's happening?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8398544788360596
+    },
+    {
+      "text": "This could end in tears, I just know it.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4558770954608917
+    },
+    {
+      "text": "Poor family, they deserve better than this neglect.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8776968121528625
+    }
+  ]
+}

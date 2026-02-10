@@ -1,0 +1,47 @@
+{
+  "id": "dialog_1241",
+  "segments": [
+    {
+      "text": "You know that this afternoon's meeting is cancelled , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Why am I always the last to know these things ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I sent out a notice . You've stopped checking your e-mail ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , but Bean did send me like a hundred forwards today . My mailbox must have been overflowing .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "How obnoxious ! I heard he was sending you dirty jokes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "He not only sent me nasty e-mail , but he's so bored , he even asked me to search the Net for even more forwards for him !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

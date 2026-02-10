@@ -1,0 +1,26 @@
+{
+  "id": "dialog_449",
+  "segments": [
+    {
+      "text": "Hello , is Jennifer in ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am sorry , you have the wrong number .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I am really sorry .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_5479",
+  "segments": [
+    {
+      "text": "I ’ d like to post this letter to Korea .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Is it urgent ? Would you like the express service ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "No thank you . I ’ d like to send it just by normal post .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

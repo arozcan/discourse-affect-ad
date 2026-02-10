@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0020",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see a woman drying dishes, completely unaware of the water overflowing from the sink.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6083720922470093
+    },
+    {
+      "text": "The puddle on the floor is getting bigger, and she’s standing right in it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46402862668037415
+    },
+    {
+      "text": "Her dress is going to get soaked, but she doesn’t even seem to notice.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4160119593143463
+    },
+    {
+      "text": "I wonder if she’s lost in thought or just really focused on that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4826069474220276
+    },
+    {
+      "text": "The water is pouring over the edge like a tiny waterfall, and she’s just ignoring it.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.36874550580978394
+    },
+    {
+      "text": "I can’t believe she hasn’t turned off the faucet yet.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8975851535797119
+    },
+    {
+      "text": "The kids behind her are up to no good, but she’s completely oblivious.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.37602460384368896
+    },
+    {
+      "text": "This is going to end badly if someone doesn’t do something soon.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4991734027862549
+    },
+    {
+      "text": "I should probably say something, but I don’t want to startle her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.44768306612968445
+    },
+    {
+      "text": "The whole scene feels like a disaster waiting to happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.2737486660480499
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_2698",
+  "segments": [
+    {
+      "text": "Did you hear the news ? Two of our major suppliers , Murphy Music and U-Tunes are merging ! If they are conglomerated into one company into one company , it would have some serious affects on our market strategy .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Are you sure ? Who told you that ? I highly doubt that they would take the step to merge into one company ... They're supposed to be bitter enemies , the strictest of competitors.It must be a rumor.It can't be true .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I read it myself on the financial page.They ' re really going to join together . U-Tunes was bought out by Murphy's , they will take over the company as of next month .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "The competition must have been too stiff for U-Tunes.Otherwise why would they allow themselves to be taken over by their sworn enemy ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I guess they must have figured it would be easier to merge than to keep up the cutthroat competition.If you can't beat'em , join'em .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

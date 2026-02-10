@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7412",
+  "segments": [
+    {
+      "text": "I have to talk to you !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What , Hilary ? I ’ m really in a hurry !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I know , Blake . But you ’ Ve been avoiding me all morning , and we have got to talk about this deal with the Mc Kinsey Food Company .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ Ve been busy , Hilary . We can set up a meeting to talk about the deal , but I still feel the same way . I don ’ t think it ’ s worth it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

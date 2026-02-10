@@ -1,0 +1,54 @@
+{
+  "id": "dialog_8629",
+  "segments": [
+    {
+      "text": "Hey , Mr Brown . How are you ? Look at that smile on your face !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Recently it's been pretty good , actually .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's what we like to hear , a profitable business .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , yes . Thanks , there's no trouble at the moment .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , what can I do for you today ? Are you needing to withdraw or transfer ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm going to need a Deposit Certification , to handle the affairs related to home .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , domestic things ? Yes , of course , we can help you with that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

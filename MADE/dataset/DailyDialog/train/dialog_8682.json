@@ -1,0 +1,96 @@
+{
+  "id": "dialog_8682",
+  "segments": [
+    {
+      "text": "hello . How was the marketing meeting ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "hi . It was awful . I think I put forward some great ideas , but none of them were accepted .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m surprised to hear that . I thought you had some very good suggestions .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "so did i . I ran the ideas by a few people before the meeting and their ideas seemed to have the supports of some people .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "so what happened in the meeting ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "one or two people didn ’ t take to my ideas very well . That was to be expected . The worst thing was that the people who said the idea were good before the meeting didn ’ t support me during the meeting .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I wonder why not . We could always revise the suggestions , to take into account any objections .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "that ’ s good advice , but I ’ m not confident that even revised proposals will be accepted .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "may I make a suggestion ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "sure . I ’ m open to any reasonable suggestions .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "Is there a chance you could contact the client confidentially and see what they think ? If they like your ideas , perhaps they could put them forward as their own proposals . You won ’ t get credit for ide",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m not sure that ’ s a good idea .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    },
+    {
+      "text": "go on . Take a chance . You could just hint at your idea . The client should be smart enough to take a hint .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 3
+    }
+  ]
+}

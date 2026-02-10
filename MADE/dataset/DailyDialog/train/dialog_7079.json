@@ -1,0 +1,40 @@
+{
+  "id": "dialog_7079",
+  "segments": [
+    {
+      "text": "How are you , Mr . Stone ? I m Farley .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Pleased to meet you , Mr . Farley .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Please have a seat . I know our employment officer has already given you information about your employee contract , but I'd like to go over the main details again before signing . First , you'llbe getting a monthly salary , with one month paid vacation after one year of employment .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK May I ask whether there is probation ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "No probation is involved .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

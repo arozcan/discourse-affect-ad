@@ -1,0 +1,47 @@
+{
+  "id": "dialog_1230",
+  "segments": [
+    {
+      "text": "Are you ok ? You seem a bit anxious .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , I'm OK , I have been having a lot of mood swings lately . I think it has to do with the pills my doctor prescribed that are causing chaos on my hormones .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "So you mean you feel ecstatic one minute and then blue the next ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , it's weird . For example just this morning I was feeling detached and lonely , even though there was really no reason to feel that way .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , maybe your mood will swing positively and you will feel confident , brave and hopeful !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I hope you are right .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

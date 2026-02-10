@@ -1,0 +1,68 @@
+{
+  "id": "dialog_10797",
+  "segments": [
+    {
+      "text": "Ok ! I ’ m ready for my driving lesson ! Should I start the car ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hold on there , Fittipaldi , first let ’ s go over things one more time . Now before you even think of starting the car , make sure your seat is at a comfortable position and you can grip the steering wheel firmly . Next check your rear view mirrors to make sure you can see properly .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "We have been through this a million times ! Let ’ s get going already ! I ’ m ready !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Fine , start the car . now gently step on the clutch and shift to 1st gear . Good , now accelerate gently and let go of the clutch as you do it . There we go , good !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m doing it ! I ’ m driving ! This is awesome ! Let ’ s turn some music on !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Keep your eyes on the road ! No music ! We are coming up to a red light , step on the brakes . What are you doing ? I said the brakes ! Look out for those people ! Get off the sidewalk !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Get out of my way ! This is just like playing video games !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "It ’ s the police ! Pull over !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "They ’ ll never take me alive !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10693",
+  "segments": [
+    {
+      "text": "How much shall I pay ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let me see . A roasted duck is 15 dollars . A plate of pork is 10 dollars . A bowl of beef is 6 dollars . Two bottles of beer are 3 dollars.That ' ll be a total of 34 dollars .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here is 40 dollars.Keep the change , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , sorry , sir.We take no tips here.Thank you all the same .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

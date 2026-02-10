@@ -1,0 +1,47 @@
+{
+  "id": "dialog_261",
+  "segments": [
+    {
+      "text": "You're here to make a deposit , is that correct ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Right . I'd like to deposit 2,000 RIB into my Current Account .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . Could I have the cash and your Bank Book , please ? Oh dear ... there seems to be some problems here ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ? What's wrong ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm sorry but 5 of these notes seem to be counterfeit . Look at this watermark , do you see it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "It does look a little strange , I didn't notice that before .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

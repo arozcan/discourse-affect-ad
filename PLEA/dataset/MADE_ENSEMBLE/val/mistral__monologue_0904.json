@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0904",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy balancing on that stool, and it’s making me nervous.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8643889427185059
+    },
+    {
+      "text": "I think he’s going to fall any second now, and it’s going to be bad.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5386238694190979
+    },
+    {
+      "text": "The stool is already wobbling, and he’s not even paying attention.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3825385272502899
+    },
+    {
+      "text": "I notice the girl is just standing there, not helping at all.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6386318206787109
+    },
+    {
+      "text": "I wonder if they’ve ever thought about what could happen if he falls.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.477450430393219
+    },
+    {
+      "text": "The water from the sink is getting closer, and it’s going to make the floor even more dangerous.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5241109728813171
+    },
+    {
+      "text": "I think the mom is completely unaware of what’s going on behind her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7403415441513062
+    },
+    {
+      "text": "The boy is so focused on the cookies that he doesn’t see how close he is to falling.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5125941634178162
+    },
+    {
+      "text": "I hope the girl at least tries to steady him before it’s too late.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5434183478355408
+    },
+    {
+      "text": "The whole scene is just a disaster waiting to happen.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4299318492412567
+    }
+  ]
+}

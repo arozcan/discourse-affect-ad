@@ -1,0 +1,61 @@
+{
+  "id": "dialog_87",
+  "segments": [
+    {
+      "text": "Good evening , Mr . Lee and thank you for choosing our airline . We have just discovered that this flight is overbooked . Would you like to volunteer to give up your seat ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Overbooked ? Give up my seat ? I don ’ t understand .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "From time to time we have a situation in which there are more passengers than there are seats on the aircraft . That ’ s overbooked .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know what overbooked is , I just don ’ t understand how that could happen ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Actually it ’ s a common practice to overbook , as passengers often don ’ t take their flight as scheduled . Most of the time there is no problem but today , more passengers arrived than we have seats ,",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "So who has to stay behind ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , first we ask for volunteers . If someone like yourself volunteers , they receive a free round trip ticket to be used within one year . If no one volunteers we just have to select someone .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok . I ’ ll volunteer . I could use a free ticket !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

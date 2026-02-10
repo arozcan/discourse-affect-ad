@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10825",
+  "segments": [
+    {
+      "text": "Hi , is this Rich ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , who ’ s calling ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s Alex ... Have I got some great news ! We got the Baker account . It ’ s all ours !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Fantastic ! I can ’ t believe it ! That ’ s the biggest account we ’ Ve gotten so far !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

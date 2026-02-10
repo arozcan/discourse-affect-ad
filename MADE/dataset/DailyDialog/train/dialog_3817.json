@@ -1,0 +1,89 @@
+{
+  "id": "dialog_3817",
+  "segments": [
+    {
+      "text": "Where can I buy textbooks ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "First , you need to have the list of books for your class . Do you have that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I have that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , when you have that , you can take it over to the bookstore . Can you find it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I don't know where the bookstore is .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Just pass the gym and it's the first door on your left . Were you aware that you can also turn in your old textbooks for money ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Really ? How can I do that ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Take your used textbooks with you and give them to the representative near the entrance . He will pay you for them . Are you going today ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I can't make it today .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I could help you with buying your books if you meet me there at 1",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , thanks . I'm good .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'll see you later then . Have a great day !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0828",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I observe the kitchen setup with the sink on the right.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.916149377822876
+    },
+    {
+      "text": "Water's flowing out, soaking the counter and floor below.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6319884657859802
+    },
+    {
+      "text": "The adult is focused on her plate, ignoring the entire spill.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7761214971542358
+    },
+    {
+      "text": "It's gross how the water's ruining the cabinet doors.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8333144783973694
+    },
+    {
+      "text": "Stacked dishes wait nearby, probably next to get wet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8403717875480652
+    },
+    {
+      "text": "On the other side, a boy climbs the stool toward the open cabinet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9398802518844604
+    },
+    {
+      "text": "The cookie jar is right there, full and tempting.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41611248254776
+    },
+    {
+      "text": "He's stretching to get a handful while balancing that shaky stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9189453125
+    },
+    {
+      "text": "His sister watches eagerly, hand raised in anticipation.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.599056601524353
+    },
+    {
+      "text": "They look like they're having a secret fun time.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9147657752037048
+    },
+    {
+      "text": "The window shows a neat garden, all peaceful outside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6609815359115601
+    },
+    {
+      "text": "But the mess inside bothers me; it's so unnecessary.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4764139652252197
+    },
+    {
+      "text": "I think the kids might slip on the wet floor too.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6151109933853149
+    },
+    {
+      "text": "This whole thing could end in tears instead of treats.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.43886807560920715
+    }
+  ]
+}

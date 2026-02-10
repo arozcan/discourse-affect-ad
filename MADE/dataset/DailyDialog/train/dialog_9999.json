@@ -1,0 +1,26 @@
+{
+  "id": "dialog_9999",
+  "segments": [
+    {
+      "text": "Hi , Helen . Where are you going on this summer vacation ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm going to Disneyland .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sounds like fun !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

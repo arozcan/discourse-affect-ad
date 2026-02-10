@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10610",
+  "segments": [
+    {
+      "text": "Hello , miss . Can you bring me something to drink ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , sir . But there is a charge for alcoholic beverages in economy class . Would you please refer to this price list ? And then give me your order .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you for reminding me . Well , please give me a glass of brandy and I will pay for it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , I will bring it to you in a moment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

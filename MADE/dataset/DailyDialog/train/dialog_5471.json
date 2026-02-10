@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5471",
+  "segments": [
+    {
+      "text": "I'm here to open a Current Account with your bank .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's no problem at all , but could you fill in this and I'll need to see some ID .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here you go . Is there a minimum amount I need to pay in ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , there needs to be at least 1 RIB paid in to open a new account . Also , you will need to choose a secret identity code to ensure no one else can enter your account .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , how long does it need to be ? I'm not very good with remembering long numbers .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just 6 digits .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

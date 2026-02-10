@@ -1,0 +1,75 @@
+{
+  "id": "dialog_5124",
+  "segments": [
+    {
+      "text": "Excuse me , sir . Is there anything I can do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I'd like to change some money , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . How much would you like to change ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let me see . I think maybe 600 USD at least .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Pardon ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Six hundred US dollars .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry , sir , after 7",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "But I am badly in need of the amount . Might I ask you to make an exception for me ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid we cannot help you , sir , because that would be violating the regulations . I owe an apology for doing nothing about it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "It's just too bad . I have to leave it as it is , and thank you just the same .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10845",
+  "segments": [
+    {
+      "text": "This is a good basic computer package . It's got a good CPU , 256 megabytes of RAM , and a DVD player .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Does it come with a modem ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it has a built-in modem . You just plug a phone line into the back of the computer .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "How about the monitor ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "A 15 - inch monitor is included in the deal . If you want , you can switch it for a 17 - inch monitor , for a little more money .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's okay . A 15 - inch is good enough . All right , I'll take it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

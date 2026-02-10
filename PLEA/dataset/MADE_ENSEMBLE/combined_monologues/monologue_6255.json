@@ -1,0 +1,76 @@
+{
+  "id": "monologue_6255",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the woman drying dishes, completely focused on her task, and it makes me sad.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9756612777709961
+    },
+    {
+      "text": "She doesn't seem to notice the water overflowing from the sink, and I feel a sense of pity for her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6287848353385925
+    },
+    {
+      "text": "The puddle on the floor is getting larger, and I'm worried she might slip and hurt herself.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8548436164855957
+    },
+    {
+      "text": "I notice the boy standing on a stool, trying to reach the cookie jar, and it makes me anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5224182605743408
+    },
+    {
+      "text": "He looks like he might fall at any moment, and I can't help but feel concerned for his safety.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4991857707500458
+    },
+    {
+      "text": "The girl is waiting for her share of the cookies, and I hope they both get what they want without any accidents.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5021870732307434
+    },
+    {
+      "text": "I see the calm garden outside, which seems so peaceful compared to the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.43561407923698425
+    },
+    {
+      "text": "It's like the woman is in her own little bubble, completely oblivious to her surroundings, and it makes me feel a sense of loneliness.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.887303352355957
+    },
+    {
+      "text": "I feel a sense of unease watching this scene unfold, and I hope everything turns out okay for them.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4158928394317627
+    },
+    {
+      "text": "This scene is really making me reflect on the importance of being present and aware of our surroundings.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4739021062850952
+    }
+  ]
+}

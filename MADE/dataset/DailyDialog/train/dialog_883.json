@@ -1,0 +1,33 @@
+{
+  "id": "dialog_883",
+  "segments": [
+    {
+      "text": "Wow ! You look like a drowned rat ! Didn't you know there is a thunder-storm today ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I knew there would be a shower , but I didn't realize it would rain cats and dogs today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well . You'd better take a hot shower right now , or you will catch a cold .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I know . I don't want to get sick , especially during finals week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

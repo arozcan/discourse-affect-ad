@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7742",
+  "segments": [
+    {
+      "text": "Susan , we ’ re going to need those data before tomorrow .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I know . I ’ m just waiting for confirmation on one of them . I can get them to you by tomorrow morning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Yeah ? All right . Thanks , Susan .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s all right .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_4669",
+  "segments": [
+    {
+      "text": "Hello , Mary . How are you ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not bad . How about you , John ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Fine . Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

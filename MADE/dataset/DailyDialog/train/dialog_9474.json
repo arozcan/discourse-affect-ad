@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9474",
+  "segments": [
+    {
+      "text": "What seems to be the problem ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have a really bad toothache ! My cheek is swollen and I can ’ t eat anything .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let ’ s have a look . Mmmm . This doesn ’ t look too good . I think we may have to pull out your wisdom tooth . It ’ s pressing against your molars and that ’ s one of the reasons you are experiencing so much pain .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "When you pull my tooth will you also have to extract the nerve and the root ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "First we will take some x-rays and see what we ’ re dealing with . I also noticed a small cavity up front here , so you are going to need a filling .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I guess that ’ s what I get for not flossing or brushing my teeth three times a day .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "It could be that , or maybe you are eating too many sweets . In any case , I ’ ll administer an anesthetic and you won ’ t feel a thing !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

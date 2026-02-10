@@ -1,0 +1,75 @@
+{
+  "id": "dialog_2565",
+  "segments": [
+    {
+      "text": "hello ! How are you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "hi . I ’ m feeling very nervous . I just had a test and I ’ m not sure how well or how badly I did .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "it ’ s not use worrying about it now . you ’ Ve done test and you can ’ t change any of your answers .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "that ’ s true . I really should go home and prepare for the next test , but I ’ m feeling tired .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "let ’ s go and get a coffee together . That will help you to wake up again !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "ok . I feel like sitting down and having a chat . How have you been recently ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "oh , you know me . I ’ m always happy ! If I think I ’ m getting into a bad mood , I call some friends and socialize or have a chat .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "that ’ s a good idea . I usually just sit at home alone and get increasingly moody .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "I hate spending too much time at home . I get bored of it really quickly . I ’ m always excited about going out to party or other social event and meeting people .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "perhaps I ’ m being too shy . I should go out more too and not spend time worrying about tests !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

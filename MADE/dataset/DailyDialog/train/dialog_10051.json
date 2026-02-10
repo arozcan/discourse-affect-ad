@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10051",
+  "segments": [
+    {
+      "text": "Welcome to our hotel's indoor swimming pool . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You see this is the first time for me to use the swimming pool . I've got no idea about the water temperature of the pool . I'm afraid it might be a little cold .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You don't need to worry about that . madam . We have a warm massage pool , and the temperature is 36 ° C .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . But I'm not a good swimmer . Can you tell me how deep the pool is ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Certainly , madam . The deepest place is two meters but you can swim in the shallow area , which is only l . 4 meter in depth . We have separate locker rooms over there and they are free of charge .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's great ! Can you give me the key to the locker ? I can't wait to have a try .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

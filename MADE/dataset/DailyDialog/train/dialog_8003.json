@@ -1,0 +1,82 @@
+{
+  "id": "dialog_8003",
+  "segments": [
+    {
+      "text": "Sorry to bother you . But I ’ m having a small problem I thought you might be able to help me with .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure Paula , shoot !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , it is about Ms . Connors , the landlord of our rented house .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , What happened ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "The dishwasher broke down . I had the repair done and deducted the cost from the rent check .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "And so ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "She is threatening to evict us for not paying the full rent .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Hold on , Paula . It does sound pretty serious . But I ’ m sure you can work this out .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , you are over at the law school . So I wondered if you would mind coming with me when we talk to Ms . Connors . We ’ re supposed to meet with her tomorrow night at eight .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , I ’ d be glad to help you straighten things out . Why don ’ t I stop by at about seven thirty ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks a million , you are a lifesaver .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 4
+    }
+  ]
+}

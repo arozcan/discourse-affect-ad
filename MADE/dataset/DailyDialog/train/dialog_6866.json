@@ -1,0 +1,124 @@
+{
+  "id": "dialog_6866",
+  "segments": [
+    {
+      "text": "Good morning , Madam . This is room service , may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Good morning . I'd like to reserve some rooms for a tourist party .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . What kind of room would you like ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You see , we are tourists whose requests are different , so please tell me more about it , will you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "It's my pleasure . We have single rooms , double rooms , suites and luxury suites , ect . Well , here is an introduction to our hotel .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's great . I'd like to book four single rooms , five double rooms and three suites .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right , madam . For which dates do you want to book the rooms ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "From tomorrow till January 8th . That's five days in all .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Now please fill out the form .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here you are . Is everything OK ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "Just a minute , madam . You should pay a deposit of 500 yuan beforehand .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . Here you are .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you . Please keep this receipt .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you . By the way , is there any preferential rate for the party ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , there is a 15 percent discount .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's wonderful . Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're welcome . I hope all of you will have a good time here .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 16,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "dialog_9609",
+  "segments": [
+    {
+      "text": "Hello . I'd like to speak to Susan .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry , but there's no one here by that name .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Isn't this the Whites ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , this is . What number are you calling ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm calling 6667777 . Maybe my finger slipped and I touched the wrong number .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sure it is . This is 6666777 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , sorry to have bothered you .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "It doesn't matter . Bye-bye !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Bye !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_10736",
+  "segments": [
+    {
+      "text": "Welcome to Lincoln Bank . Are you a new customer ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I am . I opened an account with you about a month ago , but today I'm here to see about a loan of some kind .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see . As you don't have a long history with us , we will have to check your credit rating with your previous bank before we can promise any loan to you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , that's fine . My credit is good ; I banked at my former bank for many years .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "May I ask why you decided to switch your account to us ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Haha ! Actually , I felt that your array of services is much better than what my old bank had on offer . Plus , I've got plenty of friends who bank with you and they are extremely happy .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "We always welcome new business . If you can give me the details of your former bank , including your account number we can begin .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "I have everything right here . I'll let you go through that and come back . I'd like to have a good read of your materials to make sure I make the right choice .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

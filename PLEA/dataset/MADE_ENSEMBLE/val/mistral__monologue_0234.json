@@ -1,0 +1,69 @@
+{
+  "id": "monologue_0234",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I feel so bad for the woman, she’s going to have a huge mess to clean up.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7625306844711304
+    },
+    {
+      "text": "The water is just pouring out, and she doesn’t even notice.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.38763973116874695
+    },
+    {
+      "text": "The children are being so sneaky, and she’s completely unaware.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3590230941772461
+    },
+    {
+      "text": "I hope she doesn’t slip on the wet floor and hurt herself.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49247288703918457
+    },
+    {
+      "text": "The boy is risking a fall, and it’s heartbreaking to watch.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9213607311248779
+    },
+    {
+      "text": "The girl is just waiting for a cookie, not realizing the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.25880780816078186
+    },
+    {
+      "text": "This whole situation is just so unfortunate.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9736984968185425
+    },
+    {
+      "text": "The water is going to ruin the cabinets, and she won’t even see it coming.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.30372270941734314
+    },
+    {
+      "text": "I wish someone would help her before it’s too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49709227681159973
+    }
+  ]
+}

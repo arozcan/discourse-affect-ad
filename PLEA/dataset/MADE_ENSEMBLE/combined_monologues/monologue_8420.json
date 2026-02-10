@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8420",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen feels so ordinary, with the window letting in light.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5033456683158875
+    },
+    {
+      "text": "The woman is methodically drying that plate, lost in her routine.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8148539066314697
+    },
+    {
+      "text": "But the sink—it's overflowing, water cascading down.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4629071354866028
+    },
+    {
+      "text": "The puddle's growing, and it might ruin the floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5635918974876404
+    },
+    {
+      "text": "She's unaware, and that makes it even worse.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4079495370388031
+    },
+    {
+      "text": "The boy on the stool looks so precarious, reaching for cookies.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6418228149414062
+    },
+    {
+      "text": "If he falls, it'll be heartbreaking.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9035787582397461
+    },
+    {
+      "text": "The girl's expectant face tugs at me—she just wants a treat.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5530331134796143
+    },
+    {
+      "text": "They're breaking the rules, but in such an innocent way.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4899694323539734
+    },
+    {
+      "text": "The water's damaging the cabinets, a slow destruction.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6082826852798462
+    },
+    {
+      "text": "Outside, the garden is serene, unaware of the trouble inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6863739490509033
+    },
+    {
+      "text": "I feel a wave of sorrow for what might go wrong here.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9685983657836914
+    },
+    {
+      "text": "Why can't they see the dangers?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.47062012553215027
+    },
+    {
+      "text": "It's all so fragile.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.36853015422821045
+    }
+  ]
+}

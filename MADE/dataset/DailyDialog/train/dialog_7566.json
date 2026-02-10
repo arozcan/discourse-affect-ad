@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7566",
+  "segments": [
+    {
+      "text": "Hello ? Is this the Maintenance Department ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah . That ’ s right . What can I do for you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "We ’ re having a lot of trouble with our printer . Could you come and take a look at it sometime this afternoon ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let me see . Yeah , all right . I ’ ll be over about two .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "dialog_7151",
+  "segments": [
+    {
+      "text": "Hello , this is Wal-mart . Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . What time do you close , please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "We close at 10:00 every day . And we open at 9:00 in the morning .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh . Ok . And are you open on the weekends ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Same hours as on the weekdays .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wow . You guys never take a break ! I want to come in and have a look at your sale . Your sale is still on , isn't it ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it runs till the end of the month . But things are clearing out fast .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok , I'll come down tonight . Thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you for calling .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

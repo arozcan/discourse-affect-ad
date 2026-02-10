@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6448",
+  "segments": [
+    {
+      "text": "I'd like to make an appointment with manager Mr.Wu . Would 10:00 a . m . tomorrow be all right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid not . He has a meeting tomorrow morning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Could I possibly make it early in the afternoon ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , that's not good either . But give me your phone number and I'll call you if somebody cancels .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you very much .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

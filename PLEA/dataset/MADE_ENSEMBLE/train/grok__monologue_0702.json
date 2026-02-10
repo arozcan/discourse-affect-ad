@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0702",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking into this kitchen, I notice the warm light from the open window.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.525864839553833
+    },
+    {
+      "text": "The woman is polishing that plate so meticulously.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.295156329870224
+    },
+    {
+      "text": "But oh no, the sink is flooding, water everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.40800562500953674
+    },
+    {
+      "text": "It's running down the front of the cabinets, pooling on the floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8758674263954163
+    },
+    {
+      "text": "She stands right in it, unaware, and it makes me worry she'll slip.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4593019485473633
+    },
+    {
+      "text": "To her left, the cabinet is open with the cookie jar inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9185308218002319
+    },
+    {
+      "text": "A boy is climbing on an unsteady stool to get to it.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7408156394958496
+    },
+    {
+      "text": "That stool is tilting back dangerously; he could fall hard.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6717442274093628
+    },
+    {
+      "text": "He's pulling out cookies, looking so pleased with himself.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5919755697250366
+    },
+    {
+      "text": "The girl next to him is reaching up, excited for one.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5334427952766418
+    },
+    {
+      "text": "They're being sneaky, hoping the woman doesn't turn around.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.550197958946228
+    },
+    {
+      "text": "The outside garden is neat and calm, such a contrast.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5172900557518005
+    },
+    {
+      "text": "This whole scene feels like trouble waiting to happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3164963722229004
+    },
+    {
+      "text": "I hope someone intervenes before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49646851420402527
+    }
+  ]
+}

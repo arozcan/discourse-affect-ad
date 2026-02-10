@@ -1,0 +1,47 @@
+{
+  "id": "dialog_835",
+  "segments": [
+    {
+      "text": "The restaurant across the street hired a new Chinese chef , so I ordered some Chinese food there for this evening .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good . I love Chinese food . What did you order ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Something hot and spicy . They look very inviting on the menu . You are going to love them .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Maybe we can find a place to learn some Chinese cooking . I hear there's a place in Chinatown where you can take some courses . Are you interested ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm not sure . I don't enjoy cooking that much . As long as we can order it from a restaurant , we don't have to learn to do it by ourselves .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "You are right . But I just want to know how they prepare food and make it taste so different .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

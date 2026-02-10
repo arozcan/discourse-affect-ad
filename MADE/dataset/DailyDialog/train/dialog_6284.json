@@ -1,0 +1,103 @@
+{
+  "id": "dialog_6284",
+  "segments": [
+    {
+      "text": "John , could you come to my office ? I need to talk to you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . I'll be there as soon as I finish this document .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "No.Come here right now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "What's the matter ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm sorry to say that we have to let you go , John .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Why ? I work very hard .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , you're working very hard but not efficiently.And you don't work well with other employees .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , some of those other guys are not the same kind I'd like to communicate with , but if that's important to you . I'll try to get along with them .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid it's too late . We are downsizing our workforce and you'll have to go .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "It's unfair .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "We can give you the option of residing rather than being fired , because it will look better on your resume when you apply for another job if you resign .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . I need to think about that for a while .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 4
+    },
+    {
+      "text": "All right , but let me know your decision before the end of the day .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    }
+  ]
+}

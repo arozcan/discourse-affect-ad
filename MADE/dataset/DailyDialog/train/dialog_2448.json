@@ -1,0 +1,54 @@
+{
+  "id": "dialog_2448",
+  "segments": [
+    {
+      "text": "Hi Wei , what are you going to do this weekend ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think I ’ ll stay in on Saturday and rest .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh right ... How about Sunday ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Ah , I ’ m going to the pub to watch the football .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh really ? I ’ ll come along with you if that ’ s ok .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , you ’ re more than welcome . I ’ m meeting everyone at three o ’ clock .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh great , I ’ ll see you there !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

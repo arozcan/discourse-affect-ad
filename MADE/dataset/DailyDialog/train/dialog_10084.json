@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10084",
+  "segments": [
+    {
+      "text": "Excuse me , sir , your steamed crabs is coming .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "It looks delicious . Can you tell me how to enjoy it ? It's my first time to eat it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Mix a little soya sauce , vinegar and sliced ginger on this plate and dip the meat in it before eating .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thanks a lot .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

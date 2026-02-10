@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2395",
+  "segments": [
+    {
+      "text": "I didn't see you at Mr . Johnson's class today .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , I quit .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm fed up with his boring lectures .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

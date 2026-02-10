@@ -1,0 +1,68 @@
+{
+  "id": "dialog_699",
+  "segments": [
+    {
+      "text": "Put all baggage on the conveyor belt . Walk through the detector age one at a time , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Excuse me , ma'ma . Could you walk back through the doorway again , please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What for ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Airport security . Could you empty your pockets over here , please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Really ? I'm in a hurry . All right .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Ah , a set of keys .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm embarrassed ! I forgot completely about them . I'm terribly sorry .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's all right . Enjoy your flight .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "dialog_4840",
+  "segments": [
+    {
+      "text": "Hello ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can I speak to Li Hong , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Speaking .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Hi , Li Hong.This is Alice .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hi , Alice.How are you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not bad.Li Hong , I am sorry that I can ’ t go to see Mrs.Brown with you tomorrow morning.My mother is ill . I must take care of her .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m sorry to hear that.You ’ d better stay at home.After all , we can visit Mrs.Brown later",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK.Bye - bye .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "Bye .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

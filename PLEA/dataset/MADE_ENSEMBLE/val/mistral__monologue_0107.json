@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0107",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the girl standing there, looking up at her brother with such hope in her eyes.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3929253816604614
+    },
+    {
+      "text": "She’s just waiting for him to give her a cookie, and it’s so sweet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8568788766860962
+    },
+    {
+      "text": "I wonder if she realizes how dangerous this is, standing on a wet floor like that.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5220270156860352
+    },
+    {
+      "text": "The boy is balancing so precariously, and she’s just trusting him completely.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.38410142064094543
+    },
+    {
+      "text": "I hope he doesn’t drop the plate he’s holding—it could break and cut him.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4902138411998749
+    },
+    {
+      "text": "The water is spreading, and I’m worried they’ll slip and fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9065052270889282
+    },
+    {
+      "text": "The woman is still drying dishes, completely oblivious to the whole thing.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6427619457244873
+    },
+    {
+      "text": "I can’t believe how calm everything looks outside the window, like nothing is wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8921647071838379
+    },
+    {
+      "text": "The contrast between the peaceful garden and the chaos inside is striking.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4044734835624695
+    },
+    {
+      "text": "I just want to warn them before something bad happens.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5418952703475952
+    }
+  ]
+}

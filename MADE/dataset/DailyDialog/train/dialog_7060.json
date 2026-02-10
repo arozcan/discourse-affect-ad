@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7060",
+  "segments": [
+    {
+      "text": "Excuse me , sir ? I ’ m afraid this is a no-smoking area .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What ’ s that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m sorry , sir . Smoking is not permitted in this area .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , sorry . I ’ ll put it out .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

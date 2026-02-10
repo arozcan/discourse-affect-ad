@@ -1,0 +1,61 @@
+{
+  "id": "dialog_7863",
+  "segments": [
+    {
+      "text": "Welcome to the National Post . How may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , I would like to send this package to China , and these postcards as well .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Very well . You will need some stamps for the postcards and I need to weigh that package .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "How much is this going to cost ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , it depends . Do you want to send it via priority , express or standard mail ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "What ’ s the difference ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , standard mail can take up to fifteen working days . Priority is a bit faster and will arrive in about five to eight working days . Express is the fastest , but it ’ s also the most expensive . It only takes three days and you can track your package online .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Well , there ’ s no rush . Please send it via priority mail . Please be extra careful , the contents of the package are fragile .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    }
+  ]
+}

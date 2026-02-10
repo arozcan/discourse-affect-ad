@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9591",
+  "segments": [
+    {
+      "text": "Waiter !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'll be with you in a second . Uh ... Yes , ma'am ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "This is not what I asked for . I'm afraid .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I'm so sorry . May I ask what you ordered again ?",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . What I ordered is roast beef , not roast beef sandwiches .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

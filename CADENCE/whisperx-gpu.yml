@@ -1,0 +1,27 @@
+name: whisperx-gpu
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - ffmpeg 
+  - libsndfile
+  - sox
+  - git
+  - ipykernel
+
+  - pip:ı
+      - "whisperx==3.7.4"
+      - "pyannote-audio==3.4.0"
+      - "speechbrain==1.0.3"
+      - "transformers>=4.48.0"
+      - "nltk>=3.9.1"
+      - "numpy>=2.0.2,<2.1.0"
+      - "pandas>=2.2.3,<2.3.0"
+      - "av<16.0.0"
+      - "scikit-learn"
+      - "scipy"
+      - "matplotlib"
+      - "ipython"

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9001",
+  "segments": [
+    {
+      "text": "Why do you want to work in our company ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , there are 2 reasons . First of all , I'm itching to work in a foreign enterprise . Secondly , your branch is a new establishment in Beijing . I think I'll be assigned more workload and responsibilities here .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can you tell me something about the balance sheet now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , of course . The balance sheet contains 3 major sections , that is , assets , liabilities and owner's equity .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

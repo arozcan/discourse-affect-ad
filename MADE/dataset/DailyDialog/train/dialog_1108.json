@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1108",
+  "segments": [
+    {
+      "text": "Excuse me . I don't think we have met before . My name is Mary Jenson .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , hello . I'm Bias Chettri .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good to meet you , Mr Chettri .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Pleased to meet you too , Ms Jenson .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "dialog_4214",
+  "segments": [
+    {
+      "text": "Car trouble center . How may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "My car won ’ t start ! Stupid old car !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hold on , before you kick your car let ’ s go through some possible problems .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK , first of all , can you turn the key in the ignition ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah ! I am here with my friend and he thinks it may be the spark plug or the starter motor .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Those are possible problems , but tell me , when you turn the key , do you hear the starter motor crank ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , it sounds like it usually does when I start the car , but nothing else happens . The engine won ’ t start . Should I maybe press the accelerator ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . If you step on the accelerator pedal you can flood the carburetor and your car will never start .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "So what do you think it is ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "I know this may seem like a silly question , but does your car have gasoline ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "Umm . yeah ! Right ! I got the car started ! Thanks for your help ! I told you to fill the tank !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0835",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the boy on the stool, stretching every muscle to reach that cookie jar.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5819613337516785
+    },
+    {
+      "text": "His determination is palpable, and I can't help but smile at his ambition.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9652949571609497
+    },
+    {
+      "text": "But then I notice how unstable the stool looks, and my heart races.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49617016315460205
+    },
+    {
+      "text": "What if he loses his balance? It’s such a dangerous situation.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7356370687484741
+    },
+    {
+      "text": "The girl standing by has her arm raised, waiting like a little princess for her treat.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5928974151611328
+    },
+    {
+      "text": "They are so absorbed in their heist, it's almost adorable.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8257656097412109
+    },
+    {
+      "text": "Yet, I feel a pang of despair knowing they are being so sneaky.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8765133619308472
+    }
+  ]
+}

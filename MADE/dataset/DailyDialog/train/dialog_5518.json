@@ -1,0 +1,89 @@
+{
+  "id": "dialog_5518",
+  "segments": [
+    {
+      "text": "Excuse me , Ma ' am . I would like to mail this package door to door via airmail to London . It is a very important package and has to be sent within 3 days .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . But , the postage is much higher than the regular package .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's fine with me . I am willing to pay for it as long as you can guarantee me the package can arrive in time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . All the registered airmail packages can be received in 5 working days .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . How much do I need to pay in total for this package ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's 500 dollars .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can I have the receipt ? Just in case I can trace it if something goes wrong .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure ! Please just fill in your I . D . number and ways to contact you here .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Do I need to include my zip code in the address ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "You had better include that because it is easier for the mailmen to find the correct mailing address .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you very much . Here is 500 dollars .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here is your receipt . Contact us if your friend still doesn't receive the package after 5 work days .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_308",
+  "segments": [
+    {
+      "text": "Harry , come here immediately !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Don't take that tone with me ! I saw you hit your brother .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No ! He hit me first .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "I don't care . You know better than to hit him . Go sit on your bed for 10 minutes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

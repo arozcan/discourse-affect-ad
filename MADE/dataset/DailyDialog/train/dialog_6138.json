@@ -1,0 +1,54 @@
+{
+  "id": "dialog_6138",
+  "segments": [
+    {
+      "text": "What kind of document is an invoice ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's a document from the seller to the buyer . It contains full particulars of the goods sold , such as quantity , quality , price , forwarding particulars , and terms of payment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "How many kinds of foreign invoices are there ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Four . They are Loco invoice , FOB invoice , CIF invoice and Franco invoice .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What does the price in different kinds of invoices include ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "By Loco invoice , the price includes only the cost of goods at the warehouse of the seller . By FOB invoice , the price includes the cost before the cargo is delivered . By CIF invoice , the price includes all the expenses of cost freight and insurance . The price in Franco invoice includes all expenses to destination .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I see .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

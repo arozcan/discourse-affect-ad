@@ -1,0 +1,40 @@
+{
+  "id": "dialog_1649",
+  "segments": [
+    {
+      "text": "I'm frustrated .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "What's the problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I can't work out this problem .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me take a look . Maybe I can figure it out .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks . I really appreciate it .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

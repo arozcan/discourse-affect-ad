@@ -1,0 +1,103 @@
+{
+  "id": "dialog_763",
+  "segments": [
+    {
+      "text": "Hello ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hey Tina . What are you doing ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I was just watching TV . What's going on with you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I just watched a movie and I'm scared .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What did you watch ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I saw the Sixth Sense . I didn't know it was going to be so scary .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I remember that . It was a great movie . But it was definitely scary .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "If you're not busy , do you want to come over ? I'm afraid to be alone .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . I can come over . What should we do ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "How about if we watch a comedy . I need something to get my mind off the frightening images I have from the Sixth Sense .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok . I'll get ready and leave . I'll see you in about 20 minutes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 4
+    },
+    {
+      "text": "Hurry , ok . It's dark out .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don't worry , nothings going to happen . I'll be there real soon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok . See you soon .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 13,
+      "dialog_act": 1
+    }
+  ]
+}

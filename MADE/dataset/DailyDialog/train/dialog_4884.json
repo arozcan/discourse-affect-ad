@@ -1,0 +1,68 @@
+{
+  "id": "dialog_4884",
+  "segments": [
+    {
+      "text": "Mom , I hate eating vegetables !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "You don ’ t have to eat them . I don ’ t mind .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks , Mom.Can I have dessert now ? I love chocolate cake .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No dessert for you unless you eat all of your vegetables .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "But I don ’ t like them.It ’ s not fair .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "You can have some fruits for dessert.If you eat an apple and a banana , I might let you have a small piece of chocolate cake .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , actually I don ’ t mind eating peas and carrots.But I hate broccoli and cauliflower .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'll remember that for next time.You ’ ll get extra peas and carrots , but no broccoli or cauliflower , ok ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks , Mom !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 4
+    }
+  ]
+}

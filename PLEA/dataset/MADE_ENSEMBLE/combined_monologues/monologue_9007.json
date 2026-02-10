@@ -1,0 +1,97 @@
+{
+  "id": "monologue_9007",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This scene makes me so sad seeing the potential for trouble.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9651318788528442
+    },
+    {
+      "text": "The woman is so absorbed in her task, missing everything.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.345852255821228
+    },
+    {
+      "text": "Water's overflowing from the sink, ruining the cabinets.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.43680495023727417
+    },
+    {
+      "text": "She's standing right in the mess, unaware.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5887021422386169
+    },
+    {
+      "text": "The boy on the stool looks so vulnerable up there.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3699769377708435
+    },
+    {
+      "text": "One wrong move and he'll tumble down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5017191171646118
+    },
+    {
+      "text": "The girl reaching for a cookie seems innocent but risky.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4513883590698242
+    },
+    {
+      "text": "They're just kids wanting a treat, but it's dangerous.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5792041420936584
+    },
+    {
+      "text": "The peaceful garden view contrasts with this indoor worry.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5069936513900757
+    },
+    {
+      "text": "I wish someone would notice and stop this before harm comes.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4959975481033325
+    },
+    {
+      "text": "It's heartbreaking how everyday moments can turn bad so fast.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8795435428619385
+    },
+    {
+      "text": "The dishes stacked nearby might get knocked over too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.686242938041687
+    },
+    {
+      "text": "Poor family, they don't deserve this accident.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9379068613052368
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0410",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice the puddle steadily spreading across the floor, and it makes me feel uneasy.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9106768369674683
+    },
+    {
+      "text": "The thought of someone slipping and falling fills me with dread.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8948761224746704
+    },
+    {
+      "text": "I can hardly believe the woman hasn’t noticed yet; she’s so focused on that plate.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8086495399475098
+    },
+    {
+      "text": "It’s almost frustrating to watch her be so unaware of the chaos brewing behind her.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6058455109596252
+    },
+    {
+      "text": "The kitchen, usually a cozy space, feels charged with impending disaster.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6765878200531006
+    },
+    {
+      "text": "I want to scream out, but I know I can’t; it’s not my place.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4549216032028198
+    },
+    {
+      "text": "Still, I can’t help but think that this will end badly if someone doesn’t intervene soon.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47326695919036865
+    }
+  ]
+}

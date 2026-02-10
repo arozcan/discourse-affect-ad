@@ -1,0 +1,83 @@
+{
+  "id": "monologue_1505",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I can't believe how calm the woman looks while drying that plate.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9169755578041077
+    },
+    {
+      "text": "She seems completely unaware of the water spilling all over the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3781134784221649
+    },
+    {
+      "text": "I see the boy struggling to reach the cookie jar, standing on that wobbly stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8587972521781921
+    },
+    {
+      "text": "His sister is just standing there, waiting for a cookie, not a care in the world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5164209604263306
+    },
+    {
+      "text": "I feel a bit annoyed that the woman isn't paying attention to any of this.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.948718786239624
+    },
+    {
+      "text": "The water is just pouring over the edge of the sink, and she doesn't even glance at it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43084532022476196
+    },
+    {
+      "text": "I notice the dishes stacked neatly by the sink, completely untouched by the chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6369278430938721
+    },
+    {
+      "text": "The garden outside looks so peaceful, it's almost ironic.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43153318762779236
+    },
+    {
+      "text": "I think someone should really turn off that faucet before the whole kitchen floods.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4093950092792511
+    },
+    {
+      "text": "It's a bit sad to see such a mess happening in an otherwise lovely kitchen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9451954364776611
+    },
+    {
+      "text": "I hope the woman turns around soon and sees what's going on.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5216902494430542
+    }
+  ]
+}

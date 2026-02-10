@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7027",
+  "segments": [
+    {
+      "text": "Hello , this is Peter Dixon from NEZ news radio . May I speak to Mr . Wilson please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , speaking .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Good morning , Mr . Wilson . I ’ m calling to confirm the date of the next interview program .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Hold on a minute please . I ’ ll have my assistant check that part .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

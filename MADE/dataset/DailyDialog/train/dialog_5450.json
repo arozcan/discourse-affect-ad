@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5450",
+  "segments": [
+    {
+      "text": "You look upset.What ' s wrong ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Nothing . It's just one of those days . Everyone at the office is sick and I'm getting blamed for work not being done .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Maybe you need a vacation or something , or maybe a bonus .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sick of doing other people's job and getting blamed for not doing it right .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why don't you talk to your boss about it ? If you talk to him , he will surely understand .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I wish he could understand . You know what , if this goes on , I think I will get stick like everybody else .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1809",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I can't stop staring at the overflowing sink, amazed by how oblivious the woman is.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4677478075027466
+    },
+    {
+      "text": "She looks so calm and composed, drying the plate with care.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4927641749382019
+    },
+    {
+      "text": "Yet the water continues to pour over the edge, spreading like a small flood.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6378799676895142
+    },
+    {
+      "text": "It’s bizarre to think of how one moment can be so serene while another is chaotic.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.32022565603256226
+    },
+    {
+      "text": "The children are sneaking cookies, and I feel a strange mix of excitement and worry.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5567134618759155
+    },
+    {
+      "text": "It’s like watching a slow-motion disaster unfold.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.300488144159317
+    },
+    {
+      "text": "Their little teamwork act is adorable but so wrong, too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5293834209442139
+    }
+  ]
+}

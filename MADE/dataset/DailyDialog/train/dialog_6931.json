@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6931",
+  "segments": [
+    {
+      "text": "Congratulations ! I heard that you are going to take a two-week training course in the headquarter .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you . I am very happy to have this opportunity to learn something new . You know information and knowledge in this field update very fast .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sure it is . This is a changing world . Does the training course cover the new law and regulation issued last month ? They are very useful for us .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , according to the agenda , there will be a seminar on these issues at the very beginning of the training course .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , good for you . I hope you can get what you want from the training .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I will do my best .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

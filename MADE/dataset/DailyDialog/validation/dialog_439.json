@@ -1,0 +1,61 @@
+{
+  "id": "dialog_439",
+  "segments": [
+    {
+      "text": "Hello . I sent out my laundry yesterday.Aren ' t they ready ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "They'll be ready by this afternoon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , no ! I'm leaving for Japan at 11 this morning .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is that right ? We're very sorry .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I thought it was \" the same day \" service.Anyway , please do hurry .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid we can't return it by 11 o'clock .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , then , would you send it to Japan , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , we'll do so .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

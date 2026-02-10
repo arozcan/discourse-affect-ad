@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10046",
+  "segments": [
+    {
+      "text": "Mike , shall we book two tickets online ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine . Shanghai and Beijing are thousands of miles away . How about bullet train ? Faster and relatively cheap , I think .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah . How many tickets remain ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , what a shame . Only sleeping cars have tickets . Others are all out of stock . The price of the sleeping car is almost the same as the airplane.You see , the discount plane tickets are no more than 500 yuan . A good deal , isn't it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Brilliant idea ! That will make our journey rewarding and much safer .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

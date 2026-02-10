@@ -1,0 +1,68 @@
+{
+  "id": "dialog_726",
+  "segments": [
+    {
+      "text": "Thank you for organizing this great baby shower for me ! I ’ Ve always been to baby showers but never actually had one held for me ! Let ’ s get started !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , let ’ s start opening some presents !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh look ! What a great little bib for the baby ! This will definitely come in handy ! Oh wow , you also got me a stroller ! That ’ s so great ! Thank you !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "This next one is from Betty .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "A highchair and car seat ! Wow Betty , thank you so much ! I really appreciate it !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "One more from Carla .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "A playpen and crib ! Thanks Carla ! This is just what I needed !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , that ’ s all of them . No more gifts . Now who wants to guess when the baby is due ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Umm . I think my water just broke ! Get me to a hospital !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

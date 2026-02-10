@@ -1,0 +1,26 @@
+{
+  "id": "dialog_3759",
+  "segments": [
+    {
+      "text": "Why are you so late ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've been through a lot today . I forgot to set my alarm clock last night , so I woke up late this morning . And what is worse , I missed the school bus .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's enough . Sit down .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    }
+  ]
+}

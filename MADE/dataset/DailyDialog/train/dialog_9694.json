@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9694",
+  "segments": [
+    {
+      "text": "Telco Mobile , how can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I ’ d like to activate my voice mail service please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly sir , we currently have a special promotion where we include voice mail services , call waiting and also three way calling .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sure that sounds great ! Are there any other fees ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not at all . No hidden fees or surcharges , it is a flat monthly rate .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Perfect . I also wanted to know if there is any call forwarding service ? I am usually out of town and would like my calls to be forwarded to a local number .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes of course . We can activate all these services in about an hour .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

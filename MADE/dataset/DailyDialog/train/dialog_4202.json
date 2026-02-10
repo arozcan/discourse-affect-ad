@@ -1,0 +1,75 @@
+{
+  "id": "dialog_4202",
+  "segments": [
+    {
+      "text": "Jack , what's wrong ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What are you talking about ? What did I do ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You told Martha that I was on a date ? What was that all about ?",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "No ... that's not what I meant . I didn't mean that . She asked me where you were and I jokingly said that you were on a date with Sara . I thought Martha knew that you and Sara were just friends .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "She started feeling suspicious after you said that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry man . I didn't know . I didn't mean to screw anything up .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Martha gets jealous easily and it took a while to convince her that Sara was just a friend . Now , I have to explain to Sara that I can't hang around her because of you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Look . I really didn't mean to , and next time I see Martha , I'll really tell her that you and Sara are really just friends .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don't bother .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

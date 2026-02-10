@@ -1,0 +1,26 @@
+{
+  "id": "dialog_9301",
+  "segments": [
+    {
+      "text": "What ’ s happened ? Is there a problem ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think the gears have seized up",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You'll have to dismantle the unit and lubricate the bearings . Do it as quickly as you can but make sure you top up the oil before you start the motor up again .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    }
+  ]
+}

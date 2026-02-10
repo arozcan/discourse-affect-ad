@@ -1,0 +1,54 @@
+{
+  "id": "dialog_934",
+  "segments": [
+    {
+      "text": "Welcome to IBA Bank , how can we be of service ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I spoke to a girl named Claire on the phone ; it's about losing my card and everything .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What I need you to do first is fill in these forms , with as much detail as possible . Then we can get you a new card .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "So , I can get my new card today ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm sorry , Sir , the full procedure can take up to 7 days to process everything .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "7 days ! What am I supposed to do for money until then ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "If you bring some ID with you , it's possible for you to make a withdrawal over the counter if you need to . But unfortunately , without your new card you cannot use the ATM , so all withdrawals must be made within working hours .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

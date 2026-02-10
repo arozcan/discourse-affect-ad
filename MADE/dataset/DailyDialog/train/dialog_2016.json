@@ -1,0 +1,40 @@
+{
+  "id": "dialog_2016",
+  "segments": [
+    {
+      "text": "Susan has got the cancer of stomach .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "How terrible ! This is quite unexpected !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yesterday when I went to hospital to see her , you cannot imagine how greatly surprised when I saw her .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What happened ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Because of atomic cocktail and other medicines , all of them have the side effect . she has lost all her hair .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

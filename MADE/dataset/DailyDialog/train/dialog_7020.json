@@ -1,0 +1,131 @@
+{
+  "id": "dialog_7020",
+  "segments": [
+    {
+      "text": "Could I speak to Mary , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "This is Mary speaking . Who is that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "This is Bob . Where have you been , Mary ? I have been trying to get on to you for the last half hour . Don ’ t you leave your home at 7",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I do , but today I went shopping and have only just come back . It is very nice to hear your voice , Bob . I didn ’ t know you were in New York .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I arrived this morning . I would have rung you before but I have been terribly busy all day attending a conference . It has only just ended . Are you doing anything tonight , Mary ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I am going to meet a client .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "But that is terrible ! I am only here for one night !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry , Bob . If you had told me you were coming up , I would have kept tonight free . But you didn ’ t tell me .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "I didn ’ t know myself till this morning when my boss suddenly dashed into the office and told me to rush up here to attend the conference .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I thought Henry usually did the conferences .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , he does but when he was driving up here last night he had an accident and was taken to hospital . So I am doing it instead . Mary , Must you go out tonight ? Couldn ’ t you get out of it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m free tomorrow but I suppose that will be too late .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    },
+    {
+      "text": "No , I will stay another day.my boss will get over it . Would you like to meet me for lunch tomorrow ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ d like to . But Bob , are you sure it will be all right ? I would hate you to make your boss angry or even lose your job .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "It is all right . I will call the boss and tell him I am staying another day . I stayed an extra night in Boston last month and he didn ’ t seem to put about it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why did you stay an extra night in Boston ? What happened ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 2
+    },
+    {
+      "text": "I will tell you tomorrow . See you tomorrow , Mary .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 3
+    },
+    {
+      "text": "See you tomorrow .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 17,
+      "dialog_act": 4
+    }
+  ]
+}

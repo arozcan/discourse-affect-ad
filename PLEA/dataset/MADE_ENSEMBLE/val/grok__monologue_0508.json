@@ -1,0 +1,83 @@
+{
+  "id": "monologue_0508",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "That overflowing sink is disgusting, water everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9676083326339722
+    },
+    {
+      "text": "It's soaking the cabinets and the floor like a flood.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42773300409317017
+    },
+    {
+      "text": "The woman's stepping in it, doesn't she care?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.35687702894210815
+    },
+    {
+      "text": "She's drying a plate while the mess spreads.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7327640056610107
+    },
+    {
+      "text": "Those kids are gross, climbing for cookies on a wet floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8659683465957642
+    },
+    {
+      "text": "The stool's unstable, and now it'll be slippery too.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3172014653682709
+    },
+    {
+      "text": "Sneaking treats like that, so sneaky and wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.48411551117897034
+    },
+    {
+      "text": "The girl's hand out, probably covered in crumbs soon.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4811360538005829
+    },
+    {
+      "text": "Window shows a clean garden, but inside it's filthy.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3496508002281189
+    },
+    {
+      "text": "I hate seeing all this waste and carelessness.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6323740482330322
+    },
+    {
+      "text": "Turn off the water before it gets worse.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4336412847042084
+    }
+  ]
+}

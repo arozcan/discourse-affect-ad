@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9049",
+  "segments": [
+    {
+      "text": "Would you like to rent the house ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You bet , as long as I can collect enough money .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I can lend some to you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Aren't you crazy ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    }
+  ]
+}

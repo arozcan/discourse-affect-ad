@@ -1,0 +1,117 @@
+{
+  "id": "dialog_15",
+  "segments": [
+    {
+      "text": "Hi there , I want to reserve a hotel room .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem at all . Could I have your full name , please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , John Sandals .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Hi , Mr . Sandals . I'm Michelle , at your service . When do you need the room ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "My plans are to be there April 14th to the 17th .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "We have new room rates , sir . Will that be acceptable to you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , it depends on the price , of course . What is it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's $ 308 a night .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "I have no problem with that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "Great ! Would you prefer smoking or nonsmoking ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Definitely nonsmoking . I can't handle that smell .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "Nonsmoking . Now , is a queen-size bed okay ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 4
+    },
+    {
+      "text": "Great , Mr . Sandals . Your reservation is confirmed . Now all I need is your phone number .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course ! It's area code 626-555-1739 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you so much , Mr . Sandals . We look forward to seeing you !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 1
+    }
+  ]
+}

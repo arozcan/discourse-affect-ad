@@ -1,0 +1,104 @@
+{
+  "id": "monologue_1363",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "The kitchen layout is straightforward, with the sink on one side.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8235827684402466
+    },
+    {
+      "text": "A woman stands there, focused on polishing a single plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.89750075340271
+    },
+    {
+      "text": "The open window reveals a neat garden path.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9117890000343323
+    },
+    {
+      "text": "Water flows steadily from the faucet into the basin.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9229917526245117
+    },
+    {
+      "text": "It's not draining, so the sink overflows onto the floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7456715106964111
+    },
+    {
+      "text": "Poor cabinets are getting damaged by the constant stream.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.60512375831604
+    },
+    {
+      "text": "She remains unaware, which is heartbreaking in a way.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6685292720794678
+    },
+    {
+      "text": "Nearby, a boy climbs the stool to access the upper cabinet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9406310319900513
+    },
+    {
+      "text": "The cookie jar is within reach, tempting him.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5599595904350281
+    },
+    {
+      "text": "But the stool's instability could lead to a fall.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4670819640159607
+    },
+    {
+      "text": "The girl waits patiently, her anticipation clear.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6204138994216919
+    },
+    {
+      "text": "It's a shame this joyful moment risks turning tragic.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8136863708496094
+    },
+    {
+      "text": "The unnoticed hazards make the scene poignant.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.46536701917648315
+    },
+    {
+      "text": "I feel for the family in this overlooked peril.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7870298624038696
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7102",
+  "segments": [
+    {
+      "text": "Good afternoon . Which service do you require .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I need to increase the amount of my L / C . It's quite a new one ; I opened it 12 days ago .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What you need to do is apply for an amendment on your existing L / C .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "How do I go about that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "You'll need to fill in this application form and there is a charge of 30 US dollars for this .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , you can take that from my account . I'll fill in the form now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thanks . Yes ... that's all in order . What we will do now is send the L / C amendment to the negotiating bank . As soon as we know anything , we'll contact you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

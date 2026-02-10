@@ -1,0 +1,75 @@
+{
+  "id": "dialog_9085",
+  "segments": [
+    {
+      "text": "Why am I being charged $ 10 for a movie that I never ordered ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sir , according to your file , you spent Monday evening watching ' Titanic . '",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , the file is wrong . I was at a great concert that night .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , this wouldn't be the first time that a file was wrong . Just a moment , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you for taking care of it so quickly .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sir , when I deleted the $ 10 , the program automatically added a $ 2 service charge .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "You can't do that ! You can't charge me for a mistake that you made !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sometimes you can't win for losing , sir .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , now I've seen it all ! What a rip-off this place is !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "I don't blame you , sir . Two dollars is a lot of money .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_402",
+  "segments": [
+    {
+      "text": "Excuse me ! Does this bus go to the railway station ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , You're got on the wrong bus . You can take a No . 22 bus at the University station and then transfer to a No . 83 bus at the railway station .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK ! Thank you very much !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

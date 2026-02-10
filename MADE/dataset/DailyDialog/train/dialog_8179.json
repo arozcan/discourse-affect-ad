@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8179",
+  "segments": [
+    {
+      "text": "What should I do if I notice a fire ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Raise the alarm by breaking the glass of the nearest fire alarm . Call Security , say ' Fire ' and give your name and exact location . At night you should phone the fire service from the nearest telephone .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Should I try to put the fire out ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "If you discover a small fire , you can try to put it out with a fire extinguisher but only do this if you have been trained . Make sure you use the right extinguisher . They are all colour-coded and contain different substances to put out the fire .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

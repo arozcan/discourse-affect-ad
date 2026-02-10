@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6666",
+  "segments": [
+    {
+      "text": "Remittance Advice , how can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I want to send some money to Hangzhou . Today , if possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's no problem . There are 3 ways you can do this , firstly you can send the money account to account , or you can choose to send cash to account or you can send cash to individual . Which service would you like ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I think account to individual would be best . But which is the quickest way ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "If you choose our Urgent Remittance Service the money can be there within 2 hours . There will be a 1 % handling fee and then you need to pay 12 RIB for the Express Delivery Service .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Right , that's fine . I'd like it to get there as quickly as possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

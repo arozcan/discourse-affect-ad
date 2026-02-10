@@ -1,0 +1,26 @@
+{
+  "id": "dialog_7641",
+  "segments": [
+    {
+      "text": "I want to subscribe to The New York Times.How do you feel about it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's one of the top papers in America .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , It's supposed to be outstanding .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dialog_11048",
+  "segments": [
+    {
+      "text": "Oh ! My mouth is on fire !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I feel so good . That warm hot pot certainly hits the spot on winter nights .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I need more water !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oooo ... gross ... you're sweating all over the place .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "It's your fault for mixing the two broths !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "You're going to have a little Montezuma's revenge tomorrow morning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

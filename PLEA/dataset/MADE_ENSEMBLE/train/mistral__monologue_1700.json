@@ -1,0 +1,76 @@
+{
+  "id": "monologue_1700",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing, spilling all over the floor, and I can't believe the woman hasn't noticed.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5414794087409973
+    },
+    {
+      "text": "She's just standing there, drying a plate, completely unaware of the mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45705899596214294
+    },
+    {
+      "text": "The kids are being so sneaky, trying to get those cookies without her seeing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.47680872678756714
+    },
+    {
+      "text": "The boy is really stretching, trying to reach the cookie jar, and it looks dangerous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49695754051208496
+    },
+    {
+      "text": "I feel a bit scared watching him balance like that, what if he falls?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8444343209266663
+    },
+    {
+      "text": "The girl is just standing there, waiting for her share, her hand outstretched.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8499929904937744
+    },
+    {
+      "text": "I can't help but feel a bit worried for them, they're taking such a risk.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47474122047424316
+    },
+    {
+      "text": "The garden outside looks so peaceful, it's like a little sanctuary out there.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9338530898094177
+    },
+    {
+      "text": "I wish I could just step out there and forget about all this chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5071132183074951
+    },
+    {
+      "text": "But I can't look away, I need to see what happens next.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4711865484714508
+    }
+  ]
+}

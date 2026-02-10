@@ -1,0 +1,68 @@
+{
+  "id": "dialog_6473",
+  "segments": [
+    {
+      "text": "Did your eye doctor prescribe you contact lenses ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I ’ d like to know something about contact lenses .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I see . We have both hard and soft contact lenses . They are very popular , but a little more expensive than ordinary glasses .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I have found I ’ m short-sighted recently . I need to wear glasses . As a student , it ’ s better for me to wear ordinary glasses instead of contact lenses .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "We have many kinds of glasses here . Which frames do you like best ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think the square-shaped ones will be the best for me .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about this pair ? They are the ' in ' things now in optical wear . Try them on .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "They fit me very well . I like them .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Please go to receive optometry first over there .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_7354",
+  "segments": [
+    {
+      "text": "Is that you , Bob ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sorry , he ’ s on another phone . Will you hold ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh I ’ m sorry . I think I ’ ll call later . Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

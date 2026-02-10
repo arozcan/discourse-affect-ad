@@ -1,0 +1,40 @@
+{
+  "id": "dialog_735",
+  "segments": [
+    {
+      "text": "Well , Randy , I'd say you've got a bad case of the flu . The main thing to do is get plenty of rest and drink lots of liquids . I'll prescribe something for that throat .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks , doctor . Is there anything I can take for this headache ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Some aspirin or Panadol should help . You can pick some up at the pharmacy when you go to fill your prescription .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Okay .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Goodbye , Randy . Take care .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

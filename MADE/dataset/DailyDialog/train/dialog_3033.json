@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3033",
+  "segments": [
+    {
+      "text": "Do you have the five dollars I lent you yesterday ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh I forgot ! I'll run home real quickly and bring you the money .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You don't have to go right away .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'd hate for you to think I was lazy in returning your money .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

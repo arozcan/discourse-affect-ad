@@ -1,0 +1,47 @@
+{
+  "id": "dialog_446",
+  "segments": [
+    {
+      "text": "Would you like some cookies ? I just made them .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Thank you . Yes , I would .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "These are chocolate , and those are almond-flavored .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I guess I'll try a chocolate one first.Mmmm ... this is delicious.Are they hard to make ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , they're really quite easy . Wait a minute , I've got the recipe right here.See ... these are the ingredients , and then you just follow the directions .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That does look easy . I think I'll make some tonight .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "dialog_7252",
+  "segments": [
+    {
+      "text": "What kind of car is best for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "For you , I would recommend this one here .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "The compact ? Why do you think that one is better than the others ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "This automobile is just right for your needs because not only is it compact for ease in city driving , but also , it has many safety features . I know that as a parent , you are concerned about safety in driving your kids to and from school .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's true . What kind of safety features are we talking about ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "This model features anti-lock brakes , airbags on both driver and passenger sides , and impact collision design . But that's not all . This car isn't only safe but it's also very economical .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "You mean it has a cheaper price than similar models ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , this price is very affordable , but driving this car you'll also notice a significant annual saving in gas consumption . The main attraction for this model is the fuel economy .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "With the cost of gasoline these days , that is a big plus . I think this model may be just what I'm looking for .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why don't you take it for a test drive , and think it over .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    }
+  ]
+}

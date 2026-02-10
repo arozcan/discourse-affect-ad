@@ -1,0 +1,26 @@
+{
+  "id": "dialog_9845",
+  "segments": [
+    {
+      "text": "Mary sings much better than Susan , doesn't she ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes.But Mary is no match for Susan in painting .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Maybe it's because Susan's parents are both painters .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

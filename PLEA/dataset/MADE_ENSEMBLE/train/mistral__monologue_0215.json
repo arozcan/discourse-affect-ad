@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0215",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy balancing on that stool, and it makes me nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6811758279800415
+    },
+    {
+      "text": "He’s reaching so high for the cookie jar, and the stool is about to tip.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5187849998474121
+    },
+    {
+      "text": "The girl is just waiting for her cookie, not even noticing how dangerous this is.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.2928624451160431
+    },
+    {
+      "text": "I think the woman should turn around and see what’s happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6639591455459595
+    },
+    {
+      "text": "The water is pouring over the sink, and the floor is getting slippery.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4128456711769104
+    },
+    {
+      "text": "I notice the woman’s foot is already wet, but she’s just focused on that plate.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6296623945236206
+    },
+    {
+      "text": "The garden outside looks so calm, but inside, it’s pure chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3802545666694641
+    },
+    {
+      "text": "I wonder if anyone is going to notice before it’s too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47509634494781494
+    },
+    {
+      "text": "The boy is going to fall any second now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40690767765045166
+    },
+    {
+      "text": "I can’t watch this anymore.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.43480247259140015
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_182",
+  "segments": [
+    {
+      "text": "Hey ! What happened ? ! My song was only half way through and it skipped to the next song .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't know what happened !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You cancelled the song , didn't you , Jack ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I didn't . Really !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Then , is the machine broken or ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    }
+  ]
+}

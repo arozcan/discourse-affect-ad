@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10766",
+  "segments": [
+    {
+      "text": "You've decided that you definitely want to purchase this particular one ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "To be honest , I haven't really done much research .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I would recommend that you at least glance through these brochures , just to make sure that you have selected the right policy for you . Take your time , Sir .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks for your advice , after going through all of these materials I've decided not to go with my initial choice .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Of course , Sir . If I could have your details again and your ID , I'll check them and we can go on .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

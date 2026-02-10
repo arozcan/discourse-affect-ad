@@ -1,0 +1,96 @@
+{
+  "id": "dialog_1627",
+  "segments": [
+    {
+      "text": "Hi , long time no see . How have you been ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , I've been fine , but I'm having some trouble with my son .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Tell me all about it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , he's 14 and in the past few months , he's become quieter and a bit secretive . He locks himself in his room and I think he's running around with the wrong crowd .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , I see . What makes you think that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , he's become friends with a couple of older boys who are in a band . And one night last weekend , he came home really late , way past his curfew .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? What happened ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "He told me that his friend's car broke down and they had to walk home .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see what you mean . I understand why you're concerned . Have you tried talking to your son about it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "I haven't yet . I just keep hoping it's just a phase he's going through .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "You may be right , but it doesn't hurt to find out more about what's going on in his life .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're right . I should talk to him . Sometimes , it's not easy being a parent . Thanks . It helps to get it off my chest . You're always so easy to talk to .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don't know about that , but my door is always open . Stop by anytime .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 12,
+      "dialog_act": 1
+    }
+  ]
+}

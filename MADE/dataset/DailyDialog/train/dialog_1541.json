@@ -1,0 +1,40 @@
+{
+  "id": "dialog_1541",
+  "segments": [
+    {
+      "text": "Are you free on Friday evening because we were wondering if you would like to come round for dinner ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , thank you very much . I ’ d like to come , but I ’ m afraid I ’ m busy that evening .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "That ’ s a pity ! Then when would it be a good time for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I ’ m not too sure , actually . I ’ Ve got a lot going on the next couple of weeks . Why don ’ t I call you later ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Okay , that ’ s fine .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

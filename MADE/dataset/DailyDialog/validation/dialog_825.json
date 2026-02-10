@@ -1,0 +1,26 @@
+{
+  "id": "dialog_825",
+  "segments": [
+    {
+      "text": "I have difficulty with this form . Will you please explain it to me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Actually there is a sample over there . But if you still have a problem , let me know .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , that's great . Thank you very much .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

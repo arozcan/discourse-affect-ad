@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1604",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "There’s a strange juxtaposition happening in this kitchen, a mix of serenity and chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3908855617046356
+    },
+    {
+      "text": "The running water creates a soothing sound, yet the scene is anything but calm.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43339043855667114
+    },
+    {
+      "text": "I see the children’s lively spirits contrasting with the woman’s tranquil demeanor.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7209148406982422
+    },
+    {
+      "text": "I feel a rush of anxiety as I watch the boy stretch further, determined to reach those cookies.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.592029869556427
+    },
+    {
+      "text": "His little body is curving dangerously over the edge of the stool, and I can hardly breathe.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7544747591018677
+    },
+    {
+      "text": "The girl’s anticipation makes me chuckle but also brings sadness; they’re up to no good.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4796203374862671
+    },
+    {
+      "text": "I wish they’d just ask for a cookie instead of risking everything in this risky heist.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49419882893562317
+    }
+  ]
+}

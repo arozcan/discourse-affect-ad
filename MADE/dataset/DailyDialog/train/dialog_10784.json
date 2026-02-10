@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10784",
+  "segments": [
+    {
+      "text": "Sorry to bother you so early . There's another couple who wants to rent the apartment , but I thought I'd ask you first .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's so sweet of you . We definitely want it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I thought so , by the looks on your faces when you left . So why don't you come to my apartment , and we'll settle all the details .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . How does seven o'clock this evening sound ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Great . See you then .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

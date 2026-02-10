@@ -1,0 +1,124 @@
+{
+  "id": "dialog_11062",
+  "segments": [
+    {
+      "text": "Hello , who is speaking , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , Mr . Stern . This is Hao Bo from the International Travel Agency . I have made the plane reservations for you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , good . Let me get a pencil and take down the information . Well , go ahead , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Okay . You'll be travelling on Northwest Airlines , flight number 222 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "What time does it leave ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "It departs Guangzhou at 10:30 on the morning of July 10 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That is good .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "You want to fly first class . Is that correct , Mr . Stern ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's right .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I have got you three first class tickets and I have reserved your seats . Your seat numbers are 8A , 8B and 8C .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Those are in the non-smoking section , aren't they ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , they are . I have charged the tickets to your credit card . They are 630 dollars each , so It is 1890 dollars for all three .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Fine , thank you very much .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "One more thing . Could you give me the names of the people you'll be travelling with ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . They are my kids , Alex and Kathy Stern .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 4
+    },
+    {
+      "text": "All right . You're all set . Have a nice flight .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 16,
+      "dialog_act": 1
+    }
+  ]
+}

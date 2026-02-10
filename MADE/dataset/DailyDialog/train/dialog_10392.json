@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10392",
+  "segments": [
+    {
+      "text": "I think you should look over these figures again . There are some calculations that are a bit off .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I apologize . This should not have to be this way .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Apology is accepted . Try to do better next time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course , I should have been more careful . I ’ m sorry .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

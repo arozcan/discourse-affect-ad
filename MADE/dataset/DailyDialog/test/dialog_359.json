@@ -1,0 +1,33 @@
+{
+  "id": "dialog_359",
+  "segments": [
+    {
+      "text": "Hello , I want to apply for the position of an usher in your restaurant .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Welcome . One of your duties is to know the number of the customer and accept reservation .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What else do I need to do ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You inform the people in charge and let them reserve dinning tables for guests .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

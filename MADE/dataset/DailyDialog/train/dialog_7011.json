@@ -1,0 +1,75 @@
+{
+  "id": "dialog_7011",
+  "segments": [
+    {
+      "text": "Are there any interesting articles in today ’ s newspapers ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "The headlines are all about the presidential election in the united states . Few other stories made the front pages .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is there anything of interest to us in the business sections ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "There ’ s an interesting feature article in the chronicle about doing business in china and the daily news has printed a report about the special economic zone near pairs . We have a subsidiary company located there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are the reports favorable ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Generally , the reporters take positive lines . They do point out a few problems that we need to be aware of , but there ’ s nothing worrying in the reports . In the classifieds , one of our competitors is advertising for people who speak Japanese .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s interesting . They must be thinking of moving into that market . Are there any interesting editorials ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not really . They all seem to focus on the election . There have been several letters printed in the chronicle regarding that controversial article on drugs that they printed last week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m not surprised . That article certainly added fuel to the debate . Ok . Thanks . Can you leave two articles and the advertisements with me ? I ’ d like to read them .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . There you are .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "monologue_7605",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I see this cozy kitchen with sunlight streaming in from the window.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6123567223548889
+    },
+    {
+      "text": "The woman is carefully drying a plate, looking so focused on her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6943796873092651
+    },
+    {
+      "text": "She's wearing an apron, which makes her look like a classic homemaker.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.655002236366272
+    },
+    {
+      "text": "But oh no, the sink is overflowing right behind her.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6434235572814941
+    },
+    {
+      "text": "Water is pouring out everywhere, forming a puddle on the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46954184770584106
+    },
+    {
+      "text": "She's standing in it with one foot, but she doesn't even notice.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43687891960144043
+    },
+    {
+      "text": "Over on the left, there's a boy climbing on a stool to reach the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9441426396369934
+    },
+    {
+      "text": "The stool looks wobbly, like it's about to tip over any second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5044418573379517
+    },
+    {
+      "text": "He's got one hand in the jar and the other holding a plate.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8868637681007385
+    },
+    {
+      "text": "A little girl is standing there, reaching up for a cookie too.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.565773069858551
+    },
+    {
+      "text": "They're being so sneaky, thinking the woman doesn't see them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4162898063659668
+    },
+    {
+      "text": "The garden outside looks peaceful, such a nice contrast to this chaos inside.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7665401697158813
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10039",
+  "segments": [
+    {
+      "text": "Mary , come here . I've found the book our teacher recommended us to buy last week .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Really ? How much is it ? Oh , it's 42 yuan ! How expensive !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "You know , it is the best seller for this year . It has had its fifth impression since its publication early this year .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "How come ? I have never seen such a popular book before .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Wait a minute . I found there were two printings . The paperback books must be much cheaper .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "You are right . Let's buy the cheaper one .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

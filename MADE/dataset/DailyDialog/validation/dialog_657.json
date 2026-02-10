@@ -1,0 +1,47 @@
+{
+  "id": "dialog_657",
+  "segments": [
+    {
+      "text": "Hello . This is the Stewart Resident .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello . Is Mr . Stewart there ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "This is Mr . Stewart . Who ’ s this ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m calling from Bell Canada . We are currently offering a great deal on long distance calling , only $ 17 a month . With this plan you get 500 minutes of long distance calls each month without any additional charges .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m sorry . I ’ m not interested in it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Okay . Thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

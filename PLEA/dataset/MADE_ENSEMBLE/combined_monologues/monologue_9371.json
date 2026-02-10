@@ -1,0 +1,104 @@
+{
+  "id": "monologue_9371",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This looks like a typical kitchen moment gone wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5467051267623901
+    },
+    {
+      "text": "The faucet's running full blast and the sink's overflowing onto the floor.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5255864858627319
+    },
+    {
+      "text": "The woman in the apron is polishing that plate so carefully.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5218581557273865
+    },
+    {
+      "text": "She has no idea about the water flooding everywhere.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5403562784194946
+    },
+    {
+      "text": "One of her shoes is already soaked in the puddle.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7626408934593201
+    },
+    {
+      "text": "Those stacked dishes on the counter might get ruined too.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.33698368072509766
+    },
+    {
+      "text": "Now look at the boy on the step stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9237767457962036
+    },
+    {
+      "text": "He's stretching up to grab cookies from the open cabinet.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9050494432449341
+    },
+    {
+      "text": "The stool looks so unstable, like it's about to tip over.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.2486126571893692
+    },
+    {
+      "text": "The little girl is reaching up too, excited for her treat.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8574517965316772
+    },
+    {
+      "text": "They're being so naughty taking cookies without asking.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7881879806518555
+    },
+    {
+      "text": "The garden outside the window is peaceful, what a contrast.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4926360845565796
+    },
+    {
+      "text": "I feel bad for the mom; she's missing all this mischief.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9060996770858765
+    },
+    {
+      "text": "Someone needs to yell and stop this before accidents happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6317254304885864
+    }
+  ]
+}

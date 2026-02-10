@@ -1,0 +1,54 @@
+{
+  "id": "dialog_452",
+  "segments": [
+    {
+      "text": "How was the party yesterday ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Did you enjoy it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , don't talk to me about yesterday ! It was the most awful evening I've ever had .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why ! what happened ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well.John had promised to be my date , but he stood me up . I waited for a full hour in the cold wind .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "So how long did you stay ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "I left after the opening dance . I couldn't wait to get out of there .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

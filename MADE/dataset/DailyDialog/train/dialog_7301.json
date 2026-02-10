@@ -1,0 +1,82 @@
+{
+  "id": "dialog_7301",
+  "segments": [
+    {
+      "text": "Good morning , Oriental Electric Limited .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello , this is Catherine . I am calling about the appointment with Mr . Liu for this afternoon . Something has just come up . I am afraid the appointment will have to be rescheduled . I am very sorry about the change .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That is all right . Maybe we can make another arrangement .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "You are very kind to say so . Thank you . Do you think tomorrow morning would suit him ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid there is a bit of a problem . in fact , he has booked up the whole week except tomorrow afternoon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Tomorrow afternoon . Um ... When do you think I can come and see him tomorrow afternoon ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Please let me check ... Tomorrow afternoon ... Yes , he'll be free from 3:00 tomorrow afternoon . Do you think it's convenient for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , that's quite all right for me . Can we change it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . Let's change it . Tomorrow afternoon at three . I am going to schedule it for that time and inform Mr.Liu about the change .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you very much . See you tomorrow afternoon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "See you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

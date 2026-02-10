@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6877",
+  "segments": [
+    {
+      "text": "What are you waiting for ? Get on that bus quickly .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "But where do I get a ticket ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "On the bus . The driver collects the fares . You'll have to take your luggage on board .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I wish I didn ’ t have so much to carry .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

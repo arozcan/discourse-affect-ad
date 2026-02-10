@@ -1,0 +1,61 @@
+{
+  "id": "dialog_188",
+  "segments": [
+    {
+      "text": "This is a nice set of wheels . How much did the dealer charge you for this ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "A lot . I probably got to moonlight for the rest of my life , but so what , it ’ s worth it . Come on , get in . Let ’ s take a drive .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Okay then , let ’ s go fast ! Whoa ! This thing can really accelerate fast .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Check out what happens when I put on the brakes suddenly . It can stop quickly .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Hey , just watch out for cops or you ’ re gonna end up in the slammer . You know you tend to go fast ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Yes , I know it . I went through my last set of tires fast . I even had three flat tires in two weeks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Now watch ... some guys probably run a light and hit your car .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Cut out , would you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

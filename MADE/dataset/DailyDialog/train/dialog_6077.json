@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6077",
+  "segments": [
+    {
+      "text": "Good afternoon.madam.How can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Someone has stolen my cell phone .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I am sorry to hear that.Would you mind coming with me to my office and tell me what exactly happened there ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . I left my cell phone in my room this morning before I want out.When I come back it was gone . I have looked every where in my room and I can't find it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , in that case . I will call the manger , you can talk directly with him .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

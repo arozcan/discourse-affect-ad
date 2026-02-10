@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1884",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen reminds me of happy family times, with the warm light from the window.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8609061241149902
+    },
+    {
+      "text": "The garden outside looks so inviting, all tidy and green.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8627276420593262
+    },
+    {
+      "text": "The woman is diligently drying dishes, a picture of domestic bliss.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45039165019989014
+    },
+    {
+      "text": "But oh, the sink is running over— that's a surprise!",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9488847255706787
+    },
+    {
+      "text": "Water cascading down, yet she keeps polishing away.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.558883011341095
+    },
+    {
+      "text": "The children are up to some fun, reaching for cookies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.536906361579895
+    },
+    {
+      "text": "The boy on the stool, stretching high— adventurous little guy.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.46318429708480835
+    },
+    {
+      "text": "His sister helping out, hand extended— teamwork!",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4653383493423462
+    },
+    {
+      "text": "The cookie jar is full, perfect for a treat.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7347666025161743
+    },
+    {
+      "text": "Though the stool wobbles a bit, it's all part of the excitement.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6760528087615967
+    },
+    {
+      "text": "Puddle on the floor adds a splash of playfulness, almost.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6569147109985352
+    },
+    {
+      "text": "I love how unaware the mom is; it's charming.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9401981234550476
+    }
+  ]
+}

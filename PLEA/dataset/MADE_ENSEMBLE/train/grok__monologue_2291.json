@@ -1,0 +1,97 @@
+{
+  "id": "monologue_2291",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I'm watching this kitchen scene, and the woman is totally absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7273150682449341
+    },
+    {
+      "text": "She's polishing that plate like it's the most important thing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4317464828491211
+    },
+    {
+      "text": "But the faucet is on, and water is flooding the sink.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5684505105018616
+    },
+    {
+      "text": "It's spilling everywhere, soaking the cabinets and the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3532675504684448
+    },
+    {
+      "text": "She has no idea her foot is wet from the puddle.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4093620777130127
+    },
+    {
+      "text": "Over to the side, a boy is up on a wobbly stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9417531490325928
+    },
+    {
+      "text": "He's stretching to get into the cookie jar above.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9373365640640259
+    },
+    {
+      "text": "That stool could collapse and hurt him badly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5215474963188171
+    },
+    {
+      "text": "The girl next to him is waiting with her hand out, excited I bet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49333977699279785
+    },
+    {
+      "text": "They're being sneaky, taking cookies behind the woman's back.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4372348189353943
+    },
+    {
+      "text": "The window shows a nice garden, all neat and green.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.509090006351471
+    },
+    {
+      "text": "I hope someone turns off that water before it's a disaster.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49585390090942383
+    },
+    {
+      "text": "This could end in tears if they're not careful.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.41439056396484375
+    }
+  ]
+}

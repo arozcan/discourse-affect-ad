@@ -1,0 +1,75 @@
+{
+  "id": "dialog_10488",
+  "segments": [
+    {
+      "text": "Hey George , how is your chicken ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "My chicken tastes all right , but it is pretty dry . How is your fish ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "My fish is pretty dry too .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's almost as if this food has been sitting a little too long . It doesn't seem fresh .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , it seems that way to me also .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "How are your vegetables ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "My vegetables are very soggy .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Mine are the same way . It seems like they've been overcooked .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don't usually complain , but I think that we should mention this to the waiter .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I agree . Maybe they can bring us some better food .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

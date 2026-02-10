@@ -1,0 +1,76 @@
+{
+  "id": "monologue_6712",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I notice the water is just pouring out of the sink, and it's making me feel a bit uneasy.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8354666233062744
+    },
+    {
+      "text": "The woman is just standing there, completely unaware of what's happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3569031357765198
+    },
+    {
+      "text": "The boy is climbing up on that stool, and it looks really dangerous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5084186792373657
+    },
+    {
+      "text": "I hope he doesn't fall and hurt himself, it would be terrible.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6648468971252441
+    },
+    {
+      "text": "The girl is just standing there, waiting for her cookie, and it's making me feel a bit sad.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9817379713058472
+    },
+    {
+      "text": "I wonder if the woman will notice what's going on before it's too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5303320288658142
+    },
+    {
+      "text": "The floor is getting so slippery, and it's just a matter of time before someone falls.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4032302796840668
+    },
+    {
+      "text": "I feel like I need to do something, but I'm not sure what I can do.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4327165186405182
+    },
+    {
+      "text": "It's just so stressful to watch everyone in this kitchen, not paying attention to what's going on.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.49182936549186707
+    },
+    {
+      "text": "I hope everyone stays safe and nothing bad happens.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5941310524940491
+    }
+  ]
+}

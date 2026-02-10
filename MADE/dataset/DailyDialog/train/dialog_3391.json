@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3391",
+  "segments": [
+    {
+      "text": "How are you , Kim ? I haven ’ t seen you around for a few days .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , I was out sick most of last week . I ’ m still not completely over it . You ’ d better not get too close !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m sorry to hear about that . Why don ’ t you join me for a hot cup of tea ? It ’ ll be good for you !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , why not ? I could use a rest .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

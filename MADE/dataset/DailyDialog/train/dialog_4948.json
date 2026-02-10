@@ -1,0 +1,54 @@
+{
+  "id": "dialog_4948",
+  "segments": [
+    {
+      "text": "Hello . What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've just had some money sent from Germany , in Euros .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , could you give me your details and I'll see if it has cleared . We need your banking details and some ID . A passport or something like that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I have my passport right here , and here are the account details . The name , number ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Mr Jurgen , yes , the remittance has been successful .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That was quick ! I didn't expect it to come through so quickly . Yes , that is good news . The full amount should be 20,000 Euros , is that right ? I'd like to withdraw 5,000 Euros worth of local currency , if that's possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Not a problem , Sir . Please fill in this exchange form and show me your passport .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "dialog_7211",
+  "segments": [
+    {
+      "text": "Has someone already helped you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , not yet . I'd like to buy a teapot .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Which do you like best ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "That colored one is very beautiful . It may suit my furniture . How much do you ask for it ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "360 yuan .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Show it to me , Please . Can you get me another ? It's scratched a little bit here .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sorry , sir . This is the last one we have in stock .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "I do like it . Can you come down a bit ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "I can give you a 10 % discount .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's still too much . Can you lower the price further ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid that's the best we can do .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 10,
+      "dialog_act": 4
+    },
+    {
+      "text": "If so , I'd better try another store .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

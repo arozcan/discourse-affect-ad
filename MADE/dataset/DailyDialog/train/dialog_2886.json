@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2886",
+  "segments": [
+    {
+      "text": "David , what's new with you ? You are not in the mood . Can you tell me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "After six months , my college life will come to the end . The following trouble will be the job-hunting . That's really a headache .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do not take things so seriously , my pal ! Every one of us will face the trouble and job-hunting is inevitable . Take it easy ! Believe in yourself and some day you will be successful .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "It sounds reasonable . Maybe I should look on the bright side .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

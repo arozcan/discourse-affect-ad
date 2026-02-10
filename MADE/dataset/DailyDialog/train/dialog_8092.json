@@ -1,0 +1,47 @@
+{
+  "id": "dialog_8092",
+  "segments": [
+    {
+      "text": "Good afternoon , it's nice to see you again . Have you decided to go ahead and try for the Fixed Asset Loan ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm going to need some more info first . I was wondering about the repayments . How long would I have to pay back the loan ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "That depends . Our repayment plans go from 1 year to 10 years . The Fixed Asset Loan is a long-term loan , you see . The loan can be paid in either monthly or quarterly instalments , to suit your needs .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "And how much is payable in each instalment ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "You will need to pay part of the principle sum and part of the interest due .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , as far as I can see , the advantages outweigh the disadvantages . You've sold me ! I'd like to go ahead .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_30",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "As I gaze at the garden outside, I can’t shake the feeling that the chaos in here is a stark contrast to that peaceful view.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46820783615112305
+    },
+    {
+      "text": "I see the woman’s dedication to her chores, and I admire that, but I also wish she would look around.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5270805954933167
+    },
+    {
+      "text": "The children’s excitement is palpable, but I can’t help but feel a little disgusted by their sneaky behavior.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7991234064102173
+    },
+    {
+      "text": "Why do they feel the need to steal cookies? They could just ask her.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5653210282325745
+    },
+    {
+      "text": "I’m surprised by how quickly the puddle is growing; it’s like it has a will of its own.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8775568008422852
+    },
+    {
+      "text": "There’s something thrilling about the risk they’re taking, yet it fills me with dread.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5074939131736755
+    },
+    {
+      "text": "I guess that’s what childhood is about: taking chances and living in the moment, even if it’s a little reckless.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6203456521034241
+    }
+  ]
+}

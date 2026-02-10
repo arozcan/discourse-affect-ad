@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4843",
+  "segments": [
+    {
+      "text": "Anna , Would you like to dance ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ d love to , but I ’ m a terrible dancer . I ’ m afraid I may step on your toes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Don ’ t worry about it . I ’ ll show you how . It ’ s a piece of cake .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you . I ’ ll try my best .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

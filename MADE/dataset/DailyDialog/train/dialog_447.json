@@ -1,0 +1,33 @@
+{
+  "id": "dialog_447",
+  "segments": [
+    {
+      "text": "Don ’ t be worried . Please sit down and take it easy .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "How could I feel easy ? I ’ m really pissed .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "But you should avoid finger-pointing when you haven ’ t got the real facts .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok . I ’ ll try my best to calm down first .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

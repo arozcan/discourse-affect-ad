@@ -1,0 +1,54 @@
+{
+  "id": "dialog_4712",
+  "segments": [
+    {
+      "text": "You did well on the math test .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Of course .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don ’ t you always fail in the math tests ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Things were different this time . I sat by a math genius .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Huh ? You mean you snuck a peek at his test ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "B :: Come on ! I just took a glance .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you crazy ? You were cheating .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 2
+    }
+  ]
+}

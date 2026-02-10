@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7019",
+  "segments": [
+    {
+      "text": "Excuse me , could you tell me how to get to the Cross Bakery building ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "The Cross Bakery building ? Oh sure . You're actually walking in the opposite direction .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , you're kidding ! I thought I was heading east .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , east is the other direction . To get to the Bakery , you need to turn around and go three blocks to Broadway . When you get to the intersection of Broadway and Elm , you hang a left . Go straight down that street for half a block and then you'll see the building on your left .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay , let me see if I've got that . I need to go down Elm until I hit Broadway , then I make a left and the building is on my left hand side . Is that right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , you've got it . Do you want me to show you the way ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Thanks for the offer , but I think I've got it . Hopefully , I won't get lost again on my way there !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

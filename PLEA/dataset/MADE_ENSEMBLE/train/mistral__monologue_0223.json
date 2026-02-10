@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0223",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water pouring out of the sink, and it’s making me so frustrated.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9395502805709839
+    },
+    {
+      "text": "The woman is just standing there, drying dishes like nothing is happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5264687538146973
+    },
+    {
+      "text": "Her foot is in the puddle, but she doesn’t even seem to notice.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.38505586981773376
+    },
+    {
+      "text": "I think the children are being so sneaky, taking cookies while she’s distracted.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45764100551605225
+    },
+    {
+      "text": "The boy is balancing on that stool, and it looks like it’s about to fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.622930109500885
+    },
+    {
+      "text": "The girl is watching him, her hand outstretched, ready to grab a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8989611268043518
+    },
+    {
+      "text": "I can’t believe how calm the woman is while everything around her is falling apart.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8971320390701294
+    },
+    {
+      "text": "The garden outside looks so peaceful, but inside, it’s pure chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.2875276207923889
+    },
+    {
+      "text": "I feel like I need to warn them before someone slips or falls.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47608011960983276
+    },
+    {
+      "text": "This whole situation is just waiting to go wrong.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4975375533103943
+    }
+  ]
+}

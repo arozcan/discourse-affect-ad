@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5370",
+  "segments": [
+    {
+      "text": "Could you explain the paper-making process to us - in very simple terms - please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , the pulp falls from a box onto the first part of the paper machine , which is basically a wire bed with large holes in it , where most of the water is extracted .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , is it actually paper at this stage ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it is . But we need to take out more water . So it then passes through a series of rollers , where more water is squeezed out . After that it goes through the dryers , which are at a very high temperature . The paper is then coated . And finally it's wound onto reels and cut down into smaller lengths .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

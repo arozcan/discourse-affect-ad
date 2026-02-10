@@ -1,0 +1,47 @@
+{
+  "id": "dialog_11097",
+  "segments": [
+    {
+      "text": "OK , Tom . It's your turn . Are you ready ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I really would rather just listen . Isn't there anyone else who wants to sing ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Come on ! In the two hours we've been here , you haven't sung even one song !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know , but ... Hey , Jim's here ! I've been waiting to hear him sing all night .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , you asked for it . Why don't you put on an Elvis song for him ? He loves ' The King ' .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'll put the song at the front of the list .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

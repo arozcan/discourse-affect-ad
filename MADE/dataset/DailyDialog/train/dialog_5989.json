@@ -1,0 +1,61 @@
+{
+  "id": "dialog_5989",
+  "segments": [
+    {
+      "text": "What was that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh no . I broke your vase accidentally .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "How did it happen ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I bumped it by accident , but I didn't mean to do it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "It was my favorite .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I feel miserable . Can I give you money for it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Maybe I shouldn't have put it here . Someone was bound to bump it eventually .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "First I was late for school this morning , and now I broke your vase . This isn't my day !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

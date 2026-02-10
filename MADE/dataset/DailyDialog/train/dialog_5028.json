@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5028",
+  "segments": [
+    {
+      "text": "Hey , Gary , great to see you again . Please have a seat . So tell me , what seems to be the problem ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Thanks , doc . I ’ Ve got a really bad toothache ! I can ’ t eat anything , and look , my face is all swollen . I think it might be my wisdom tooth .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , let ’ s have a look . Open wide . Hmm ... this doesn ’ t look good . Well , it looks like you have a cavity and your crown is loose . We ’ ll need to put in a filling before it gets any worse , and the crown probably needs to be refitted . I ’ m going to order some x-rays .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Is it gonna hurt ?",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , not at all ! Just lay back and relax .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , spit .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

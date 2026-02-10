@@ -1,0 +1,90 @@
+{
+  "id": "monologue_0884",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Oh man, that sink overflowing is gross; water everywhere like a flood.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5344252586364746
+    },
+    {
+      "text": "The woman drying the plate doesn't even glance down.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7509795427322388
+    },
+    {
+      "text": "Her foot's in the puddle—yuck, that's going to be slippery.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6238681674003601
+    },
+    {
+      "text": "Dishes stacked on the counter, probably getting wet too.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6552851796150208
+    },
+    {
+      "text": "Now the boy's on that stool, fishing for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9034018516540527
+    },
+    {
+      "text": "He's going to knock the whole jar over, what a mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5003308653831482
+    },
+    {
+      "text": "The girl's just standing there, hand out like it's no big deal.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4607333242893219
+    },
+    {
+      "text": "I hate how the cabinets are getting soaked inside and out.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5058066248893738
+    },
+    {
+      "text": "The window shows a pretty garden, but this kitchen's a swamp.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3854259252548218
+    },
+    {
+      "text": "If the stool tips, cookies and water will mix into slop.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6937849521636963
+    },
+    {
+      "text": "She's in her apron, acting like nothing's wrong—infuriating.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7790341377258301
+    },
+    {
+      "text": "This whole scene makes me want to clean it up myself.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4917798340320587
+    }
+  ]
+}

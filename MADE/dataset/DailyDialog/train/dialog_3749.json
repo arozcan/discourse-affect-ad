@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3749",
+  "segments": [
+    {
+      "text": "May I have your attention please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Would you please be quiet , Ladies and Gentlemen ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , my speech isn't very long . Would you please ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Quiet everybody !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

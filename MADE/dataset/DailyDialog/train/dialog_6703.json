@@ -1,0 +1,68 @@
+{
+  "id": "dialog_6703",
+  "segments": [
+    {
+      "text": "Good morning , sir . Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Good day . I ’ m looking for a one-bedroom apartment today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly . How much rent did you want to pay ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I didn ’ t want to pay more than $ 900 a month .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "$ 900 a month ? We don ’ t often have apartment as inexpensive as that . We have one apartment for $ 985 a month today , on Eleventh Avenue . It ’ s near the municipal buildings .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Is it furnished ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , it ’ s unfurnished . It has a kitchen , but there are not many cookers . There ’ s a garden in the back , but the tenants can ’ t use it . The landlord lives downstairs . Friends are forbidden in the apartment after midnight . No noise and no television after 11 ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , thank you ! I want to take an apartment , not a prison .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Ok , we would do as your requirement . And we ’ ll contact with you later !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    }
+  ]
+}

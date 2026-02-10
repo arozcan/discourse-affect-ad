@@ -1,0 +1,40 @@
+{
+  "id": "dialog_4872",
+  "segments": [
+    {
+      "text": "Excuse me . I've been waiting here for 15 mins . Do you know how often does No . 3 run ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , it runs every 20 mins . You must have missed it , when you came here . It should be here any minute now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "It seems that you have got here at a good time . Do you have a bus schedule ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I do . You can go to the Transport Department to get yourself a bus schedule and a bus route map .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see , thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

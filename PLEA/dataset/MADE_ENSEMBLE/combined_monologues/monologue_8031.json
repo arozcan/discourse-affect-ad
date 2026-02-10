@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8031",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I observe the kitchen with its warm daylight filtering in.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8579798936843872
+    },
+    {
+      "text": "The woman stands there, absorbed in drying her plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8863356113433838
+    },
+    {
+      "text": "Unbeknownst to her, the sink is flooding over.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.397697776556015
+    },
+    {
+      "text": "Water rushes down, pooling at her feet in a sad, wasteful mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5086843967437744
+    },
+    {
+      "text": "She's unaware, her neutral face focused only on the task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.863996148109436
+    },
+    {
+      "text": "Dishes are piled neatly nearby, innocent in the midst of it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8308916091918945
+    },
+    {
+      "text": "To the left, a boy balances precariously on the stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.919312596321106
+    },
+    {
+      "text": "He's reaching into the cookie jar, his small frame stretched thin.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9047670364379883
+    },
+    {
+      "text": "The girl waits patiently, her arm raised in hope.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.40818023681640625
+    },
+    {
+      "text": "It tugs at my heart, their innocent mischief turning risky.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5414745807647705
+    },
+    {
+      "text": "That unstable stool could lead to a painful fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4309154748916626
+    },
+    {
+      "text": "The open window reveals a serene garden, untouched by worry.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6526831984519958
+    },
+    {
+      "text": "I feel a pang for what might go wrong here.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8153405785560608
+    },
+    {
+      "text": "The contrast between outside calm and inside peril is heartbreaking.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5351175665855408
+    }
+  ]
+}

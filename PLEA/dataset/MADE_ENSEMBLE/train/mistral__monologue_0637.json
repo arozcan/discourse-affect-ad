@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0637",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water just pouring out of the sink, and the woman doesn’t even blink.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41986551880836487
+    },
+    {
+      "text": "Her apron is probably soaked by now, but she’s still drying that plate like nothing’s wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3911687433719635
+    },
+    {
+      "text": "The boy is so close to falling, and the girl is just standing there, waiting for a cookie.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4428336024284363
+    },
+    {
+      "text": "I feel bad for the woman—she’s going to have a mess to clean up later.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.48991236090660095
+    },
+    {
+      "text": "The kids are being so sneaky, and she has no clue.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.35766318440437317
+    },
+    {
+      "text": "The stool is wobbling, and I can’t watch—someone’s going to get hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5689435005187988
+    },
+    {
+      "text": "The water is ruining the cabinets, and she’s just standing there, oblivious.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.46768587827682495
+    },
+    {
+      "text": "I wish someone would just turn off the faucet before it gets worse.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5181305408477783
+    },
+    {
+      "text": "The garden outside looks so nice, but inside, it’s pure chaos.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4205317795276642
+    },
+    {
+      "text": "I hope the kids don’t get in trouble, but they probably will.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5182018876075745
+    }
+  ]
+}

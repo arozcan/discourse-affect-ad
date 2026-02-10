@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0760",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice the girl standing attentively, her arm raised, silently pleading for a cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8014270067214966
+    },
+    {
+      "text": "Her excitement is palpable, and it makes me smile.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9813611507415771
+    },
+    {
+      "text": "But I feel a wave of disappointment wash over me when I think about the sneaky way they’re getting the cookies.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8932266235351562
+    },
+    {
+      "text": "It’s so obvious that they shouldn’t be up to this mischief.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4259227216243744
+    },
+    {
+      "text": "I can't help but imagine what would happen if their mother caught them.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.400917112827301
+    },
+    {
+      "text": "The chaos would erupt, shattering their little bubble of joy.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.29557934403419495
+    },
+    {
+      "text": "It’s a moment of innocence, but also a moment on the brink of disaster.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.496248722076416
+    }
+  ]
+}

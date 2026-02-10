@@ -1,0 +1,33 @@
+{
+  "id": "dialog_396",
+  "segments": [
+    {
+      "text": "how are you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m fine , thanks . Just trying to get adjusted . It ’ s hard to keep track of everything around here .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s for sure . You ’ re new , too , huh ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah . I just got here a couple of days ago . How about you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    }
+  ]
+}

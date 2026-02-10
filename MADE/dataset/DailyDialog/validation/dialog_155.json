@@ -1,0 +1,82 @@
+{
+  "id": "dialog_155",
+  "segments": [
+    {
+      "text": "I hope you can help . I've got a bit of a problem with your ATM .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course , that's my job . Oh , dear . What's happened ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , it's eaten my card ! It won't give it back !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I see ... calm down , don't worry . May I ask what were you doing when it took your card ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . I was only entering my PIN . I'm terrible at remembering it , I'm so forgetful , you see .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Mmmm ... and exactly how many times did you enter it , please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Maybe three times . As I said , I always forget it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ah ! Don't worry ; it's just a security measure . If someone uses a card and cannot get the right PIN after three attempts , the bank keeps the card in case it's stolen . Just contact the bank and we'll get it back to you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , I see . So if I call my branch they can sort everything out for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , they'll be happy to help . Believe me , it happens to many people .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'd better try harder to memorise my PIN in future . Thanks .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

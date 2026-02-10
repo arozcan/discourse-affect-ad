@@ -1,0 +1,61 @@
+{
+  "id": "dialog_7599",
+  "segments": [
+    {
+      "text": "Mr . Lee , all ready to check out ? We ’ Ve already prepared your bill , and housekeeping has done a quick check of the room . How will you be paying ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ d like to use my Master Card , if I could . Hey , wait a minute ! This is a bit more than I expected . Why is it so high ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "The bill is itemized , so take some time to look through it and make sure we ’ Ve charged you for the correct services . Most of your extra charges were for phone calls and room service .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "What ’ s this here – “ house stock ” ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "That ’ s the mini-bar . Each day we check what ’ s missing and restock it . The items you consume are put on your bill .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I had no idea – and look at these charges for movies !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Those are for pay-per-view movies . Each time you selected a movie , the entertainment system prompted you to confirm that you really wanted it , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , that ’ s right . But I had no idea I would be charged for all this . Thank goodness my company will let me reimburse all this .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

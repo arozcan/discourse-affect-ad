@@ -1,0 +1,75 @@
+{
+  "id": "dialog_8962",
+  "segments": [
+    {
+      "text": "Hey honey , how was your day ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It was alright . I ran into Bill and we got to talking for a while.He ’ s in a bit of a jam .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why ? What happened ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , his son had an accident and Bill doesn ’ t have health insurance . This really got me thinking , and I wondered if we shouldn ’ t look into a couple of different HMO ’ s .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , you ’ re right . We aren ’ t getting any younger and our kids are getting older .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Exactly ! I searched on the web and found a couple of HMO ’ s with low co-pays and good coverage . The deductibles are low , too .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sounds good , although , do you think we can qualify for insurance ? Those insurance companies are real pirates when it comes to money .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , we don ’ t have any pre-existing illnesses or conditions , so we should be fine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "I wish our company or country provided us with healthcare .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Not in a million years !",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

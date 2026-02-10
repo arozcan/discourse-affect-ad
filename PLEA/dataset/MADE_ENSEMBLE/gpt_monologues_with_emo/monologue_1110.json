@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1110",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice that the sunlight streaming through the window creates little rainbows on the floor, a beautiful contrast to the chaos.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7964302897453308
+    },
+    {
+      "text": "It’s funny how something so mundane can suddenly seem magical, despite the mess.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8957933783531189
+    },
+    {
+      "text": "But then I remember the water trickling down, and my heart sinks again.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8402832746505737
+    },
+    {
+      "text": "There’s a sense of innocence in what the kids are doing, a reminder of simpler times, yet it feels so risky.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4674444794654846
+    },
+    {
+      "text": "The woman’s indifference bothers me; how can she not see her children’s precarious act?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.40889620780944824
+    },
+    {
+      "text": "It’s as if she’s living in one world, while they’re dancing dangerously in another.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5729029178619385
+    },
+    {
+      "text": "I can’t help but think that maybe, just maybe, chaos can lead to something beautiful too, like laughter or a sweet cookie shared.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8638407588005066
+    }
+  ]
+}

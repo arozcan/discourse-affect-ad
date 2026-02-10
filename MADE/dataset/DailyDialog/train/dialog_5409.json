@@ -1,0 +1,61 @@
+{
+  "id": "dialog_5409",
+  "segments": [
+    {
+      "text": "I think we have everything in the contract . Shall we sign it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Wait a minute . I think we have missed an important point . We should include an arbitration clause in the contract .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I believe we can solve disputes through an amicable negotiation .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I hope so . too . But I still think the provision of arbitration is of great importance to both of us .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . I agree with you . But where do we hold arbitration ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I suggest the arbitration be held in a third country .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "It sounds reasonable . The clause should be like this - any disputes arising from the execution of this contract shall be settled in a friendly way . If no settlement can be reached through consul - nation and conciliation , the disputes shall be submitted for arbitration by a mutually nominated arbitrator . The arbitrator's decision on the dispute is final and binding on the both parties .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

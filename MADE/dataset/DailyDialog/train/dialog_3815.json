@@ -1,0 +1,47 @@
+{
+  "id": "dialog_3815",
+  "segments": [
+    {
+      "text": "Anna , that outfit looks wonderful on you ! The color goes with your trousers perfectly .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks , Carla . That's quite a compliment coming from you . You always dress so tastefully .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , that dress certainly shows your good taste . It must have cost a lot .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , not much . I got it on sale at the mall - 60 % off .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? You're an amazing bargain hunter ! Next time there's a sale , promise you'll let me tag along with you .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's a promise .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

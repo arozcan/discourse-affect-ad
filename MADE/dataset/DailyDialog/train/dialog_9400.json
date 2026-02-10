@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9400",
+  "segments": [
+    {
+      "text": "Julia , what time is it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Eight o'clock . It's time for you to get up and have breakfast .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , my God ! I'm going to be late ! I have no time to have breakfast now . ( Hurry on his clothes . )",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "You won't go to work today , Steven , It's Sunday . Come and have breakfast now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , I have a poor memory now . I haven't had enough sleep lately . I had a bad dream just now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "You have been too tired recently , darling . That's why I didn't wake you up this morning . After breakfast , you can go to sleep again .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . I really need to have a good rest .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

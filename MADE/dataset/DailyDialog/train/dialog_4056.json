@@ -1,0 +1,54 @@
+{
+  "id": "dialog_4056",
+  "segments": [
+    {
+      "text": "Is there anything wrong with your food this evening , Miss ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sorry to trouble you . But I don't think this fish is fresh . It actually tastes a bit off .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sorry , Miss . I'll place it immediately , can I get you another drink , or you wait ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , please don't do that . I'd just like to return it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'm sorry , Miss , but I'm afraid we can't do that . You'll order something else instead . I'd love to suggest the steak , it's the special today , and quite tasty .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok , then please bring me the steak mediun-rare , thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , Miss . I hope you enjoy the rest of your dinner .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

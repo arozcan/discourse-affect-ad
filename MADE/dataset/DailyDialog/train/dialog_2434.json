@@ -1,0 +1,40 @@
+{
+  "id": "dialog_2434",
+  "segments": [
+    {
+      "text": "Well , Mike , nowadays there's much talk about nanometer . But what on earth is it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Nanometer is a length scale . It's one billionth of a meter , roughly ten times the size of an individual atom .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hmm ... it's hard to figure out the exact size , I'm afraid .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , let's make it this way . For comparison , 10 NM is 1000 times smaller than the diameter of a human hair . There are as many nanometers in an inch as there are inches in 400 miles .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see.Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

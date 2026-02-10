@@ -1,0 +1,90 @@
+{
+  "id": "monologue_0819",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Oh no, look at that sink; water is just gushing out everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6418478488922119
+    },
+    {
+      "text": "The woman is drying dishes but she has no idea about the flood happening right under her nose.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.329817533493042
+    },
+    {
+      "text": "Her foot is in the puddle already, and the floor must be so slippery.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40708449482917786
+    },
+    {
+      "text": "I can imagine her slipping and falling hard on those wet tiles.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4012131989002228
+    },
+    {
+      "text": "Then there's that boy on the stool; it's tilting backward dangerously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.28723055124282837
+    },
+    {
+      "text": "If it tips, he'll come crashing down with cookies flying everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.45138493180274963
+    },
+    {
+      "text": "The girl is right there too, reaching up, so she might get hurt as well.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4137504994869232
+    },
+    {
+      "text": "The cabinets are getting soaked from the overflow; this could ruin everything.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5428605079650879
+    },
+    {
+      "text": "Outside the window, the garden looks so peaceful, totally unaware of the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4875026047229767
+    },
+    {
+      "text": "The kids are sneaking cookies, which is cute but so risky right now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7376710176467896
+    },
+    {
+      "text": "I hope someone turns off that faucet before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5024235248565674
+    },
+    {
+      "text": "This whole scene is just begging for an accident to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.29479286074638367
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0729",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the kitchen's warm light from the open window.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6746723055839539
+    },
+    {
+      "text": "The woman stands there, towel in hand, drying her plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8634084463119507
+    },
+    {
+      "text": "She's completely unaware of the water gushing from the faucet.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6780526638031006
+    },
+    {
+      "text": "It's spilling over, ruining the floor and cabinets slowly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3086312711238861
+    },
+    {
+      "text": "Her foot in the puddle tugs at my heart— she'll slip soon.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3978513777256012
+    },
+    {
+      "text": "Now the children, they're climbing for cookies secretly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6128787398338318
+    },
+    {
+      "text": "The boy's on that teetering stool, so dangerously high.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.46103963255882263
+    },
+    {
+      "text": "What if he falls and gets hurt? It breaks my heart.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49681732058525085
+    },
+    {
+      "text": "The girl looks so eager, but this could end badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.31914573907852173
+    },
+    {
+      "text": "They're breaking rules, taking cookies without asking.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.779777467250824
+    },
+    {
+      "text": "The peaceful garden view contrasts this sad indoor neglect.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5016252994537354
+    },
+    {
+      "text": "I feel sorry for the potential accidents no one's preventing.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9746377468109131
+    },
+    {
+      "text": "This scene just makes me wish for more attention here.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5284790992736816
+    }
+  ]
+}

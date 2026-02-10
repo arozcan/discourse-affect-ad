@@ -1,0 +1,89 @@
+{
+  "id": "dialog_10636",
+  "segments": [
+    {
+      "text": "Welcome to Lincoln Bank . What can we do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Morning . I'm a new user of your credit card and I was wondering if I'm taking full advantage of it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , there certainly are many benefits that go along with our credit card .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , of course . It's so much easier than cash , to be honest ; nowadays I hardly ever use cash . I just put it on the card and pay off the balance every month .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "You know it is not necessary to pay the balance in full every month .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , you will see on your monthly bill and statement the amount in full but also the minimum payment .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , if for some reason I was having a bad month and spent a little too much I could just pay the minimum ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . As long as you keep making regular monthly payments , paying the minimum is just fine . Of course , your credit limit will be lowered accordingly .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "How so ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "For example , if your credit limit is 5,000 RIB and you owe 1,000 RIB , your available credit will be 4,000 RIB . So , your credit limit drops .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I see . Well , I don't plan on only paying the minimum , but it's good to know that I can if I had to . Thanks for that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

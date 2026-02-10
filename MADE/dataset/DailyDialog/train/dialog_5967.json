@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5967",
+  "segments": [
+    {
+      "text": "Our current apartment is valued at RIB 700,000 . We can sell it and put that money towards buying the new apartment .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , but we still need RIB 500,000 . Maybe we can use some of our savings to pay part of it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "And we can take out a loan to pay the rest .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Great , so we can afford the new apartment after all !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Uh huh ... but we're going to have to cut back on our shopping from now on .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

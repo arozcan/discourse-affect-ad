@@ -1,0 +1,89 @@
+{
+  "id": "dialog_9172",
+  "segments": [
+    {
+      "text": "Hi ! I see you are having fun with your new computer and internet connection .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "There ’ s so much I want to do . I ’ Ve just finished sending lots of emails to friends and family all over the world . I just ran a search for music to download .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I can give you the name of a few useful website to visit .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks . That would be very helpful . I ’ Ve discovered that it can take a long time to find exactly what you want . There ’ s too much information on the net .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "When you sent your emails , did you attach any files to them ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I did . There ’ s an anti-virus programme with my email account that scans all attachments , so I ’ m sure I haven ’ t sent anything nasty to anyone .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "When you use the internet , be careful not to give out your email address very often . If you do , you might get a lot of spam-unwanted email form companies trying to sell you things .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s good advice . I should also be careful about giving out confidential information about myself , such as my password and credit car number .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "That ’ s right . Another thing to remember when you are surfing is that you can add a web page to your list of favourites . Your computer will remember the page and you can return there quickly next time",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "How do I do that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Take this web page for example . Press the keys control and d together . Click on favourites at the top of the screen . There you are . It has been added to you favourites list . If you click it , you will",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s useful to know . Thanks . I ’ ll just log off and shout down my computer and we can go for a coffee .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 4
+    }
+  ]
+}

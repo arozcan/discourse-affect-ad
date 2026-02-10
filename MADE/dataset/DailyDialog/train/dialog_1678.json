@@ -1,0 +1,54 @@
+{
+  "id": "dialog_1678",
+  "segments": [
+    {
+      "text": "Have you noticed the Mexican restaurant on the other side of this street ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You mean the one with the yellow bricks ? But last time I saw it , it wasn ’ t really in business yet . I saw some people inside furnishing the rooms . Is it open now ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , someone give me a pamphlet introducing the restaurant and its business hours when I passed by this morning.So , let ’ s have a try . My treat .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Great , I like the idea of trying some new food .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Good for you . Today we have more chances to try some new food because there are now many new form restaurants in our city coming from places all over the world .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Also some traditional Chinese food , like noodles and dumpling are marketed in modern ways with improved food quality . I heard this year , the government has imposed very stringent inspection on the hygiene conditions restaurants and suppliers of food are also under tighter control .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "For sure all the customers will benefit from this .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

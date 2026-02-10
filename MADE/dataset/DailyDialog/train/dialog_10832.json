@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10832",
+  "segments": [
+    {
+      "text": "Could I ask you for a favor ? My laser printer is out of ink and I need to print out something urgent . If you don ’ t mind , I would like to send you these files . Could you then print these for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , just send me through internal mail .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks , Vivian .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "No problem at all . Welcome .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

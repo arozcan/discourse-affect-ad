@@ -1,0 +1,75 @@
+{
+  "id": "dialog_8534",
+  "segments": [
+    {
+      "text": "Excuse me , can you tell me the way to Holton railway station ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . It ’ s quite far from here . Don ’ t worry , though . It ’ s not difficult to get there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I think I ’ m going in the wrong direction , aren ’ t ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . First , you need to turn around . Do you remember passing some traffic lights further up this road ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I do . They are about two miles away , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "That ’ s right . Drive back to the traffic rights and turn right . Follow the road for about a mile , until you see the plaza hotel . It ’ s a really big hotel . You can ’ t miss it . Turn left at the hotel .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "So , right at the traffic lights two miles up the road , then left at the plaza hotel , a mile along that road . Got it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Then you just go straight on until you see the station ahead of you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok . Got it . Thanks for you help .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "No problem .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

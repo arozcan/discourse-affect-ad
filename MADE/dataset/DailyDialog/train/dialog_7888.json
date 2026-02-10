@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7888",
+  "segments": [
+    {
+      "text": "Good afternoon . Lotus Catering Company . Lilian speaking . May I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Good afternoon . Lilian . This is Tom Baker over at Beck ’ s Trading company . We need to arrange a banquet for next Wednesday afternoon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see , Mr . Baker . How many people are you planning to invite and how much would you like to spend per person ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well . We ’ re expecting about twenty-five people and we ’ d like to spend no more than $ 20 a head .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

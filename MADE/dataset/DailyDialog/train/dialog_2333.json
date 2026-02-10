@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2333",
+  "segments": [
+    {
+      "text": "I ’ m sorry , but I can ’ t find the book that you lend me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , that ’ s alright .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I must apologize . I ’ ll buy you a new one tomorrow .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No . Please don ’ t . I couldn ’ t let you do that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

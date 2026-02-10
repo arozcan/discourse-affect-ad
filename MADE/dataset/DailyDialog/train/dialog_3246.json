@@ -1,0 +1,47 @@
+{
+  "id": "dialog_3246",
+  "segments": [
+    {
+      "text": "I am thinking about inviting you to a dinner . When would you have time ? And what kind of food do you fancy ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "That would be great . I am really in the mood for a spicy hotpot . Any special reason for the invitation ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "To thank you for helping me at work last week . If you would not have been so kind , I would not have been able to pick my parents from the airport . You really did me a big favor . Thank you so much .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "It was my pleasure . How about this evening ? I feel very hungry now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine , I know a good hotpot place in the downtown area , food there is pretty spicy too . Shall we try that one ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok with me . You are the boss . I will meet you downstairs after work .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

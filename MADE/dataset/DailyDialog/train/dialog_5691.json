@@ -1,0 +1,54 @@
+{
+  "id": "dialog_5691",
+  "segments": [
+    {
+      "text": "The order is so urgently required that we have to ask you to speed up shipment . If shipment is too late , we'll have to turn to other suppliers .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry , but we can't advance shipment . The manufacturers are fully committed . They have no stock on hand .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Can you find some way for an earlier delivery ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "How's this then ? We propose partial shipment . We can ship whatever is ready to meet your urgent need instead of waiting for the whole lot to get ready .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sounds like a good idea .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "We propose to deliver 50 % in June and the balance in Aug .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "I agree with your proposal .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

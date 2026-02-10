@@ -1,0 +1,76 @@
+{
+  "id": "monologue_1340",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I feel a sense of calm looking at the garden outside the window, it's so peaceful.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8789308071136475
+    },
+    {
+      "text": "The path with the low bushes on both sides, it looks like a lovely place to take a walk.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5928067564964294
+    },
+    {
+      "text": "But then I look inside the kitchen, and it's a completely different story.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6017398238182068
+    },
+    {
+      "text": "The sink is overflowing, and the water is just pouring out onto the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.48793327808380127
+    },
+    {
+      "text": "The woman is standing there, drying a plate, completely unaware of the mess around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3507150709629059
+    },
+    {
+      "text": "It's like she's in her own little world, not noticing anything else.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6263778209686279
+    },
+    {
+      "text": "The children are being so mischievous, trying to get cookies without her knowing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.49422383308410645
+    },
+    {
+      "text": "The boy is standing on that unstable stool, and it makes me feel a bit anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6500797867774963
+    },
+    {
+      "text": "I hope he doesn't fall and hurt himself, that would be terrible.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6646300554275513
+    },
+    {
+      "text": "But despite all the chaos inside, the garden outside still looks so calm and inviting.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6630953550338745
+    }
+  ]
+}

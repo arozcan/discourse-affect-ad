@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0667",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I feel a twinge of sadness watching the woman completely unaware of the mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9420160055160522
+    },
+    {
+      "text": "She seems to be in her own little world, so focused on drying that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8498209714889526
+    },
+    {
+      "text": "It's almost poetic in a way, the contrast between her calm and the chaos behind her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5359400510787964
+    },
+    {
+      "text": "The children, meanwhile, are planning their mischief.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8761290311813354
+    },
+    {
+      "text": "I notice how the water keeps pooling, a literal hazard at her feet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6051111817359924
+    },
+    {
+      "text": "They could all slip and fall, and it would be such a shame.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.48698779940605164
+    },
+    {
+      "text": "This kitchen, filled with warmth and laughter, could become a scene of accidents.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.33516451716423035
+    }
+  ]
+}

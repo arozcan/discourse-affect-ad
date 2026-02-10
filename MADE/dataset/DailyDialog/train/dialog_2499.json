@@ -1,0 +1,26 @@
+{
+  "id": "dialog_2499",
+  "segments": [
+    {
+      "text": "Would you mind going to dinner with me tonight ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'd love to go out with you , but I'm sorry I'm busy tonight , but I'd like a rain check .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

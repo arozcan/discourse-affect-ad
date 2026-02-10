@@ -1,0 +1,75 @@
+{
+  "id": "dialog_6961",
+  "segments": [
+    {
+      "text": "Excuse me sir.May I come in ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Mike , you're late again .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry , but my sister was ill , so I",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you think I believe the story like that ?",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "But it's true .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "How can believe it if the same excuse was used twice within a week ?",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's coincidence 。",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok , hold it . Remember to be punctual next time 。",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "I promise I will .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "You'd better .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10009",
+  "segments": [
+    {
+      "text": "John , I ’ Ve asked you not to smoke in here ! I don ’ t want to see you smoking in my office again .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m sorry , Ms . Fairbanks . I won ’ t let it happen again .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "That ’ s what you said the last time ! If you want to smoke , you ’ ll have to use your break time and go outside !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I understand , Ms . Fairbanks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

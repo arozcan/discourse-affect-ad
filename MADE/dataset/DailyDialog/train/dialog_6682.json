@@ -1,0 +1,145 @@
+{
+  "id": "dialog_6682",
+  "segments": [
+    {
+      "text": "Good morning , sir . How may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Good morning ! Do you have any rooms available at the moment ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , we do . What kind of room would you like ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'd like a suite for four nights .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Please wait a moment while I check availability . Ah , I'm sorry , sir . We only have a double room available now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's all right . How much do they cost ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Each night costs 320 RIB , but for a four night stay , we can offer a discount of 15 % .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "How much in total ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "1088 RIB .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is breakfast included ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it is . You also have free use of the leisure facilities here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's fine . I'll get it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . Please fill out this form with your details .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 3
+    },
+    {
+      "text": "I would like to pay by cash . Do I need to pay a deposit ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , you do . There is a 300 RIB deposit , which we will refund when you check out . So , in total , you need to pay 1388 RIB .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine . Here you are .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you . Here's your key and receipt . Your room number is 408 . A porter will take your luggage to your room . The elevator is just around the corner .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 16,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you very much .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 17,
+      "dialog_act": 1
+    },
+    {
+      "text": "It is my pleasure , sir . I wish you a pleasant stay here . Goodbye !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 18,
+      "dialog_act": 1
+    },
+    {
+      "text": "Bye-bye !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 19,
+      "dialog_act": 1
+    }
+  ]
+}

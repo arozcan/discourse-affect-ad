@@ -1,0 +1,117 @@
+{
+  "id": "dialog_8930",
+  "segments": [
+    {
+      "text": "Hi , I come to pick up my laundry . This is the invoice .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here you are . We've ironed them for you already . Please check and see if there is any damage .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid that a button is missing .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'm terribly sorry . You know we are so busy today and we forget to sew the button back on . Please wait a moment . It will be ready soon .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Would you like to have a look ? Is it to your satisfaction ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , oh my God , there is another problem , I'm afraid . There is still a stain on the shirt .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "It doesn't seem like that . Sorry , sir , we've tried everything , but we're not able to get it off the shirt . It was from the sugar I think .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's been several days now , I am not sure .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , the sugar was burnt during the dry-cleaning process . And there you go .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , that's so bad . I know little about that . Is there a remedy for it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am awfully sorry . Please tell us about the stains before the dry-cleaning next time .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , I will .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 4
+    },
+    {
+      "text": "This is a membership card . You can get a 20 percent discount next time .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks a lot .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hope to see you again . We will provide the best service .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 1
+    }
+  ]
+}

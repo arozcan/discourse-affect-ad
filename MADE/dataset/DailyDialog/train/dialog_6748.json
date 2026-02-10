@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6748",
+  "segments": [
+    {
+      "text": "John ! Wait a second ! I was just heading downstairs for a cup of coffee . You want to come ? I ’ Ve got some good news !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . Let me just grab my wallet . You certainly do look happy this morning .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I am . Don ’ t worry about getting your wallet . It ’ s my treat .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "This is a first ! You must have won the lottery .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

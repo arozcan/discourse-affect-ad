@@ -1,0 +1,61 @@
+{
+  "id": "dialog_9326",
+  "segments": [
+    {
+      "text": "How can I help you today , Sir ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I set up the Personal Wealth Management Service with you , but I'm going to be travelling overseas . I'm not quite sure what I should do . I mean is it possible to still use the service ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's not a problem . You can use that service wherever you are , it doesn't matter which country you are in at the time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? In that case , could I have the number of the Service Centre please ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course . It's 33234 . That will put you in touch with a Personal Banker .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "And they can deal with everything ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's the beauty of the service ; they can deal with everything , with total security .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's good to know . Thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

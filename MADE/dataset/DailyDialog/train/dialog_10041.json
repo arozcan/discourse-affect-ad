@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10041",
+  "segments": [
+    {
+      "text": "Would you like me to show you our new cleaning unit ? It's a clever design .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I'd like to see that . What does it clean exactly ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It washes the solvent off all the metal parts - the blades , trays etc . - and then sends it back into the system .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What does the unit consist of ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , it's basically two tanks – one for the dirty solvent and one for the clean solvent , a pump and a washing unit . Oh , and there ’ s a cooling system and a filter . It's all controlled by a PLC system – that stands for Process Logic Control .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

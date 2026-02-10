@@ -1,0 +1,138 @@
+{
+  "id": "dialog_1604",
+  "segments": [
+    {
+      "text": "What would you say if I told you I was going to quit school ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ d say , think twice about it . Well , you are not going to quit school , are you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't know . I failed my exam .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What did you get ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "A B plus .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's not bad .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "But I should have aced it . I mean I finished the paper so quickly , thinking it's a piece of cake . But when I knew my result , I was like what ? That can't be true !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Listen , John . I understand that you are such an excellent student and I know you must have lots of stress , but you really want to give up ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I don't . I just don't know how to handle this . This is my first time , you know .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know . Don't worry . Do you know what you should do ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "What ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "You need to blow off some steam . The world is not on your shoulder .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "How ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 2
+    },
+    {
+      "text": "Forget about school and exams . Come over to my house and have fun . I have some really good DVDs .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks . But I really don't feel like watching movies tonight . I have to get an early start in the morning .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 4
+    },
+    {
+      "text": "Then go to bed and have a good sleep .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 3
+    },
+    {
+      "text": "I guess that's what I need . Thanks . You're being a really good friend .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 16,
+      "dialog_act": 4
+    },
+    {
+      "text": "Of course I am . Well , pleasant dreams !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 17,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks , bye .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 18,
+      "dialog_act": 1
+    }
+  ]
+}

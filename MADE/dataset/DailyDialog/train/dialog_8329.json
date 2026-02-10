@@ -1,0 +1,26 @@
+{
+  "id": "dialog_8329",
+  "segments": [
+    {
+      "text": "I'd like to have steak and a beer .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Would you like it rare , medium or well-done ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well-done , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

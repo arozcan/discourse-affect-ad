@@ -1,0 +1,104 @@
+{
+  "id": "monologue_1487",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I'm watching this kitchen scene, and it makes me uneasy.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4468368887901306
+    },
+    {
+      "text": "The sink is overflowing, water cascading down like a waterfall.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5505041480064392
+    },
+    {
+      "text": "The woman doesn't see it; she's too absorbed in her dish.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5681450366973877
+    },
+    {
+      "text": "That puddle on the floor could make anyone slip.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.494759738445282
+    },
+    {
+      "text": "Now the boy on the stool—it's tilting backward dangerously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6926398873329163
+    },
+    {
+      "text": "He's grabbing cookies from the jar, one hand barely holding on.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9050351977348328
+    },
+    {
+      "text": "If he falls, it'll be a disaster with the wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5583799481391907
+    },
+    {
+      "text": "The little girl is right there, waiting eagerly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6720888018608093
+    },
+    {
+      "text": "She might get knocked over too in the chaos.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5602091550827026
+    },
+    {
+      "text": "The open window shows a calm garden, so contrasting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6832822561264038
+    },
+    {
+      "text": "I hope the mom turns around soon and stops this.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5444846749305725
+    },
+    {
+      "text": "It's all so precarious; my heart is racing just looking at it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6628875136375427
+    },
+    {
+      "text": "Those poor cabinets are drenched already.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4828813672065735
+    },
+    {
+      "text": "This could end in tears for everyone.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4731689989566803
+    }
+  ]
+}

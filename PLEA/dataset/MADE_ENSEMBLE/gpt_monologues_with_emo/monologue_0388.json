@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0388",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the bright sunlight streaming through the window, illuminating the kitchen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.730460524559021
+    },
+    {
+      "text": "The garden outside looks peaceful and tidy, contrasting sharply with the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4576629400253296
+    },
+    {
+      "text": "I notice the woman diligently drying a plate, completely immersed in her task, and it somehow makes me feel warm inside.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.698508620262146
+    },
+    {
+      "text": "But then I see the water pooling around her feet, and my heart sinks as I realize how much she’s missing.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8684337735176086
+    },
+    {
+      "text": "I can’t help but envy her ability to focus on something so simple and mundane while the world falls apart around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4735611081123352
+    },
+    {
+      "text": "The kids are busy plotting their cookie theft, and I can feel my stomach churn at the thought of what could go wrong.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.27601826190948486
+    },
+    {
+      "text": "It’s a funny scene—so full of life and yet filled with risk.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9697470664978027
+    }
+  ]
+}

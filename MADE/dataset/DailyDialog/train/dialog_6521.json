@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6521",
+  "segments": [
+    {
+      "text": "Ladies and gentlemen , our flight will be delayed for one hour due to the congestion of the airport .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Excuse me , Miss.What did the announcement say ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "We'll be delayed for one hour , because the airport is very crowded .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "No kidding ! We'll miss the connecting flight .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , will you ? That's too bad.We ' re very sorry to cause you a lot of trouble .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I really have to get to Paris by this evening.Would you please try to find any other available flight ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

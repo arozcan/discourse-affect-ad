@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7267",
+  "segments": [
+    {
+      "text": "morning , Mary ? It ’ s John Kramer calling . You remember you handled my tax forms for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course , Mr . Kramer . How are things going these days ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Better than ever ! You won ’ t have to worry about “ finding ” extra money for me anymore ! We made nearly a quarter of million in profit last year !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Congratulations ! I ’ m really glad to hear it ! That should make balancing the books a lot easier !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

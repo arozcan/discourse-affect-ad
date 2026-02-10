@@ -1,0 +1,68 @@
+{
+  "id": "dialog_3161",
+  "segments": [
+    {
+      "text": "Are you doing something on Saturday evening ? If not , welcome to my new apartment .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "You moved to a new place ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I have been busy emptying the packing boxes and cleaning up the mats . Right now , it looks like a home . I would like to have a small celebration party . Please do come .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you for inviting me . Sounds lovely ! I would like to come . Where is your new apartment ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "It is in the DX community , Room 306 , No . 2 building . It is very easy to find . Just ask the guard at the entrance .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Who else will come ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "I invited all the colleagues in our department and also my former neighbor , Paul . He is a very good person . You should meet him .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , I will be there around 6 . Is that ok for you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , great . I am happy you are coming .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 4
+    }
+  ]
+}

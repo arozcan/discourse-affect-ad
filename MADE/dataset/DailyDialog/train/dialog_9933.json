@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9933",
+  "segments": [
+    {
+      "text": "Hello there , Sir . I've dealt with you before , haven't I ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You remember me ! Yes , I'm with Li Wang Enterprises ; I'm the Accountant Peters .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , of course , Mr Peters ! Good to see you again . What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , we've just acquired a new business so we need to set up a lot of services with you . We are particularly interested in Agent Services .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see . We offer Agent Services free of charge here . Before your new business begins trading , we could , on behalf of your existing company , do a series of registration and get the certificates you need . If you are unsure of the local laws , that is .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

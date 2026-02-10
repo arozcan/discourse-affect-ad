@@ -1,0 +1,61 @@
+{
+  "id": "dialog_4844",
+  "segments": [
+    {
+      "text": "Mary ! I haven ’ t seen you since our dinner with Mr . Lee last week . Where have you been hiding yourself lately ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , hi Mike . I ’ Ve been out of town the last few days . What did you need ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Really , nothing big . I just heard about your ideas on employee motivation and I wanted chat with you about a few things going on in my department .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , feel free to drop by my office any time . The door ’ s always open .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Actually , I was hoping to mix business with pleasure . Would you be interested in joining me for dinner some time this week ? I thought we might try out the new Italian restaurant everyone ’ s been",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , Mike , I ’ d love to .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Is this evening too soon ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , that ’ s perfect . We can leave directly from here .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

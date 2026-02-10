@@ -1,0 +1,54 @@
+{
+  "id": "dialog_3700",
+  "segments": [
+    {
+      "text": "Hello there ! Come on in ! Don ’ t just stand there ! Come and take a seat !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Um , okay . Well , I just want a trim . Nothing too fancy .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh my gosh ! Your hair is amazing ! So silky , so shiny ! I am going to work my magic on your hair ! You hear me ? You are going to look like a million bucks !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay . Um ... can you make sure my sideburns are even and you just take a little off the top .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Don ’ t you worry , I ’ ll take care of everything ! Oh my god ! I just love your curly hair ! It ’ s so fluffy and cute ! You should totally let it grow out . An afro would look great on you !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Um ... no .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay , but you are going to be my masterpiece !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

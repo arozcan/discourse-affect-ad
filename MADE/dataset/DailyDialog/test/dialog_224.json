@@ -1,0 +1,33 @@
+{
+  "id": "dialog_224",
+  "segments": [
+    {
+      "text": "Hello . Can you tell me what the procedures of applying for a job are ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , of course . There are many steps . You can apply for the job on the Internet and then send your resume to the e-mail address of the company . And wail the feedback of the company .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What is the qualification needed by the position ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You must have over 2 years'experience first .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

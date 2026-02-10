@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7477",
+  "segments": [
+    {
+      "text": "Let's cross here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "You're kidding . We'll never make it across in one piece ! Let's cross at the light .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Now we have to walk all the way down to the end of the street .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "If you want to cross here , be my guest . I don't feel like dodging cars and scooters !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

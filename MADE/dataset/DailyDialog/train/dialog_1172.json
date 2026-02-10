@@ -1,0 +1,47 @@
+{
+  "id": "dialog_1172",
+  "segments": [
+    {
+      "text": "OK , Mr . Wu . You may come in . I'm Anne Smith and on my right , my colleague , Anna Duncan , and on my left , Angela Lamb . Do please sit down .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you . Good afternoon Mrs . Smith , Miss Duncan , Miss Lamb .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Your English is fluent .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "How do you think of the weather today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't like the weather like this . Cold and rainy . Hope it become sunny as soon as possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

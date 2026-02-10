@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0022",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water spilling over the sink, and it’s making me nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9635601043701172
+    },
+    {
+      "text": "The woman is just standing there, drying a plate like nothing is wrong.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4277021288871765
+    },
+    {
+      "text": "Her foot is in the water, but she doesn’t seem to care.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6609724164009094
+    },
+    {
+      "text": "I can’t understand how she’s missing something so obvious.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8082754015922546
+    },
+    {
+      "text": "The kids are sneaking cookies, and she’s completely unaware.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5861793756484985
+    },
+    {
+      "text": "The boy is going to fall off that stool if he’s not careful.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.32150983810424805
+    },
+    {
+      "text": "The whole kitchen is a mess, and no one is doing anything about it.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7752635478973389
+    },
+    {
+      "text": "I feel like I’m watching a slow-motion accident.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4823143780231476
+    },
+    {
+      "text": "The contrast between the calm garden outside and the chaos inside is striking.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4234275221824646
+    },
+    {
+      "text": "I hope someone notices before it’s too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49956899881362915
+    }
+  ]
+}

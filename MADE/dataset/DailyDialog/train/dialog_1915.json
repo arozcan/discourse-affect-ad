@@ -1,0 +1,26 @@
+{
+  "id": "dialog_1915",
+  "segments": [
+    {
+      "text": "Jane is going to quit her job in the bank .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "You must be joking . The job is nice and she is well paid .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's true , but she says she is tired of counting others ' money .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

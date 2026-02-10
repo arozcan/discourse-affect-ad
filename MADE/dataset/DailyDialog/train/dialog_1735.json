@@ -1,0 +1,110 @@
+{
+  "id": "dialog_1735",
+  "segments": [
+    {
+      "text": "so , how should we go to the theatre ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "let's take the bus .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I hate the bus system in London ! The bus drivers are rude , the buses are never on time , and there are few people around who can help you .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "it's not that bad . You probably just had a bad experience once .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "it wasn't just once . Every single time I take the bus , something bad happens to me or to someone else on the bus .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "we could take the subway , but we'd have to go three stops along one line and then change trains twice .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "train fares are twice as expensive as the bus fare , too .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "if we don't hurry up , we'll miss the show . Should we take the bus ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "we're already late , so I think we had better take a taxi .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "I don't think we'll be able to find a taxi very easily during hush hours . Let's just take the bus .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "fine . Have a look at the timetable to find out when the next one arrives .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 4
+    },
+    {
+      "text": "it looks like it should be here in just a few minutes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "don't worry . Nothing bad will happen . I'll even buy your ticket for you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 12,
+      "dialog_act": 3
+    },
+    {
+      "text": "thanks , that was nice of you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 13,
+      "dialog_act": 4
+    },
+    {
+      "text": "see , now something good has happened to you on a bus trip !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 14,
+      "dialog_act": 1
+    }
+  ]
+}

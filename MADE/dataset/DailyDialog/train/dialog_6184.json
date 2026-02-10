@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6184",
+  "segments": [
+    {
+      "text": "Hello , Sir . What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . I've been asked to come and see about something called L / C ? What is it exactly ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "L / C stands for ' letter of credit ' . This is necessary for trade between two countries . A Letter of Credit is quite literally that — a letter addressed by the buyer's bank to the seller's bank stating that they could vouch for their good customer , the buyer , and that they would pay the seller in case of the buyer's default . Nowadays , it's sometimes used for domestic trade too .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "So the other party could be across the world or just on the other side of the street !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

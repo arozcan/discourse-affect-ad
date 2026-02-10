@@ -1,0 +1,47 @@
+{
+  "id": "dialog_318",
+  "segments": [
+    {
+      "text": "Excuse me . I bought the CD here two days ago . It's scratched , and doesn't play properly .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry about that , sir . I'll get you another one .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "The thing is I've replaced once already . I think it's just a faulty batch .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Maybe I can offer you a credit note .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well . To be honest , that's not much use to me . I'll leave the country tomorrow . I'd really prefer a refund .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , sir . I'll see what I can do .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

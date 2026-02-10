@@ -1,0 +1,26 @@
+{
+  "id": "dialog_619",
+  "segments": [
+    {
+      "text": "I don't think we can meet the delivery date you suggest . It's too soon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , is it possible for you to effect shipment by the middle of June ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "The earliest we can do is by the end of June .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

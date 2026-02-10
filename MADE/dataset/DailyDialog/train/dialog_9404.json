@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9404",
+  "segments": [
+    {
+      "text": "Would you mind telling me if this is the right way to the police station ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m afraid you ’ re going in the opposite direction .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Should I take a bus ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think a cab is better .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

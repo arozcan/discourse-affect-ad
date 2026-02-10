@@ -1,0 +1,82 @@
+{
+  "id": "dialog_6894",
+  "segments": [
+    {
+      "text": "IBA , Maria speaking . How can I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , I called earlier regarding interest rates on loans . Sorry , I just have a couple more questions .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm here to help . Tell me your questions and I'll do my best to answer them .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "What if I require a loan for a short period of time ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "What repayment period were you thinking of ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Say , 6 months ? Or less in fact . I want to repay the loan ASAP ; I don't like debt hanging over my head .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "A wise decision . If you decide to take out a short-term loan with us , say for 6 months or less , the interest rate shall be for that of a 6 - month loan .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "What if I repay it early . Any perks ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , we could adjust the interest rate based on the original rate and the amount of days you actually borrowed the money for .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , the quicker I pay it back , the more I can save in interest ? That's excellent . Thanks so much for your information . I'll come in shortly to take the relevant steps for the loan .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's our pleasure . We are always happy to have another satisfied customer . Thanks for calling . Goodbye .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "dialog_4804",
+  "segments": [
+    {
+      "text": "Do you have any idea what time it is ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "My bad . I didn't realize that it was so late .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you really think that that excuses your tardiness ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course not . I really did lose track of time .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Didn't I tell you to call when you're running late ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , you did . I just forgot to call .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "It doesn't matter , you should have called and let me know .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's true . My bad for not calling .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "If you do this again , don't even bother coming home .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "You're going to kick me out over this ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Exactly , maybe that'll teach you to respect my rules .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , if I'm not living here anymore , then I won't have to listen to your rules .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 11,
+      "dialog_act": 4
+    }
+  ]
+}

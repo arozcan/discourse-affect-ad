@@ -1,0 +1,54 @@
+{
+  "id": "dialog_272",
+  "segments": [
+    {
+      "text": "Hello , thank you for calling Bradford and Sons . This is Tracy speaking , How may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Hello . I would like to speak to your director of human resources , Ms.Jenkins , Please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Just a moment . I'll check to see if she is at her desk.May I tell her who is calling ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "This is Bill Burton from Milford Insurance , I'm calling in regards to our meeting next Tuesday .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you , Mr.Burton.Can you please hold for a moment ? I'll check to see if she is available .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'm sorry , Ms.Jenkins is away from her desk.She has already left for lunch.Would you like to leave a message for her ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

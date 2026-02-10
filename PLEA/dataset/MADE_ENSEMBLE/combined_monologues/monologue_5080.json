@@ -1,0 +1,76 @@
+{
+  "id": "monologue_5080",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy reaching for the cookie jar, and it’s making me so nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9606067538261414
+    },
+    {
+      "text": "The stool is about to tip over, and he’s not even trying to balance properly.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.471998006105423
+    },
+    {
+      "text": "The girl is just standing there, waiting for her share, like it’s no big deal.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5020201206207275
+    },
+    {
+      "text": "I wonder if they’ve done this before and gotten away with it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47582748532295227
+    },
+    {
+      "text": "The woman is still drying dishes, completely unaware of the mess behind her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40216681361198425
+    },
+    {
+      "text": "The water is overflowing, and she’s just standing there like nothing is happening.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.47267234325408936
+    },
+    {
+      "text": "I think she’s going to regret not paying attention when someone gets hurt.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4537995755672455
+    },
+    {
+      "text": "The cookie jar is almost empty, and they’re going to be in so much trouble.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5074412226676941
+    },
+    {
+      "text": "I hope the stool doesn’t tip over before the woman turns around.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5014975070953369
+    },
+    {
+      "text": "The garden outside looks so calm, but inside, it’s a disaster waiting to happen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.22642633318901062
+    }
+  ]
+}

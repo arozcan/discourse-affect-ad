@@ -1,0 +1,61 @@
+{
+  "id": "dialog_6655",
+  "segments": [
+    {
+      "text": "Hi , I'm Josephine Chen , the tour guide for the Jade Agency . We have a reservation of twenty rooms for tonight .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Please to meet you , Miss Chen . My name is Joey.Welcome to the hotel . Here are the keys , registration slips and breakfast vouchers . Break-fast will be served from seven tomorrow morning . Is there any change in your schedule ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , our check-out time will still be 8: 30 tomorrow .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Then we will arrange a morning call at 7:30 . Will that be fine ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's alright .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Please put your luggage outside your room by eight . The bellboy will pick them up .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you very much . Hope you enjoy your stay .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

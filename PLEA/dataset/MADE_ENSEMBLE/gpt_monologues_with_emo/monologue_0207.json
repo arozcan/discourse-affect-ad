@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0207",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice the overflowing sink, and my heart sinks with the water.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5133460164070129
+    },
+    {
+      "text": "The floor is becoming a hazard, and I can’t help but feel for the woman who is totally oblivious.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4670364558696747
+    },
+    {
+      "text": "The chaos of the children fills me with a sense of dread; I can almost hear the impending crash.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.922493577003479
+    },
+    {
+      "text": "Her focus on that plate is admirable yet tragic, like a mother who’s too busy to see her children in danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3251507878303528
+    },
+    {
+      "text": "The boy’s ambitious climb is both brave and foolish; I can't look away.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49738234281539917
+    },
+    {
+      "text": "I feel a flash of anger at how reckless they are being.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8740587830543518
+    },
+    {
+      "text": "The girl’s eager expression brings a bittersweet smile to my face, but all I can think about is the mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3681487441062927
+    }
+  ]
+}

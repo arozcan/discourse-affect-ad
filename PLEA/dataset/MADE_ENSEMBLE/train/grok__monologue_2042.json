@@ -1,0 +1,104 @@
+{
+  "id": "monologue_2042",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the woman at the sink, totally absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7360053062438965
+    },
+    {
+      "text": "She's drying that plate so meticulously with the towel.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5583317875862122
+    },
+    {
+      "text": "But the water from the faucet is filling up the sink way too much.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7561243772506714
+    },
+    {
+      "text": "It's overflowing and making everything wet and slippery.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5368525385856628
+    },
+    {
+      "text": "She hasn't realized yet, and her foot is in the puddle.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.37119144201278687
+    },
+    {
+      "text": "To her left, the boy is climbing the stool dangerously high.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5016366839408875
+    },
+    {
+      "text": "The cookie jar is open in the cabinet above.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9454938173294067
+    },
+    {
+      "text": "He's reaching in, but the stool is tilting back.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8892862796783447
+    },
+    {
+      "text": "I hope he doesn't fall and hurt himself.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4950222969055176
+    },
+    {
+      "text": "The little girl is there too, holding her hand up for a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9263593554496765
+    },
+    {
+      "text": "They look like they're having a secret adventure.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4825715720653534
+    },
+    {
+      "text": "The window shows a nice garden, all tidy and green.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5161038041114807
+    },
+    {
+      "text": "It's a shame the inside is such a hazard right now.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5924955606460571
+    },
+    {
+      "text": "I wish the woman would turn around and see what's happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.517764687538147
+    }
+  ]
+}

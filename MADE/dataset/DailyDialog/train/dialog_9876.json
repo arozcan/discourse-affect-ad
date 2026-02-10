@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9876",
+  "segments": [
+    {
+      "text": "This is the Pan-American Club . May I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I believe you have a luncheon meeting this coming Wednesday . Could you give me some more information about that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , of course . The guest speaker is Professor David of a University , and he'll be lecturing about The impact of the Oil Crisis on Latin America .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Mmm , that sounds very interesting .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

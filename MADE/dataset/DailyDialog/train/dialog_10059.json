@@ -1,0 +1,61 @@
+{
+  "id": "dialog_10059",
+  "segments": [
+    {
+      "text": "What ’ s wrong with you ? Why are you scratching so much ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I feel itchy ! I can ’ t stand it anymore ! I think I may be coming down with something . I feel lightheaded and weak .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me have a look . Whoa ! Get away from me !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "What ’ s wrong ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think you have chicken pox ! You are contagious ! Get away ! Don ’ t breathe on me !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Maybe it ’ s just a rash or an allergy ! We can ’ t be sure until I see a doctor .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well in the meantime you are a biohazard ! I didn ’ t get it when I was a kid and I ’ Ve heard that you can even die if you get it as an adult !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you serious ? You always blow things out of proportion . In any case , I think I ’ ll go take an oatmeal bath .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    }
+  ]
+}

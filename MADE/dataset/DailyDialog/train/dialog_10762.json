@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10762",
+  "segments": [
+    {
+      "text": "Good afternoon , how can I be of service today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "My company wants to become involved in your Comprehensive Credit Granting . We are a very young company and I'm not at all sure if we meet your credit requirements .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "It is possible to take into account special circumstances , should the manager agree to it . If your credit rating has been class A in your initial trading period and your debt to asset ratio is sound , and then I'm sure the manager will see you to discuss it further . I'll set up a meeting for you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That would be wonderful . Thank you so much for all of your help .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

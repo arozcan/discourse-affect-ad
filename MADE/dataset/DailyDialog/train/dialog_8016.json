@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8016",
+  "segments": [
+    {
+      "text": "This is exciting ! Thank you so much !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "My pleasure . Release the parking brake , and we're almost ready to go .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Boy oh , boy ! This is so cool . Let's rock and roll !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . Relax . This car is an automatic , so you don't have to worry about a clutch .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Which one of these is the gas pedal ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    }
+  ]
+}

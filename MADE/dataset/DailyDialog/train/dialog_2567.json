@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2567",
+  "segments": [
+    {
+      "text": "The new computer software is driving me crazy ! I really need a break !",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know what you mean , Carol . I ’ Ve had nothing but trouble with it . They say it ’ s supposed to be easy !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s what I ’ Ve heard . But as far as I ’ m concerned , it takes a genius to figure it out . Can you pass the sugar , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . Why don ’ t you sit down for a minute ? You haven ’ t taken a rest all morning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

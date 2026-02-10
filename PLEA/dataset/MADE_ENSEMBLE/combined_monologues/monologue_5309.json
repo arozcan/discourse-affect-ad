@@ -1,0 +1,83 @@
+{
+  "id": "monologue_5309",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the woman drying dishes, and I feel sorry for her because she’s missing everything.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9119616746902466
+    },
+    {
+      "text": "The water is overflowing, and she’s just standing there like it’s a normal day.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4883149266242981
+    },
+    {
+      "text": "The kids are being so sneaky, and she has no clue.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3575246036052704
+    },
+    {
+      "text": "I think the boy is going to fall any second now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.32336750626564026
+    },
+    {
+      "text": "The girl is just waiting for her cookie, completely oblivious to the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3934461176395416
+    },
+    {
+      "text": "The garden outside looks so nice, but inside, it’s a total mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4328242838382721
+    },
+    {
+      "text": "I wonder how long the water’s been running like that.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6071105003356934
+    },
+    {
+      "text": "The woman’s foot is in the puddle, but she doesn’t even seem to care.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4703080356121063
+    },
+    {
+      "text": "The boy is reaching so far into the cookie jar, and I’m just waiting for the worst.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3858487606048584
+    },
+    {
+      "text": "The girl looks so excited, but she doesn’t realize how dangerous this is.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.2682076394557953
+    },
+    {
+      "text": "I hope the woman turns around before it’s too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5207334756851196
+    }
+  ]
+}

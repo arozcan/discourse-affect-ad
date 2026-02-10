@@ -1,0 +1,47 @@
+{
+  "id": "dialog_4538",
+  "segments": [
+    {
+      "text": "Excuse me , I wonder if you could help me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course , what can I do for you ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , I hate to have to say this , but I'm not happy with my room .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , what exactly is problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , the traffic is very loud . I got no sleep last night .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I'm so sorry , Sir . I'll see what I can do about that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

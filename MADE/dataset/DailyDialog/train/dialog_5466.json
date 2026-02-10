@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5466",
+  "segments": [
+    {
+      "text": "Excuse me , Mr . Macmillan ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , Ms . Ross ? What do you need ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I was hoping you would write a letter of recommendation . I want to enter a Master ’ s program in marketing . It ’ s all on weekends and evenings .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Good news ! I ’ ll be glad to . When do you need it ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    }
+  ]
+}

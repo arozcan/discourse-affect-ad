@@ -1,0 +1,47 @@
+{
+  "id": "dialog_8687",
+  "segments": [
+    {
+      "text": "Hi , how can I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I was told to come over to this window if I want to make a withdrawal . I'm not withdrawing from a Current Account , you see . I want to withdraw from my Certificate of Deposit .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Unfortunately , if you wish to withdraw on your C / D before the pre-decided date , you must give notice .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , I see . Will I lose any money if I decide to withdraw on it now ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , you will lose interest . I see that you have a 5 - year C / D with us . I'm sorry to tell you that would mean losing 6 months of interest as a penalty for withdrawing before maturity .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh dear . Well , if it has to be done , then it has to be done .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

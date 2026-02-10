@@ -1,0 +1,26 @@
+{
+  "id": "dialog_3592",
+  "segments": [
+    {
+      "text": "It's almost 6:00 . I'd better be going .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can you stay for dinner ? We'd love to have you join us .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "It's really nice of you . Thanks !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

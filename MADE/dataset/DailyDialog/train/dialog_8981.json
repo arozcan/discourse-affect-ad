@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8981",
+  "segments": [
+    {
+      "text": "Hello , ABC company .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello , this is Mr . Morris Pitt . I'd like to speak to Mr . Bell , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Just a moment . I am sorry . At the moment , he is out of the office . Would you like to leave your number ? When he comes back , I will tell him to call you back .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Please have him call me at my office . He knows the number .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

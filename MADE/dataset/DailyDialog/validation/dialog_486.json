@@ -1,0 +1,40 @@
+{
+  "id": "dialog_486",
+  "segments": [
+    {
+      "text": "You seem to be upset . What ’ s eating you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s because of my son . Dick keeps getting on my nerves",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Dick ? How come ? He used to be as meek as a lamb .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , he used to be . But now he ’ s drifting off track .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "He must have been in bad company , or he wouldn ’ t be off the beans .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

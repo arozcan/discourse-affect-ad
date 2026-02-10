@@ -1,0 +1,33 @@
+{
+  "id": "dialog_370",
+  "segments": [
+    {
+      "text": "Do you plan to further your study ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I have been always learning the Economics on my own . My dream is to get a master's degree in Economics .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "If you make every effort to the company , you will have a great chance to attend the on-the-job postgraduate . The tuition fee will be financed by our company .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Really ? It is amazing . I will apply for a position in your company .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

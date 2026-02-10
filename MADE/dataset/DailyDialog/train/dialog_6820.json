@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6820",
+  "segments": [
+    {
+      "text": "Hello ! We ’ Ve been waiting for our lunch order for over an hour . Did you forget our order ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m sorry , sir . Could you tell me your name and order again , please ? I ’ ll check on the delay .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "The name ’ s Stanley Morris and the order was for two chef ’ s salads .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you , Mr . Morris . Please wait one moment and let me check on the order . Would you like anything to drink , sir ? On the house .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

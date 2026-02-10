@@ -1,0 +1,32 @@
+{
+  "id": "adrso007",
+  "split": "train",
+  "label": "cn",
+  "audio": "download/ADReSSo21/diagnosis/train/audio/cn/adrso007.wav",
+  "segments": [
+    {
+      "speaker": "PAR",
+      "start_ms": 31.0,
+      "end_ms": 2074.0,
+      "text": "A mother standing by the sink,"
+    },
+    {
+      "speaker": "PAR",
+      "start_ms": 3336.0,
+      "end_ms": 9464.0,
+      "text": "kind of looks like lost in thought, wiping a dish. The sink is overflowing with water. She doesn't seem too concerned."
+    },
+    {
+      "speaker": "PAR",
+      "start_ms": 10826.0,
+      "end_ms": 17576.0,
+      "text": "A boy is on a stool that's about to tip over. He's in the cookie jar. His sister's got her hand up, reached,"
+    },
+    {
+      "speaker": "PAR",
+      "start_ms": 18897.0,
+      "end_ms": 25026.0,
+      "text": "waiting for a cookie. And the mother seems oblivious to what they're doing."
+    }
+  ]
+}

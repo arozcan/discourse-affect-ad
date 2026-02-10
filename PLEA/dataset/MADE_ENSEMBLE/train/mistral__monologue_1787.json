@@ -1,0 +1,76 @@
+{
+  "id": "monologue_1787",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "This kitchen is such a mess, and no one seems to care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.37715819478034973
+    },
+    {
+      "text": "The water is just pouring out of the sink, and the woman is ignoring it.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4645914137363434
+    },
+    {
+      "text": "I can't stand how she's just drying that plate like nothing's wrong.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6820957660675049
+    },
+    {
+      "text": "The floor is getting soaked, and it's going to be such a slip hazard.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3537610173225403
+    },
+    {
+      "text": "The cabinets are getting ruined by all that water streaming down them.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.45975038409233093
+    },
+    {
+      "text": "I bet this is going to be such a big cleanup job later.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.45939454436302185
+    },
+    {
+      "text": "And those kids are making it worse by sneaking cookies.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8178424835205078
+    },
+    {
+      "text": "They're going to leave crumbs everywhere, I just know it.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49501195549964905
+    },
+    {
+      "text": "I can't believe how careless everyone is being right now.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5892612338066101
+    },
+    {
+      "text": "Someone needs to step in and fix this before it gets even worse.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.32782286405563354
+    }
+  ]
+}

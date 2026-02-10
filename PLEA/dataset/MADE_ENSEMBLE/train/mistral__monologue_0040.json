@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0040",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the woman drying dishes, and it’s almost funny how unaware she is.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6295632719993591
+    },
+    {
+      "text": "The water is overflowing, and she’s just standing there in it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4838085472583771
+    },
+    {
+      "text": "The boy is about to fall, and the girl is just waiting for a cookie.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5770976543426514
+    },
+    {
+      "text": "I think the stool is going to tip any second now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5017778873443604
+    },
+    {
+      "text": "The whole kitchen is a mess, and no one seems to care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4187878668308258
+    },
+    {
+      "text": "I wonder if the woman will ever notice what’s happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5419045090675354
+    },
+    {
+      "text": "The garden outside looks so calm, like nothing is wrong.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5041182637214661
+    },
+    {
+      "text": "I can’t believe how oblivious she is to everything around her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8865107297897339
+    },
+    {
+      "text": "This whole situation is just ridiculous.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5180357694625854
+    },
+    {
+      "text": "I hope no one gets hurt, but I’m not sure how much longer this can go on.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47745785117149353
+    }
+  ]
+}

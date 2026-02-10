@@ -1,0 +1,47 @@
+{
+  "id": "dialog_1629",
+  "segments": [
+    {
+      "text": "Hello Mei , How about going for a meal this evening ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Good idea ! I finish work at five . Why don ’ t we meet at six ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok that sounds good . Where shall I meet you ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let ’ s meet in front of the train station .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok great , I ’ ll see you at six .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Ok , see you tonight ! Don ’ t be late !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8911",
+  "segments": [
+    {
+      "text": "Hello , this is Catharine from Thomson Company . Can I speak to Mr . Wang ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sorry , he is in the middle of something . Can I take a message ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . Please tell him that he is expected to have an interview with the CEO of ABC company tomorrow morning at 10:00 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Could you please speak in a louder voice ? There may be something wrong with your receiver .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , I will repeat what I said loudly .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

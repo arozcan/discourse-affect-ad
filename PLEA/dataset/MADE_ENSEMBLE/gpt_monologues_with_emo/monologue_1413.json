@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1413",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The kitchen feels so alive in this moment, filled with unspoken tension and childish delight.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.851202130317688
+    },
+    {
+      "text": "There’s an innocence in what the children are doing, yet also something deeply unsettling.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3824837803840637
+    },
+    {
+      "text": "The boy nearly tips over the stool; I can hardly look because my heart races in fear.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9583775401115417
+    },
+    {
+      "text": "The woman remains blissfully unaware, and that fact alone makes me frustrated.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4971463084220886
+    },
+    {
+      "text": "I think about how everything seems perfect from the outside, and yet chaos simmers within.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46748536825180054
+    },
+    {
+      "text": "What would happen if one calamity strikes? How would the serene environment react?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5049821138381958
+    },
+    {
+      "text": "I truly hope this small adventure ends without injury or disaster, but how often does that happen?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.42026907205581665
+    }
+  ]
+}

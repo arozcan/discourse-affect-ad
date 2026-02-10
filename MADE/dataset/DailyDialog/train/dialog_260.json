@@ -1,0 +1,54 @@
+{
+  "id": "dialog_260",
+  "segments": [
+    {
+      "text": "Welcome to my birthday party , I am so happy you can come .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks for inviting me . Here is the gift for you . Happy birthday , Francis ! Many more happy and healthy years for you !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you , shall I open it now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , please do .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Wow , a remote car model and my favorite brand . I really like it . That is so nice of you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , I was really struggling whether I should give you this nice little car . It was the last one they had and I really like it so much myself .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Typical you , always wanting to keep the best things for yourself . The more I appreciate the gift now .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

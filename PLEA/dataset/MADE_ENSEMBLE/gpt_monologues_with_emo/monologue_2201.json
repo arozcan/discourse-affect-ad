@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2201",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I look at the woman still focused on her plate, and I feel sadness wash over me.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9777377843856812
+    },
+    {
+      "text": "She seems to be missing the excitement and danger unfolding behind her.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5048841238021851
+    },
+    {
+      "text": "The boy reaches higher, teetering on the edge of the stool, and my heart races.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4663145840167999
+    },
+    {
+      "text": "The girl encourages him silently, her palm outstretched like a promise of cookies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7982595562934875
+    },
+    {
+      "text": "I think about how easy it is to be so engrossed in routine that we miss crucial moments.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5146976113319397
+    },
+    {
+      "text": "The ongoing spill from the sink is a metaphor for the chaos lurking beneath the surface.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7682511806488037
+    },
+    {
+      "text": "It’s astonishing how a kitchen can hold both comfort and danger at the same time.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4265543520450592
+    }
+  ]
+}

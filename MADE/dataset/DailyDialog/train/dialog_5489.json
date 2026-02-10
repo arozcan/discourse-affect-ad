@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5489",
+  "segments": [
+    {
+      "text": "Lily ! Why aren't you up and ready for school ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't feel so good , Mom .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Lily , if you're acting sick just because you want to play hooky ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , Mom . I'm really sick .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , that's a nasty cough . Let me feel your head . You're on fire !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "dialog_10507",
+  "segments": [
+    {
+      "text": "Is everything OK , Madam ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I'm trying to buy some foreign currency for my holiday .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I can help you with that . Holiday , you say ? Lucky you ! Where are you going to be travelling to ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "We are going to Macau to visit my niece . She said it's better for me to bring US dollars , is that right ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "That is one option , Madam . If your are travelling to either Hong Kong or Macau we are permitted to exchange up to 1,000 USD for you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , I see . What's the exchange rate ? Is the dollar up or down ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Today's rate is 823 . 71 RIB to 100 USD .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "To be honest , I have no idea about these things ! But I'm sure that's alright .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , it's not bad . I will need to see your passport though .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    }
+  ]
+}

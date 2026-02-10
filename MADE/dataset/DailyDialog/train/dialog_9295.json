@@ -1,0 +1,68 @@
+{
+  "id": "dialog_9295",
+  "segments": [
+    {
+      "text": "Good evening , Pizza House . This is Marty speaking . May I take your order ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Um yes , I'd like a medium pizza with pepperoni , olives , and extra cheese .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "We have a two-for-one special on large pizzas.Would you like a large pizza instead ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , that sounds good .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Great ! Would you like your second pizza to be these as the first ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , make the second one with ham , pineappleand green peppers . Oh , and make it thin crust .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Okay , thin crust . Your total is $ 21.50 and yourorder will arrive in thirty minutes or it ’ s free !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Perfect . Thank you . Bye ...",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sir , wait ! ! I need your address !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "dialog_7343",
+  "segments": [
+    {
+      "text": "How do you use an ATM card , Billy ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s easy , grandpa . Insert you card into the machine here . Then wait a moment . OK . Now you enter your PIN . It should have four numbers .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh yes . I ’ Ve got it written down here . Just a minute .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "You really shouldn ’ t write it down . You should memorise it . You can change it to a more convenient number if you like .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , I ’ Ve entered my PIN . There are several options on the screen . I guess I just choose which service I want , don't I ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . Choose the service you need to use . If you choose to withdraw money , the machine will ask you how much you want .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "I can just enter the amount using the key , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "That ’ s right . Give the machine a moment to process you request . Then take your money .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "These machines aren ’ t very difficult to use . In fact , I quite like them . They are much faster than dealing with a band clerk .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

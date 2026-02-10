@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5837",
+  "segments": [
+    {
+      "text": "Mr . Blake ? Mr . Foster ’ s on the phone . He ’ d like to know if you can send over those training manuals ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , tell him I ’ ll leave them at his office tomorrow afternoon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "He was hoping that you could drop them off this afternoon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m afraid that I can ’ t do that . They ’ re at the printer ’ s being copied . They ’ ll be back tomorrow before 1 o ’ clock .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

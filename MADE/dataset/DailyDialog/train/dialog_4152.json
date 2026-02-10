@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4152",
+  "segments": [
+    {
+      "text": "Your knowledge of English is really surprising .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , it's nothing to speak of .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , seriously . I'm impressed .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you . I appreciate the compliment .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

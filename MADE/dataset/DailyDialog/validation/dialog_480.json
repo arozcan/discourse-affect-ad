@@ -1,0 +1,61 @@
+{
+  "id": "dialog_480",
+  "segments": [
+    {
+      "text": "Can you tell me what's included in your warranty ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly . The product has a two-year guarantee . If it breaks down during that period we offer a replacement unit completely free of charge . Our products are very reliable but we recommend you take out an extended warranty . This covers you for a further two years .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I see . What does that include ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It covers all parts and labour , except for normal wear and tear of course .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What sort of response time do you guarantee ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Our engineers are on call 24 hours a day . We guarantee someone will be with you within four hours , but in practice it's often much sooner .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are there any exclusions ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not really . It's a very comprehensive warranty . I ’ ll put a copy in the post to you and you can read through the small print .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

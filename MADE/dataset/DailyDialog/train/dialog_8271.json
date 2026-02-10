@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8271",
+  "segments": [
+    {
+      "text": "Excuse me , miss . I don't think we need the MP4 any more . We would like to refund it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "May I see your receipt ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here you are .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I am sorry , sir . You bought it 2 weeks ago , and you can only refund it in one week .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

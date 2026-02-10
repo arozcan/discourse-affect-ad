@@ -1,0 +1,33 @@
+{
+  "id": "dialog_973",
+  "segments": [
+    {
+      "text": "What's the name of the girl that has just passed us ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Her name is Rose.Why ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "She's so pretty . I'd like to make friends with her .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , shut up.She ' s already got married .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

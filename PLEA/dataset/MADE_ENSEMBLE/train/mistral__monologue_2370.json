@@ -1,0 +1,69 @@
+{
+  "id": "monologue_2370",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I feel a bit sad seeing the water overflowing like that.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9807993769645691
+    },
+    {
+      "text": "It's such a waste, and no one seems to notice or care.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5729547142982483
+    },
+    {
+      "text": "The mom is just standing there, drying a plate, completely unaware.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6699608564376831
+    },
+    {
+      "text": "The kids are being sneaky, but they're also putting themselves in danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4042137563228607
+    },
+    {
+      "text": "I hope they don't get hurt, but I'm not sure anyone will stop them in time.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47657063603401184
+    },
+    {
+      "text": "The wet floor is a hazard, and the stool looks like it's about to tip over.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.35740962624549866
+    },
+    {
+      "text": "It's a bit depressing to see such a lack of awareness in what should be a safe environment.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5029890537261963
+    },
+    {
+      "text": "I wish someone would just turn off the faucet and pay attention to what's happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5124508738517761
+    },
+    {
+      "text": "The garden outside looks so peaceful, but inside, it's just a mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4150512218475342
+    }
+  ]
+}

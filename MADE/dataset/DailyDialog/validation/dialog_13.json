@@ -1,0 +1,54 @@
+{
+  "id": "dialog_13",
+  "segments": [
+    {
+      "text": "Excuse me , sir . You can't park here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am just waiting for my friends . It won't be long .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sir , the curb here is not for parking .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "But I didn't see the sign , Ma ’ am .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "There is a sign at the corner of the street . When you turned in here , you should have seen it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I didn't see it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "I am sorry , sir . I have to give you a ticket . You can appeal to the court within 14 days . You will avoid paying the fine if you can prove that you are not at fault .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

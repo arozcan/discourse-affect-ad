@@ -1,0 +1,61 @@
+{
+  "id": "dialog_6533",
+  "segments": [
+    {
+      "text": "Hi . I ’ m here for flight 513 to New York but I thought I heard the paging system announce that it is canceled . Is that true ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m terribly sorry , sir , but I ’ m afraid it is true . That flight has been canceled . Would you like to try to book tomorrow ’ s flight ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "No way ! I worked very hard so that I could leave on today ’ s flight . Are there seats on another airline ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s possible . If you would like to book with another airline the line is right over there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "You mean the line over there of about 200 people ? !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "That ’ s the one . It seems that everyone is anxious to get to New York tonight .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "This is a rotten way to start a vacation . I HATE lines ! Can you book me on tomorrow ’ s flight ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly . You will also be receiving a 50 % discount as our way of apologizing for the inconvenience .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

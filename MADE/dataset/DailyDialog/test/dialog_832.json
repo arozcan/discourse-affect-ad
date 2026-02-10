@@ -1,0 +1,33 @@
+{
+  "id": "dialog_832",
+  "segments": [
+    {
+      "text": "Look ! I bought these shoes only three weeks ago and there is a hole in them already .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "If that happen to me , I ’ ll take them back to the shop .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I did . But they said they won ’ t change them .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s terrible . But if they wouldn ’ t change them , I know what I would do .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

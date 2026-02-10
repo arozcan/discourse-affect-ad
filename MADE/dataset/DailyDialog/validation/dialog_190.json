@@ -1,0 +1,40 @@
+{
+  "id": "dialog_190",
+  "segments": [
+    {
+      "text": "Wow ! What's the hold up ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s probably just people trying to get an early start out of the city for the weekend . Nobody sticks around in the summer .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? Then , I guess I won ’ t have a hard time finding a room or getting a cab ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Actually , you might because there ’ s a big convention in town this weekend .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m not too worried about it . I always seem to find something .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

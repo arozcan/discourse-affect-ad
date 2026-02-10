@@ -1,0 +1,54 @@
+{
+  "id": "dialog_5625",
+  "segments": [
+    {
+      "text": "Hello , how are you today . Here for your six month check-up ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm fine , Dr . Beecham . Yes , just a cleaning and check-up today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , fine . Let's take a look .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "( She probed my teeth and checked my gums . ) Well , it looks like you have a cavity and your crown is loose . We need to fill that cavity before it gets any worse and the crown needs to be refitted . Make an appointment for next week and I'll take care of them .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Okay , I'll do that , but my crown was just put on last year . Will my dental insurance cover the work ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Since you had that done here , we'll take care of it . There won't be a charge . And , your insurance should cover the work on the cavity . Now , I'm going to have the hygienist do your cleaning and I'll see you soon for the other work .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks , doctor .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

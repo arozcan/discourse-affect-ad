@@ -1,0 +1,75 @@
+{
+  "id": "dialog_2232",
+  "segments": [
+    {
+      "text": "Jane , I was wondering if you you had any plans for saturday afternoon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "A friend and I are planing to go out , why ? what's up ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "There is a special exhibition of french sculptures at the museum , I was hoping you ' d like to come with me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am afraid I can't I am going to be out all day .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "What about sunday ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I wish I could , but it's my mums birthday .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Maybe next week .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Much as I ' d like to , I am afraid i wont be free next week , I have a lot of work .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sorry to hear that , I was really looking forward to spending some more time with you , I really enjoyed our last chat .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am really sorry too , maybe I can give you a call sometime .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

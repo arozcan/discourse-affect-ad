@@ -1,0 +1,90 @@
+{
+  "id": "monologue_9221",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Observing this kitchen, the open cabinets reveal the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7399831414222717
+    },
+    {
+      "text": "The boy is precariously on the stool, hand inside grabbing cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8961673974990845
+    },
+    {
+      "text": "That stool looks like it's going to collapse under him.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.37989625334739685
+    },
+    {
+      "text": "The girl below is anticipating her cookie with open palm.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7937049269676208
+    },
+    {
+      "text": "Over at the sink, water is flooding out uncontrollably.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4710923135280609
+    },
+    {
+      "text": "The woman's drying a plate, but the mess at her feet is gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6170670986175537
+    },
+    {
+      "text": "Puddle spreading, soaking everything— what a sloppy situation.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3752165138721466
+    },
+    {
+      "text": "She doesn't even flinch, just keeps polishing away.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.56214439868927
+    },
+    {
+      "text": "The garden outside is neat, but this interior is a wet nightmare.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5357835292816162
+    },
+    {
+      "text": "Kids stealing cookies on a dangerous perch—irresponsible parenting.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.34885475039482117
+    },
+    {
+      "text": "I feel bad for the floor and cabinets taking the water damage.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9635131359100342
+    },
+    {
+      "text": "Someone turn off that faucet before it's too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49276918172836304
+    }
+  ]
+}

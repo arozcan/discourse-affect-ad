@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8730",
+  "segments": [
+    {
+      "text": "Excuse me . I need some storybooks in easy English . Do you have anything like that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , there are a lot of storybooks upstairs in our children's section . Some are written for young children , others for teens . Maybe some of them will suit your needs .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'll go take a look . Thanks for your help .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're welcome .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

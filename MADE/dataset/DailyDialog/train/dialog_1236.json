@@ -1,0 +1,47 @@
+{
+  "id": "dialog_1236",
+  "segments": [
+    {
+      "text": "Are you there , Mary ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm back . My bid on the Buddha is still the highest !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "How much is my stamp ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Don't you want to hear more about my statue ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Don't get ahead of yourself . Fat boy isn't yours yet .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "His name is not fat boy ! You can be so rude sometimes .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

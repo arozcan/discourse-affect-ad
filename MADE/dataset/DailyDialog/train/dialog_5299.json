@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5299",
+  "segments": [
+    {
+      "text": "Greg . I want to speak to you for a minute .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . Ms . Gray . Is there something wrong ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m afraid there is , Greg . I don ’ t mind you taking a break . But you ’ Ve been away from your desk for twenty-five minutes already .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m sorry , Ms . Gray . I must have lost track of the time . I ’ ll get back to work , now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "monologue_1211",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water from the sink is making a big puddle on the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6853910684585571
+    },
+    {
+      "text": "It's just going to keep getting bigger if no one turns off the faucet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5107530951499939
+    },
+    {
+      "text": "The woman is still drying that plate, not paying attention to anything else.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40251705050468445
+    },
+    {
+      "text": "The boy is really going to hurt himself if he falls from that stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.3593604862689972
+    },
+    {
+      "text": "I can't watch, it's making me nervous just thinking about it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9657710194587708
+    },
+    {
+      "text": "The girl is just standing there, waiting for her cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5072391629219055
+    },
+    {
+      "text": "She doesn't seem to care about the danger either.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45957595109939575
+    },
+    {
+      "text": "The outside looks so peaceful, it's hard to believe the mess inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4216102957725525
+    },
+    {
+      "text": "I wish someone would just turn off the water and stop the kids.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4460350275039673
+    },
+    {
+      "text": "This is just a disaster waiting to happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.2759875953197479
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10121",
+  "segments": [
+    {
+      "text": "I am waiting for a fax but just now I found there ’ s something wrong with the fax machine .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ’ s wrong with the fax machine ? Is it urgent ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , very urgent . And there is no other fax machine around . And the office of our boss is closed , so I can not use his machine either . And his secretary is out . Do you have any suggestion ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Either call this extension number 0085 or ask them to send the fax to you as e-mail , you print it out .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

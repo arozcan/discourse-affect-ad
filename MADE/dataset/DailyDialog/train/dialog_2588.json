@@ -1,0 +1,103 @@
+{
+  "id": "dialog_2588",
+  "segments": [
+    {
+      "text": "Hello , let me introduce myself . I'm your neighbor . My name is Shirley .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hi , Shirley . I'm Sophie . It's nice to meet you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Nice to meet you , too .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Please come in .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here is a little gift for your family . It's a calendar with all the community events on it . I hope it can be helpful .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I really appreciate it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Since we are neighbors , if you need any help or anything , please come to me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I will . Actually , I am worried so much about the security of this community because my house has been burgled twice before .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , don't worry about that here . There are security guards on duty 24 hours a day and they patrol all over the neighborhood . You know , they are all very strong .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? That's good . Is there any supermarket in our neighborhood ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course . There is a Carrefour near the neighborhood . I'll show you there if you want to .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's terrific !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "By the way , a party will be held for new neighbors the day after tomorrow . I hope I can see you there .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 12,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , and we can get to know each other at the party .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 13,
+      "dialog_act": 4
+    }
+  ]
+}

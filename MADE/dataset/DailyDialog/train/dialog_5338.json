@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5338",
+  "segments": [
+    {
+      "text": "Now that we know what kind of music we will play , we have to decide what each of us will do .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I love hip hop dancing , so I should probably dance . Do you know how to rap ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh yeah ! I'm a great rapper . And I know all the Vanilla Ice lyrics by heart .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Excellent . I'll start practicing my dance moves .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

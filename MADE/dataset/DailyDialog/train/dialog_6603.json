@@ -1,0 +1,26 @@
+{
+  "id": "dialog_6603",
+  "segments": [
+    {
+      "text": "Welcome home , Peter !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks , honey . It's great to be back .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , how was your trip to Thailand ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    }
+  ]
+}

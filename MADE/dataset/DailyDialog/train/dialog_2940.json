@@ -1,0 +1,61 @@
+{
+  "id": "dialog_2940",
+  "segments": [
+    {
+      "text": "Tom , you look thoughtful and unhappy recently . What's wrong with you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Lily broke up with me last week . In fact , she dumped me .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why ? I mean , why did she part company with you after seven years together ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "She said it was because we had very different ideas about life .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Do you believe her excuse ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course not . I knew she had fallen in love with another guy . It is difficult to see her move on so quickly .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Come on , buddy , cheer up . Why not do some sports with me ? Violent exercise might help to shake you out of your disappointment in love .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you , Steven . You are really a good friend .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

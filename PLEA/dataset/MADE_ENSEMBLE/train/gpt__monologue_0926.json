@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0926",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I catch a glimpse of the boy's determination as he stretches to reach the cookies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6850172281265259
+    },
+    {
+      "text": "His little hands grasp the edge of the jar, and I hold my breath.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42000147700309753
+    },
+    {
+      "text": "The stool tips slightly, and I can't help but feel a surge of anger at the situation.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.96177077293396
+    },
+    {
+      "text": "I think about how reckless they are, completely unaware of the dangers surrounding them.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3111918568611145
+    },
+    {
+      "text": "The girl nearby watches intently, her anticipation palpable in the air.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.587499737739563
+    },
+    {
+      "text": "It’s a snapshot of childhood mischief, but at what cost?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.3856273293495178
+    },
+    {
+      "text": "I wish I could warn them, to shake the adult out of her oblivion.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.47757601737976074
+    }
+  ]
+}

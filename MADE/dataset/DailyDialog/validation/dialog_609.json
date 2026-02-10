@@ -1,0 +1,33 @@
+{
+  "id": "dialog_609",
+  "segments": [
+    {
+      "text": "morning . Rent-A-Car Agency . May I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Good morning . This is Paul Alexander calling from the Isis Advertising Firm . We need a car to the airport for Mr . Phillips .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly , Mr . Alexander . When would Mr . Phillips like to leave ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let me check ... His flight ’ s at 2:30 p . m . , so he should leave no later than 12 noon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

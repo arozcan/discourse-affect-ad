@@ -1,0 +1,76 @@
+{
+  "id": "monologue_2100",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice the sun pouring through the window, illuminating this cozy kitchen.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4974414110183716
+    },
+    {
+      "text": "But then I see the water flooding over the sink, and my heart sinks.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.48168909549713135
+    },
+    {
+      "text": "The woman is completely unaware, blissfully polishing her plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6185739040374756
+    },
+    {
+      "text": "It’s like she’s in another world, entirely focused on her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7138727307319641
+    },
+    {
+      "text": "Meanwhile, the boy is teetering on that stool, risking a serious fall for a cookie.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4798431098461151
+    },
+    {
+      "text": "I can’t believe how carefree they are about it all.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8917649388313293
+    },
+    {
+      "text": "The girl is waiting patiently, but there’s a hint of impatience in her posture.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6567934155464172
+    },
+    {
+      "text": "This kitchen, with its air of normalcy outside, feels like a ticking time bomb.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.618876576423645
+    },
+    {
+      "text": "What will happen if that boy falls and the woman doesn’t notice?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.45309504866600037
+    },
+    {
+      "text": "I’m almost holding my breath, waiting for something to go wrong.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5223686099052429
+    }
+  ]
+}

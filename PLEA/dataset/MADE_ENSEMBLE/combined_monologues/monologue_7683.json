@@ -1,0 +1,97 @@
+{
+  "id": "monologue_7683",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This whole setup in the kitchen makes me so uneasy.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.40406858921051025
+    },
+    {
+      "text": "The sink is overflowing, water everywhere, and no one's stopping it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6204888820648193
+    },
+    {
+      "text": "The woman is just drying dishes, unaware of the danger at her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4001789391040802
+    },
+    {
+      "text": "That puddle could make her slip and hurt herself badly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5859391093254089
+    },
+    {
+      "text": "Now the boy's on that rickety stool, reaching for the cookie jar.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7439019083976746
+    },
+    {
+      "text": "It's tilting back, and he could tumble right onto the wet floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5627251863479614
+    },
+    {
+      "text": "The girl's standing close, but what if she gets caught in the fall?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4062318503856659
+    },
+    {
+      "text": "They're breaking the rules by taking cookies without permission.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8261910676956177
+    },
+    {
+      "text": "The garden outside looks so safe and serene in comparison.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5280674695968628
+    },
+    {
+      "text": "I wish the mom would turn around and see what's happening.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5110567212104797
+    },
+    {
+      "text": "This could end in tears or worse, with broken bones.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5961246490478516
+    },
+    {
+      "text": "The water's damaging the cabinets, and no one cares.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3892084062099457
+    },
+    {
+      "text": "It's heartbreaking to watch potential accidents unfold like this.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9612225294113159
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1886",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, the water wasting from that sink is just gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.940483570098877
+    },
+    {
+      "text": "It's pouring over and soaking the floor— what a sloppy mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5489548444747925
+    },
+    {
+      "text": "The woman's in it up to her ankle, still drying that plate like nothing's wrong.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4575902819633484
+    },
+    {
+      "text": "Stacks of dishes nearby, probably getting splashed too.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8786361217498779
+    },
+    {
+      "text": "Now the kids, climbing for cookies— filthy hands in the jar.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5195948481559753
+    },
+    {
+      "text": "The boy's balancing on that stool, cookies crumbling everywhere.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6877439618110657
+    },
+    {
+      "text": "The girl reaching up, eager for her share of the mess.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7557883262634277
+    },
+    {
+      "text": "Open cabinet doors, everything exposed and untidy.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.34246116876602173
+    },
+    {
+      "text": "Water streaming down the cabinets— ruining the wood, no doubt.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4678836166858673
+    },
+    {
+      "text": "Outside, the garden is neat, but this kitchen is a pigsty.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49496716260910034
+    },
+    {
+      "text": "They shouldn't be taking cookies without asking; it's rude.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7590023279190063
+    },
+    {
+      "text": "The whole scene makes me cringe with all the hazards.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5106776356697083
+    }
+  ]
+}

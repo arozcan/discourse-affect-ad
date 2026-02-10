@@ -1,0 +1,61 @@
+{
+  "id": "dialog_10017",
+  "segments": [
+    {
+      "text": "Welcome to Galant . How can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi . I would like to get an internet plan for my house .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course . We have three different plans with different prices you can choose from . The first one is the cheapest but most basic plan which is thirty dollars a month . This is for broadband internet with a download speed of five hundred and twelve kbps .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I have no idea what kbps means . I just want to be able to get online , play games and chat with my friends . Oh , and watch movies online as well .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , this connection might be a bit too slow for your needs . I suggest you get the premium package for fifty dollars a month which includes a connection speed of two megabytes . That way you can play games online without any lag . This package also includes a wireless router and a personal firewall absolutely free !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do I have to pay an installation fee ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Lucky for you , this month we aren ’ t charging our normal installation fee . You are saving yourself 100 bucks right there ! And we ’ ll throw in this pen drive !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Awesome !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

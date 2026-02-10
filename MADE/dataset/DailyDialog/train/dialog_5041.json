@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5041",
+  "segments": [
+    {
+      "text": "It looks delicious . I will order it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry , sir , it's for 4 persons to have . I think it's too large for you .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Would you please make it for a single person ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sorry , sir . We have never done that before .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

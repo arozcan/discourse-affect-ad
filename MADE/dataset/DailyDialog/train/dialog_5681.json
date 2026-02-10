@@ -1,0 +1,75 @@
+{
+  "id": "dialog_5681",
+  "segments": [
+    {
+      "text": "Jane , the meeting is scheduled from 1:00 this afternoon . Have you made the necessary arrangements ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , Mr . Miller . We'll use the conference room on the third floor for the meeting .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's right . The meeting is very important . Where shall the guests be received before the meeting begins ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "In the dining room . It's spacious there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "We'll have several foreign guests to attend the meeting .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I've arranged for an interpreter to be present . But it is said these foreigners could speak English .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? I'll also try to speak slowly . How would you arrange the guests ' seats , Jane ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "We've prepared name cards to be put on the conference table for guests to sit by . What time would you like refreshments served , Mr . Miller ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , after my report , there will be an interval for rest and refreshments .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right , I see .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

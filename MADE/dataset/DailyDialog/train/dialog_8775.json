@@ -1,0 +1,61 @@
+{
+  "id": "dialog_8775",
+  "segments": [
+    {
+      "text": "I ’ m hungry , let ’ s grab a bite to eat .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure ! How about we go home and prepare a couple of sandwiches ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Nah ! Let ’ s go get a burger and fries .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "All you ever do is have unhealthy fast food Pizza , fries , burgers and hot dogs ! You have to start eating better !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "What are you talking about ? I have salads some times .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah right ! I ’ m serious ! You should also cut down on your sugar intake as well . You drink carbonated drinks that are high in fructose syrup ! It ’ s really not healthy !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Fine ! I ’ ll start drinking and having home cooked meals that are low in fat . Are you happy now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s a start , but I ’ ll be happy when I see you stick to your promise !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

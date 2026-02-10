@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5931",
+  "segments": [
+    {
+      "text": "I have a complaint to make . I've just been badly treated by a rude maid .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , we are sorry to hear that.May I have your name and room number ? We will deal with the matter right now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ted.room 2012 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Mr . Ted , I have to apologize for that and I assure you it won't happy again .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

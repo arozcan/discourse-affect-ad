@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5439",
+  "segments": [
+    {
+      "text": "Foreign Currency Deposits Counter , yes . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You see , I have these Euros , and of course they are of no use to me at the moment . So I'd like to save them in my account , but I'm not sure how to go about it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . We offer 2 types of saving systems , Time Savings and Demand Savings . With Time Savings your money cannot be withdrawn for a certain period of time , but with Demand Savings your money is ' on demand ' , you can withdraw at any time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . What's the interest like on those ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "There's quite a large difference . I mean , if you were to use demand deposit we could give you 0.13 % interest , but for a time deposit , of say , 1 year we would offer 0.82 % .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I couldn't agree with you more . A 1 year time deposit it is !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

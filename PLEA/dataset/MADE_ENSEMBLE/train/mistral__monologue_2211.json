@@ -1,0 +1,83 @@
+{
+  "id": "monologue_2211",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I observe the woman at the sink, her attention solely on the plate she's drying.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9116665124893188
+    },
+    {
+      "text": "She seems so peaceful, untouched by the chaos unfolding behind her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5159275531768799
+    },
+    {
+      "text": "The children are being quite sneaky, taking cookies without her knowledge.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5675317049026489
+    },
+    {
+      "text": "I feel a pang of sadness, thinking about how she might react if she catches them.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9035593271255493
+    },
+    {
+      "text": "The boy is precariously balanced on the stool, his hand reaching into the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8911393880844116
+    },
+    {
+      "text": "I worry that he might fall and hurt himself on the wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7567120790481567
+    },
+    {
+      "text": "The girl is waiting patiently, her eyes filled with anticipation.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5080329179763794
+    },
+    {
+      "text": "I can't help but feel a sense of longing, remembering my own childhood adventures.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.40797653794288635
+    },
+    {
+      "text": "The kitchen is bathed in sunlight, creating a warm and inviting atmosphere.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6998481750488281
+    },
+    {
+      "text": "But the overflowing sink and the tipping stool add an element of danger to this otherwise ordinary scene.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5069445371627808
+    },
+    {
+      "text": "I hope everyone stays safe and the woman remains unaware of the mess until it's cleaned up.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.528622567653656
+    }
+  ]
+}

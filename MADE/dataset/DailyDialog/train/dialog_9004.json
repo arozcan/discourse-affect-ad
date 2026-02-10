@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9004",
+  "segments": [
+    {
+      "text": "Hello , Mr . Hao . I am calling to tell you that you are not selected as our employee . Sorry .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Although I am a little shocked , I can deal with it pretty well . I didn't perform as well as I should have in the interview .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Maybe . But you should not withdraw forever just because you failed once .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , thank you , I'll try if there were other chances .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

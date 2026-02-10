@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10562",
+  "segments": [
+    {
+      "text": "Excuse me.Have you got any books on genetic engineering ? I've looked for them everywhere , but I can't find any .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm not sure if we've got any now.Books of that kind are on this shelf.Well , I'm afraid we've sold out .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What a pity ! I should have come earlier .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Come some time next week if you like . I think we'll have got some by them .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , I will .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_7675",
+  "segments": [
+    {
+      "text": "What's the matter with you , Mary ? You look a bit pale .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm afraid I've got a terrible cold . What should I do ?",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Have you taken any medicine ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , but I'm not feeling very better now . Actually I'm feeling even worse .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , if I were you , I'd go to see the doctor . That might help . And you'd better stay in bed today instead of going to work .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

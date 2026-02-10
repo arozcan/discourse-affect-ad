@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9032",
+  "segments": [
+    {
+      "text": "Hello , Peace Hotel .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello , I'm calling from Beijing . I'd like to reserve a double room with a bath from tonight on for five days , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "A moment , please . I'll check our room availability for these days ... Yes , that's all right.What ' s your name please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "John Smith . J-O-H-N S-M-I-T-H .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "monologue_0002",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I feel so bad for the woman, standing there in the water like that.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5869062542915344
+    },
+    {
+      "text": "She’s just trying to do her chores, and everything is going wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.715015172958374
+    },
+    {
+      "text": "The boy is being so reckless, and she doesn’t even see it.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.46867215633392334
+    },
+    {
+      "text": "I notice the girl is just watching, not helping at all.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5704490542411804
+    },
+    {
+      "text": "The water is ruining the floor, and she’s just standing there, oblivious.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.48555368185043335
+    },
+    {
+      "text": "I think she’s going to slip any second, and it’s going to hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.471820592880249
+    },
+    {
+      "text": "The boy is so close to falling, and no one is stopping him.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3228665590286255
+    },
+    {
+      "text": "I see the cookie jar almost empty, and I wonder if it’s even worth the risk.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.46913182735443115
+    },
+    {
+      "text": "The whole scene makes me feel helpless, like I should do something.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5926970839500427
+    },
+    {
+      "text": "I notice the garden outside is so peaceful, but inside, it’s a disaster.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6719205379486084
+    },
+    {
+      "text": "I think the woman deserves better than this chaos.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.46683940291404724
+    }
+  ]
+}

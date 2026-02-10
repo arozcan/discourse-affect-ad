@@ -1,0 +1,55 @@
+{
+  "id": "monologue_806",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I can't believe this little boy is climbing on that rickety stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8956459164619446
+    },
+    {
+      "text": "It looks so unstable; I can already see him tipping backward.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.45342394709587097
+    },
+    {
+      "text": "He’s reaching for the cookie jar with such determination!",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5556860566139221
+    },
+    {
+      "text": "I can see the glint of cookies in his eyes, pure temptation driving him forward.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4115188419818878
+    },
+    {
+      "text": "And the girl is just standing there with her hand raised, wanting a cookie as well.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5090920925140381
+    },
+    {
+      "text": "I think they have no idea of the danger they’re in.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.36147505044937134
+    },
+    {
+      "text": "The chaos of the kitchen seems to amplify their mischief.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6372261643409729
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1532",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice the sunlight streaming through the window, illuminating the whole kitchen.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.609048068523407
+    },
+    {
+      "text": "It's such a beautiful day outside, but inside, chaos is brewing.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6912851333618164
+    },
+    {
+      "text": "The boy looks so determined as he stretches for those cookies, but the stool looks so unsteady.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.2552829682826996
+    },
+    {
+      "text": "I think about the consequences if he falls, and my stomach churns.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6796740889549255
+    },
+    {
+      "text": "The woman seems blissfully unaware of the mess building up around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3692436218261719
+    },
+    {
+      "text": "She polishes another plate, completely absorbed, while the kids plot their little heist.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8835083246231079
+    },
+    {
+      "text": "It’s like they’re living in their own little bubble, completely detached from the potential disaster.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46642956137657166
+    }
+  ]
+}

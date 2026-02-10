@@ -1,0 +1,26 @@
+{
+  "id": "dialog_6359",
+  "segments": [
+    {
+      "text": "Nancy , please turn the TV down .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Come on , John . This is my favorite show .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I don't care . I have a headache .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_624",
+  "segments": [
+    {
+      "text": "It's four o'clock already . I hate to leave , but I think I must .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can you stay a little longer ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry , but I can't .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

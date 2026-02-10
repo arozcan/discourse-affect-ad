@@ -1,0 +1,26 @@
+{
+  "id": "dialog_10105",
+  "segments": [
+    {
+      "text": "Mr . Wang , I want to apologize for being late again this morning . I just can't get up in time for work .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "So it seems . And what are you going to do about that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I guess I'll have to buy a new alarm clock .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

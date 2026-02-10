@@ -1,0 +1,97 @@
+{
+  "id": "monologue_9515",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen scene is heartbreaking in its carelessness.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6944229602813721
+    },
+    {
+      "text": "The woman is so absorbed in drying that plate, unaware of the danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.32981419563293457
+    },
+    {
+      "text": "Water is overflowing the sink, ruining everything it touches.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5896464586257935
+    },
+    {
+      "text": "The puddle grows, and she stands in it, potentially slipping any moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5797516703605652
+    },
+    {
+      "text": "I feel sorry for her; she'll be devastated by the damage later.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9665048122406006
+    },
+    {
+      "text": "The boy on the stool looks so vulnerable, balanced on the edge.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3165890872478485
+    },
+    {
+      "text": "One tip and he could hurt himself badly reaching for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4155625104904175
+    },
+    {
+      "text": "The girl reaches up too, her innocent face full of hope.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5310242772102356
+    },
+    {
+      "text": "But this secrecy might lead to trouble when mom finds out.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5207391381263733
+    },
+    {
+      "text": "The peaceful garden outside contrasts with the impending sadness inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5492611527442932
+    },
+    {
+      "text": "Dishes stacked high, water streaming down cabinets—it's all so fragile.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3077947795391083
+    },
+    {
+      "text": "I wish I could warn them before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4893866777420044
+    },
+    {
+      "text": "Such a simple moment, yet it tugs at my heart with worry.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3305184245109558
+    }
+  ]
+}

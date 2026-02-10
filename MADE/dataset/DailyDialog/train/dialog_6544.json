@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6544",
+  "segments": [
+    {
+      "text": "Excuse me , How do I get to the Grand hotel ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am sorry , I didn ’ t catch what you said . Could you repeat it please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "The Grand hotel , is it far from here ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sorry , my English isn ’ t so good . Could you speak a little slower ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

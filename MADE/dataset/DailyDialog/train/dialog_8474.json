@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8474",
+  "segments": [
+    {
+      "text": "Is the new computerised stock system in operation ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not quite . The software engineers are testing it just now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Have all the operators been trained on it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , most of them . We trained on a dummy system last month . A couple of people were away so we've organised two more training sessions on the live system for the whole team this week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

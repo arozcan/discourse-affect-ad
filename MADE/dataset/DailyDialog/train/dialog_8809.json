@@ -1,0 +1,54 @@
+{
+  "id": "dialog_8809",
+  "segments": [
+    {
+      "text": "What can I do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's a little embarrassing really ; you see I think I've got a counterfeit note .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you remember where you got it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I don't . Usually I'm very careful about checking the money I'm given , but for some reason this one slipped through .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Counterfeit notes these days can be very sophisticated and difficult to spot with the naked eye . But I must warn you that if it does show to be a counterfeit I have no option but to confiscate it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I understand . To be honest , I'll be glad to get rid of it if it is a fake .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "The machine shows it to be counterfeit . You'll need to fill in this form and I'll give you a receipt to show the money has been confiscated .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

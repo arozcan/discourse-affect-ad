@@ -1,0 +1,75 @@
+{
+  "id": "dialog_8224",
+  "segments": [
+    {
+      "text": "How much do you have budgeted for our trip to Las Angeles ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "In total , it should be about $ 5,000 for the week conference . Would you like to see the breakdown ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I want to know exactly where the money is going . Give me a detailed report .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "First we have the airline tickets , which are $ 500 per person ; with four of us going , that's t $ 2,000 . For our accommodations , we're spending $ 80 a night , per room , for five days . That's another $ 800 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Weren ’ t you able to find anything less expensive ? We're sharing rooms , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have two people to a room . The $ 80 room rate is the lowest I could find . With the conference going on that week , all the hotels have inflated their prices , they're making a killing .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "So far we have $ 2,800 , what else ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have budget $ 25 per Peron per day for food expenses . That totals another $ 800 . And for other incidentals , like take fees , and tips , I have estimated about $ 400 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , that's only $ 4000 . Didn't you tell me your budget was $ 5000 ? Where is the rest of the money ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's my buffer ... I wanted to leave a little room in the budget , just in case---it's better to be safe than sorry .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

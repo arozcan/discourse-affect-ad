@@ -1,0 +1,40 @@
+{
+  "id": "dialog_3741",
+  "segments": [
+    {
+      "text": "Hello , Mary . What ’ s the matter with you ? You look upset .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "My friend and I was argued with each other . For this , I ’ m very sad . Because I don ’ t want to lose this friend .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I ’ m sorry to hear that . I know how you feel . Please don ’ t be sad .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you , but I really want to relax myself . I ’ m very sorry .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . Don ’ t let it get to you . Goodbye .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

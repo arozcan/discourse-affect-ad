@@ -1,0 +1,47 @@
+{
+  "id": "dialog_800",
+  "segments": [
+    {
+      "text": "Do you consider yourself a good mother ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I'm a very good mother and successful career woman .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "How can you manage to do both ? I mean , it is so hard to be a working mother .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think the most important thing is that you should be nice to yourself , like keeping housework simple , spending money on things that make life easier , buying yourself things you like , and so on . You can only be nice to others when you can be nice to yourself .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Does your husband feel the same ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . He is very understanding and supportive .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

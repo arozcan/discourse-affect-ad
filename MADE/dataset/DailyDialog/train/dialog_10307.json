@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10307",
+  "segments": [
+    {
+      "text": "Hello . Can I ask what steps I have to go through in applying for the job ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It is not very complicated . You can send your resume to the e-mail address of our company .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What is the next step ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Our personnel clerk will screen all the resumes that we receive , select the eligible ones and arrange the interview for them .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

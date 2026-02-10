@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0004",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I notice the woman standing in the puddle, and it’s making me feel really sad.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9758795499801636
+    },
+    {
+      "text": "She’s just drying that plate like nothing is happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7708442211151123
+    },
+    {
+      "text": "The kids are sneaking cookies, and she has no idea.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5247787237167358
+    },
+    {
+      "text": "I wonder how long they’ve been doing this before she finally notices.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5410194396972656
+    },
+    {
+      "text": "The boy is really going for it, stretching as far as he can.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5632149577140808
+    },
+    {
+      "text": "I think he’s going to fall, but he’s so determined to get those cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4846677780151367
+    },
+    {
+      "text": "The girl is just waiting patiently, like she’s done this before.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8727953433990479
+    },
+    {
+      "text": "I can’t help but feel bad for the woman when she finally realizes what’s happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5083358287811279
+    },
+    {
+      "text": "The water is just pouring out, and she’s still not reacting.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3515406847000122
+    },
+    {
+      "text": "I think this is the saddest kitchen scene I’ve ever seen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7803817391395569
+    }
+  ]
+}

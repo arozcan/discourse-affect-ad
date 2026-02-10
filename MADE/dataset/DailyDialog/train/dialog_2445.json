@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2445",
+  "segments": [
+    {
+      "text": "What courses did you major in ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I took more than 10 subjects including Theoretical Economics , Political Economics , Western Economics , Statistics and so on . In addition to the courses of my major , I took minor courses too .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What courses did you minor in ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I took computer science and English courses as my minor subjects .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

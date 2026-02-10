@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8322",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This is heartbreaking; the family is so close to disaster without knowing.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8528093695640564
+    },
+    {
+      "text": "The woman is diligently drying that plate, missing all the signs of trouble.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5945945978164673
+    },
+    {
+      "text": "Water overflowing from the sink, soaking everything, and she's just unaware.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4658677279949188
+    },
+    {
+      "text": "The children are risking it all for some cookies, and it could end in tears.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3666229844093323
+    },
+    {
+      "text": "That stool looks so unstable; a fall would be devastating for the little boy.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.3914051651954651
+    },
+    {
+      "text": "The girl reaching up, so innocent and expectant, not seeing the danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3353408873081207
+    },
+    {
+      "text": "The peaceful garden outside contrasts with this impending sadness inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5994869470596313
+    },
+    {
+      "text": "Cabinets getting damaged, floor slippery—it's all so avoidable.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4609631299972534
+    },
+    {
+      "text": "I feel a pang watching them sneak treats in secret.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.934808075428009
+    },
+    {
+      "text": "Why can't moments like this just stay simple and safe?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4156437814235687
+    },
+    {
+      "text": "The dish towel in her hands seems symbolic of routine turning tragic.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.590668797492981
+    },
+    {
+      "text": "Poor things; I hope it doesn't end badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.43792179226875305
+    }
+  ]
+}

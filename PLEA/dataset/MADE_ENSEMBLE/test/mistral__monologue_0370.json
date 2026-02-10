@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0370",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "The boy is so determined to get those cookies, even if it means falling.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6160919666290283
+    },
+    {
+      "text": "The stool is barely holding him, and he doesn’t care.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.35972926020622253
+    },
+    {
+      "text": "The girl is just standing there, waiting like it’s nothing.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.506091296672821
+    },
+    {
+      "text": "I can’t believe how much water is on the floor.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9352777600288391
+    },
+    {
+      "text": "The woman is just drying dishes like nothing is wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5153194665908813
+    },
+    {
+      "text": "This is going to end badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.45584404468536377
+    },
+    {
+      "text": "I wish someone would just turn off the water.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49178868532180786
+    }
+  ]
+}

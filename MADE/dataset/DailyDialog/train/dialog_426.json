@@ -1,0 +1,40 @@
+{
+  "id": "dialog_426",
+  "segments": [
+    {
+      "text": "That was heaven !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "The sea water treatments are supposed to be really good for you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ?",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "But the water has to be kept at 34 degrees so that the minerals can be absorbed by your body .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , whatever it does , I feel transformed !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

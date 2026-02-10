@@ -1,0 +1,33 @@
+{
+  "id": "dialog_355",
+  "segments": [
+    {
+      "text": "Lily , I am terribly sorry about this . But we have to put off or cancel tomorrow's meeting .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Cancelled ? That's just can't happen !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sorry to say , but nothing can be done . The equipment broke down and can't be fixed till Friday .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , I hope it be fixed on Friday .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

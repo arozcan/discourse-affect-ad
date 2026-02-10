@@ -1,0 +1,47 @@
+{
+  "id": "dialog_4127",
+  "segments": [
+    {
+      "text": "Have you been to Shanghai before ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes I have . I ’ Ve been there three times in the past year .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sounds great . Have you been to the top of the Pearl Tower ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No I haven ’ t . I haven ’ t visited the Bund either . I ’ Ve always had too much work to do .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "So you haven ’ t done much then , in Shanghai ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Actually , I ’ Ve eaten soup dumplings in a lovely restaurant on Nanjing Lu . They were delicious !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

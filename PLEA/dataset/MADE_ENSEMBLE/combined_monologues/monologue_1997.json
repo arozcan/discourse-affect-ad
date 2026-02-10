@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1997",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "Looking at the boy, I can’t help but feel a sense of dread.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6934756636619568
+    },
+    {
+      "text": "He is precariously perched on a tilted stool, reaching for the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8662036061286926
+    },
+    {
+      "text": "The way he stretches upward makes my heart race; he could fall any moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3858356177806854
+    },
+    {
+      "text": "His determination is admirable but foolish at the same time.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.42966848611831665
+    },
+    {
+      "text": "I feel a pang of worry for the girl standing below him, hoping for a cookie.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.511946976184845
+    },
+    {
+      "text": "She looks so eager and innocent, completely unaware of the risk involved.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.39264655113220215
+    },
+    {
+      "text": "I want to shout for them to stop, to be aware of their surroundings.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6275801658630371
+    }
+  ]
+}

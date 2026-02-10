@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1516",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I peer into the kitchen and feel a pang watching the woman so focused on her plate.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6592694520950317
+    },
+    {
+      "text": "She's drying it carefully, but the sink behind her is silently overflowing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8565233945846558
+    },
+    {
+      "text": "Water spills out steadily, pooling around her unaware feet.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6008694767951965
+    },
+    {
+      "text": "It reminds me of how easily things can go wrong in a home.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.33492511510849
+    },
+    {
+      "text": "The boy on the stool reaches for cookies, his balance so precarious.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8403124809265137
+    },
+    {
+      "text": "One wrong move, and he could tumble down into the wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47938281297683716
+    },
+    {
+      "text": "The little girl waits eagerly, her innocent expectation tugging at my heart.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.537956178188324
+    },
+    {
+      "text": "They're just children, seeking a simple joy, yet in danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.2699153423309326
+    },
+    {
+      "text": "The window frames a serene garden, a stark contrast to the indoor risks.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6757676601409912
+    },
+    {
+      "text": "Sunlight filters in, illuminating the potential for heartbreak.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4605788290500641
+    },
+    {
+      "text": "The woman's neutral expression hides the chaos unfolding.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8279070854187012
+    },
+    {
+      "text": "I wish someone would notice before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4972078800201416
+    }
+  ]
+}

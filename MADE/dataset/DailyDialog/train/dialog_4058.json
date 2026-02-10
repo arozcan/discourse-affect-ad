@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4058",
+  "segments": [
+    {
+      "text": "Do you do morning exercises ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I do one set of shadow-boxing every morning after I get up .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Shadow-boxing ? How interesting ! Do you think it really helpful for your health ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Definitely . It not only keeps me fit but also helps me concentrate on my soul .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

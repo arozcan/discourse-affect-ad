@@ -1,0 +1,97 @@
+{
+  "id": "monologue_7592",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the woman at the sink, absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7578958868980408
+    },
+    {
+      "text": "She's polishing that plate like it's the most important thing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4317464828491211
+    },
+    {
+      "text": "But the water from the faucet is spilling over, making a huge puddle.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6656103134155273
+    },
+    {
+      "text": "It's going to ruin the floor and cabinets if it keeps up.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4447077214717865
+    },
+    {
+      "text": "She has no idea, standing right in the middle of it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4442942142486572
+    },
+    {
+      "text": "The boy on the stool is reaching for cookies secretly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9225576519966125
+    },
+    {
+      "text": "His sister's waiting eagerly beside him.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6982166767120361
+    },
+    {
+      "text": "That stool looks so unstable; he might tumble down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3861956000328064
+    },
+    {
+      "text": "It makes me worry about them getting hurt.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.703376293182373
+    },
+    {
+      "text": "The open window lets in light from the tidy garden.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8421860933303833
+    },
+    {
+      "text": "Everything outside seems perfect, unlike this risky scene inside.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.34076470136642456
+    },
+    {
+      "text": "I hope the mom turns around soon to stop this.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5210842490196228
+    },
+    {
+      "text": "It's heartbreaking to think of the accident that could happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9678552746772766
+    }
+  ]
+}

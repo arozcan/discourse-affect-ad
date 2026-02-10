@@ -1,0 +1,26 @@
+{
+  "id": "dialog_1158",
+  "segments": [
+    {
+      "text": "What was that noise ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It was the pilot putting the wheels down.We must be coming into land.Are you frightened ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Frightened ? You must be joking !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    }
+  ]
+}

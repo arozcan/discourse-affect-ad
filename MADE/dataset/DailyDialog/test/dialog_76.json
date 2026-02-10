@@ -1,0 +1,82 @@
+{
+  "id": "dialog_76",
+  "segments": [
+    {
+      "text": "Wow ! Your fruit looks really fresh ! How much are these apples ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "The apples are 30NT each . How many would you like ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let's see , 30NT is about ... almost a dollar US . What ? ! How about these pineapples ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "They're 250NT each , but they're not edible . They're only used for worship .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hmm , 250NT is ... 8 dollars ? ! ! And you can't even eat them ? You're crazy !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Wait ! Don't go just yet . These bananas are pretty cheap--only 35NT for this bunch .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Now that's more like it ! Bananas have lots of potassium , too !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "They're also good for your digestion ! Would you like some kiwis , too ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Are they from Taiwan ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "They're imported from New Zealand . Four for 50NT . Nine for a hundred .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . I'll take four kiwis .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 4
+    }
+  ]
+}

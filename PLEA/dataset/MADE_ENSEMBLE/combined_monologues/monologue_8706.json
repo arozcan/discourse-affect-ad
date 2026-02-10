@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8706",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I peer into the kitchen and feel a pang of worry.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7723870277404785
+    },
+    {
+      "text": "The woman is focused on her dish, unaware of the trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7254656553268433
+    },
+    {
+      "text": "Water from the sink is flooding out, creating a sad mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8865763545036316
+    },
+    {
+      "text": "It'll ruin the floor and cabinets if it keeps going.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.2818535566329956
+    },
+    {
+      "text": "The boy on the stool looks so vulnerable up there.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3699769377708435
+    },
+    {
+      "text": "One wrong move, and he'll crash down painfully.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.43432852625846863
+    },
+    {
+      "text": "The girl waits eagerly, but this could end in heartbreak.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.48775097727775574
+    },
+    {
+      "text": "They're just kids wanting cookies, but the risks are too high.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4685060977935791
+    },
+    {
+      "text": "The woman missing it all makes me feel sorry for them.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8627810478210449
+    },
+    {
+      "text": "Imagine the tears if an accident happens.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6329419612884521
+    },
+    {
+      "text": "The sunny garden outside seems distant from this potential sorrow.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5252966284751892
+    },
+    {
+      "text": "I wish I could warn them to prevent the sadness.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.546080470085144
+    },
+    {
+      "text": "It's a reminder of how fragile these moments can be.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5545066595077515
+    }
+  ]
+}

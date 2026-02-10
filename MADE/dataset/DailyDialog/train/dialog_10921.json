@@ -1,0 +1,54 @@
+{
+  "id": "dialog_10921",
+  "segments": [
+    {
+      "text": "I'm the Mortgage Advisor at this branch . You wanted a chat about housing loans ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I've found a wonderful property I wish to buy . Unfortunately , I just don't have access to the cash .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . It's a problem most of us face . May I ask what the purchase price is ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's 600,000 RIB . But I've already put down 200,000 RIB , which is my absolute limit , so I'm looking for a loan of 400,000 RIB .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , you've already made a large initial deposit ? That is good news . OK , let's have a look at your credit details and get this started .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I already have an account with you , so it should be pretty straight forward .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "That is good , it should speed things up nicely .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

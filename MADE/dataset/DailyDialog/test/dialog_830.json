@@ -1,0 +1,47 @@
+{
+  "id": "dialog_830",
+  "segments": [
+    {
+      "text": "Would you care to join for the picnic tomorrow ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Much to my regret , I'll have to meet my girlfriend at the airport then .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "We'd like to invite you for our dress party tomorrow evening , are you free ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Much as we'd like to , but we've booked up already for that time .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "What a pity ! You can't join us .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "So sorry . Next time we'll go , thanks anyway .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_8747",
+  "segments": [
+    {
+      "text": "Hello , three-five .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is that Anne ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm sorry , I'm very tired . I'm going to bed early . I didn't have good time , and I don't really want to see you again .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What are you talking about ? We had a great time . We laughed and talked all night last time .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "It was hardly all night . And I recall it was you doing all the laughing at your own jokes .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's not fair . We had fun . Give me a second chance . Can we meet tomorrow night for drinks at the pub ?",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , I ' m sorry . I'm going to meet some friends tomorrow evening . And I ' m too tired now . I have to go to sleep . Goodbye .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "But Anne ...",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 7,
+      "dialog_act": 3
+    }
+  ]
+}

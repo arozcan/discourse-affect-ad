@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5784",
+  "segments": [
+    {
+      "text": "Do you have anything in particular that you would like our firm to take into account ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , my house is far away from here . May I ask for an apartment ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . We will offer you a room with one bedroom and a kitchen ..",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's great . Thank you so much .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

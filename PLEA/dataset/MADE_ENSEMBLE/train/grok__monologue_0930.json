@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0930",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This scene makes me so uneasy.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47997966408729553
+    },
+    {
+      "text": "The kitchen looks ordinary at first, with the window open to the yard.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8927558660507202
+    },
+    {
+      "text": "But the sink is flooding—water gushing out uncontrollably.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.469765305519104
+    },
+    {
+      "text": "The adult is right there, but oblivious, focused on her plate.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7677097916603088
+    },
+    {
+      "text": "That puddle at her feet is dangerous; one wrong step and she'll slip.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7461681365966797
+    },
+    {
+      "text": "The children are risking even more, with the boy on that unstable stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.38582754135131836
+    },
+    {
+      "text": "He's stretching to grab cookies, not seeing how close he is to falling.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.506582498550415
+    },
+    {
+      "text": "The girl watches eagerly, hand outstretched for her treat.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5817658305168152
+    },
+    {
+      "text": "I hate how unaware everyone seems to the hazards building up.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6644405126571655
+    },
+    {
+      "text": "The tidy garden outside just makes the inside chaos feel worse.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.43334949016571045
+    },
+    {
+      "text": "Dishes stacked nearby could shatter if there's a tumble.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6608805060386658
+    },
+    {
+      "text": "Someone needs to intervene before it's a real tragedy.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5060405731201172
+    },
+    {
+      "text": "My heart races just watching this unfold.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7961965203285217
+    }
+  ]
+}

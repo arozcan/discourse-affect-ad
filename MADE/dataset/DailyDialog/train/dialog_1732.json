@@ -1,0 +1,68 @@
+{
+  "id": "dialog_1732",
+  "segments": [
+    {
+      "text": "Hello , Grace . That's a beautiful skirt you have on . Where are you going ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am going to attend an interview .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What kind of job are you applying for ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "My major is English . Of course I'll apply for an English teacher .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh . That dress doesn't exactly match the job .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why ? You said my skirt was beautiful just now .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , your skirt is really beautiful , but you are applying for a teaching position . You see , your skirt is very short , and your make up is too thick . What's more , the color of your lipstick doesn't match your skin . As a teacher , you should be a little more sedate .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Then what should I do ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Some of my friends tell me that being a teacher , the most important is the beauty of mind . You shouldn't pay too much attention to your appearance . You should appear frugal and prudent . Your experience and knowledge will gain the appreciation of your interviewer .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

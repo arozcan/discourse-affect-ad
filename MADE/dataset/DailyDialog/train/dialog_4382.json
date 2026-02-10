@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4382",
+  "segments": [
+    {
+      "text": "I have some photos here taken by myself . Would you like to see them ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure . Speaking of photos , what type of film will be the best ? You know , I'm planning a tour to Jiuzhaigou Valley .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I would get Fuji 200 film for taking photos of natural beauty .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you so much . You're an expert .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

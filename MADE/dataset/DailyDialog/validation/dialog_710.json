@@ -1,0 +1,68 @@
+{
+  "id": "dialog_710",
+  "segments": [
+    {
+      "text": "Thank god you are open ! I have an emergency !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello , Mr . Henderson what can I do for you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I need this dress and this suit dry cleaned ASAP !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , I can have it ready by the end of the week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "No , you don ’ t understand , I need this tomorrow morning ! I accidentally spilled beer all over my wife ’ s dress and we have a wedding to attend tomorrow ! She ’ s gonna kill me !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , I can have it ready tomorrow afternoon , but this suit is also very stained . I can ’ t guarantee we can remove it completely .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Fine ! Can you also iron and starch this shirt ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Great ! This is our secret ! If you see my wife , say nothing to her about this !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 3
+    }
+  ]
+}

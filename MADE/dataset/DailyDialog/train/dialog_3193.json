@@ -1,0 +1,47 @@
+{
+  "id": "dialog_3193",
+  "segments": [
+    {
+      "text": "Mom , did you feel the earthquake this afternoon ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , that scared me .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "The breaking news just reported some houses were destroyed by the earthquake .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , dear ! How ruthless !",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you think we can donate some clothes and food for the victims ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Why not ? That's a good idea to help them .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

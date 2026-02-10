@@ -1,0 +1,97 @@
+{
+  "id": "monologue_1696",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I'm looking at this kitchen scene, and it's kind of heartwarming at first.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5428916811943054
+    },
+    {
+      "text": "The woman is there in her apron, polishing that plate so neatly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3794795274734497
+    },
+    {
+      "text": "But then I notice the water gushing from the sink.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6976823210716248
+    },
+    {
+      "text": "It's filling up and spilling everywhere, soaking the cabinets.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5009461045265198
+    },
+    {
+      "text": "She has no idea, just keeps drying away oblivious to the mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5253642797470093
+    },
+    {
+      "text": "The floor is getting slippery with that puddle spreading out.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45576202869415283
+    },
+    {
+      "text": "Now, behind her, the kids are up to no good.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9138335585594177
+    },
+    {
+      "text": "The boy is on that shaky stool, stretching for the cookies.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9379106760025024
+    },
+    {
+      "text": "What if he falls? That thing looks ready to collapse.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4732168912887573
+    },
+    {
+      "text": "The girl is just standing there, hand out, begging for one.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.47877028584480286
+    },
+    {
+      "text": "They're sneaking treats while mom's not looking—naughty but cute.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8027821779251099
+    },
+    {
+      "text": "Outside the window, everything's calm, which makes this inside frenzy even funnier.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.609234094619751
+    },
+    {
+      "text": "I hope someone turns off that faucet before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5024235248565674
+    }
+  ]
+}

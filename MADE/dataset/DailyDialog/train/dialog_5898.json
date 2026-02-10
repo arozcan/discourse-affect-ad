@@ -1,0 +1,54 @@
+{
+  "id": "dialog_5898",
+  "segments": [
+    {
+      "text": "Have you got any specific proposal about the terms of payment ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I wonder if we can make payment for this order by documentary collection .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry to say the only term of payment we can accept is 100 % irrevocable letter of credit payable against shipping documents .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "But our order this time is very large . To open an L / C for such a large amount at a bank is costly . Can you be a bit more flexible and bend the rule a little ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid not . We insist on a letter of credit , because as seller , we also have the problem of funds being tied up .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "To be frank , a letter of credit would increase the cost of my import . When I open a letter of credit with a bank , I have to pay a deposit . That will tie up my money and add to my cost .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Consult your bank and see if they will reduce the required deposit to a minimum .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

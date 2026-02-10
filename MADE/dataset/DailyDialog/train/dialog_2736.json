@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2736",
+  "segments": [
+    {
+      "text": "Hi ! Tom . Fancy seeing you here It's a nice party isn't it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah . Well it's quite some days since we were together last summer.How is everything going ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Quite well . I got my MA degree two weeks ago .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Congratulations !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

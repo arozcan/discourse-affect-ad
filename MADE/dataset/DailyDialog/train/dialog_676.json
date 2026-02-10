@@ -1,0 +1,33 @@
+{
+  "id": "dialog_676",
+  "segments": [
+    {
+      "text": "Do you think I should ask Bob to help ? Will he come ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No problem . You know him . He ’ s the kind of guy that ’ s always willing to go the extra miles .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s right . But I have bothered him several times .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I bet he will come .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

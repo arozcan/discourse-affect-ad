@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6166",
+  "segments": [
+    {
+      "text": "Are you still hungry , Ryan ? How about some more squid balls ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Squid balls ? How about some more fruit !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Wow ! You really like fruit , huh ? You've already had 3 plates !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , it's funny . I usually don't ever eat fruit ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , whatever suits your fancy . I'll press the service button again .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

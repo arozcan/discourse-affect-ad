@@ -1,0 +1,201 @@
+{
+  "id": "dialog_828",
+  "segments": [
+    {
+      "text": "I need help . I think my arm is broken .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Alright . Have you been to this hospital before ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I haven't . I need help quick . It hurts really badly .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I understand . It's good you came to the emergency room .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Let me see a doctor .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry , sir . You will need to wait at least a short time.We are very busy tonight . There was a big car accident on Highway 106 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "I thought this was the emergency room .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "It is . But unless you are critically injured , you still need to wait.You aren't bleeding , are you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . Only a little . I fell off my porch .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , that's terrible . Is it your right arm or your left arm ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "My left arm .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can you fill out this form then ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , I can't . I'm left-handed .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's very inconvenient for you then.You ' ll probably have a cast on your left arm .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . But why do I have to fill out a form anyway ? This is the emergency room .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it is . But even in emergency rooms there is some paperwork to be done.Have you ever been in an emergency room before ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . Just let me see a doctor . I'm worried about my arm .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 3
+    },
+    {
+      "text": "Be brave , sir . It won't be long . I will fill out the form for you . What is your name ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 17,
+      "dialog_act": 2
+    },
+    {
+      "text": "Steve Schliessman . S C H L I E S S M A N .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 18,
+      "dialog_act": 1
+    },
+    {
+      "text": "Alright Steve . Your social security number ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 19,
+      "dialog_act": 2
+    },
+    {
+      "text": "349-95- 8821 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 20,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you have medical insurance ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 21,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I do . Blue Cross .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 22,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you have your insurance card with you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 23,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I don't .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 24,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , you can call it in later . You can phone us .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 25,
+      "dialog_act": 3
+    },
+    {
+      "text": "Can I sit down now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 26,
+      "dialog_act": 3
+    },
+    {
+      "text": "First I need to get your address . Try to move your arm as little as possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 27,
+      "dialog_act": 3
+    }
+  ]
+}

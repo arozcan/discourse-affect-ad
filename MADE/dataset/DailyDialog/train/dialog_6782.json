@@ -1,0 +1,26 @@
+{
+  "id": "dialog_6782",
+  "segments": [
+    {
+      "text": "Can you book me a single room on March 31 ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sorry , I'm afraid the hotel is full on those dates.Shall I contact another hotel for you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

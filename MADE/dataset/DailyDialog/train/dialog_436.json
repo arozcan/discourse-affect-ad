@@ -1,0 +1,33 @@
+{
+  "id": "dialog_436",
+  "segments": [
+    {
+      "text": "I can't bear you anymore . I am sick of your drinking . I am divorcing you .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Don't do that to me , honey . Give me a chance , please . I make a solemn promise never to drink alcohol again .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "How many chances should I give you ? I've given up on you !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Have a heart , honey . You know I am trying hard to quit drinking , don't you ? Just give me one more chance , please !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0755",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a woman standing at the sink, seemingly engrossed in drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9224987030029297
+    },
+    {
+      "text": "Her focus is so intense that she doesn't even notice the water splashing over the edges.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6757040023803711
+    },
+    {
+      "text": "It's almost comical, really, how unaware she is of the chaos around her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5645980834960938
+    },
+    {
+      "text": "I can’t help but think about the potential disaster waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3056837320327759
+    },
+    {
+      "text": "Water could ruin those lovely cabinets that have probably seen many dinners.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5106011629104614
+    },
+    {
+      "text": "And yet, the garden outside looks so peaceful, a stark contrast to the madness inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.39405855536460876
+    },
+    {
+      "text": "I wonder if she would react differently if she could see the mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4755837917327881
+    }
+  ]
+}

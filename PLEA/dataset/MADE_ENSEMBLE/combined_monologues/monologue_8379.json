@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8379",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, that sink is disgusting with water spilling out.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9629420638084412
+    },
+    {
+      "text": "It's soaking the floor, what a filthy mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7722756862640381
+    },
+    {
+      "text": "The woman hasn't a clue, just drying that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4291313588619232
+    },
+    {
+      "text": "Her foot in the puddle, gross and slippery.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.644652247428894
+    },
+    {
+      "text": "Now the kids, rummaging in the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9117769002914429
+    },
+    {
+      "text": "The boy's stool is tilting, covered in crumbs maybe.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7654003500938416
+    },
+    {
+      "text": "He's grabbing cookies like a little thief.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.48602232336997986
+    },
+    {
+      "text": "The girl with her hand out, begging for one.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5113028287887573
+    },
+    {
+      "text": "Open cabinets, probably dusty inside.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8891334533691406
+    },
+    {
+      "text": "The water streaming down the cabinets, ruining them.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.2803303599357605
+    },
+    {
+      "text": "This whole scene is turning into a swamp.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5747437477111816
+    },
+    {
+      "text": "The garden looks clean, but inside it's nasty.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8097137808799744
+    },
+    {
+      "text": "I can't stand seeing such carelessness.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8764195442199707
+    },
+    {
+      "text": "Turn off the faucet already!",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7394134998321533
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "dialog_8722",
+  "segments": [
+    {
+      "text": "hello ! How are you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "not too well ! I ’ m just to the doctor . I haven ’ t been feeling too well .. over the last few days .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "what have you got ? A cough ? A cold ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "that ’ s the funny thing . I don ’ t what ’ s wrong with me . I just feel exhausted .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "perhaps you ’ Ve been working too hard . You do have a high-pressure job .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "maybe . I haven ’ t been able to keep my food down either . That ’ s unusual .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "well . I ’ m sure the doctor will be able to prescribe something to make you well again . Dr . Jameson is very good .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "yes , he is . I ’ Ve make an appointment for 10 o ’ clock , so I ’ d better move along .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . Hope you feel better soon . You should take it easy . I ’ m sure the doctor will prescribe rest , you know .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

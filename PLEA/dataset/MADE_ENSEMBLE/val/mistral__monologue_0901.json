@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0901",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the little boy standing on that wobbly stool, reaching for the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9273287057876587
+    },
+    {
+      "text": "I think he’s going to fall any second now, and it’s terrifying.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9756225347518921
+    },
+    {
+      "text": "The stool is already tilting backward, and he’s stretching so far up.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5194236040115356
+    },
+    {
+      "text": "I notice the girl below him, just waiting for a cookie like it’s no big deal.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6658234596252441
+    },
+    {
+      "text": "I can’t believe they’re doing this right behind their mother’s back.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5073539018630981
+    },
+    {
+      "text": "The woman is just a few feet away, completely oblivious to the danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49734553694725037
+    },
+    {
+      "text": "I wonder if they’ve done this before and gotten away with it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47579190135002136
+    },
+    {
+      "text": "The boy’s hand is deep in the jar, and he’s not even looking where he’s standing.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4915836453437805
+    },
+    {
+      "text": "I think the girl is supposed to be the lookout, but she’s just as distracted by the cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5496844053268433
+    },
+    {
+      "text": "I hope he doesn’t take that last step backward—it’ll be a disaster.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.44637906551361084
+    }
+  ]
+}

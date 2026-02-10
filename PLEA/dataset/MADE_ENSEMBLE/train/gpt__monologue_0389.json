@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0389",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I’m captivated by the scene before me, yet there’s a tinge of sadness in it.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4764319062232971
+    },
+    {
+      "text": "The woman seems so content in her task, drying the dishes, yet utterly unaware of the flood at her feet.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4892122149467468
+    },
+    {
+      "text": "It’s a stark contrast to the joyous chaos of the children plotting their cookie heist.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49723875522613525
+    },
+    {
+      "text": "I see the way the boy stretches for that cookie, and it makes me smile, but I can’t shake off my anxiety.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.31245869398117065
+    },
+    {
+      "text": "Their innocence is beautiful, but it’s mingled with the danger of that wobbly stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4932289719581604
+    },
+    {
+      "text": "I notice the girl with her eager hand raised, embodying the thrill of mischief, and it breaks my heart a little.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9231767654418945
+    },
+    {
+      "text": "I’m left wondering if anyone will notice before it’s too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4798011779785156
+    }
+  ]
+}

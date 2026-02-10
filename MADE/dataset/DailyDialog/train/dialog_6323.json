@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6323",
+  "segments": [
+    {
+      "text": "Hello . I'd like to get a seat to New York City on a flight leaving sometime before this Friday .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid Thera isn't any direct light before Friday . What about a non-direct one ? You have to make a change in Detroit .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , in that case , that's fine . I want a first class ticket on Thursday .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Would you like to pay in cash or by card ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Cash , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3985",
+  "segments": [
+    {
+      "text": "Do you like snakes ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course not . I'm afraid of them .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I mean , do you like snake meat ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm afraid I'll feel sick at the sight of it .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_5560",
+  "segments": [
+    {
+      "text": "Welcome to Lincoln Bank . What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . I called earlier in the week and spoke to someone in the personal loans department about an overseas study loan . She said to come in as soon as I had the chance , as this must be done in person . I'd like to apply today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , that's absolutely fine . I will need to see some credentials before we can get started . Do you have the notification of admission letter from your university , your passport and your visa with you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , yes . It's all here . There you go . I'm not sure if I need any other proof or guarantee to get this loan , do I ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "You do , I'm afraid . There are 3 ways to do this . You can choose , mortgage , pledge or guarantee mode .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , I read about all of these in the brochure and decided which would be more suitable for me . I'd like to go for the guarantee mode , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Right , that's no problem . I see you are already well informed . If you choose that one , you can borrow up to 70 % of the total tuition and miscellaneous fees .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , that's perfect , 70 % is excellent , it'll be a big help . Thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3237",
+  "segments": [
+    {
+      "text": "We have mild wines and strong liquors . Which kind do you prefer ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've no idea . I'd like to listen to your suggestion .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's my pleasure . Actually , it's really hard to say as individual tastes are different . As for myself , I'd like to recommend gin and tonic .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I'll try gin and tonic .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

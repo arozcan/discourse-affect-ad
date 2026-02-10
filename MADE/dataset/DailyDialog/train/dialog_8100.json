@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8100",
+  "segments": [
+    {
+      "text": "Mr . Phillips ? I have a request here from purchasing that needs your approval .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let me take a look . This is for a 486 computer with modem . Who ’ s it going to ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I believe it ’ s going to Ms . Wilson ’ s office .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Get her on the phone , please . I need to clarify this .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

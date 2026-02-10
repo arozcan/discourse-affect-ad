@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0950",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water just pouring over the sink, and it’s making me really anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9389131665229797
+    },
+    {
+      "text": "The woman doesn’t seem to notice at all, and that’s terrifying.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6191682815551758
+    },
+    {
+      "text": "The floor is getting more and more slippery by the second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4857962727546692
+    },
+    {
+      "text": "I can already imagine someone slipping and getting hurt.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47630542516708374
+    },
+    {
+      "text": "And the kids are just adding to the chaos by climbing on that stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3989514112472534
+    },
+    {
+      "text": "I don’t even want to think about what could happen if the boy falls.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.32695239782333374
+    },
+    {
+      "text": "The girl is just standing there, completely unaware of the danger.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.26767319440841675
+    },
+    {
+      "text": "I wish someone would just turn off the faucet already.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.504309356212616
+    },
+    {
+      "text": "This whole situation is just a recipe for disaster.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3192812502384186
+    },
+    {
+      "text": "I can’t believe no one is doing anything about it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7268786430358887
+    }
+  ]
+}

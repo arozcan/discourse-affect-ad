@@ -1,0 +1,145 @@
+{
+  "id": "dialog_113",
+  "segments": [
+    {
+      "text": "Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I would like to buy a Walkman . Can you tell me about the models you have ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , we have a lot of models here.Did you want to listen to CD's or cassettes or the radio ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Mostly cassette tapes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Alright . There are several models you may want to look at.This Kreng portable cassette player is very good .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Kreng ? I've never heard of that company .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's a German company.This unit has auto-reverse , recording capability , and an AM / FM radio band.It also has a built-in microphone .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I suppose I don't want that one then . I don't like auto-reverse . It breaks too easily .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "Really ? Have you had an auto-reverse break before ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , twice now . I think it's too high-tech , and so it's the first part that breaks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hmm . You know , the problem might be dust . Did you clean the unit often ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well . No , I didn't clean it.But still , I only had the last one two months , and it broke . I don't trust auto-reverse .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Alright . Well . We have many units without auto-reverse.Here is a good unit . Very reliable.It has an AM / FM band , built-in microphone , recording capability , and no auto-reverse .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 3
+    },
+    {
+      "text": "How much is it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "This one sells for $ 39.99 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can I test it out ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 16,
+      "dialog_act": 4
+    },
+    {
+      "text": "It sounds great . I'll take it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 17,
+      "dialog_act": 4
+    },
+    {
+      "text": "Fine . I think you'll be happy with it . It's a very good unit . Very reliable . I'll go get you a new one in a box . I will be back in just a moment .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 18,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 19,
+      "dialog_act": 4
+    }
+  ]
+}

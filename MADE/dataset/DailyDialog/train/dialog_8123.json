@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8123",
+  "segments": [
+    {
+      "text": "A report says running red lights causes one thousand traffic accidents every year .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "It ’ s horrible . Why do drivers run a red light then ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Maybe they know they shouldn ’ t run a red light , but when they are driving they don ’ t pay enough attention to traffic lights .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Talking on the cell phone while driving is very dangerous too . It increases the chance of accidents .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know . If a policeman catches you using the cell phone while driving , you will be fined .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

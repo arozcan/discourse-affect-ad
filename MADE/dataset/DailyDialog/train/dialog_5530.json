@@ -1,0 +1,54 @@
+{
+  "id": "dialog_5530",
+  "segments": [
+    {
+      "text": "Can you help me set up my voicemail message ? I just got this service and I am not really sure what I am supposed to say .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure ! You just basically gotta let the caller know who they called , and ask them for their contact information so you can call them back .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , so can I say , \" This is Abby's voicemail . I will call you later , so leave me your name and number \" .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's more or less the idea , but try something that sounds more friendly .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok , so how about this , \" This is Abby and I am really happy you called ! I promise I will give you a ring as soon as I can , so please leave me your name and number . Talk to you soon ! \" .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "A little too friendly Abby . Just say this , \" Hi , you have reached Abby . I am unable to answer your call right now , but if you leave me your name and phone number , I will get back to you as soon as possible . Thanks \" .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's perfect ! Can you say that again and record it for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

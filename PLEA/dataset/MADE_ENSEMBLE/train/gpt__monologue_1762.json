@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1762",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "There's a contrast between the vibrant garden outside and the turmoil within.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5517661571502686
+    },
+    {
+      "text": "I see the woman drying her dishes, completely unaware of the chaos she has created.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4672698378562927
+    },
+    {
+      "text": "Her foot is already in that puddle, yet she doesn't react at all.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4123395085334778
+    },
+    {
+      "text": "The kids are creeping closer to trouble, and my heart races with anxiety.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9214849472045898
+    },
+    {
+      "text": "The boy is almost tipping over, his balance hanging by a thread as he reaches.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5346591472625732
+    },
+    {
+      "text": "I want to scream and tell them to be careful, but I know it's too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3017102777957916
+    },
+    {
+      "text": "The whole scene makes me feel helpless, caught between wanting to intervene and just watching.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6435885429382324
+    }
+  ]
+}

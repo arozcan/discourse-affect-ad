@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8002",
+  "segments": [
+    {
+      "text": "Look ! Allen has the mic !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I thought he only liked to listen !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "That was before he heard Stanley sing ! I guess he couldn't stand it any more , so he decided to give it a try himself !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "( Sound of Allen singing ) Hey , Allen has a really good voice ! He sounds like Johnny Dean !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "And he can move . too ! He dances like Ricky Martin !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

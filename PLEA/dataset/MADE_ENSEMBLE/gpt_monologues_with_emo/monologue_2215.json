@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2215",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I can't shake the feeling of impending disaster as I watch the water overflow.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6526790261268616
+    },
+    {
+      "text": "The puddle creeps further across the floor, a silent warning.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6516809463500977
+    },
+    {
+      "text": "In stark contrast, the calm garden outside seems so peaceful.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6109858751296997
+    },
+    {
+      "text": "It's like a painting of normalcy while chaos brews indoors.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4401296079158783
+    },
+    {
+      "text": "I wonder how the woman can miss all of this; her back is turned to the storm.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7520507574081421
+    },
+    {
+      "text": "Yet she looks so serene, just drying that plate with dedication.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5073980093002319
+    },
+    {
+      "text": "Is she really that unaware, or is it willful ignorance?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5834668874740601
+    }
+  ]
+}

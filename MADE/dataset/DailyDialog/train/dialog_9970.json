@@ -1,0 +1,47 @@
+{
+  "id": "dialog_9970",
+  "segments": [
+    {
+      "text": "Hello , this is Francis from XYZ Company . I would like to discuss with you about a new project some time next week . Do you have time to meet ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I am not sure . Lets me check my agenda",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I am free on Tuesday afternoon from 2 PM to 4 PM , is it convenient for you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "It is ok with me . So I will be arriving at your office around 2 fifteen PM . Do you have a projector in your room ? I would like to show you some related charts",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , there is . See you then .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

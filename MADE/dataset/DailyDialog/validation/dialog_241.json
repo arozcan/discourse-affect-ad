@@ -1,0 +1,47 @@
+{
+  "id": "dialog_241",
+  "segments": [
+    {
+      "text": "Is the factory fully-automated ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not completely . Our production process is partially-automated . We use robots on the production line for routine assembly jobs but some of the work is still done manually .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about supply of parts to the production line ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , the parts are automatically selected from the store room using a bar-code system . And there is an automatic feeder which takes them to the conveyor belt at the start of the production line .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about the smaller components ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "They're transported to the workstations on automated vehicles - robot trucks - which run on guide rails around the factory .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_8819",
+  "segments": [
+    {
+      "text": "Hi , I Want a room , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Good afternoon , sir . Welcome to our hotel.What kind of room would you like , sir ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "A double room for my wife and me , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

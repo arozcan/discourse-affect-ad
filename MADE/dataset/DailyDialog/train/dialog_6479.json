@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6479",
+  "segments": [
+    {
+      "text": "Hello ? This is Mike here . May I have a word with Grace ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "She ’ s not at her desk at the moment . Is there any message I can give her ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . Please tell her that tickets to Phantom of the Opera will be delivered in two days . My number is 6521684 0 , extension 236 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok . I ’ ll let her know as soon as possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thanks a lot . Bye .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

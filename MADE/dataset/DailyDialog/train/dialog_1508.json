@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1508",
+  "segments": [
+    {
+      "text": "You must be annoyed about your boyfriend ’ s leaving you , huh ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Don ’ t ever mention him . I ’ m getting over it .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "It ’ s a sad thing . I ’ m ever so sorry ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you done ?",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 2
+    }
+  ]
+}

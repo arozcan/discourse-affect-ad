@@ -1,0 +1,47 @@
+{
+  "id": "dialog_1126",
+  "segments": [
+    {
+      "text": "Did you lock the doors ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "All except the back door . I left that open for Tim . He took the dog for a walk .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I ’ m going on to bed . I ’ m beat .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok , I ’ m going to stay up awhile . I ’ Ve got to go over the household budget , We ‘ re a little over-spend this month .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Please told Tim to close the door to the basement . I don ’ t want dog down there tonight .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , Good night , see you at breakfast .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

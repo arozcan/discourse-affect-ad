@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5199",
+  "segments": [
+    {
+      "text": "Hello ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello ? Mr . Bernie . My name is Lisa . I hope I ’ m not disturbing you . I just heard about your daughter . I wanted to call you and tell you how much we ’ ll miss her .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m sorry . I think you are calling the wrong person . My name is not Mr . Bernie .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ? That ’ s odd . I ’ m so sorry if I ’ Ve bothered you .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "No problem .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

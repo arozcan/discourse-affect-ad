@@ -1,0 +1,61 @@
+{
+  "id": "dialog_5652",
+  "segments": [
+    {
+      "text": "Hello sir , may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , I accidentally dropped my phone in the toilet .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see . Well , you have come to the right place . We have over one hundred models of more than twenty leading mobile phone manufacturers .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sounds good . I don ’ t want it to be too expensive , maybe something mid-range .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "We have this new ETC smart phone.It comes with the Android OS so you can download applications . It also has a built-in camera , mp3 player and touch screen . It works on the 3G network so you have fast access to the internet wherever you are .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about Wi-fi ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course ! You can access the internet from any hotspot as well as from home .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "One last thing . Is it waterproof ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    }
+  ]
+}

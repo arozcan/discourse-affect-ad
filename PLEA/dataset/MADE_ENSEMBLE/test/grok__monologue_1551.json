@@ -1,0 +1,97 @@
+{
+  "id": "monologue_1551",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, that sink is gushing water all over— what a disgusting mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9673793911933899
+    },
+    {
+      "text": "The puddle spreading across the floor is filthy and slippery.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6041675806045532
+    },
+    {
+      "text": "The woman's foot is in it, and she doesn't even flinch—gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.690628170967102
+    },
+    {
+      "text": "Water streaming down the cabinets looks like it's ruining everything.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3353017270565033
+    },
+    {
+      "text": "Those kids are up to no good, pawing into the cookie jar with dirty hands.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5019872784614563
+    },
+    {
+      "text": "The stool is tilting, and who knows what's on that counter.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43559736013412476
+    },
+    {
+      "text": "The girl's reaching up, probably tracking crumbs everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4536219537258148
+    },
+    {
+      "text": "The whole kitchen feels unclean with this unnoticed disaster.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.3375392556190491
+    },
+    {
+      "text": "Even the pretty garden outside can't distract from this sloppiness inside.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49423861503601074
+    },
+    {
+      "text": "Drying dishes while ignoring the flood—it's just irresponsible.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.46078723669052124
+    },
+    {
+      "text": "Cookies scattered if they fall? That would be a sticky nightmare.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4147525429725647
+    },
+    {
+      "text": "I can't stand seeing such neglect in a home like this.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.50851970911026
+    },
+    {
+      "text": "Turn off the faucet already; this is revolting!",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9165230393409729
+    }
+  ]
+}

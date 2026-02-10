@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0513",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy balancing on that stool, and it makes my stomach drop.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.37851405143737793
+    },
+    {
+      "text": "He’s reaching for the cookie jar like it’s the most important thing in the world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5035870671272278
+    },
+    {
+      "text": "The girl is right there, waiting for her share, completely oblivious to the danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.454975426197052
+    },
+    {
+      "text": "I can’t believe the woman hasn’t noticed the water yet.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8673753142356873
+    },
+    {
+      "text": "Her foot is soaked, and she’s just standing there, drying dishes.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44321033358573914
+    },
+    {
+      "text": "The puddle is getting bigger by the second.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7336034774780273
+    },
+    {
+      "text": "I wonder if the kids will get caught before the stool tips over.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4905848205089569
+    },
+    {
+      "text": "The whole scene is like a slow-motion accident.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7126404643058777
+    },
+    {
+      "text": "I can almost feel the tension in the air.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.391005277633667
+    },
+    {
+      "text": "The garden outside looks so peaceful, but inside, it’s pure chaos.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.2870712876319885
+    }
+  ]
+}

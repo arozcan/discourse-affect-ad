@@ -1,0 +1,104 @@
+{
+  "id": "monologue_1512",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen is a total mess, disgusting really.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9636096954345703
+    },
+    {
+      "text": "Water everywhere from that stupid overflowing sink.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9264928102493286
+    },
+    {
+      "text": "The woman's just standing in it, not even noticing.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4262315034866333
+    },
+    {
+      "text": "Her apron's probably getting soaked through.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.48156946897506714
+    },
+    {
+      "text": "Those dirty dishes stacked up beside her.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7343611717224121
+    },
+    {
+      "text": "Now the kids making it worse with their climbing stunt.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.44116610288619995
+    },
+    {
+      "text": "Boy's hand in the cookie jar, crumbs everywhere no doubt.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49265527725219727
+    },
+    {
+      "text": "Stool's unstable, could crash and break something.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3927232027053833
+    },
+    {
+      "text": "Girl reaching up, like it's all a game.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49474018812179565
+    },
+    {
+      "text": "The floor's slippery now, what a hazard.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5921458601951599
+    },
+    {
+      "text": "Outside garden looks clean, why can't inside be like that?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.41849979758262634
+    },
+    {
+      "text": "Whole place needs a good cleanup urgently.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6312556862831116
+    },
+    {
+      "text": "I can't stand seeing such carelessness.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8751840591430664
+    },
+    {
+      "text": "Ugh, turn off that faucet already.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5001479387283325
+    }
+  ]
+}

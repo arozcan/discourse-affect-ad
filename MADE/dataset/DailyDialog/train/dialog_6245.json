@@ -1,0 +1,61 @@
+{
+  "id": "dialog_6245",
+  "segments": [
+    {
+      "text": "Good day ! What can we do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm considering buying a new car , the old one hasn't been running too well recently , and was wondering what kind of credit you can offer me .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Buying a new car is a big expense ; we understand that , so we have a variety of loans to suit your needs .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's great . I'm looking to borrow quite a large sum , though .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "With our Personal Automobile Consumer Loan , the borrower can borrow up to 80 % of the purchase price .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's good news . The car I'm interested in is priced at 120,000 RIB , but I think I can get a bit of discount on that . I can afford to put up around 40,000 RIB myself .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's great . You will need to make an initial down payment of 20 % , and then we can get going with this .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "The funds are all ready to go in my personal account , so let's transfer it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "monologue_2211",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I'm looking at this kitchen scene, and it makes my heart race a bit.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8076723217964172
+    },
+    {
+      "text": "The woman is drying dishes, completely oblivious to the chaos starting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.514223039150238
+    },
+    {
+      "text": "Water from the faucet is filling the sink and spilling everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5745808482170105
+    },
+    {
+      "text": "That puddle is growing fast, and she's standing right in it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4672558009624481
+    },
+    {
+      "text": "What if she slips and falls?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4900859296321869
+    },
+    {
+      "text": "Now, the boy on the stool—it's tilting backward dangerously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6648117899894714
+    },
+    {
+      "text": "He's stretched up high, reaching into the open cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6260653138160706
+    },
+    {
+      "text": "One wrong move, and he could tumble down onto the wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4696565866470337
+    },
+    {
+      "text": "The girl is just watching, her arm up, probably excited for a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.576895534992218
+    },
+    {
+      "text": "But this whole setup screams accident waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.45741957426071167
+    },
+    {
+      "text": "The cabinets are getting soaked, and dishes are stacked nearby.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.706697940826416
+    },
+    {
+      "text": "I hope someone turns off that faucet before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5024023652076721
+    },
+    {
+      "text": "The outside garden looks calm, but inside it's a hazard zone.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.54786217212677
+    }
+  ]
+}

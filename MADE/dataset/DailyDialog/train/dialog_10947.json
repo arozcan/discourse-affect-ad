@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10947",
+  "segments": [
+    {
+      "text": "Excuse me , what's the charge for a picture ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "$ 1 . You can get your photos instantly .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's great . Give me the landscape of the Triumphal for the background .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . Say ' cheese ' . That's good . Please wait a moment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

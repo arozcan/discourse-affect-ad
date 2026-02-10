@@ -1,0 +1,40 @@
+{
+  "id": "dialog_7459",
+  "segments": [
+    {
+      "text": "Hello ! I'm sorry to bother you . This is a complimentary fruit tray . Your food will be ready soon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Wow ! It's a fruit sculpture ! Your chef is a real artist !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Actually , uh , I made it myself ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "You did ? Wow ! Where did you learn ... ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sorry , but I've gotta run . Enjoy your food , and ring the service button if you need anything else !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "monologue_1489",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "This is just disgusting, water all over the floor and no one caring.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9595637321472168
+    },
+    {
+      "text": "The woman is just standing there, drying dishes like nothing is wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4171115756034851
+    },
+    {
+      "text": "And the kids, they're just making it worse, climbing on stools and making a mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5576978921890259
+    },
+    {
+      "text": "I can't stand this lack of awareness, someone could get hurt.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9042223691940308
+    },
+    {
+      "text": "The sink is overflowing, and it's just pouring onto the cabinets and the floor, it's so unsanitary.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6845148801803589
+    },
+    {
+      "text": "I hope they clean this up soon, it's just a breeding ground for bacteria.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49584680795669556
+    },
+    {
+      "text": "This is just a nightmare, a complete lack of responsibility.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5631265044212341
+    },
+    {
+      "text": "I can't believe I'm witnessing this, it's just so gross.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5612108111381531
+    }
+  ]
+}

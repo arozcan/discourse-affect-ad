@@ -1,0 +1,54 @@
+{
+  "id": "dialog_11032",
+  "segments": [
+    {
+      "text": "Good afternoon , can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . I've been told to come in and see someone about my L / C . I just had a message to come in and see someone called Kristy .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm Kristy . Can I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I received a letter asking me to come in and see you . I'm Mr Simons from Dalton's Electrics .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , yes . Hello Mr Simons . I have some information about your L / C amendment . The negotiating bank has just informed us that the 3rd party does not wish to accept the amendment .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh dear ! Where should I go from here ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'd recommend going back to the 3rd party , personally this time , and discussing what exactly it is they aren't happy with . Hopefully you can reach some sort of agreement , which is viable for everyone .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9766",
+  "segments": [
+    {
+      "text": "Tina Li , Financial Planner , how may I be of service ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , Tina . An acquaintance of mine has just told me that your bank has started a new Personal Wealth Management Service . Is that right ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It certainly is . You can do almost anything with it , anytime , anywhere .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "How would I go about applying for this service ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "All you need to do is sign up at any one of our branches and you can use the service right away .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's so simple . I'll come by my local branch later this afternoon and get it set up . Thank you very much , Tina .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "It's a pleasure . Thanks for calling Lincoln Bank .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

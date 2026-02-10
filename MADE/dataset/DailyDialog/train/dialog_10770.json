@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10770",
+  "segments": [
+    {
+      "text": "Hi , Monica , I am afraid I can ’ t make it to the office to punch out .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Where are you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am still in XYZ Company , this meeting took longer than I expected . Say to it that the office manager knows I won ’ t be in to punch my card .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

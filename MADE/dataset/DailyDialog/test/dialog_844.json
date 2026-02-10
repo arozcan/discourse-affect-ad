@@ -1,0 +1,82 @@
+{
+  "id": "dialog_844",
+  "segments": [
+    {
+      "text": "Hi , I made a reservation for a mid-size vehicle . The name is Jimmy Fox .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m sorry , we have no mid-size available at the moment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don ’ t understand , I made a reservation , do you have my reservation ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , we do , unfortunately we ran out of cars .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "But the reservation keeps the car here . That ’ s why you have the reservation .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know why we have reservations .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don ’ t think you do.If you did , I ’ d have a car.See , you know how to take the reservation , you just don ’ t know how to hold the reservation and that ’ s really the most important part of the reservation , the holding . Anybody can just take them .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "But we do have a compact or an SUV if you ’ d like .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Fine . I ’ ll take the compact .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Alright . We have a blue Ford Focus for you , Mr . Fox . Would you like insurance ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , you better give me the insurance , because I am gonna beat the hell out of this car .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

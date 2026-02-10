@@ -1,0 +1,54 @@
+{
+  "id": "dialog_280",
+  "segments": [
+    {
+      "text": "Unfortunately , according to our regulations I have to confiscate these counterfeit notes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "So , this 500 RIB is worthless ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm sorry but it is our regulation , so I must follow it . We will issue you with a receipt to show that the notes you presented us with are counterfeit and have been confiscated . Then , if you wish to pay in some more cash , you are free to do so .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Right , I see . Let me give you another 500 RIB .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here's your Passbook back and the receipt to say we confiscated the 500 RIB worth of counterfeit notes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks . Now can I make the full deposit ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . Please fill in a new deposit slip and we can continue .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

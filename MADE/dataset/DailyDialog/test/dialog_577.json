@@ -1,0 +1,33 @@
+{
+  "id": "dialog_577",
+  "segments": [
+    {
+      "text": "Office Supplies , Inc . Robert speaking , may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , Robert . This is Janet Reese calling from American Advertising . We placed an order with you about a week ago .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , Ms . Reese . I remember , you spoke with me . Is there a problem ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , it still hasn ’ t gotten here , and my boss is pretty angry about it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

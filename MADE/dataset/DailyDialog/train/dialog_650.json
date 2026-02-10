@@ -1,0 +1,40 @@
+{
+  "id": "dialog_650",
+  "segments": [
+    {
+      "text": "Thanks . Sometimes talking with a friend is a great way to get over something . Do you mind if I vent a little bit ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course not . If you're feeling bad and want to let your emotions out , you can just say whatever you want to me .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Great , because I am really mad at William . I mean , what kind of an idiot wouldn't be able to appreciate a smart , beautiful woman like me ? Anybody who would be friends with that guy has to be really dumb .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Uh , A ... you know I'm friends with William .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh right ... present company excluded , of course !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

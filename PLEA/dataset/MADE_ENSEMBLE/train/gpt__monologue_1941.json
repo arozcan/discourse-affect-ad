@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1941",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I can't help but feel a knot in my stomach watching that boy wobble on the stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6244420409202576
+    },
+    {
+      "text": "What if he tips over? It could end so badly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5156771540641785
+    },
+    {
+      "text": "The water on the floor is dangerously slippery, a perfect recipe for disaster.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6453526020050049
+    },
+    {
+      "text": "How can the woman not see what's happening right beside her?",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7876209616661072
+    },
+    {
+      "text": "The garden outside looks serene, almost mocking the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6127609014511108
+    },
+    {
+      "text": "The girl’s eager expression only adds to my anxiety as she reaches for the cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4201939105987549
+    },
+    {
+      "text": "This scene feels like a ticking time bomb, waiting for something to go wrong.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.32135921716690063
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_4992",
+  "segments": [
+    {
+      "text": "My computer isn ’ t running at the same speed it used to be , it is testing my patience everyday . Can you tell me how to make it run faster ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "If you want to speed up your system , you ’ Ve got to clean it up first .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "How ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You need to free your disk space . The simplest way is to use a Disk-Cleanup tool to remove temporary files and in store programs that you no longer use . Things should be fine next time you start . You also need to control what starts up . There is a program calls Start-up Delayer , It can help to set after how much time programs should be loaded after Windows boosts . For example , you can choose to set your Fox Mail program to load 30 seconds after Windows starts up .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Very useful advice , I will try them right now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

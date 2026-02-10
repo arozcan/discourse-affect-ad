@@ -1,0 +1,26 @@
+{
+  "id": "dialog_701",
+  "segments": [
+    {
+      "text": "Professor , I've handed in my paper . Did you read it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . You've done a good job . But there's one thing . You should narrow down your topic .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What about water pollution instead of pollution ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

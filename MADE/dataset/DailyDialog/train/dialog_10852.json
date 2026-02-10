@@ -1,0 +1,82 @@
+{
+  "id": "dialog_10852",
+  "segments": [
+    {
+      "text": "Loans Department , how can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . Could you give me some details about your Personal Pledge Loans , please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly , Sir . I'd be happy to . The Personal Pledge Loan is a loan secured by undue certificates , Time Deposits , for example , or Visible Treasury Bonds .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "So , as long as I have one of those , I can apply for a Personal Pledge Loan ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's correct , Sir . The bank will issue receipt to you and also take care of all the pledged securities .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Mmmm ... how about the period of repayment ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "The maximum maturity period is a year , but it also cannot exceed the maturity on the certificates used as collateral .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "And the maximum loan amount ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "The initial amount is just 2,000 RIB , but we can go up to 100,000 RIB . But remember , it cannot exceed the amount on the certificates you are using as collateral .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . I'll have a look at what I've got exactly in certificates and get back to you . Thanks for your help . Bye .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "My pleasure , Sir . Bye .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

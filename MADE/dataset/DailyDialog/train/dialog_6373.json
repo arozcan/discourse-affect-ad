@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6373",
+  "segments": [
+    {
+      "text": "Mr Brown ! How nice to see you , can I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm not exactly sure if it's your department , but I'd like to ask some questions about qualifying for Comprehensive Credit Granting .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see . You are one of my favourite customers , Mr Brown . I'm more than happy to help . For Comprehensive Credit Granting , IBA will grant a promised quota for you , that is , if you qualify . Of course , your credit record , within you field of trade needs to be up to scratch .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "How long a period will you look at to determine this ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "We will consider the first part of the year , in your particular field , and your credit rating can be no less than class A , during that period .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "That sounds simple enough . It's Friday today , I'll be back on Monday morning , first thing , with all of the relevant data . See you then , and enjoy your weekend .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

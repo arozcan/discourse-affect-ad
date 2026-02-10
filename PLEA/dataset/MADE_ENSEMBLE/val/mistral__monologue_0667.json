@@ -1,0 +1,83 @@
+{
+  "id": "monologue_0667",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing, and it’s making me anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9255933165550232
+    },
+    {
+      "text": "The woman is just standing there, drying dishes like nothing is wrong.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41718804836273193
+    },
+    {
+      "text": "Her dress is probably getting wet, but she doesn’t care.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4115479588508606
+    },
+    {
+      "text": "The boy is reaching for cookies, and I can’t look away.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4290425777435303
+    },
+    {
+      "text": "The stool is so unsteady, and he’s not even holding on.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.2969314157962799
+    },
+    {
+      "text": "The girl is just waiting, like this is totally normal.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7340823411941528
+    },
+    {
+      "text": "I wonder if the woman would react if she saw them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5078974962234497
+    },
+    {
+      "text": "The garden outside is so calm, it’s almost funny.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5717630982398987
+    },
+    {
+      "text": "I feel like I’m watching a cartoon where nothing bad ever happens.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4060208201408386
+    },
+    {
+      "text": "But in real life, someone would get hurt.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4336200952529907
+    },
+    {
+      "text": "I hope the boy doesn’t fall and crack his head open.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4964219331741333
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1403",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, what a sloppy mess in that kitchen.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6933836340904236
+    },
+    {
+      "text": "The sink's overflowing, water splashing all over the dirty floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.2931400537490845
+    },
+    {
+      "text": "That woman's foot is soaked, and she doesn't even flinch.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3882569670677185
+    },
+    {
+      "text": "Dishes piled up on the counter, probably greasy.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4873983561992645
+    },
+    {
+      "text": "Now the kids are making it worse, climbing around like animals.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.48755478858947754
+    },
+    {
+      "text": "Boy's hand deep in the cookie jar, who knows how clean that is.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4982440769672394
+    },
+    {
+      "text": "The stool's tilting, covered in who-knows-what from the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8229496479034424
+    },
+    {
+      "text": "Girl's just begging for a cookie, hands probably filthy.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5303379893302917
+    },
+    {
+      "text": "Water dripping down the cabinets, staining everything.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3819178342819214
+    },
+    {
+      "text": "The whole place smells like wet wood, I bet.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.501994252204895
+    },
+    {
+      "text": "Outside the window, the garden's tidy, but inside it's gross.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5018348693847656
+    },
+    {
+      "text": "I wouldn't step foot in there right now.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49001094698905945
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1003",
+  "label": "gemini-2.5-flash",
+  "segments": [
+    {
+      "text": "I see a kitchen scene, quite typical in many ways.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.787911057472229
+    },
+    {
+      "text": "The light streaming in from the window makes it feel like daytime.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7648597955703735
+    },
+    {
+      "text": "There's a woman at the sink, diligently drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.917900800704956
+    },
+    {
+      "text": "She seems completely absorbed in her task, almost meditative.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5754460096359253
+    },
+    {
+      "text": "But wait, something isn't right with the sink.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4098665714263916
+    },
+    {
+      "text": "The water is running, and it's definitely overflowing!",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.2950986623764038
+    },
+    {
+      "text": "It's pouring over the front edge in a continuous sheet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8755393028259277
+    },
+    {
+      "text": "I can see a puddle forming on the floor, and her foot is right in it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4843060076236725
+    },
+    {
+      "text": "How can she not notice something so obvious?",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8998302221298218
+    },
+    {
+      "text": "This is going to cause quite a mess, if not some serious water damage.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.39274004101753235
+    },
+    {
+      "text": "The contrast with the serene garden outside is quite striking.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.584258496761322
+    },
+    {
+      "text": "It's a shame she's so focused she misses this immediate problem.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.48407137393951416
+    }
+  ]
+}

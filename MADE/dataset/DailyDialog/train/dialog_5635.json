@@ -1,0 +1,75 @@
+{
+  "id": "dialog_5635",
+  "segments": [
+    {
+      "text": "Can you help me for a minute ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , what I can do for you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'm try to write a letter to one of our clients , But I just don't know exactly what to say , I don't even know how to get started , I know I should write dear Mr . Mrs . or Ms . , but the problem is I don't know the name of contact person .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can just put Dear Sir or Madam , officialese not personal , you can write to whom may concerned .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , So I first thanks them for their business , I can say something like we are very grateful for your continue support , How is that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Good ! But also , write off the bed you want to tell them the reason of your writing , give them more reference .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Like Regarding our new product line , we would like to announce a special price discount",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Right , do you need them to respond ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , the letter would have a survey inside , and they should complete it and return to our office . How should I write that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can tell them \" Please finding the enclosed customer service survey , else also , you can say Attach a customer survey . If you need resource it right away , you can tell them the urgent by saying Please return the survey without dely as soon as possible . Maye it more polite with this as early as convenience .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    }
+  ]
+}

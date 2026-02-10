@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10211",
+  "segments": [
+    {
+      "text": "Jason Emory speaking .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hi , Jason . It ’ s Elizabeth Montgomery . Have you got those plans drawn up yet ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah . They were just sent over to your office . You should have them in about half an hour .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks a lot . Sorry to trouble you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

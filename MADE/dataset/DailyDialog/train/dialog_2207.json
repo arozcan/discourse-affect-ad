@@ -1,0 +1,47 @@
+{
+  "id": "dialog_2207",
+  "segments": [
+    {
+      "text": "How much did you bid ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Eighty-five dollars . If my bid is the highest after three more days , I win ! It's fun !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "We'll see how much fun it is after they take all your money ! !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "But they won't ! I checked the seller's history , and he got good reviews from other buyers .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What if he had his friends fake the reviews ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "You are so paranoid ! Not everybody is a crook , you know .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

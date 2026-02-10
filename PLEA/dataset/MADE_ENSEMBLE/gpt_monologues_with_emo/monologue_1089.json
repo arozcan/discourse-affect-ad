@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1089",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a woman standing at the sink, completely absorbed in drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9178756475448608
+    },
+    {
+      "text": "Water is overflowing the sink, cascading onto the cabinet, and I can't help but feel a pang of frustration.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9135039448738098
+    },
+    {
+      "text": "There seems to be a growing puddle at her feet, but she doesn't notice at all.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47696131467819214
+    },
+    {
+      "text": "I wonder if she will realize how slippery it has become.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4781602621078491
+    },
+    {
+      "text": "The children are behind her, and I feel a mix of excitement and worry as they plot their cookie heist.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4219726622104645
+    },
+    {
+      "text": "The boy is climbing precariously on a stool that looks ready to tip over, and I can hardly watch.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3028614819049835
+    },
+    {
+      "text": "I notice the girl beside him with her arm raised, eagerly anticipating her cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6774153709411621
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_1550",
+  "segments": [
+    {
+      "text": "Hey , let's go to the night market after work tonight .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's a good idea . I haven't been in a while and I need to get a new backpack . The old one is hanging on by a thread !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "That reminds me I should buy some new socks to go hiking this weekend .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

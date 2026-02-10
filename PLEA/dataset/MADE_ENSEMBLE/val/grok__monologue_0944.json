@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0944",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Oh no, the sink is overflowing, water everywhere—it's terrifying.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9784723520278931
+    },
+    {
+      "text": "The woman's right there, but she hasn't noticed the puddle at her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.490541934967041
+    },
+    {
+      "text": "What if she slips on the wet floor?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4856921136379242
+    },
+    {
+      "text": "Look at that boy on the stool; it's tilting backward!",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6613284945487976
+    },
+    {
+      "text": "He could fall and hit his head on the counter.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4921160936355591
+    },
+    {
+      "text": "His hand's in the cookie jar, but the height is so dangerous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6519964933395386
+    },
+    {
+      "text": "The girl's reaching up too; she might get knocked over if he tumbles.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6397646069526672
+    },
+    {
+      "text": "The water's streaming down the cabinets—could cause a short or something worse.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.43730318546295166
+    },
+    {
+      "text": "I hope the stool holds; my heart is racing watching this.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5207933187484741
+    },
+    {
+      "text": "The open window shows a safe garden, but inside it's a hazard zone.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7197615504264832
+    },
+    {
+      "text": "Dishes could break if anyone falls into them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7845799922943115
+    },
+    {
+      "text": "This unnoticed trouble is making me so anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8942338228225708
+    },
+    {
+      "text": "Someone has to intervene before an accident happens.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46894097328186035
+    },
+    {
+      "text": "I can't look away; it's too scary.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9799299240112305
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9857",
+  "segments": [
+    {
+      "text": "Hello . I'm now trying to take a bath , but there are too many buttons.Would you tell me how to use them ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see , we have explanation leaflet on the table.If you follow the directions it is quite simple .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I read it , but I couldn't understand it.Would you come to my room and tell me how to use them ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , certainly .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "And also tell me how to use other switches .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

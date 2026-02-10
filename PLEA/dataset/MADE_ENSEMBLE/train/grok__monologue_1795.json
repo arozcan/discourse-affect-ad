@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1795",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen scene, I notice the woman is completely absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6120679378509521
+    },
+    {
+      "text": "She's polishing that plate so meticulously, unaware of the chaos brewing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6193021535873413
+    },
+    {
+      "text": "The sink is full to the brim, water cascading over the edge like a waterfall.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6537412405014038
+    },
+    {
+      "text": "Puddles are forming on the floor, soaking her shoe without her knowing.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.43541738390922546
+    },
+    {
+      "text": "What if she slips on that wet floor? It could be dangerous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6178619861602783
+    },
+    {
+      "text": "Now, the boy on the stool is stretching so far, grabbing at the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7371745109558105
+    },
+    {
+      "text": "The stool is tilting backward; he could fall and hurt himself badly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5803035497665405
+    },
+    {
+      "text": "His little sister is right there, egging him on with her outstretched hand.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8873636722564697
+    },
+    {
+      "text": "They're sneaking cookies, which is cute but risky in this setup.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6562727689743042
+    },
+    {
+      "text": "The garden outside looks so serene, a stark contrast to this indoor peril.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3763595223426819
+    },
+    {
+      "text": "I just hope no one gets injured before the adult realizes what's going on.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49080726504325867
+    },
+    {
+      "text": "This whole situation makes my heart race a bit.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5604172945022583
+    }
+  ]
+}

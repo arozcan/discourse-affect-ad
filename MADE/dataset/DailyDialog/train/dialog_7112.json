@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7112",
+  "segments": [
+    {
+      "text": "I would like the two clothes washed .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem.madam.But I think the red sweater is not colorfast.Would you like to have it dry cleaned ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you for your reminding.Yes , please have it dry cleaned .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I will bring them to your room tomorrow afternoon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

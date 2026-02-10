@@ -1,0 +1,61 @@
+{
+  "id": "dialog_389",
+  "segments": [
+    {
+      "text": "We are willing to participate in the bid which you advertised in China Daily . Would you please tell me the detail of the tender conditions ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "You will receive the tender notice next month and you'll find the information .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK ! Our company is very interested in the tender . I am sure that we will do our best to win the bidding in building the factory .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I believe your corporation will try your best and I understand fully your feeling , if your tender conditions proved be suitable for our general conditions of tender , we will accept your submission of tender .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Maybe I have asking too many questions today .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's all right . You can contact me later if you have other questions after you read the tender notice .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine , thanks a lot . Bye !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Bye !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

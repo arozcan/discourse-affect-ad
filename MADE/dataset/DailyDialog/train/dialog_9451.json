@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9451",
+  "segments": [
+    {
+      "text": "That was a beautiful car . It ’ s a new car , but it ’ s totaled .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , your insurance covers sufficient money to replace it . So you don ’ t need to worry .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don ’ t think I could afford that kind of car again . I think I ’ ll have to choose something that is not as hard to replace .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Since you are not the one who caused the accident , your insurance cost should be the same .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What will happen if I chose a smaller car ? Would the payments be the same ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "If you got a smaller car , the cost should be a little less depending on the model , age , and size . Would you still want full coverage ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

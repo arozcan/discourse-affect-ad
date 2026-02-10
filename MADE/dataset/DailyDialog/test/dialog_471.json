@@ -1,0 +1,40 @@
+{
+  "id": "dialog_471",
+  "segments": [
+    {
+      "text": "Hello , Oriental Hotel .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'd like to speak to Michael Baker , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry , Mr . Baker is not in . May I take a message ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes.Tell him Mr.Cook called and ask him to return my call soon as he gets back .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "All right , Mr . Cook . I'll have Mr . Baker call you back as soon as he gets here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

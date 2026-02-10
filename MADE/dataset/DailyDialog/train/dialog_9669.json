@@ -1,0 +1,61 @@
+{
+  "id": "dialog_9669",
+  "segments": [
+    {
+      "text": "I would like to have a new suit made . something in a dark blue wool .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly , sir . Double or single breasted ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think I would like the pants pleated . I am not sure about the jacket though as I'm a little overweight .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see , sir . For a gentleman of your size I would recommend a single-breasted jacket as it does tend to make one look a little slimmer . Just let me take your measurements , Let's see , neck 41cm , chest 110cm , wait 120cm and inside leg 70cm . You do have short legs , sir .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , that is why I usually choose dark colours for my business suits .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can you come back in three days for a fitting ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Good that way . I can have the suit ready for you two days after that fitting .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

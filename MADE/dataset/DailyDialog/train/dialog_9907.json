@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9907",
+  "segments": [
+    {
+      "text": "Hello , Steven . Do you have any questions to ask me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . There are several data documents about this contract . Please advise me which one I should give up .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me see . The data documents with ' A ' and ' B ' are the drafts , and the ones with ' C ' and ' D ' are formal contracts . Do you know what I mean ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I see . Thanks for your instruction .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Not at all . I am pleased to tell you these .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

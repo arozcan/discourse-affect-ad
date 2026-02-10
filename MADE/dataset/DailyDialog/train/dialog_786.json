@@ -1,0 +1,75 @@
+{
+  "id": "dialog_786",
+  "segments": [
+    {
+      "text": "How do you like skiing , Pat ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I love it . All my life I wanted to learn to ski . Finally I took lessons last year .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I suppose skiing is easy for you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , quite the opposite . I thought I'd never stop falling down . Then all of a sudden I started skiing much better .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Do you ski often ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Every chance I get . On weekends I ski all day long . Sometimes I even ski at night .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sounds great .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , yes . The ski slopes are well lit . It's really nice to ski at night . Why don't you learn to ski ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Not on your life ! I know I'd break my leg",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "Don't be so frightened . It's just a skill .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

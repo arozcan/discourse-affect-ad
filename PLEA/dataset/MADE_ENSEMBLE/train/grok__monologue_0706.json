@@ -1,0 +1,111 @@
+{
+  "id": "monologue_0706",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "From my view, the kitchen looks bright and homey.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7854445576667786
+    },
+    {
+      "text": "Sunlight pours through the divided window panes.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8709636926651001
+    },
+    {
+      "text": "The woman dries a plate, her expression calm.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8374932408332825
+    },
+    {
+      "text": "Suddenly, I spot the faucet pouring water endlessly.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5929545164108276
+    },
+    {
+      "text": "The sink's overflowing, water sheeting down to the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5822988748550415
+    },
+    {
+      "text": "She's in the puddle but doesn't react at all.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8426297903060913
+    },
+    {
+      "text": "Nearby, the boy's climbing for cookies on a wobbly stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.887209415435791
+    },
+    {
+      "text": "His reach is precarious, one wrong move and down he goes.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44941246509552
+    },
+    {
+      "text": "The girl assists, hand outstretched expectantly.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8897473812103271
+    },
+    {
+      "text": "Their secret cookie heist is clever, I admit.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6684055328369141
+    },
+    {
+      "text": "But the risks—the wet floor, the tipping stool—worry me deeply.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8825780153274536
+    },
+    {
+      "text": "The garden view is idyllic, unaware of the turmoil.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6269083619117737
+    },
+    {
+      "text": "I wish the woman would notice and fix this chaos.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.49157705903053284
+    },
+    {
+      "text": "It's heartbreaking to see potential harm ignored.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7172991037368774
+    },
+    {
+      "text": "Yet, the innocence of the kids softens it a bit.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.830609142780304
+    }
+  ]
+}

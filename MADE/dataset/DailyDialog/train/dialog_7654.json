@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7654",
+  "segments": [
+    {
+      "text": "Could you hold the elevator , please ? Thanks a lot .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . What floor ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm headed to the 18th floor , the top floor .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , so am I .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Do you work there ? I have an interview today with Dale Mendoza . Do you know her ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , I know her pretty well .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "To tell you the truth , I'm really nervous . I had a dream last night that I was being interviewed by a three-headed monster that kept trying to bite my head off . Oh , wow , my palms are sweaty just thinking about it . I just hope Ms . Mendoza won't be able to hear my teeth chattering . I just hope I get through this in one piece .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

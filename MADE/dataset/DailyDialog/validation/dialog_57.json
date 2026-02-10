@@ -1,0 +1,166 @@
+{
+  "id": "dialog_57",
+  "segments": [
+    {
+      "text": "Hello . Excuse me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes . Can I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Do you remember me ? I just had lunch here a half hour ago .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course I remember you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I think I lost my wallet here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , no . Really ? I didn't see anything .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Really ? You didn't find a wallet ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I didn't . Would you like to go look by the table with me ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I would . It's not here . And it's not on the floor.Has anyone sat at this table since we left ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . It's been empty the whole time .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hmm . I don't know how it could have happened .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "I remember , sir , that your friend took the bill.You didn't pay for the lunch yourself , did you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . My friend did .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "Then are you sure you took your wallet out of your pocket while you were here ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I'm not sure . But I usually take out my wallet when I sit down.It ' s uncomfortable to sit on it . So I usually put it next to me on the table .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "Maybe you lost it before you came here . Or maybe you left it at home .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don't think it's at home . I think I had it when I left the house.But what should I do ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , the first thing you should do is make sure it's not at home.Then , if it isn't , you need to call your credit card companies and cancel your cards . Next , you need to replace whatever you lost , your driver's license , things like that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 17,
+      "dialog_act": 3
+    },
+    {
+      "text": "Should I call the police ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 18,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can if you want . But the police usually don't do anything about lost wallets .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 19,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hmm . I'll go home and check . Maybe you're right . Maybe it's at home .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 20,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry we couldn't find it , sir .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 21,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks for your help .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 22,
+      "dialog_act": 1
+    }
+  ]
+}

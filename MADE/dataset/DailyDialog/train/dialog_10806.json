@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10806",
+  "segments": [
+    {
+      "text": "My wife is sick , so I have to cancel a reservation I made .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "If you'll just give me your name , phone , and date of visit , I can cancel your reservation .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm Rudy Randolph at 818-555-1234 , April ninth to the fifteenth .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Mr . Randolph . Okay , one second , sir , and there you go . Your reservation is now cancelled .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I wish everything in life was so simple . Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Not a problem , sir . Please remember us in the future .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

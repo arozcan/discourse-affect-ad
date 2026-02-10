@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7195",
+  "segments": [
+    {
+      "text": "Do you mind if I smoke here ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I do . I ’ d prefer you didn ’ t . The AC ( air-conditioning ) is also on .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Can I just turn off the AC for now and open the window and smoke indoors ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s not a very good idea . It ’ s quite hot outside . Why don ’ t you smoke outside ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "It ’ s very hot and that ’ s why I ’ d like to smoke inside .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Though the AC has the air-purifying function . I ’ d still rather have fresh air than smoke . Are you okay with that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , no problem .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_11036",
+  "segments": [
+    {
+      "text": "I think I've got a virus on my computer . Do you know how to get rid of it ? I haven't had one before .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm afraid not . Why don't you call the Help Desk ? Someone there will be able to help you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Have you got the number ? I'll call them right now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_4532",
+  "segments": [
+    {
+      "text": "Hello , Jane !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hi , Tom . How have you been ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Pretty good . Actually , I'm quite busy with work . By the way , say ' hello ' to your husband .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

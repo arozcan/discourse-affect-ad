@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1638",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I glance into the kitchen and see the woman carefully drying a plate with a towel.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9014511108398438
+    },
+    {
+      "text": "She's wearing an apron and a dress, looking so focused on her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6476767063140869
+    },
+    {
+      "text": "The sink is right there by the window, with sunlight streaming in from the garden outside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8311915993690491
+    },
+    {
+      "text": "Wait, the faucet is running full blast!",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5435161590576172
+    },
+    {
+      "text": "Water is overflowing from the basin, pouring over the edge like a waterfall.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5992750525474548
+    },
+    {
+      "text": "It's splashing onto the floor, forming a big puddle around her feet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8666301369667053
+    },
+    {
+      "text": "She hasn't noticed at all; her foot is already wet, but she's just standing there.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.34060001373291016
+    },
+    {
+      "text": "Behind her, there's a boy climbing on a stool to reach the cookie jar in the cabinet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9168997406959534
+    },
+    {
+      "text": "The stool looks really unstable, tilting backward as he stretches up.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3282562494277954
+    },
+    {
+      "text": "A little girl is standing nearby, reaching out her hand like she wants a cookie too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8836803436279297
+    },
+    {
+      "text": "This whole scene is chaotic, with the water and the wobbly stool.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4376406669616699
+    },
+    {
+      "text": "The garden outside looks so peaceful compared to this mess inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3765154480934143
+    }
+  ]
+}

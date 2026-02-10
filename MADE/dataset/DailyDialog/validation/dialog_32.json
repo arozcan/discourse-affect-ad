@@ -1,0 +1,54 @@
+{
+  "id": "dialog_32",
+  "segments": [
+    {
+      "text": "So , Casey , how are things going with the photos for the press kit ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , I ’ Ve been meaning to talk to you about that . I might need to ask for an extension on that deadline .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "You ’ Ve had over a month to get this finalized ! Why are things delayed ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , the thing is , we ran into a lot of problems . . .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m not looking for excuses here . I just want to get this finished on time !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I know , and I apologize for the delay . But some things were just beyond my control . I had trouble booking the photographer , and then Michael was sick for three weeks , so I couldn ’ t include him in the photos , and the design team lost all the files , so I had to re-do the pictures .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m not going to put this off any longer , Casey ! I want those photos ASAP !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

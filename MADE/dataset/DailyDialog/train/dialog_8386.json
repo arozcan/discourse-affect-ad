@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8386",
+  "segments": [
+    {
+      "text": "I put in two quarters for a coke , but nothing came out of the machine .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? Let me check it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sure it's broken .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , ma'am . I ’ m afraid you put in only one quarter and one dime .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dialog_7866",
+  "segments": [
+    {
+      "text": "Welcome to IBA . What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . I'm a Financial Manager in a local company and we'd like to open a Foreign Currency Account with you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see . That shouldn't be a problem , Sir . Which currency would you require ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "We have recently started doing a lot of business with British companies , so we'd like to open a GAP account . How should we go about this ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "The first step is to fill in the Account Opening Application and the accompanying Seal Card , stamped with your company's seal . I mean , the business seal and the corporate seal . We also need your Business Licence and the Enterprise Standard Code Certificate . Then we can go on to the next step .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's great . Let's begin as soon as possible .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10014",
+  "segments": [
+    {
+      "text": "Is everything to your satisfaction ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , the steak was recommended , but it is not very fresh .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh ! Sorry to hear that . This is quite unusual as we have steak from the market every day .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "So what ? It is not fresh and I'm not happy about it .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry , sir . Do you wish to try something else ? That would be on the house , of course .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10260",
+  "segments": [
+    {
+      "text": "Joe , can you squeeze me in sometime today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's a big order , Jane . I am really swamped .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I know what you're saying , but I have to go over the books with you before I go see our tax guy .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Right . Okay , let me see what I can do . How about 1:30 right after my lunch meeting ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

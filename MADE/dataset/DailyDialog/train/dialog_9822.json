@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9822",
+  "segments": [
+    {
+      "text": "Excuse me . I wonder if you could help me . I'm looking for the Oriental Pearl Theater .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Boy , you are lost . It's across town .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh ! What bad luck ! How can I get to the Theater ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can take a No . 12 bus here and then transfer to a No . 23 bus to get there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

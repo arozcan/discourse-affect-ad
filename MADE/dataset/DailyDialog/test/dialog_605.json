@@ -1,0 +1,33 @@
+{
+  "id": "dialog_605",
+  "segments": [
+    {
+      "text": "I have a complaint to make . The bill you sent me was incorrect . What's more , it isn't the first time",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I must apologize , madam . We have new computers here , you know .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don't you think it's about time you got them working properly ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I agree entirely . I assure you it won't happen again .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

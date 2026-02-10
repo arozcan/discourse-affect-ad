@@ -1,0 +1,40 @@
+{
+  "id": "dialog_4412",
+  "segments": [
+    {
+      "text": "Sorry ! Excuse me ! I got your message .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Taylor ? Taylor ! Is this a joke ? Is it really you ? But ... but ... everyone said you were dead !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's OK . Just let it out . I'm OK ! I was out of town with ... Femi .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , Taylor ! I'm so ... so happy . But then ... who's that ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Taylor Smith . But not me . The pallbearers are carrying out the casket . It would be rude to just leave . Let's follow .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_8208",
+  "segments": [
+    {
+      "text": "Are you here to make a deposit Mr Hayes ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , Nancy , today I'm here to make a withdrawal . I made a formal request 7 days ago .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "You want to withdraw on your Time Deposit , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's correct . But before I do , I was wondering if you could give me some advice .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course , Mr Hayes . That's what I'm here for . What would you like to know ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Maybe I'm making a big mistake cashing in my Time Deposit before maturity .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "This bank charges you 6 months interest as a penalty if you withdraw before maturity . Would it be possible to take the money from your Current Account , for example ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , not really . My Current Account is for cash flow and couldn't withstand having all of that money taken from it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

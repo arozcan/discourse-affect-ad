@@ -1,0 +1,97 @@
+{
+  "id": "monologue_7571",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen, I can't help but worry about what's happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.36203235387802124
+    },
+    {
+      "text": "The woman is just drying dishes, unaware of the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.420650452375412
+    },
+    {
+      "text": "Water is flooding from the sink, soaking the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5401505827903748
+    },
+    {
+      "text": "If she slips in that puddle, she could really hurt herself.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.548319935798645
+    },
+    {
+      "text": "And the kids are up to no good on that unstable stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.37111595273017883
+    },
+    {
+      "text": "The boy is stretching so high, one wrong move and he'll fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5026302933692932
+    },
+    {
+      "text": "His little sister is waiting eagerly, but the whole thing is risky.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4407654106616974
+    },
+    {
+      "text": "What if the stool tips and he lands in the water?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4615921080112457
+    },
+    {
+      "text": "The cabinets are getting ruined from the overflow.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.383830726146698
+    },
+    {
+      "text": "I hope someone turns off that faucet before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5024023652076721
+    },
+    {
+      "text": "The open window shows a nice garden, but inside it's a hazard zone.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6394538879394531
+    },
+    {
+      "text": "This could end in tears for everyone involved.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4897304177284241
+    },
+    {
+      "text": "It's heartbreaking to watch without being able to warn them.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9828070998191833
+    }
+  ]
+}

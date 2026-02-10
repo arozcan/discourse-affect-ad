@@ -1,0 +1,110 @@
+{
+  "id": "dialog_9778",
+  "segments": [
+    {
+      "text": "Good afternoon , how can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Someone has stolen my gold necklace .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I am sorry to hear about that . Would you mind coming with me to my office and tell me exactly what happened here ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course not .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Are you sure that it isn't somewhere in your room ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I've looked everywhere in my room and I can ’ t find it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok , when and where did you last see it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Last night on the dresser . I took it off before I went to the shower , and forgot to put it back on after the shower . And this morning I left the hotel in a hurry without wearing it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you sure you didn't wear it this morning ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I am positive .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Did you remember to lock your door before you left then ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I think I did . It has to be one of your maids who took it . I want my necklace back .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I understand how you feel , and we will try to do our best to help you . But first please allow me to send one of the housemaids to your room to look for it again thoroughly , just in case it's still in there . If she finds it , we will all be happy . If she doesn't , we will turn the whole matter to the police . But I must say that the hotel can't be held responsible for your loss . You should have locked your gold necklace away at the hotel ’ s safety box . If you had read your key card carefully , you would have realized that we specially warned you to do so .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 3
+    },
+    {
+      "text": "That just isn't good enough . Cet me your general manager . I want to speak to him now .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry , ma ’ am . Our general manager is not in town . But I ’ d be more than glad to get you our assistant manager , if you like . But I am afraid that he will say the same thing . We have very clear instructions about valuables and we must follow them . And now if you will excuse me , I'll go and find our assistant manager for you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 4
+    }
+  ]
+}

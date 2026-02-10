@@ -1,0 +1,54 @@
+{
+  "id": "dialog_4436",
+  "segments": [
+    {
+      "text": "What did you think of the film ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I liked it . I thought it was great .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , I liked it , too . Did you like the acting ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I thought it was excellent . Didn't you ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not really . I thought it was disappointing .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's a nice cinema , isn't it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Do you think so ? I don't like it very much . I found it rather uncomfortable .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 6,
+      "dialog_act": 2
+    }
+  ]
+}

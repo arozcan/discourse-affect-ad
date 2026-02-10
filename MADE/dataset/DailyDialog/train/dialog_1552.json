@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1552",
+  "segments": [
+    {
+      "text": "Good Lord ! Look at that man .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "He's swimming in the cold sea . He must be very strong .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sure he is . Winter swimming does good to health , I hear .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

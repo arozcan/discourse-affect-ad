@@ -1,0 +1,89 @@
+{
+  "id": "dialog_2522",
+  "segments": [
+    {
+      "text": "Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I am a bit confused . My sociology class is supposed to read a chapter in a book called Sociology and the Modern Age . According to the syllabus , the book is in the library , but I haven't been able to find it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do you have your syllabus with you ? May I see it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , uh ... I put it in the front of my sociology notebook . Oh , here it is .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Let me see . Oh yes . Your professor has placed this book on reserve . That means you cannot find it on the shelves in its usual place . You need to go to a special room called the reserve room . It's down the hall and to the right .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry - I still don't understand .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "You see , your professor wants every one in the class to read the chapter . If one student removes the book from the library , it is likely that none of the other students will have the opportunity to read it . So , your professor has insured that all students have the opportunity to read it by placing it on reserve .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , will I be able to find this book ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , when a book is on reserve , a student can go to the reserve room and ask the reserve librarian for the book . The student can have the book for a few hours , and he or she MUST read it in the library during that time . That way , the book stays in the library , and all students have a chance to read it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay . Thank you . I understand now .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Will there be anything else ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "No ! I am on my way to the reserve room . Thanks again !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

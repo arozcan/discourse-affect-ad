@@ -1,0 +1,55 @@
+{
+  "id": "monologue_649",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The scene is both beautiful and chaotic; I feel a mix of emotions.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.96494460105896
+    },
+    {
+      "text": "The woman is so diligently polishing that plate, lost in her task.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5270220041275024
+    },
+    {
+      "text": "Yet the water is spilling over, and it’s creating such a mess below her feet.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5596742630004883
+    },
+    {
+      "text": "I’m surprised she hasn’t noticed; it’s like the chaos is invisible to her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9079952239990234
+    },
+    {
+      "text": "The boy is climbing higher, and I feel my stomach drop at the sight.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.28743812441825867
+    },
+    {
+      "text": "He’s reaching for those cookies, and I want to scream at him to be careful.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6059042811393738
+    },
+    {
+      "text": "And the girl, she’s just standing there—impatiently waiting for her turn, blissfully unaware of the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3767366111278534
+    }
+  ]
+}

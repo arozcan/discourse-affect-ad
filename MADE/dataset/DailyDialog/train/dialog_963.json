@@ -1,0 +1,33 @@
+{
+  "id": "dialog_963",
+  "segments": [
+    {
+      "text": "I'm really tired of my job in the bank . I'm thinking about changing it .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Have you any definite idea ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not yet , what's your opinion ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think you'd better try an active job .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

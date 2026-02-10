@@ -1,0 +1,124 @@
+{
+  "id": "dialog_9559",
+  "segments": [
+    {
+      "text": "do you have a minute ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "sure , what would you like to discuss ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've made a tough decision , sir . Here's my resignation .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "well , I have to tell you that I'm quite surprised . Is there any possible way to change your mind ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid not , sir . I've made up my mind . It's something I have to do .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "can I ask why ? Were you unhappy working for us ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "oh , no . not at all .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "are you planning on studying abroad ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "no , sir .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "have you been given a better offer ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , no . I would never look for another job while working here . I think this is a fantastic place to work .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "well , what's the problem then ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 2
+    },
+    {
+      "text": "it's my mother . She's sick and needs someone to take care of her . I'm the only one who can do it .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry to hear that , but you don't need to quit over that . Why don't you just take a leave of absence ? We can hold your job for you until your mother gets better .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "really ? I didn't know that would be possible .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 14,
+      "dialog_act": 2
+    },
+    {
+      "text": "sure , we'd be carry to lose a good worker like you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 1
+    },
+    {
+      "text": "thanks , sir .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 16,
+      "dialog_act": 1
+    }
+  ]
+}

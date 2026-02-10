@@ -1,0 +1,26 @@
+{
+  "id": "dialog_7748",
+  "segments": [
+    {
+      "text": "Hi , is this Steven ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , ma ’ am . This is Sean . Steven ’ s out sick .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , sorry to hear that . Listen , I ’ Ve got a rush order . Can you help me out ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    }
+  ]
+}

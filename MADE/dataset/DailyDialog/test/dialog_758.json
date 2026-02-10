@@ -1,0 +1,33 @@
+{
+  "id": "dialog_758",
+  "segments": [
+    {
+      "text": "How about another beer ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , thanks . I've had more than enough.In fact , I must be running along .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Stay around for a while.The party is warming up .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid I have to leave . I have to be up early tomorrow .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

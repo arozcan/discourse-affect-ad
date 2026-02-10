@@ -1,0 +1,54 @@
+{
+  "id": "dialog_10996",
+  "segments": [
+    {
+      "text": "Hello , Madam . What can I do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . Yes , I'm here to redeem a Treasury Note . It's not at the maturity date yet , but it is an emergency .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , can I see the note and some ID , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "There you are . As you can see , the maturity isn't up yet .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "You do realise that you must pay a 0.2 % charge for premature cancellation , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , really ? No , I wasn't aware of that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Unfortunately , yes . You see , this is a three-year note ; it was issued over a year ago , but not over two years . So , you will have to pay . I'm sorry about that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

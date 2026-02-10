@@ -1,0 +1,47 @@
+{
+  "id": "dialog_2212",
+  "segments": [
+    {
+      "text": "Mr . Bellow , have you anything in mind as to what to drink or may I make a few suggestions ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have had enough gin fizz and bloody mary . But I have no idea about Chinese cocktails .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Would you prefer our cocktail — Shanghai cocktail ? It's a mixture of real Chinese ingredients .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s good .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "( The waiter makes the cocktail for Mr . Bellow and hands into him . ) Here is your Shanghai cocktail , Mr . Bellow .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you . Oh , it tastes excellent .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

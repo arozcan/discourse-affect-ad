@@ -1,0 +1,54 @@
+{
+  "id": "dialog_546",
+  "segments": [
+    {
+      "text": "How's the bride-to-be ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Tired and stressed . This wedding is giving me a headache .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Just relax . With me as your maid of honor , everything will be fine !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm worried that everything will be chaotic !",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hey ! I'm the tour guide . I'll take care of the Taiwanese guests .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're going to have to tell them what to do in church , what everything means ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "I will . Don't worry !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

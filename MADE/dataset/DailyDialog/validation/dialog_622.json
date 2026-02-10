@@ -1,0 +1,33 @@
+{
+  "id": "dialog_622",
+  "segments": [
+    {
+      "text": "Can you tell me if there is a flight to New York ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . Flight DB117 departs at 5:38 pm and arrives in New York at 6:00 am with a layover in Chicago . It also makes a refueling stop at Colombia .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "So many stops ! Don't you have any direct flights ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sorry sir , it is the only flight wa have right now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

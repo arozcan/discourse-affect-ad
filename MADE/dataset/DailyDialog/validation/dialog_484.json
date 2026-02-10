@@ -1,0 +1,54 @@
+{
+  "id": "dialog_484",
+  "segments": [
+    {
+      "text": "I will travel to Southeast Asia this summer , so I need to exchange some US dollars . Can I get the foreign currency at any bank ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't think you can . In China , our currency is not freely convertible yet .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you mean there is no way to get any foreign money ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . You can go to the Bank of China to exchange some US dollars at the current exchange rate of the day you exchange them . The maximum amount you can exchange is $ 2,000 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Only $ 2,000 ? Are there any other ways to get the money exchanged ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "The only official way is to go to Bank of China .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'd better take more dollars with me . It seems that I need to borrow some from my friends .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

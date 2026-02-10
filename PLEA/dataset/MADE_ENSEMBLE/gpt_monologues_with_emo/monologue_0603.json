@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0603",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I watch as the boy bounces on the stool, eyes gleaming with mischief.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6448808908462524
+    },
+    {
+      "text": "His laughter fills the kitchen, and I can’t help but smile a little.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9584676027297974
+    },
+    {
+      "text": "But then I focus on the water cascading over the sink, and my initial joy shifts to worry.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6128532290458679
+    },
+    {
+      "text": "What if he falls? What if he slips in that puddle?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49479207396507263
+    },
+    {
+      "text": "The girl’s eager expression only adds to my anxiety; she has no idea of the danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5784152746200562
+    },
+    {
+      "text": "Their playful interactions remind me of my own childhood mischief, yet I don’t want them to get hurt.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5036786794662476
+    },
+    {
+      "text": "I wish I could intervene, but there’s something sweet about their little rebellion against the rules.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7045482397079468
+    }
+  ]
+}

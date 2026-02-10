@@ -1,0 +1,145 @@
+{
+  "id": "dialog_6556",
+  "segments": [
+    {
+      "text": "Hello , Anna speaking !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hey , Anna , this is Jason .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Jason , where have you been hiding lately ? You know it's been a long time since your last call . Have you been good ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . How are you , Anna ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am fine . What have you been doing ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Working . I've been really busy these days . I got a promotion .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's great , congratulations !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks . I am feeling pretty good about myself too . You know , bigger office , a raise and even an assistant .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's good . So I guess I'll have to make an appointment to see you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "You are kidding .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "How long have you been working there ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "A bit over two years . This is a fast-moving company , and seniority isn ’ t the only factor in deciding promotions .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "How do you like your new boss ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 2
+    },
+    {
+      "text": "She is very nice and open-minded .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "Much better than the last one , huh ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah . He was a real slave driver . He probably would have loved it if we were robots .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 1
+    },
+    {
+      "text": "Forget about him . Come over to my house tonight . Let's get drunk .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 3
+    },
+    {
+      "text": "Good . Tonight 8 o'clock .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 17,
+      "dialog_act": 3
+    },
+    {
+      "text": "8 it is . See you then .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 18,
+      "dialog_act": 4
+    },
+    {
+      "text": "Bye .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 19,
+      "dialog_act": 1
+    }
+  ]
+}

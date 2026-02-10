@@ -1,0 +1,47 @@
+{
+  "id": "dialog_7576",
+  "segments": [
+    {
+      "text": "You ran the stop sign . May I see your driver's licence , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , I'm sorry . I didn't see the stop sign at the corner . I didn't mean it .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "That doesn't justify your violation . May I see your licence , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , sorry , I don't have it on me . Honestly , I forgot it at the house . But I have the insurance policy with me . Here it is .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , sir , your insurance looks good , but I still have to write you a ticket .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I understand , officer . I guess it's just not my day today . I will accept the fine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

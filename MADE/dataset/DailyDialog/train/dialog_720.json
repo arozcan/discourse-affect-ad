@@ -1,0 +1,40 @@
+{
+  "id": "dialog_720",
+  "segments": [
+    {
+      "text": "Look , the aliens are sending a message to Mulder . This rocks !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Whoops . That's my pager . I had to get it for work .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You have a pager ? ! That's a little high-tech for you , Stu . Are you sure you know how to use it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I know how to turn it off !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , you don't ! It's still beeping ! Come on , hand it over and I'll turn it off for you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

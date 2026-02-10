@@ -1,0 +1,55 @@
+{
+  "id": "monologue_5380",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "The woman is so focused on that plate, she doesn’t see anything else.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.47780641913414
+    },
+    {
+      "text": "The water is just pouring out, and she doesn’t care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.46231913566589355
+    },
+    {
+      "text": "The boy is stretching so far, he’s going to tip over.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3827345073223114
+    },
+    {
+      "text": "The girl is just standing there, waiting for her cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5069524049758911
+    },
+    {
+      "text": "I can’t believe how much of a mess this is.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.44394731521606445
+    },
+    {
+      "text": "The floor is getting more and more slippery.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4866446852684021
+    },
+    {
+      "text": "This is just a disaster waiting to happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.27592504024505615
+    }
+  ]
+}

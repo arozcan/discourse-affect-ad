@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6121",
+  "segments": [
+    {
+      "text": "Excuse me . May I see that laptop for a moment ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . You mean this one ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , the one on the left . Yes , that ′ s the one . ... Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "It ′ s a state-of-the-art piece of equipment , sir . With a gigantic 16.1 USGA TFT screen , 2.8 Ghz mobile processor , generous 512 MB RAM , removable 80 GB hard drive , convenient CD-RW / DVD combo drive , stunning fast graphics board with 64 MB DDR DRAM , dual battery capability , integrated Fast Ethernet card , IEEE 1394 digital interface and eight USB ports , it has all the power of a desktop computer packed into an ultra-slim notebook !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "That ′ s impressive ! What ′ s the sale price ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "The regular price is $ 2980.00 , but until December the 31st it ′ s on sale for just $ 2,699 . 00 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

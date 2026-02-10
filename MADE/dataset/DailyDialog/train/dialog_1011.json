@@ -1,0 +1,40 @@
+{
+  "id": "dialog_1011",
+  "segments": [
+    {
+      "text": "Do you like tea ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , but I don't know much about it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Tea does good to people's health . There are many kinds of tea.Say , black tea , green tea , scented tea , brick tea , milk tea , Jas - mine tea , chrysanthemum tea and so on .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "My favourite is Jasmine tea . I like its aroma .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , but scented tea is now in fashion .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

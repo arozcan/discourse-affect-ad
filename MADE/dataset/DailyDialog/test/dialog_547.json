@@ -1,0 +1,117 @@
+{
+  "id": "dialog_547",
+  "segments": [
+    {
+      "text": "Jim ? Jim ? ... What are you doing in the kitchen ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Nothing , Mummy . I was hungry so I came here for some milk .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Milk ? I thought you didn't like milk .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don't , but I couldn't find anything to eat in the refrigerator .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Nonsense . There's lots of food in the refrigerator ... What's behind your back ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Nothing .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "What are you hiding behind your back ? Let me see .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Promise that you won't get angry .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , I promise . What is it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's a kitty .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , Jim . I told you . No pets . It'll make a mess of this house .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Please , Mummy . Everybody else in my class keeps a pet . Please , I'll take care of it . It's a good kitty . It'll not bring you any trouble .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "No way . It might belong to somebody else . You can't keep it here .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 12,
+      "dialog_act": 4
+    },
+    {
+      "text": "Please , Mummy . I found it this afternoon by the garbage bin . It was starving and looking for something to eat . Please ! You see , it's so cute and tame .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . But you have to clean up everything it messes up .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 4
+    },
+    {
+      "text": "I will . Thank you , Mummy .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 1
+    }
+  ]
+}

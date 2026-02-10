@@ -1,0 +1,33 @@
+{
+  "id": "dialog_543",
+  "segments": [
+    {
+      "text": "Excuse me , I ordered the well-done steak , but this one is so tough .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , sir , I think I have made a mistake . I will take it back to the kitchen right now .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I think you should be more careful next time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , sir . I'm really so sorry about that .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

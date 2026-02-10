@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6540",
+  "segments": [
+    {
+      "text": "Sir , are you alright ? Just try to calm down , Sir . What's happened ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've lost my Traveller's Cheques , all of them .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , just take a deep breath , Sir . Everything is going to be fine . Here's a form to report missing Traveller's Cheques , whatever the reason . Please fill it in and we can get moving on this .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see . You need the reference numbers ? For each cheque ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , Sir . Do you have that information with you ? At this bank , we always recommend our customers write down the reference number of each Traveller's Cheque and keep it in a safe place away from the Traveller's Cheques .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

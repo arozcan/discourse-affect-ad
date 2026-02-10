@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1962",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the woman standing at the sink, completely absorbed in drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9249236583709717
+    },
+    {
+      "text": "She seems so focused, yet I can’t help but notice the water pouring over the edge of the sink.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5374049544334412
+    },
+    {
+      "text": "The puddle on the floor is growing larger, spreading rapidly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4627684950828552
+    },
+    {
+      "text": "It’s as if she’s in a world of her own, blissfully unaware of the mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5891343355178833
+    },
+    {
+      "text": "I wonder how she can be so oblivious to the overflowing water at her feet.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5213537216186523
+    },
+    {
+      "text": "Outside, the garden looks so peaceful, contrasting sharply with the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.45930224657058716
+    },
+    {
+      "text": "I can almost feel the warmth of the sun coming through that wide window.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7645941972732544
+    }
+  ]
+}

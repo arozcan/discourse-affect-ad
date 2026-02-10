@@ -1,0 +1,68 @@
+{
+  "id": "dialog_9361",
+  "segments": [
+    {
+      "text": "I ’ m so frustrated !",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "what ’ s wrong , Jim ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I called the electronics shop to find out what time they close , and it took me twenty minutes to get what I wanted !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Twenty minutes just to find out what their business hours are ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "yes.They have some sort of digital receptionist.So when I called in , a machine told me to push a button for the department I wanted to be transferred to .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I hate getting voicemail instead of a person.What did you do ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "I just kept pushing buttons . I was transferred to customer service , but there a machine told me to choose between technical help , warranty information , or price information .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Couldn ’ d you choose to be transferred to a real person ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Eventually I did get to a real person . I found out the closing time , but by then the store had already closed !",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

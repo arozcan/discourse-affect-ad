@@ -1,0 +1,68 @@
+{
+  "id": "dialog_134",
+  "segments": [
+    {
+      "text": "Are you going to buy a bicycle ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m thinking about it . How much is it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "¥ 350 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , dear . It ’ s too expensive . Can you give me a better price ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Your discount is already included . Normally we charge ¥ 400 , but now we can give you a special price . This is our sale period .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "It ’ s still too much . Can ’ t you make it any cheaper than that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sorry , but this is the best price . You can ’ t get it any cheaper than here .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "I see . Can I pay by traveler ’ s checks ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid you can ’ t . You ’ re welcome to pay in cash .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 8,
+      "dialog_act": 4
+    }
+  ]
+}

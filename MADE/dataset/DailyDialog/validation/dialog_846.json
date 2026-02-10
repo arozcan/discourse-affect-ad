@@ -1,0 +1,47 @@
+{
+  "id": "dialog_846",
+  "segments": [
+    {
+      "text": "Can you tell me , Ms . Smith , about the training programs you initiated this year ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "We ran a call center training service and language program to ensure that our customer service representatives are well trained .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ’ s the result ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "We directly attribute an increase in our customer service feedback of 50 % to the increase in language skills and training that our employees have received .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That seems very impressive . Good work !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you , but I cannot take all the credit . Our employees have all worked very hard to increase their productivity level .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

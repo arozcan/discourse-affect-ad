@@ -1,0 +1,41 @@
+python scripts/made_dataset_stats.py
+
+==============================
+MADE Dataset: Overall Summary
+==============================
+Total monologues : 10000
+Total utterances : 118429
+Monologue length (sentences): mean=11.84, std=2.31, min=7, max=16
+Utterance length (words)    : mean=11.79, std=3.19, min=2, max=38
+
+Emotion distribution (%):
+  happy       12.31
+  sad          8.11
+  angry        8.05
+  fearful     13.96
+  disgusted    6.19
+  surprised    7.53
+  neutral     43.84
+
+--------------------------------
+Per-source (folder) summaries
+--------------------------------
+
+[genai_monologues_with_emo]
+  monologues=2500  utterances=32891  failed_files=0/2500
+  monologue sentences: mean=13.16 (min=10, max=15)
+
+[gpt_monologues_with_emo]
+  monologues=2500  utterances=26024  failed_files=0/2500
+  monologue sentences: mean=10.41 (min=7, max=16)
+
+[grok_monologues_with_emo]
+  monologues=2500  utterances=33364  failed_files=0/2500
+  monologue sentences: mean=13.35 (min=11, max=15)
+
+[mistral_monologues_with_emo]
+  monologues=2500  utterances=26150  failed_files=0/2500
+  monologue sentences: mean=10.46 (min=7, max=14)
+
+✅ Wrote JSON report: results/made_dataset_stats.json
+✅ Wrote CSV summary: results/made_dataset_stats_by_source.csv

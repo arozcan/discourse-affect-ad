@@ -1,0 +1,55 @@
+{
+  "id": "monologue_289",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the warm sunlight streaming in through the open window, casting a soft glow across the kitchen.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6121158599853516
+    },
+    {
+      "text": "It's such a simple scene, but there's something comforting about it.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7713435292243958
+    },
+    {
+      "text": "The woman seems so engrossed in her task, polishing the plate as if it were a piece of art.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6114217042922974
+    },
+    {
+      "text": "Yet, I can’t help but notice the growing puddle at her feet, the water pouring out of the sink.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6480103731155396
+    },
+    {
+      "text": "It’s as if the chaos is hidden beneath the surface of her mundane activity.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7929661273956299
+    },
+    {
+      "text": "The children, on the other hand, are up to something devious, reaching for cookies without her noticing.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6264405250549316
+    },
+    {
+      "text": "That boy could easily fall off that wobbly stool, and the girl seems so ready to gobble up what he brings down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.47100064158439636
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8743",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen, I can't help but worry.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4719081223011017
+    },
+    {
+      "text": "The sink is overflowing with water pouring everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.38688939809799194
+    },
+    {
+      "text": "The woman at the sink has no idea, her shoe is soaked.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5046570301055908
+    },
+    {
+      "text": "If she slips on that wet floor, it could be bad.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5461978316307068
+    },
+    {
+      "text": "The cabinets are getting drenched too, what a mess that'll make.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.44401857256889343
+    },
+    {
+      "text": "Now, turning to the kids, the boy is up on that unstable stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9225817918777466
+    },
+    {
+      "text": "He's stretching to grab cookies from the jar in the open cabinet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9390338659286499
+    },
+    {
+      "text": "One wrong move and he'll tumble down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5017191171646118
+    },
+    {
+      "text": "The girl is right there, reaching up for her cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.687757134437561
+    },
+    {
+      "text": "They're so sneaky, not wanting the adult to catch them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.32411786913871765
+    },
+    {
+      "text": "The window shows a nice garden, but inside it's hazardous.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.524082601070404
+    },
+    {
+      "text": "I hope someone turns off that faucet soon.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5036627054214478
+    },
+    {
+      "text": "This whole scene screams potential disaster.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5921916961669922
+    }
+  ]
+}

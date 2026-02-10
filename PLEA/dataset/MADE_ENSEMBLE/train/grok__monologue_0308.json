@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0308",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This scene in the kitchen is just heartbreaking to watch.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9460766315460205
+    },
+    {
+      "text": "The poor woman is so absorbed in her dish drying.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6122328042984009
+    },
+    {
+      "text": "She has no idea the water is flooding everywhere.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.44910410046577454
+    },
+    {
+      "text": "That puddle is spreading, and it's going to ruin the floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.32102903723716736
+    },
+    {
+      "text": "Her apron and dress might get soaked soon too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7769302725791931
+    },
+    {
+      "text": "And those children, sneaking cookies like that.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.36731353402137756
+    },
+    {
+      "text": "The boy's stool looks ready to collapse under him.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6994825601577759
+    },
+    {
+      "text": "If he falls, he could get hurt badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5549803972244263
+    },
+    {
+      "text": "The girl is just egging him on with her outstretched hand.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8910700678825378
+    },
+    {
+      "text": "The open cabinets make the whole thing look even more precarious.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.498353511095047
+    },
+    {
+      "text": "Sunlight from the window highlights all this mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7574458718299866
+    },
+    {
+      "text": "I wish someone would notice and stop this before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5000184178352356
+    },
+    {
+      "text": "The garden outside is so serene, it's almost mocking the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6160534620285034
+    }
+  ]
+}

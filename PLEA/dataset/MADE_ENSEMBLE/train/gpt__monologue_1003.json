@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1003",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "Looking at the scene, I feel an overwhelming sense of nostalgia for simpler times.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6819155216217041
+    },
+    {
+      "text": "The innocence of the children reminds me of my own childhood adventures.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.791317343711853
+    },
+    {
+      "text": "But the precariousness of their actions fills me with anxiety; that stool looks so unstable!",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9088098406791687
+    },
+    {
+      "text": "I can’t help but feel frustrated at the mother’s obliviousness to the growing puddle.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4888058304786682
+    },
+    {
+      "text": "The boy’s determination is admirable, yet I wish he would think about the consequences.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.539392352104187
+    },
+    {
+      "text": "And the girl, oh! She’s so eager, her little hand reaching up just adds to the scene’s charm.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8919028043746948
+    },
+    {
+      "text": "The overall calm of the garden outside almost feels mocking against the risks brewing inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6583896279335022
+    }
+  ]
+}

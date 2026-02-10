@@ -1,0 +1,26 @@
+{
+  "id": "dialog_3557",
+  "segments": [
+    {
+      "text": "I heard Betty lost her tennis match this morning , so she's out of the tournament .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? What a shame ! I thought she was going to win this one .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Me , too . I'm sure she'll do better in the next tournament .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

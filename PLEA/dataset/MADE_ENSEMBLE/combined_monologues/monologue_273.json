@@ -1,0 +1,55 @@
+{
+  "id": "monologue_273",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the puddle growing beneath the sink and it’s making me really uneasy.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.950303316116333
+    },
+    {
+      "text": "The water is soaking into the cabinets, and I can almost hear the wood groaning.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.43972888588905334
+    },
+    {
+      "text": "The woman stands there, blissfully unaware, and it’s infuriating.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49267131090164185
+    },
+    {
+      "text": "I want to shout at her to look down and see the mess she’s ignoring.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9051095843315125
+    },
+    {
+      "text": "Every inch of that water creeping toward the kids makes my heart race.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.34433549642562866
+    },
+    {
+      "text": "Why can’t she take a moment to step back and assess the situation?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5206659436225891
+    },
+    {
+      "text": "But instead, she polishes another dish like everything is just fine.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8239744901657104
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "monologue_2162",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "In this kitchen, everything seems so routine and calm.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6047986745834351
+    },
+    {
+      "text": "The woman is focused on her task, drying that plate meticulously.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6643303632736206
+    },
+    {
+      "text": "But the sink behind her is a different story—it's flooding.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5724275708198547
+    },
+    {
+      "text": "Water ruining the floor and cabinets; it's heartbreaking to watch.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9831035137176514
+    },
+    {
+      "text": "She'll be so upset when she finally realizes.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5216583013534546
+    },
+    {
+      "text": "The children, meanwhile, are risking it all for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5943122506141663
+    },
+    {
+      "text": "The boy's on that unsteady stool, full of youthful daring.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4515666365623474
+    },
+    {
+      "text": "If he falls, it could end in tears for everyone.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4862256348133087
+    },
+    {
+      "text": "The girl waiting eagerly might feel guilty later.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5186688899993896
+    },
+    {
+      "text": "This moment of mischief could turn sorrowful quickly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4814727306365967
+    },
+    {
+      "text": "The sunny garden outside highlights the fragility inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7869890928268433
+    },
+    {
+      "text": "I feel a pang of sadness for the impending disappointment.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9765517711639404
+    },
+    {
+      "text": "Domestic bliss interrupted by carelessness—such a pity.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9383264780044556
+    },
+    {
+      "text": "The untouched dishes stack up, waiting for chaos to unfold.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4870818853378296
+    }
+  ]
+}

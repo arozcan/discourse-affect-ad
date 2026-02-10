@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6142",
+  "segments": [
+    {
+      "text": "Hi , Paulo . How are things going ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Everything's going very well . The first phase of the project was finished three days ahead of schedule . We're on target to complete phase two by the beginning of week 40 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's good news . What stage are you at now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , we've just finished laying the cabling and we're waiting for the safety inspector to give us the go-ahead to continue . I'm just going to meet him . Do you want to come ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

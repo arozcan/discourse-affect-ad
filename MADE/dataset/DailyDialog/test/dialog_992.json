@@ -1,0 +1,26 @@
+{
+  "id": "dialog_992",
+  "segments": [
+    {
+      "text": "Are you sure you can't lend me five thousand dollars ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Hmm ... I'll tell you what . I'll lend you four thousand dollars , but you have to pay me back next week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "It's a deal .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

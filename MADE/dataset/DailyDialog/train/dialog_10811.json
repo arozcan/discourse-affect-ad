@@ -1,0 +1,75 @@
+{
+  "id": "dialog_10811",
+  "segments": [
+    {
+      "text": "Hi , the lab said that you would be getting my test results in today .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I like you to come in and discuss some further tests that I would like to run .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I think that this is a bad sign .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "For now , I would like to run a few more tests to look into some of the problems that you mentioned .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Why wouldn ’ t you tell me over the phone ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "If there is any question about test results , we always do a recheck .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "I need to come in right away .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "I would be happy to see you this afternoon . If you are feeling upset , please bring a friend or relative along .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "You are scaring me !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Come on in this afternoon and we will talk . It will be fine !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    }
+  ]
+}

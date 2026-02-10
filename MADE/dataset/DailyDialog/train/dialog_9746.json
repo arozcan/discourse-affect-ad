@@ -1,0 +1,47 @@
+{
+  "id": "dialog_9746",
+  "segments": [
+    {
+      "text": "Hi there , Mr Brown . Are you depositing or withdrawing today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sorry to say it , but neither of those . I'm here to close our account with you . The market around here has been dropping for a while now , and it's just not sensible for us to stay .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I understand . So , what would you like to do with the balance ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I guess I should just withdraw everything .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "215,000 RIB is the exact balance . If you could just sign your name here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here you go . That's everything , then . Thanks very much for your service over the years .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

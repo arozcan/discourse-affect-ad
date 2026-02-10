@@ -1,0 +1,83 @@
+{
+  "id": "monologue_2006",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water running over the edge of the sink, creating a puddle on the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8837621212005615
+    },
+    {
+      "text": "The woman is just standing there, drying a plate, completely unaware of the water.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46532776951789856
+    },
+    {
+      "text": "I notice the children trying to get cookies from the jar, their faces full of excitement and mischief.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4724678099155426
+    },
+    {
+      "text": "The boy is standing on a stool, reaching for the cookie jar, and it looks like it's about to tip over.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7770062685012817
+    },
+    {
+      "text": "The girl is standing nearby, waiting for her share of the cookies, her hand outstretched and ready.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.898430347442627
+    },
+    {
+      "text": "I think the woman should really turn around and see what's happening behind her before someone gets hurt.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3267780542373657
+    },
+    {
+      "text": "The garden outside looks so calm and tidy, unlike the chaos inside the kitchen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.39161214232444763
+    },
+    {
+      "text": "I wonder if the woman will notice the water before it's too late and someone slips and falls.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.48368480801582336
+    },
+    {
+      "text": "The boy is really stretching himself thin to reach those cookies, and I hope he doesn't fall and hurt himself.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5391995906829834
+    },
+    {
+      "text": "I feel like this scene is a disaster waiting to happen, with the water and the unstable stool and the children climbing.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.37873023748397827
+    },
+    {
+      "text": "I hope no one gets hurt in this mess, but it seems inevitable at this point.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4835141897201538
+    }
+  ]
+}

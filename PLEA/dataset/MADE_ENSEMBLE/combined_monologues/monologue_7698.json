@@ -1,0 +1,90 @@
+{
+  "id": "monologue_7698",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "What a disaster in that kitchen, water pouring like a waterfall.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4840390384197235
+    },
+    {
+      "text": "The woman's completely zoned out on her plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.47433826327323914
+    },
+    {
+      "text": "Puddle spreading across the floor, soaking everything.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5082135200500488
+    },
+    {
+      "text": "Those cabinet doors are getting drenched, probably warping.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5007573962211609
+    },
+    {
+      "text": "Now the kids are at it, boy on that ridiculous stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5020193457603455
+    },
+    {
+      "text": "He's grabbing cookies, but the thing's about to topple.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5977773666381836
+    },
+    {
+      "text": "Girl's right there, begging for one without helping.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3517369329929352
+    },
+    {
+      "text": "Sneaking treats behind mom's back, typical mischief.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4443880021572113
+    },
+    {
+      "text": "The window shows a nice yard, mocking the mess inside.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6488510370254517
+    },
+    {
+      "text": "I feel bad for the woman; she'll be so upset later.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7540698051452637
+    },
+    {
+      "text": "This could end in tears or a big fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.39916637539863586
+    },
+    {
+      "text": "Cookies crumbling in his hand, what a waste too.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4307314455509186
+    }
+  ]
+}

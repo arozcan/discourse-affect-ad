@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0507",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "It's heartbreaking seeing the water spill everywhere.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9852046966552734
+    },
+    {
+      "text": "The woman's so unaware, just drying her dishes.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3876720666885376
+    },
+    {
+      "text": "Her foot's in the puddle, she might slip any second.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5160731077194214
+    },
+    {
+      "text": "The boy on the stool looks so precarious up there.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.287354975938797
+    },
+    {
+      "text": "If it tips, he'll fall and get hurt.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5645302534103394
+    },
+    {
+      "text": "The girl's waiting eagerly, but this feels wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3485611081123352
+    },
+    {
+      "text": "They're stealing cookies behind her back.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.45374470949172974
+    },
+    {
+      "text": "The garden outside is peaceful, such a contrast.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4735126495361328
+    },
+    {
+      "text": "I wish she would notice and stop this before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5393013954162598
+    },
+    {
+      "text": "All this mess could lead to tears.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.47603839635849
+    },
+    {
+      "text": "Poor things, playing in danger like that.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5950286388397217
+    },
+    {
+      "text": "The cookies might not even be worth the risk.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3610788881778717
+    },
+    {
+      "text": "This scene just makes me feel down.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9711756110191345
+    }
+  ]
+}

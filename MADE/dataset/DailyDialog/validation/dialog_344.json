@@ -1,0 +1,33 @@
+{
+  "id": "dialog_344",
+  "segments": [
+    {
+      "text": "Hello , Mr . Thomas . Could you spare a minute ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What do you need ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I need to talk to you about that new driver you ’ Ve hired . I think I am going to have some problems working with him .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "He seems to be quite qualified . If it is a personal problem I preferred if you would work out between yourselves .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

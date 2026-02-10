@@ -1,0 +1,33 @@
+{
+  "id": "dialog_65",
+  "segments": [
+    {
+      "text": "I'll never ever work together with him !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "What happened ? Quarrel again ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Will you take my materials back from him for me ? Please !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Don't ask me . I don't wanna be involved in your quarrel .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2147",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "As I watch the boy, I'm struck by how determined he looks reaching into that cookie jar.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5065006017684937
+    },
+    {
+      "text": "His little face is a mixture of concentration and sheer delight.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8648269176483154
+    },
+    {
+      "text": "But, I also feel a pang of disgust thinking about the mess that could result if he falls.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9124902486801147
+    },
+    {
+      "text": "The water is pooling everywhere, and I can't shake the thought of the damage it could cause.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.39616385102272034
+    },
+    {
+      "text": "The woman doesn’t seem to care about the puddle at all.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3018091917037964
+    },
+    {
+      "text": "If only she'd notice the little accidents waiting to happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6625690460205078
+    },
+    {
+      "text": "It's a beautiful day outside, yet this kitchen feels like a ticking time bomb.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5229682326316833
+    }
+  ]
+}

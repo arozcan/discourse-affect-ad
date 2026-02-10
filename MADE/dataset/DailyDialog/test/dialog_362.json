@@ -1,0 +1,33 @@
+{
+  "id": "dialog_362",
+  "segments": [
+    {
+      "text": "Can I borrow this magazine from you ? It's really interesting and I can't put it down .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry , but I can't lend it to you now , for I haven't finished reading it . If you don't mind , I can lend you some back numbers to you .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "That would be very kind of you . By the way , is it a monthly magazine ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , it is a fortnightly . So , you see , I can get the new one quite soon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

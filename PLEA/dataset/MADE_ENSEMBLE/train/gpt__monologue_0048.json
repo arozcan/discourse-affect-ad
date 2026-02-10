@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0048",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the woman in the kitchen, busily drying her plate with a dish towel.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9224507808685303
+    },
+    {
+      "text": "She seems so focused on her task that she doesn't notice the water spilling from the overflowing sink.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5941192507743835
+    },
+    {
+      "text": "I can’t help but feel a bit worried for her; the puddle is growing larger by the second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5166153907775879
+    },
+    {
+      "text": "It’s almost as if she’s in her own world, completely oblivious to the chaos around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5235038995742798
+    },
+    {
+      "text": "The sunlight streaming in through the window highlights the mess, yet she remains unaffected.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5173740983009338
+    },
+    {
+      "text": "I notice the boy on the stool, stretching for those cookies, and my heart races a bit.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.3582625985145569
+    },
+    {
+      "text": "His posture is so precarious, I worry he might topple over at any moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.599739134311676
+    }
+  ]
+}

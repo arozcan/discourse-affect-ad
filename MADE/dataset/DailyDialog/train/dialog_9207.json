@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9207",
+  "segments": [
+    {
+      "text": "Those are today ’ s top stories . Now let ’ s go to John for the weather . John , what does the forecast look like for our weekend travelers ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m afraid we ’ re in for a rough weekend , Marry . There is a storm system moving through the East Coast . It will be drizzling all day today , and there ’ s a 60 percent chance of thunderstorms this evening . It will be warm and humid all weekend . In the Midwest , expect strong winds and a low of around 40 degrees .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s pretty chilly for the summer ! Will it rain on Saturday ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Unfortunately , yes . It will be clear early Saturday morning but there is a high chance of showers and thunderstorms later in the day . There is a severe thunderstorm warning for some parts of the Southeast . Folks in those areas might see some hail and flooding , especially in areas that have been experiencing record high rainfalls .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That certainly sounds like a dreary Saturday .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "It gets better on Sunday , though . The storm systems move east and the skies will clear up at night . It will still be rather cool , with highs in the low 50s . The West Coast will be experiencing some unusually chilly weather , but at least the sun will come out . I advise weekend travelers to be careful , especially while driving . Back to you , Mark .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks John , and there you have it ! Looks like it ’ s a weekend to stay at home !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

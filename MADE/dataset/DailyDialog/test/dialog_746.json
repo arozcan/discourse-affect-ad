@@ -1,0 +1,47 @@
+{
+  "id": "dialog_746",
+  "segments": [
+    {
+      "text": "Bill , do you know if the cafeteria around the corner's open today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . They were open this morning when I came to work . They must've finished remodeling . Why do you want to know ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I thought that maybe we could go there for lunch today . That is , if you haven't promised to go with someone else .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That'd be wonderful , Peter . But I hope you're in a better mood than you were this morning .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry I was such a grouch . It must've been the weather . When it rains I get depressed .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Forget it . I'll see you at 11:30 am .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8051",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen, I notice the woman at the sink.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5757919549942017
+    },
+    {
+      "text": "She's drying dishes, but the faucet is running full blast.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8574703931808472
+    },
+    {
+      "text": "Water is spilling everywhere, and she's oblivious.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4532229006290436
+    },
+    {
+      "text": "Oh no, that puddle is growing so fast on the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5552048087120056
+    },
+    {
+      "text": "What if she slips and falls? That would be terrible.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9114333391189575
+    },
+    {
+      "text": "The kids are up to something risky too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45463454723358154
+    },
+    {
+      "text": "The boy is on that shaky stool, stretching for the cookies.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9379106760025024
+    },
+    {
+      "text": "It could collapse under him any moment, and he'd come tumbling down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.43384212255477905
+    },
+    {
+      "text": "The girl is right there, encouraging him with her outstretched hand.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6836223602294922
+    },
+    {
+      "text": "I hope the woman turns around before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5129004716873169
+    },
+    {
+      "text": "The garden outside looks peaceful, but inside it's a hazard zone.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5414673686027527
+    },
+    {
+      "text": "This whole setup makes me anxious just watching.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7326149940490723
+    },
+    {
+      "text": "Someone needs to stop this before an accident happens.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4779127538204193
+    }
+  ]
+}

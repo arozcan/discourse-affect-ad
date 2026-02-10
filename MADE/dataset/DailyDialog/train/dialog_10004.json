@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10004",
+  "segments": [
+    {
+      "text": "What ’ s the matter , dear ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Something awful happened . We went to the Portobello Road , and someone stole my handbag .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , dear . Did you lose a lot of money ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . Only a few pounds . But my passport was in the bag . That ’ what I ’ m really worried about .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "You must tell your embassy about it . And I think they ’ ll issue you with a new one .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

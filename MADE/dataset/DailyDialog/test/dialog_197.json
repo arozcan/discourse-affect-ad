@@ -1,0 +1,40 @@
+{
+  "id": "dialog_197",
+  "segments": [
+    {
+      "text": "So Dick , how about getting some coffee for tonight ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Coffee ? I don ’ t honestly like that kind of stuff .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Come on , you can at least try a little , besides your cigarette .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "What ’ s wrong with that ? Cigarette is the thing I go crazy for .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Not for me , Dick .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

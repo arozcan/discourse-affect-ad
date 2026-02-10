@@ -1,0 +1,55 @@
+{
+  "id": "monologue_17",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the sink overflowing, water cascading down like a waterfall of neglect.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.42778101563453674
+    },
+    {
+      "text": "The woman seems completely unaware of the mess she's causing.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4855564534664154
+    },
+    {
+      "text": "A part of me wants to shout, to warn her about the disaster unfolding at her feet.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3434363603591919
+    },
+    {
+      "text": "But then I glance at the children, and their playful antics almost bring me joy.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7173265218734741
+    },
+    {
+      "text": "The boy is reaching out to the cookie jar with such determination.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.35908567905426025
+    },
+    {
+      "text": "The girl's eager anticipation adds to the chaos, but it’s also adorable.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.941859245300293
+    },
+    {
+      "text": "It’s hard to reconcile the joy in their actions with the danger that lurks in the background.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.2616863250732422
+    }
+  ]
+}

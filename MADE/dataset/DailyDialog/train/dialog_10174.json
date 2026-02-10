@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10174",
+  "segments": [
+    {
+      "text": "Hello , Madam . Are you alright ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm here to pay my telephone bill . I usually go to the post office , but I was told that I could take care of it here . Is that right ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , that's correct , Madam . You don't need to go to a counter at all , you can use one of our ATM machines . I'll be more than happy to help you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don't usually like to use Atms , I like dealing with a real person , you see .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know it does seem a little daunting , but once you get used to it , it will save you a lot of time and trouble .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

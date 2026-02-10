@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5069",
+  "segments": [
+    {
+      "text": "Hi , Sir . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , there . I'd like to know about Clean Collection . My company in the US is going to send me a cheque . It's for my wages , but I'm not too sure about how to cash it here .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Right . If the cheque is coming from the US , into a local currency account it will take 7 working days to clear .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is there any way we can speed it up ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "There is , actually . If you can get your company to apply for a cheque from a bank in Shanghai , that'll speed things up no end .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

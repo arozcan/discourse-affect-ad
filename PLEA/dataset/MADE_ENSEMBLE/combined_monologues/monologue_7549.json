@@ -1,0 +1,97 @@
+{
+  "id": "monologue_7549",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen drawing, it feels like a typical family moment gone wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3201565146446228
+    },
+    {
+      "text": "The adult woman is polishing dishes, apron tied neatly around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8598660230636597
+    },
+    {
+      "text": "But the sink behind her is a disaster, water gushing everywhere.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.2423352152109146
+    },
+    {
+      "text": "How can she not hear the water splashing onto the floor?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8663197755813599
+    },
+    {
+      "text": "That puddle is spreading fast, and it's right under her feet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.488390177488327
+    },
+    {
+      "text": "Now, over by the cabinets, the boy's on that unstable stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8998357057571411
+    },
+    {
+      "text": "He's stretching to snag cookies from the open jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9212361574172974
+    },
+    {
+      "text": "This is so irresponsible; he could fall and get hurt badly.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.32646045088768005
+    },
+    {
+      "text": "The girl is just waiting there, egging him on with her outstretched hand.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6223381161689758
+    },
+    {
+      "text": "Those poor cabinets are getting ruined by the water.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.49604374170303345
+    },
+    {
+      "text": "The window shows a nice garden, but inside it's a slippery mess waiting to happen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4637734591960907
+    },
+    {
+      "text": "I hope someone turns off that faucet before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5024235248565674
+    },
+    {
+      "text": "The kids are breaking the rules, stealing treats behind her back.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6864179372787476
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6382",
+  "segments": [
+    {
+      "text": "Listen , Christine , you can not afford another day off . You ’ Ve called in sick five times in the last three weeks .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I know , Mr . Douglas . But I am really sick .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , I want a note from the doctor on this one . And , to be honest , if this continues , we may not be able to employ you here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I understand , sir . I ’ ll bring a doctor ’ s note in tomorrow . I am sorry , Mr . Douglas .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

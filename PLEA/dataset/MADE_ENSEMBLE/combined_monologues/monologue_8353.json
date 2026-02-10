@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8353",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This scene in the kitchen fills me with worry.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.44979408383369446
+    },
+    {
+      "text": "The sink is overflowing, water everywhere, and no one's stopping it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6207184195518494
+    },
+    {
+      "text": "The woman stands there unaware, her foot in the growing puddle.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.45546427369117737
+    },
+    {
+      "text": "She could slip and fall any second on that wet floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.509892463684082
+    },
+    {
+      "text": "Now look at the boy on the stool—it's tipping dangerously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5967572927474976
+    },
+    {
+      "text": "He's reaching into the cookie jar, one wrong move and he'll tumble.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6948187351226807
+    },
+    {
+      "text": "The girl is close by, but she can't help if he falls.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7991940975189209
+    },
+    {
+      "text": "This could end in tears or worse, with broken bones.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5958273410797119
+    },
+    {
+      "text": "The cabinets are getting soaked, and dishes might crash down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.38228505849838257
+    },
+    {
+      "text": "Outside, the garden is serene, but inside it's a hazard zone.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5921485424041748
+    },
+    {
+      "text": "I just hope someone notices before disaster strikes.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4926731288433075
+    },
+    {
+      "text": "The woman's neutrality to it all makes me anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47223278880119324
+    },
+    {
+      "text": "Poor kids, playing so close to danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7050096392631531
+    }
+  ]
+}

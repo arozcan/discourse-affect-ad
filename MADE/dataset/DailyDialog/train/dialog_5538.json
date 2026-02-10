@@ -1,0 +1,26 @@
+{
+  "id": "dialog_5538",
+  "segments": [
+    {
+      "text": "Yes , sir ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I hate to complain , but this soup is too salty .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm very sorry , sir . I'll ask the manager to take care of this .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

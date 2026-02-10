@@ -1,0 +1,55 @@
+{
+  "id": "monologue_224",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The sunlight fills this kitchen, yet somehow I feel a shadow creeping in with all this chaos.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5704142451286316
+    },
+    {
+      "text": "The woman’s focus on that plate seems admirable, but it’s leaving everything else to rot.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.47271379828453064
+    },
+    {
+      "text": "I watch the boy precariously balancing, and all I feel is anxiety squeezing my chest.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7809919118881226
+    },
+    {
+      "text": "The girl’s eager stance makes me smile; her hope is almost tangible.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9208571910858154
+    },
+    {
+      "text": "Still, there's a bitter edge to that happiness, knowing they’re breaking rules.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4762502908706665
+    },
+    {
+      "text": "It's a simple act—just cookies—but it feels so loaded with implications.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4662988781929016
+    },
+    {
+      "text": "I wish I could just freeze this moment, a snapshot of innocence before the impending mess unfolds.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5547571778297424
+    }
+  ]
+}

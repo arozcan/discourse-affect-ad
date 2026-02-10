@@ -1,0 +1,83 @@
+{
+  "id": "monologue_1779",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy standing on that stool, and it's making me really nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8169611692428589
+    },
+    {
+      "text": "The stool looks like it's about to tip over any second, and he's going to fall.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.46308302879333496
+    },
+    {
+      "text": "I think he's being really reckless, stretching his body like that to reach the cookie jar.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.40256425738334656
+    },
+    {
+      "text": "He has one hand in the jar and the other holding a plate, like he's trying to catch falling cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8131483793258667
+    },
+    {
+      "text": "I feel like I'm watching an accident waiting to happen, and there's nothing I can do about it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.676148533821106
+    },
+    {
+      "text": "The floor is wet and slippery, which makes the situation even more dangerous.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7265571355819702
+    },
+    {
+      "text": "I hope he realizes how precarious his position is and climbs down carefully.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5487954616546631
+    },
+    {
+      "text": "His sister is just standing there, waiting for a cookie, not caring about the danger.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42344996333122253
+    },
+    {
+      "text": "I think they're both going to get into trouble if their mom catches them like this.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.2942345142364502
+    },
+    {
+      "text": "I can't believe how unaware everyone is of the hazards in this room.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8997963070869446
+    },
+    {
+      "text": "I hope he doesn't fall and hurt himself, but it's looking more and more likely.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4997803568840027
+    }
+  ]
+}

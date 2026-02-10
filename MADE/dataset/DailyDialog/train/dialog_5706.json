@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5706",
+  "segments": [
+    {
+      "text": "It ’ s freezing in here ! Can I turn up the heat ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Don ’ t touch that thermostat ! You don ’ t pay the bills around here !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Dad ! Are you serious ? What ’ s the point of having central heating if we can ’ t use it ! Look , I can see my breath !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Put on a sweater ! I ’ m not gonna let you run up my heating bill just because it ’ s a bit chilly .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Dad ! I ’ m gonna catch a cold !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "When I was your age , my parents didn ’ t have central heating like you do ! We had a furnace in the center of the living room and that was it . We used it to cook , heat the house and even dry our clothes ! We never caught a cold . You should be grateful !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

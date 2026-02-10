@@ -1,0 +1,111 @@
+{
+  "id": "monologue_1729",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the warm light coming in from the garden window.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6797161102294922
+    },
+    {
+      "text": "The kitchen feels like a typical homey place.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5033636689186096
+    },
+    {
+      "text": "But then there's the sink overflowing with water.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4818689227104187
+    },
+    {
+      "text": "It's such a waste, all that water just pouring out.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5504480600357056
+    },
+    {
+      "text": "The woman is drying dishes, completely zoned out.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6714450120925903
+    },
+    {
+      "text": "Her foot's in the puddle, but she keeps going.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49400046467781067
+    },
+    {
+      "text": "Poor thing, she's going to slip if she's not careful.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5256895422935486
+    },
+    {
+      "text": "Now, the boy on the stool—reaching for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.854361891746521
+    },
+    {
+      "text": "He looks determined, but the stool is tilting back.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5361765623092651
+    },
+    {
+      "text": "The girl is waiting patiently beside him.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8832192420959473
+    },
+    {
+      "text": "It's sweet how they're sharing the adventure.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8939893841743469
+    },
+    {
+      "text": "Yet, I worry they'll get hurt in this mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6724098920822144
+    },
+    {
+      "text": "The open cabinets and stacked dishes add to the clutter.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49160638451576233
+    },
+    {
+      "text": "Outside, the tidy garden contrasts this indoor turmoil.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6619089841842651
+    },
+    {
+      "text": "I hope everything turns out okay for them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6942906379699707
+    }
+  ]
+}

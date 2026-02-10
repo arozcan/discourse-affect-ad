@@ -1,0 +1,61 @@
+{
+  "id": "dialog_5519",
+  "segments": [
+    {
+      "text": "Good day , Madam . What service do you require today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'd like some info about your Payroll Services , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "It's possible to sign an agreement with us , and then we can pay your staff directly . That is called an Entrustment Agreement .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . How is it paid ? I mean , what payment methods are possible ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "We can transfer the funds each month , at your request , into each employee's account . It is possible to pay in cash or to pay directly to the employee's savings account , no matter which bank they do business with .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sounds pretty good . Tell me , must we use the same payment method for all of our employees ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not at all . We can adjust the payment methods depending on the requirement of each employee .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sounds just perfect . I'll talk things over with some colleagues and get back to you . Thank you very much for the information .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_303",
+  "segments": [
+    {
+      "text": "You know what , last night I almost got hit by a vase falling from the third floor .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , how dreadful ! I ’ m ever so sorry .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Luckily that was nothing serious .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank God !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

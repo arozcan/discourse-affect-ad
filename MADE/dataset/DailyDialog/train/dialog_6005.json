@@ -1,0 +1,117 @@
+{
+  "id": "dialog_6005",
+  "segments": [
+    {
+      "text": "Hello , Mr.Green . This is Lin Tong . How are you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , Mr.Lin . I am leaving tomorrow and I am just packing .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , sorry to interrupt you . But I am calling to say goodbye to you . I am awfully sorry to tell you that I am afraid I could not see you off at the airport tomorrow , because I will have to attend a very important meeting .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "It doesn't matter , Mr.Lin . I can understand . I know you are always very busy . Work must come first .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks a lot . You have been here for almost three weeks . How time flies !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes . And I would like to convey my thanks to you for your help during my stay here in Nanjing .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "It is our pleasure . It has been a great pleasure to work with you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Me too . I am looking forward to cooperating with you again .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Really ? Great ! We will . Well , what's your flight number ? When are you leaving tomorrow ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's Flight No . 104 , Northey Airlines , which leaves at ten O'dock tomorrow evening .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , I will send someone to see you off .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "That is so thoughtful of you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 4
+    },
+    {
+      "text": "My pleasure . Take care and have a nice trip .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks a lot . My wife and I will be welcoming and looking forward to your visit .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let's call it a deal . Hope to see you again soon . Keep in touch then . Byebye .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 14,
+      "dialog_act": 4
+    },
+    {
+      "text": "Goodbye . Thanks again .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 1
+    }
+  ]
+}

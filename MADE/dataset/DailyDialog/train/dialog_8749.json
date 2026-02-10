@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8749",
+  "segments": [
+    {
+      "text": "Good afternoon . Is this the Roley Hotel ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , madam . May I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I ’ m calling from Westwood and Westwood Attorneys . I need to make a reservation for Mr . Alex Brent .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine , madam . When will Mr . Brent be arriving , and how many nights will he be staying ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    }
+  ]
+}

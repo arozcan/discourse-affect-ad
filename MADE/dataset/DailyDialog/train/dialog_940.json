@@ -1,0 +1,33 @@
+{
+  "id": "dialog_940",
+  "segments": [
+    {
+      "text": "Do you keep any pets , such as cats , dogs ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I'm scared of cats .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , but why ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I feel they're dirty .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

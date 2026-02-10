@@ -1,0 +1,26 @@
+{
+  "id": "dialog_8275",
+  "segments": [
+    {
+      "text": "That was delicious .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "There's still a lot left-have some more !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks , but I couldn't eat another bite . I'm really full .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

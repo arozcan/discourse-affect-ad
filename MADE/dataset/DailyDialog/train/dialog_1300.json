@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1300",
+  "segments": [
+    {
+      "text": "Let ’ s go to the seashore on Saturday .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes ! Let ’ s go sailing and water skiing . That ’ s so exciting .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "It ’ s expensive , too . Let ’ s just sit in the sun and go swimming instead .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . Let ’ s sleep on the sand . That ’ s most exciting !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

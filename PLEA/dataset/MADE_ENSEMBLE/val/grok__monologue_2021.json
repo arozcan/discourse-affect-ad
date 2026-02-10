@@ -1,0 +1,97 @@
+{
+  "id": "monologue_2021",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I observe the kitchen quietly from my spot.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9092172980308533
+    },
+    {
+      "text": "The woman seems content drying her dishes.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7200806736946106
+    },
+    {
+      "text": "But the overflowing sink makes me worry.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.937349796295166
+    },
+    {
+      "text": "All that water damaging the cabinets, it's heartbreaking.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9649118185043335
+    },
+    {
+      "text": "The boy's climb looks so risky on that stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3701954483985901
+    },
+    {
+      "text": "One wrong move, and he could tumble down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49132487177848816
+    },
+    {
+      "text": "The girl watching him adds to the tension.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3690945506095886
+    },
+    {
+      "text": "They're just kids wanting cookies, but it's unsafe.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.34167641401290894
+    },
+    {
+      "text": "The woman standing in the puddle, unaware.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6898306012153625
+    },
+    {
+      "text": "It reminds me of how quickly things can go wrong at home.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.3424854874610901
+    },
+    {
+      "text": "The sunny window contrasts with the indoor trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8373979330062866
+    },
+    {
+      "text": "I feel a pang seeing potential harm ignored.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6354572772979736
+    },
+    {
+      "text": "Hopefully, it all ends without any real hurt.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5952436923980713
+    }
+  ]
+}

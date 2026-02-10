@@ -1,0 +1,89 @@
+{
+  "id": "dialog_9561",
+  "segments": [
+    {
+      "text": "Hey , Susan . Have you got a sec ? I have some questions about my paycheck .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "You bet , Emily . Pull up a chair .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , this is my first paycheck here in the States and there are a few things I don't understand . First of all , what is this FICA , and SUI Y tax , and why are there deductions both for Medicare and for my health insurance plan ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , let's start from the top of your pay stub . This number here represents your gross pay .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Then here we have a series of deductions . First off are the federal ones . FICA stands for Federal Insurance Contribution Act , or something like that . It's your federal income tax . And then there's Social Security and Medicare , which are both federal programs to help you out after you retire or if you were unable to work .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "All right , I see . So the Medicare isn't actually a health insurance I can use now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's right . Below the federal deductions are the state deductions . There's the state income tax , and then this SUI / SDI tax you were asking about is paying into an unemployment and disability fund that our state has set up , but you can see it's a pretty small quantity that they take .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , I don't mind giving them a dollar fifty for that . So there are two separate income taxes — one at a state level and one at a federal level ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's right . Not all states have an income tax . Some use higher property taxes or sales taxes instead .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . All right , well I think everything else I can figure out on my own . The deductions for health insurance and my 401 ( K ) are pretty self-explanatory . Thanks for your help , Susan .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "No problem ! All those deductions do add up , and nobody's net pay is as high as they'd like . I can understand why you'd want some explanation .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , I guess it's the same in the UK , I just never paid much attention . See you later !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 1
+    }
+  ]
+}

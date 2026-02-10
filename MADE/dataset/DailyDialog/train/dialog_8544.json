@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8544",
+  "segments": [
+    {
+      "text": "Mr . Emory , I ’ d like to take this afternoon off if it's all right with you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "But Steven , you've called in sick 3 times during the last three weeks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know , Mr . Emory . I'm sorry . But I really need to see the doctor this afternoon . I feel dizzy and I can't concentrate on my work .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right , then . But don't forget to bring a doctors note tomorrow .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , thank you !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

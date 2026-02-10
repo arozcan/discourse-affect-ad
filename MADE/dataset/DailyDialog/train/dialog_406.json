@@ -1,0 +1,33 @@
+{
+  "id": "dialog_406",
+  "segments": [
+    {
+      "text": "She is so stupid .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Who cares ? She is pretty .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "So what ?",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You're just jealous .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

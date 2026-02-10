@@ -1,0 +1,26 @@
+{
+  "id": "dialog_8091",
+  "segments": [
+    {
+      "text": "How will you ship the order ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Air freight is the quickest and safest way , I think .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "But the freight cost will be higher and that will affect the retail price .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

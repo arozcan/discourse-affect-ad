@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0016",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "This scene is like a snapshot of everyday life, yet I feel a sense of impending doom.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3338322341442108
+    },
+    {
+      "text": "I see the woman, immersed in her task, lost to her surroundings.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7918863892555237
+    },
+    {
+      "text": "The children’s attempts to sneak cookies adds a layer of mischief that I can't help but find entertaining.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7685079574584961
+    },
+    {
+      "text": "But it’s mixed with a nagging fear for their safety, especially with that unstable stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7653783559799194
+    },
+    {
+      "text": "What if the boy loses his balance?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5023210644721985
+    },
+    {
+      "text": "It would be so easy for everything to go wrong in this moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5591028928756714
+    },
+    {
+      "text": "Yet outside, the garden looks so calm and perfect, creating a stark contrast.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.47838664054870605
+    }
+  ]
+}

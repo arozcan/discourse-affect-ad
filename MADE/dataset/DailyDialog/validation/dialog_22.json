@@ -1,0 +1,61 @@
+{
+  "id": "dialog_22",
+  "segments": [
+    {
+      "text": "I can't believe you wear jeans to the office ! Are you trying to lose your job ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course not . I'm just observing casual day . On Fridays , the company doesn't require us to wear formal business attire .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wow ! Nobody told me about that . Won't the relaxed dress code damage the company image ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "We don't think so . Casual days are becoming more common , and we believe employees can maintain a professional image without wearing uncomfortable clothes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I guess it lets people express their individual tastes . But won't some people abuse it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not really . Besides , there is a separate dress code for casual day . People can't just wear whatever they want .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "It seems that a relaxed atmosphere could hinder productivity .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Believe it or not , it has the opposite effect . Employees are actually more productive on casual days .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

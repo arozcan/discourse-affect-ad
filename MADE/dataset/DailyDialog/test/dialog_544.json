@@ -1,0 +1,33 @@
+{
+  "id": "dialog_544",
+  "segments": [
+    {
+      "text": "Allan , I am really disappointed by your lack of effort on this project .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Look , Sally . I ’ Ve put just as much work into this as anybody else .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , I ’ m sorry . I disagree . I don ’ t think you ’ Ve been working at full speed at all .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well . I ’ m sorry you feel that way .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

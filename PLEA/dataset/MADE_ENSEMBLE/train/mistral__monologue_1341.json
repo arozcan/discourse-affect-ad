@@ -1,0 +1,83 @@
+{
+  "id": "monologue_1341",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "Looking at this scene, I can't help but feel a sense of sadness.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7451376914978027
+    },
+    {
+      "text": "The woman seems so disconnected from what's happening around her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3138872981071472
+    },
+    {
+      "text": "She's just standing there, drying that plate, not noticing the overflowing sink or the mischievous children.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49701571464538574
+    },
+    {
+      "text": "It's like she's completely lost in her own thoughts, not present in the moment.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.36937227845191956
+    },
+    {
+      "text": "The children, they seem to be taking advantage of her distraction, trying to get cookies without her knowing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8533711433410645
+    },
+    {
+      "text": "The boy is standing on that wobbly stool, and it makes me feel worried for his safety.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5605482459068298
+    },
+    {
+      "text": "I hope he doesn't fall and hurt himself, that would be just terrible.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6170116066932678
+    },
+    {
+      "text": "The girl is just standing there, waiting for her cookie, not a care in the world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4634455740451813
+    },
+    {
+      "text": "This whole scene just makes me feel a bit melancholy, like something is not quite right.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8973095417022705
+    },
+    {
+      "text": "I wish the woman would snap out of it and notice what's going on around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.490386426448822
+    },
+    {
+      "text": "Maybe then, things would feel a bit more hopeful.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5102044939994812
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3466",
+  "segments": [
+    {
+      "text": "Do you have any plans for Veteran ’ s Day ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You mean Armistice Day .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , as you know , on November 11th the allies signed a peace treaty with the Germans , also known as the Armistice Treaty . This marked the end of WWI and many countries around the world commemorate this date under names such as Remembers ’ Day . In Poland it ’ s their independence day ! There ’ s a lot going on around the world on this day .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wow , I didn ’ t know ! Probably because I flunked history in school .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

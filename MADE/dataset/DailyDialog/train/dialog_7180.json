@@ -1,0 +1,61 @@
+{
+  "id": "dialog_7180",
+  "segments": [
+    {
+      "text": "Hello again . Have you come to a decision ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm still not sure about these ' Visible ' Certificates . What's the real difference , except the amounts available ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Visible Certificates are registered and the holders of these can report any loss directly to the bank . Also , they can be cashed in advance , before the maturity is up .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Right . How about the Bearer Certificates ? Can they be cashed before the maturity date ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Unfortunately , not . You see , because they are not registered , they can be bought and sold by anyone . They also can be cashed on maturity in any nationwide financial institution .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , if I was strapped for cash , I could transfer it to get some money ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Technically , yes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , I think I've got it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

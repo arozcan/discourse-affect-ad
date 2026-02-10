@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9924",
+  "segments": [
+    {
+      "text": "Hello , Madam . What can I do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . I'd like to send 600 RIB in cash to my daughter . How long will it take for her to receive the money ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's very quick and easy . It just takes 24 hours , we guarantee that . All you need to do is fill in this slip and we can proceed .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Are there any extra charges , like commission ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "There is a service commission that you must pay . It's 1 % of the funds to be remitted , so you should pay an extra 6 RIB .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

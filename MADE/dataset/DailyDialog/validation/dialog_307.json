@@ -1,0 +1,54 @@
+{
+  "id": "dialog_307",
+  "segments": [
+    {
+      "text": "Hi there . Do you need any help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've been told about something called Southern Fund . How can I buy it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "First of all , you should open a Fund Account with us , just fill in this form . We'll need to see some ID and your Cash Card .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That sounds simple enough . Do you charge any admin fees for that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "You'll have to pay 20 RIB , and then you will have your Southern Fund Management company card .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do you need any other documentation from me ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , we'll need to fill in this form , for fund trading and this one , for subscribing for and / or applying for purchasing fund units . The minimum is 500 RIB .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

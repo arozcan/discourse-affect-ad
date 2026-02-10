@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10604",
+  "segments": [
+    {
+      "text": "I just called Mr . Smith in Room 201 , but there was no reply . Would you find out if he's still staying there ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . One moment , please ... No , Mr . Smith checked out this morning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , he did ? May I have his forwarding address , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ' m afraid he didn ’ t leave one .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

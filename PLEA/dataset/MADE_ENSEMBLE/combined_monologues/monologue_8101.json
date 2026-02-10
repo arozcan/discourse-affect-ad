@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8101",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this, I feel a pang of worry for the family.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4096981883049011
+    },
+    {
+      "text": "The sink overflow is going unchecked, water everywhere.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.30561915040016174
+    },
+    {
+      "text": "The mom's too busy with her plate to see it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8980300426483154
+    },
+    {
+      "text": "Her dress might get soaked if she steps back.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7766433954238892
+    },
+    {
+      "text": "The children are being so daring with the stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5086747407913208
+    },
+    {
+      "text": "It's tipping, and the boy could hurt himself badly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6002901196479797
+    },
+    {
+      "text": "He's holding a plate too, what if it falls?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4360278844833374
+    },
+    {
+      "text": "The girl looks excited, waiting for her cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7721213102340698
+    },
+    {
+      "text": "But this secrecy might lead to trouble when caught.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49710142612457275
+    },
+    {
+      "text": "The puddle on the floor is slippery, adding to the risk.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47338882088661194
+    },
+    {
+      "text": "Outside, the garden seems untouched by all this.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8865243196487427
+    },
+    {
+      "text": "I wish the mom would notice and prevent an accident.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5305199027061462
+    }
+  ]
+}

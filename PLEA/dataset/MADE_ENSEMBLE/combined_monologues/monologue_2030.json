@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2030",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the beautifully arranged cookies in the jar, all waiting to be devoured.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7732534408569336
+    },
+    {
+      "text": "The sheer joy on the children’s faces is infectious, even as I worry for their safety.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7379288077354431
+    },
+    {
+      "text": "The scene feels so ordinary yet chaotic all at once; it’s a curious juxtaposition.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.453772634267807
+    },
+    {
+      "text": "I wonder how the woman can remain so unaware of everything around her.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6964374780654907
+    },
+    {
+      "text": "There’s an innocence in their cookie theft that’s hard to overlook.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7332082986831665
+    },
+    {
+      "text": "But the risk is palpable; one slip on that wet floor could change everything.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4872760772705078
+    },
+    {
+      "text": "I just wish they would acknowledge the dangers lurking in this simple act of joy.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5470302700996399
+    }
+  ]
+}

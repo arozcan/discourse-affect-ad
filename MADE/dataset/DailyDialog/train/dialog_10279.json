@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10279",
+  "segments": [
+    {
+      "text": "Good evening , may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I want to reserve a table for two this evening .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry , madam . All the tables are booked now .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well . In that case , we will have to go to another restaurant . Thank you all the same .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "monologue_9378",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the open cabinets and that big cookie jar full of goodies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.48132026195526123
+    },
+    {
+      "text": "The boy's stretching so high on that little stool to get them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5084729790687561
+    },
+    {
+      "text": "He's got a plate in one hand, probably to hold the cookies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9013336300849915
+    },
+    {
+      "text": "The girl below him looks so excited, palm up for her cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7674301862716675
+    },
+    {
+      "text": "It's sweet how they're sharing this little adventure.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9259711503982544
+    },
+    {
+      "text": "But the stool's tilting back, and it makes me nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9702091813087463
+    },
+    {
+      "text": "He could fall and hurt himself badly on that hard floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6061939001083374
+    },
+    {
+      "text": "Over by the sink, the water's just gushing out uncontrollably.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.85432368516922
+    },
+    {
+      "text": "The woman's drying dishes like nothing's happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5621849298477173
+    },
+    {
+      "text": "Her apron's probably getting soaked from the splashes.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5583412647247314
+    },
+    {
+      "text": "The puddle's spreading, making everything slippery.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.40061652660369873
+    },
+    {
+      "text": "I hope she turns around before it's too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5034580230712891
+    },
+    {
+      "text": "This kitchen's turning into a disaster zone.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5422680377960205
+    },
+    {
+      "text": "It's a shame such a nice place is facing this chaos.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8819629549980164
+    }
+  ]
+}

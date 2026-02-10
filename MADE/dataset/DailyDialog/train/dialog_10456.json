@@ -1,0 +1,75 @@
+{
+  "id": "dialog_10456",
+  "segments": [
+    {
+      "text": "Hello miss . Can I see your ticket number ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , here you are . And here are my application forms as well .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thank you miss ... Wang . I'm Bob Jones and I'll be handling your application .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Nice to meet you Mr . Jones .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "The first step is to determine your eligibility for a U . S . visa . Let's see here ... you're applying for a special business visa . Why is that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , my first order of business will be attending a conference in Seattle , but after that I intend to spend two weeks visiting my friends . I assumed a business visa would be required .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I think a regular visitor's visa should suffice . With this visa , you can stay in the United States for up to 90 days .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "So I can attend conferences and do business on that visa ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . You are free to do temporary business with this visa . If you were planning on setting up a new business in the U . S . you might need to apply for a long-term visa .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I see . I think 90 days is more than enough time .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

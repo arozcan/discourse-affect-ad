@@ -1,0 +1,82 @@
+{
+  "id": "dialog_141",
+  "segments": [
+    {
+      "text": "How do you do ? Nice to meet you , Diane .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "How do you do , Jack . Nice to meet you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I think you ' Ve reconsidered our proposal , Diane .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , you are right . After all , the quality of your air conditioners is good . The only problem is price .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I should not be surprised , many customers have the same opinion . Do you have any suggestion in mind ? Our salesman told your secretary that the price could be negotiable .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's why I came to your office today . We think for your model WE - 506 $ 590 would be reasonable , because air conditioners of the same kind sold by other companies are usually about 579-649 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's true . But if you understand that quality is the most important aspect of a product , you'll agree that 679 is not high , especially when we allow you a 10 % discount .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see your point . That's to say s 611 each set . Still it's much higher than the market price . Could you see your way to reduce the price , Jack ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , considering the quantity of your order we could further reduce the price to 600 . That's the best we can do . What do you think of that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . We accept it . So $ 600 for each set .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "Very well . Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

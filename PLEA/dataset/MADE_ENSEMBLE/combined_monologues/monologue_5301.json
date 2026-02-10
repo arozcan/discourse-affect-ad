@@ -1,0 +1,62 @@
+{
+  "id": "monologue_5301",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I think the woman is completely absorbed in her task, not noticing anything around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7849138975143433
+    },
+    {
+      "text": "The water is overflowing, and her foot is already wet, but she doesn’t react.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47380101680755615
+    },
+    {
+      "text": "The children are sneaking cookies, and she has no idea what’s happening.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.33211180567741394
+    },
+    {
+      "text": "The boy is standing on a wobbly stool, reaching for the cookie jar.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9310637712478638
+    },
+    {
+      "text": "His sister is right there, waiting for him to share the cookies with her.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.650540828704834
+    },
+    {
+      "text": "The stool looks like it’s about to tip, and the floor is getting slippery.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.39982619881629944
+    },
+    {
+      "text": "I hope they all get out of this without getting hurt.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5100886225700378
+    },
+    {
+      "text": "This is one of those moments where everything could go wrong in an instant.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4444340467453003
+    }
+  ]
+}

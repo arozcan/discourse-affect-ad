@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the joy on the children’s faces as they plot their little heist, and it makes me chuckle.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9622761011123657
+    },
+    {
+      "text": "However, the sight of that overflowing sink sends a wave of frustration over me.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6671242117881775
+    },
+    {
+      "text": "Why can't the woman notice? How can she be so absorbed in dishwashing?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47441598773002625
+    },
+    {
+      "text": "I feel a strange sense of nostalgia watching the boy reach for the cookie jar; it reminds me of my own childhood.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.31717440485954285
+    },
+    {
+      "text": "But layered beneath that nostalgia is a rising worry; the stool looks too wobbly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7890526056289673
+    },
+    {
+      "text": "The girl’s excitement is infectious, yet I can’t help but feel disgusted by the whole charade.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7519693970680237
+    },
+    {
+      "text": "It’s a simple kitchen moment, but it holds the possibility for disaster, and that’s what haunts me.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4140249192714691
+    }
+  ]
+}

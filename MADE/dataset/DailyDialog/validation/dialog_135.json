@@ -1,0 +1,47 @@
+{
+  "id": "dialog_135",
+  "segments": [
+    {
+      "text": "Welcome to IBA . Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , please . I'm here for an International Settlement . Our company has to effect payment , and it needs to be done today . Here's the advice slip for the payment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks . I'm sorry to say that you need to get this stamped . There is no stamp on this slip and it is essential before I can process it for you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see . So , I need to stamp it . And sign it too ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , that's right . Down here , at the bottom right hand corner to show that you agree to pay the printed amount .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'll go back to the office and get it sorted and pop back later . Thanks , bye for now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

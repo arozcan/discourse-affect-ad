@@ -1,0 +1,110 @@
+{
+  "id": "dialog_3688",
+  "segments": [
+    {
+      "text": "Hello Mike ! Would you like a drink ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , thank you . I had too much to drink yesterday evening . I had a bad hangover this morning . My head felt terrible .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Were you celebrating something ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . It was a friend ’ s birthday party . We drank all kinds of things-beer , wine and spirits . After midnight , we were even drinking cocktails !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "It ’ s a bad idea to drink a combination of alcoholic drinks . You should stick with one for the whole evening .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know , but it was a celebration , you Kwon ? I don ’ t think I ’ Ve see you drunk .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I usually only drink beer and I rarely drink more than a few pints .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "You are a sensible drinker . Anyway , I ’ m not going to drink any alcohol this evening . I don ’ t ’ want another bad hangover .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me buy you a soft drink then . How about a coke ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah . That ’ s a good idea . I heard that coke was first used as a medicine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "Rally ? ... barman ! ... a large coke with ice and lemon , please ... thanks . Here ’ s the money .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "Are you going to the wine tasting tomorrow ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I thought it might be interesting to learn a little about wine ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "... and taste a few ! There will be wines from several countries and an expert to give advice on which wines are good and which ones are not .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes . I ’ m looking forward to it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 1
+    }
+  ]
+}

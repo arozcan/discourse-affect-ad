@@ -1,0 +1,61 @@
+{
+  "id": "dialog_7859",
+  "segments": [
+    {
+      "text": "What's for dinner ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Leftovers .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ? Leftovers of what and from when ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "From last night ! I took the left over turkey , mixed it with some diced peppers and onions , added a little bit of mayonnaise and made some sandwiches !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Isn't that dangerous though ? I mean bacteria and germs reproducing on food that was left out or re-heated ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I didn't leave the turkey out at room temperature for more than a an hour and I refrigerated it soon after we finished eating . Also , when reheating , I put it in the oven for fifteen minutes at one hundred degrees Celsius .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well OK , I am just afraid of getting food poisoning .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don't worry about it ! Making a new meal out of leftovers is almost an art ! Not only do you save money , but you also get to be creative and have something different to eat !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 3
+    }
+  ]
+}

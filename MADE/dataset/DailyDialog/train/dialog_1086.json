@@ -1,0 +1,40 @@
+{
+  "id": "dialog_1086",
+  "segments": [
+    {
+      "text": "Do you have a park in the city ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , there is a lake in the park . It is very beautiful .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s great . We can go boating on the lake in the afternoon .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "It ’ s a good idea . But I am afraid it ’ s too cold . It is very windy on the lake .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Then we can take a walk and enjoy the scenery in the park .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

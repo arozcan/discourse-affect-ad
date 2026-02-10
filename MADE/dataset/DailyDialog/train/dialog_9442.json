@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9442",
+  "segments": [
+    {
+      "text": "Are you familiar with American-styled accounting ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am afraid not . I haven't worked in an American company so far .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What are the most fundamental concepts underlying the accounting process ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "The first is accounting entity , and the second is going concern . The third is measuring unit . The fourth is accounting period , and the fifth is objectivity .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

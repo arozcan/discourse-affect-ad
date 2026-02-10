@@ -1,0 +1,68 @@
+{
+  "id": "dialog_105",
+  "segments": [
+    {
+      "text": "Hi , Francis , how was your business trip ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It was a nightmare .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ’ s up ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Actually , the business trip itself was very successful . We arrived on time , we had nice conversations and we settled some important issues for the next year .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sounds quite fruitful , why do you call it still a nightmare then ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , the air line lost my luggage on the return flight and then I lost my carry on bag when I was tackling with the officers in charge . I left the airport three hours later than I expected and then I was caught in a traffic jam . When I finally got home , I was totally exhausted . But I found the elevator was out of service due to a blackout .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "This is really a sad story . Did they trace back your luggage ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am still waiting for their call .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Take it easy , all sufferings have their reward .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    }
+  ]
+}

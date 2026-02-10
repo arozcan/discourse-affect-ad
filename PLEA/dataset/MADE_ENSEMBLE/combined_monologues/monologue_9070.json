@@ -1,0 +1,97 @@
+{
+  "id": "monologue_9070",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking into this kitchen, I notice the woman polishing her plate so diligently.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5844346284866333
+    },
+    {
+      "text": "She's wearing an apron and dress, looking every bit the busy homemaker.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7179683446884155
+    },
+    {
+      "text": "But oh no, the sink is overflowing right in front of her.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6077893972396851
+    },
+    {
+      "text": "Water is cascading down onto the cabinets and floor like a waterfall.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4960842430591583
+    },
+    {
+      "text": "She has no idea, her back is turned slightly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6051160097122192
+    },
+    {
+      "text": "The children are up to mischief behind her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9040088057518005
+    },
+    {
+      "text": "The boy is on that wobbly stool, reaching into the open cabinet.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.952853262424469
+    },
+    {
+      "text": "It's tilting backward, he could fall any second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4601174294948578
+    },
+    {
+      "text": "The girl is standing there, hand out, waiting for a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6849982142448425
+    },
+    {
+      "text": "They're sneaking treats without mom knowing.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5775830149650574
+    },
+    {
+      "text": "The window shows a calm garden, what a contrast to this chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6148605346679688
+    },
+    {
+      "text": "I hope someone turns off that faucet before it's too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5024067163467407
+    },
+    {
+      "text": "This whole scene is just asking for trouble.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.39307302236557007
+    }
+  ]
+}

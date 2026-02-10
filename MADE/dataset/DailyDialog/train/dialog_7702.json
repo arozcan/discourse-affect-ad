@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7702",
+  "segments": [
+    {
+      "text": "I ’ d like to talk to you for a second , please .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Okay , Mark , What ’ s up ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ d like to know why you ’ re always taking credit for work we ’ Ve done together like that line in the new Ice Cream ad ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "That was my line , Mark . I know we worked on the ad together , but that was definitely my line .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

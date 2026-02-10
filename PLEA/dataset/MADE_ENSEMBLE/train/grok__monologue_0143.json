@@ -1,0 +1,90 @@
+{
+  "id": "monologue_0143",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I see this cozy kitchen with sunlight streaming in from the window.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6128057241439819
+    },
+    {
+      "text": "There's a woman standing by the sink, carefully drying a plate with a towel.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9224752187728882
+    },
+    {
+      "text": "She looks so focused on that dish, not noticing anything else around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6370165348052979
+    },
+    {
+      "text": "But oh no, the sink is overflowing with water pouring out everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4394225478172302
+    },
+    {
+      "text": "The puddle is spreading across the floor, right at her feet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8070149421691895
+    },
+    {
+      "text": "She's got one foot in it already, and she doesn't even realize.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.360464483499527
+    },
+    {
+      "text": "I think she's going to slip any second now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4561529755592346
+    },
+    {
+      "text": "Over to the side, there's a boy climbing on a wobbly stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9208801984786987
+    },
+    {
+      "text": "He's reaching into the cookie jar in the open cabinet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9312725067138672
+    },
+    {
+      "text": "A little girl is standing there, holding out her hand for a cookie too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.48856353759765625
+    },
+    {
+      "text": "The stool looks like it's about to tip over backward.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5903818011283875
+    },
+    {
+      "text": "This whole scene is just waiting for disaster to strike.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47241589426994324
+    }
+  ]
+}

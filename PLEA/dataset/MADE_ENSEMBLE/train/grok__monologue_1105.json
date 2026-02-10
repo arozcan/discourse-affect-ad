@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1105",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "It's heartbreaking to see this family moment turning risky.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9410766363143921
+    },
+    {
+      "text": "The woman looks so content drying her dishes, unaware of the trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.33079564571380615
+    },
+    {
+      "text": "Water's spilling over the sink, making a sad puddle on the floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6825200915336609
+    },
+    {
+      "text": "Her foot's in it, and she might slip and get hurt.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.41398999094963074
+    },
+    {
+      "text": "The boy reaching for cookies on that unstable stool—it tugs at my heart.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.366059809923172
+    },
+    {
+      "text": "He could tumble down, and that would be awful.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6570180654525757
+    },
+    {
+      "text": "The girl's waiting eagerly, but this mischief might end in tears.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.25289812684059143
+    },
+    {
+      "text": "The open window shows a beautiful garden, but inside it's all wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.28103622794151306
+    },
+    {
+      "text": "I feel sorry for the potential mess and accidents ahead.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9410562515258789
+    },
+    {
+      "text": "Dishes stacked nearby could crash if someone falls.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7045226097106934
+    },
+    {
+      "text": "The cookie jar's open, tempting the kids into danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4357784688472748
+    },
+    {
+      "text": "Why can't they just enjoy the day without this worry?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5051378607749939
+    }
+  ]
+}

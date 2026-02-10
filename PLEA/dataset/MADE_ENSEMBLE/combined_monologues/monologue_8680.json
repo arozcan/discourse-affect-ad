@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8680",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this scene, the woman's apron and dress make it feel so homey.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8726136684417725
+    },
+    {
+      "text": "She's polishing that plate like it's the most important thing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4317464828491211
+    },
+    {
+      "text": "But the sink is flooding; water's cascading down the cabinets.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4064767360687256
+    },
+    {
+      "text": "How can she not hear it or feel the wet floor?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5053021311759949
+    },
+    {
+      "text": "One of her feet is already in the puddle—slippery danger right there.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45843249559402466
+    },
+    {
+      "text": "Now, the kids: that boy on the wobbly stool is asking for trouble.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6878297924995422
+    },
+    {
+      "text": "He's got his hand in the cookie jar, grabbing treats.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5272567868232727
+    },
+    {
+      "text": "The girl's reaching up, excited for her share.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8118237257003784
+    },
+    {
+      "text": "It's cute how they're teaming up, but so risky.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8557361364364624
+    },
+    {
+      "text": "The open window lets in light, showing the neat yard outside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8531507253646851
+    },
+    {
+      "text": "This whole thing could end in tears if that stool tips.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4929499924182892
+    },
+    {
+      "text": "I just wish the mom would turn around and stop this mess.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4963610768318176
+    },
+    {
+      "text": "Cookies everywhere if they fall— what a waste.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5702800154685974
+    }
+  ]
+}

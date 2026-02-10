@@ -1,0 +1,61 @@
+{
+  "id": "dialog_9281",
+  "segments": [
+    {
+      "text": "Excuse me , can you help me figure out how to get to the Wudaokou subway station from here ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure ... first you're going to have to buy a ticket to ride on the subway . The Wudaokou station is on the lightrail , so you'll have to transfer . Be sure you buy a combination ticket for the regular subway and the lightrail . It should cost you 5 yuan .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "An after I buy the ticket , where should I go ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can take the red line train from here , but you'll have to transfer to the blue line at Fuxingmen transfer station . After you transfer , take the blue line that is heading north towards Fuchengmen .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "So I transfer from red to blue , then how long do I ride the blue ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "You'll take the blue line until you reach Xizhimen . That's a big station , so there will likely be a lot of people getting off at that stop . You can transfer to the lightrail there , you'll have to exit the subway and present the unused portion of your combination ticket to the Ticketmaster , they'll give you a new ticket to use on the lightrail system .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "It sounds so complicated !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , not the really , don't worry about it , like I said there'll be a lot of people there doing the same thing that you are doing , so just follow the crowd , There's only one direction to go , so you won't get on the wrong train . Head north on the Yellow line , and you'll see Wudaokou in just a couple of stops .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

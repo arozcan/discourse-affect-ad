@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8640",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen, I feel a wave of worry wash over me.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4210069179534912
+    },
+    {
+      "text": "The woman is so engrossed in her task, drying that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7270236015319824
+    },
+    {
+      "text": "But the overflow from the sink is creating such a sad mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9073507785797119
+    },
+    {
+      "text": "Water ruining the cabinets and floor—it breaks my heart.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9749075174331665
+    },
+    {
+      "text": "She's unaware, standing in it, and it just feels tragic.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8281630277633667
+    },
+    {
+      "text": "The boy on the stool looks so vulnerable up there.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3692867159843445
+    },
+    {
+      "text": "If he falls while grabbing those cookies, it'll be devastating.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5062464475631714
+    },
+    {
+      "text": "The girl waiting eagerly adds to the poignant scene.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5512336492538452
+    },
+    {
+      "text": "Their innocent fun in the midst of potential disaster.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6135977506637573
+    },
+    {
+      "text": "The peaceful garden outside highlights the sorrow inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5122666358947754
+    },
+    {
+      "text": "I wish I could warn them to prevent the heartache.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.47569048404693604
+    },
+    {
+      "text": "This unnoticed chaos could lead to real tears soon.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4563928246498108
+    }
+  ]
+}

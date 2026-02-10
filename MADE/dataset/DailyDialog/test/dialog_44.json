@@ -1,0 +1,33 @@
+{
+  "id": "dialog_44",
+  "segments": [
+    {
+      "text": "By the way miss , where is the toilet ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Toilets are in the rear , I am afraid all the toilets are fully occupied at the moment .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ? Oh , what we live ! Thank you very much for your help , miss .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You are welcome .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

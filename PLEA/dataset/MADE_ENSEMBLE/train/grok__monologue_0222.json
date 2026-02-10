@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0222",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the warm light from the window over the sink.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6830608248710632
+    },
+    {
+      "text": "The woman's in her apron, drying dishes meticulously.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8636777400970459
+    },
+    {
+      "text": "Suddenly, I see the faucet still running, water spilling over.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5034810304641724
+    },
+    {
+      "text": "It's forming a huge puddle on the floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5457382798194885
+    },
+    {
+      "text": "She's not reacting at all, just keeps wiping that plate.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7719376087188721
+    },
+    {
+      "text": "Over on the left, the cookie jar is tempting the kids.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8916693329811096
+    },
+    {
+      "text": "The boy is on that unstable stool, reaching in.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8608850240707397
+    },
+    {
+      "text": "It looks so precarious, like it might collapse.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6580332517623901
+    },
+    {
+      "text": "The girl stands below, ready to catch a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8795788288116455
+    },
+    {
+      "text": "Their little adventure seems fun, but risky.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5360532402992249
+    },
+    {
+      "text": "I feel bad thinking about a possible fall.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4916452169418335
+    },
+    {
+      "text": "The dishes stacked nearby could get knocked over too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.718260645866394
+    },
+    {
+      "text": "This whole scene is a disaster waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.26864907145500183
+    },
+    {
+      "text": "The tidy garden outside makes the inside look even messier.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4867740571498871
+    }
+  ]
+}

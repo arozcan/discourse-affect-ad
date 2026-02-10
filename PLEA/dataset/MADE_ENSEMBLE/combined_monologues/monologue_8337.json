@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8337",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Oh no, look at that sink overflowing with water.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7845512628555298
+    },
+    {
+      "text": "The faucet is still running, and the basin is full to the brim.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8037519454956055
+    },
+    {
+      "text": "Water is cascading down onto the cabinets and pooling on the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6025944352149963
+    },
+    {
+      "text": "The woman drying the plate has no idea her feet are getting wet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.34442147612571716
+    },
+    {
+      "text": "She could slip any moment on that slick surface.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4570256173610687
+    },
+    {
+      "text": "Now, turning to the kids, that boy is on a stool that's tilting backward.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9045925736427307
+    },
+    {
+      "text": "He's stretching up to grab cookies from the high jar.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9074280261993408
+    },
+    {
+      "text": "If it tips, he'll fall and get hurt badly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5612751245498657
+    },
+    {
+      "text": "The girl is reaching up too, waiting eagerly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5519536733627319
+    },
+    {
+      "text": "They're both so focused on the cookies, ignoring the danger.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5632233619689941
+    },
+    {
+      "text": "The open window shows a calm garden, but inside it's chaos waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6309617161750793
+    },
+    {
+      "text": "I hope someone notices before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49797335267066956
+    }
+  ]
+}

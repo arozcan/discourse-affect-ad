@@ -1,0 +1,83 @@
+{
+  "id": "monologue_8657",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "The kitchen looks busy with the sink running full blast.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8194419145584106
+    },
+    {
+      "text": "Water overflows steadily onto the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7062618732452393
+    },
+    {
+      "text": "The woman stands there, polishing her plate intently.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7543718814849854
+    },
+    {
+      "text": "She's wearing a dress and apron, very domestic.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6353194713592529
+    },
+    {
+      "text": "Behind her, the boy is on a stool reaching high.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9366202354431152
+    },
+    {
+      "text": "He's got one hand in the cookie jar.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5068440437316895
+    },
+    {
+      "text": "The girl is helping by waiting with her hand out.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6081313490867615
+    },
+    {
+      "text": "The stool looks like it might give way any second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4566837549209595
+    },
+    {
+      "text": "Outside, the garden is neat with bushes and a fence.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8230106830596924
+    },
+    {
+      "text": "It's a contrast to the mess inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.37123632431030273
+    },
+    {
+      "text": "I think the children are being naughty, but cute.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9296740889549255
+    }
+  ]
+}

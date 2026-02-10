@@ -1,0 +1,26 @@
+{
+  "id": "dialog_6971",
+  "segments": [
+    {
+      "text": "Hello . miss . I am wondering if there is a meal served on this flight .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , it's a short distance flight , so we don't serve meals . But there are some drinks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I would like a glass of warm water .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    }
+  ]
+}

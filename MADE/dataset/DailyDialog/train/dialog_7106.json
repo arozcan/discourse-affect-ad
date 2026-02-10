@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7106",
+  "segments": [
+    {
+      "text": "Excuse me , sir . I can't find my baggage . Here is my claim tag .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Don't worry , madam . Can you make a description of your baggage ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "One is a small-size Nike in red and the other is a big one in black . The two are tied together .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK . We will make an announcement for you . Please leave your telephone number , we will call your as soon as we have your baggage .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

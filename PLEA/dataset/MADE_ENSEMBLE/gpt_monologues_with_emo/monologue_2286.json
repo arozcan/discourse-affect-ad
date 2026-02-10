@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2286",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice the girl standing patiently, her hand raised and open, waiting for a cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.782670259475708
+    },
+    {
+      "text": "She looks so eager, it’s almost contagious, and I find myself smiling at her enthusiasm.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9661009311676025
+    },
+    {
+      "text": "But then I glance back at the boy, and my heart drops a little.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.3666418492794037
+    },
+    {
+      "text": "He looks so unsteady on that stool; it scares me to think of him falling.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8790581226348877
+    },
+    {
+      "text": "I can’t shake the feeling that the woman should be aware of all this chaos.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4754607677459717
+    },
+    {
+      "text": "Her calm demeanor feels misplaced amidst the impending disaster unfolding behind her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40122830867767334
+    },
+    {
+      "text": "It’s a strange juxtaposition, this idyllic garden outside and the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.25623220205307007
+    }
+  ]
+}

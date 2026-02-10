@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2168",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see this kitchen filled with the warmth of the day, sunlight spilling through the window.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5759002566337585
+    },
+    {
+      "text": "Yet, I feel a pang of anxiety as I notice the water overflowing from the sink, pooling steadily on the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8928247094154358
+    },
+    {
+      "text": "The woman seems so absorbed in her task, polishing that plate as if nothing else exists.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.561164140701294
+    },
+    {
+      "text": "The children, they have such mischievous glints in their eyes, aware of the chaos they are about to cause.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.519737958908081
+    },
+    {
+      "text": "I watch the boy balance precariously on that stool, and I can't help but feel my heart race with dread.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8031072616577148
+    },
+    {
+      "text": "The girl’s eager posture, arm outstretched toward the cookie jar, makes me smile fleetingly.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5548753142356873
+    },
+    {
+      "text": "Still, I shake my head at the carelessness of it all; the mess that’s about to unfold is almost unbearable.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4769621789455414
+    }
+  ]
+}

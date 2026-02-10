@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1383",
+  "segments": [
+    {
+      "text": "Flight BE407 to Rome is delayed . Will passengers please wait in the lounge .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , How annoying !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "The time of departure will be announced as soon as possible .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "It ’ s infuriating . I have to be in Rome by five .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

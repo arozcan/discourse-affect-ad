@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8868",
+  "segments": [
+    {
+      "text": "Excuse me . Is flight KL638 late ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I think so.Flight KL638 is still at the airport due to the hurricane .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , my god . If this flight is late . I will for Sydney.What can I do now ?",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well if so.you should contact with the office over there.Maybe they will do you some help .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK.thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

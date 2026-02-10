@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8371",
+  "segments": [
+    {
+      "text": "Thank you for your application , Mr . Sweeney . Mr . Jacobs would like to set up an interview for early next week . Do you have time ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , ma ’ am . I could come in any day next week , except for Friday morning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Fine . Let me take a look at his schedule . He ’ s free on Tuesday afternoon at 1:30 . Could you come in then ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes . That would be fine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

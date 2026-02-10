@@ -1,0 +1,61 @@
+{
+  "id": "dialog_9310",
+  "segments": [
+    {
+      "text": "Thank you for coming tonight , Mrs . Webber . As a teacher , it's great seeing the kid's parents assist our parent-teacher conference night .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Of course ! I am very interested to know how my child is doing and also get some insight from you as to how he can improve .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well Allen is a great student . He is a hard worker and very well behaved , however he does struggle a bit with math .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I guess he gets that from me , I never did well in math when I was a kid . What can I do at home to compliment what he is learning in the classroom .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , it's important that you sit with him and review his homework assignments and help him with math . I would also recommend he stay after school twice a week for tutoring sessions . It will really help a lot .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks a lot ! I will definitely do that . Is there anything else ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Um ... yes . Here is a notice from our financial department , seems your child's Tumion is overdue .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh yes , I ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

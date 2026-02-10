@@ -1,0 +1,61 @@
+{
+  "id": "dialog_10047",
+  "segments": [
+    {
+      "text": "Hello , thanks for calling 123 Tech Help , I ’ m Todd . How can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello ? Can you help me ? My computer ! Oh man ...",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "It ’ s okay sir , calm down . What happened ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I turned on my laptop and it broke ! I mean , the monitor went black !",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok , sir , it sounds like you might have a virus .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "I don ’ t feel sick , ... let me check ... Nope ! No fever , I ’ m fine .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , your computer might have a virus , I mean , it has a bad program on it . Maybe that ’ s why it crashed . I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Phew ! . . . Wait a minute , CRASH ? ? ! ! Spyware ? Trojans ! What ? where ? when ? !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

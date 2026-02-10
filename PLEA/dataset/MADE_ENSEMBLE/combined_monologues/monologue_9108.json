@@ -1,0 +1,104 @@
+{
+  "id": "monologue_9108",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I observe the kitchen from this angle, seeing the sink area first.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9004029035568237
+    },
+    {
+      "text": "The faucet is running full blast, overflowing the basin.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7270573377609253
+    },
+    {
+      "text": "Water cascades down like a waterfall onto the cabinet doors.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.592926025390625
+    },
+    {
+      "text": "The woman dries her dish, not even glancing at the mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5823670625686646
+    },
+    {
+      "text": "Her dress might get soaked if she steps back.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7766088247299194
+    },
+    {
+      "text": "Piles of clean dishes sit nearby, safe for now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.819596529006958
+    },
+    {
+      "text": "To the side, the boy balances precariously on the stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9124869108200073
+    },
+    {
+      "text": "He's got one hand in the cookie jar, pulling out goodies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5463157892227173
+    },
+    {
+      "text": "The girl watches him, her arm extended in anticipation.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8355283141136169
+    },
+    {
+      "text": "That stool is tilting; it's going to give way soon.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.48463955521583557
+    },
+    {
+      "text": "The floor is slippery from the spill; anyone could fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4722154140472412
+    },
+    {
+      "text": "Outside the window, the garden looks inviting and serene.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.499094694852829
+    },
+    {
+      "text": "It's sad how the inside chaos goes unnoticed.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9394080638885498
+    },
+    {
+      "text": "I wish I could warn them before something breaks.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4935005009174347
+    }
+  ]
+}

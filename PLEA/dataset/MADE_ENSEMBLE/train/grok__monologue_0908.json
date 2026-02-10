@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0908",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Entering this view of the kitchen, I can't help but cringe.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5008711814880371
+    },
+    {
+      "text": "The sink is spewing water like a broken fountain.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.547537088394165
+    },
+    {
+      "text": "It's drenching the cabinets and pooling on the floor—nasty.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9106128215789795
+    },
+    {
+      "text": "The woman stands there, foot in the mess, polishing away.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5040711164474487
+    },
+    {
+      "text": "Doesn't she smell the dampness or feel the wet?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4027661085128784
+    },
+    {
+      "text": "Now the kids—climbing on that flimsy stool.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47441259026527405
+    },
+    {
+      "text": "The boy's grabbing cookies, making crumbs everywhere probably.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7221316695213318
+    },
+    {
+      "text": "The girl's just waiting, but the whole thing is precarious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8576627969741821
+    },
+    {
+      "text": "I hate seeing potential slips and falls in a wet kitchen.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5294002890586853
+    },
+    {
+      "text": "The open window shows a clean garden—why can't inside be like that?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.40770143270492554
+    },
+    {
+      "text": "This negligence is infuriating; turn off the water already!",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9686673879623413
+    },
+    {
+      "text": "The cookies might be stale from all this humidity.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6941808462142944
+    },
+    {
+      "text": "I feel queasy thinking about the cleanup ahead.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5429354906082153
+    },
+    {
+      "text": "Someone has to intervene before it gets worse.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5194366574287415
+    }
+  ]
+}

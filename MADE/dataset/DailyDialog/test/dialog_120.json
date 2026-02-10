@@ -1,0 +1,33 @@
+{
+  "id": "dialog_120",
+  "segments": [
+    {
+      "text": "I wonder if I can see your mother , little boy . Is she engaged ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Engaged ? She ’ s married .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Johnny , I wish you ’ d stop reaching for things . Haven ’ t you a tongue ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , Mother , but my arm is longer .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

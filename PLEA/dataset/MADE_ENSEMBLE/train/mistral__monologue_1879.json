@@ -1,0 +1,76 @@
+{
+  "id": "monologue_1879",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the open window above the sink, letting in a calm breeze.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8593629598617554
+    },
+    {
+      "text": "The garden outside looks so peaceful and tidy, a stark contrast to the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5141044855117798
+    },
+    {
+      "text": "I feel a bit disgusted by the mess inside, with the water overflowing and the children making a ruckus.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9476300477981567
+    },
+    {
+      "text": "The woman at the sink seems to be in her own little world, not noticing any of it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8235853910446167
+    },
+    {
+      "text": "I wonder if she ever looks out that window, enjoying the view of her garden.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.467650443315506
+    },
+    {
+      "text": "The boy on the stool is making me nervous, he looks like he's about to fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.943752646446228
+    },
+    {
+      "text": "The girl next to him seems to be encouraging his risky behavior, which is not helpful.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4689553678035736
+    },
+    {
+      "text": "I hope the woman turns around soon, before something bad happens.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5005410313606262
+    },
+    {
+      "text": "The whole scene is just a bit too chaotic for my liking.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.693966269493103
+    },
+    {
+      "text": "I think I'd prefer to be outside in that garden, enjoying the calm and quiet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5752842426300049
+    }
+  ]
+}

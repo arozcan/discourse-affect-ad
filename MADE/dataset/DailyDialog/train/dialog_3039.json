@@ -1,0 +1,47 @@
+{
+  "id": "dialog_3039",
+  "segments": [
+    {
+      "text": "Are the galaxies in the universe moving through space ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , the galaxies sit more or less passively in the space around them . But not too much . As the space between galaxies expands , it carries the galaxies further apart - like raisins in an expanding dough .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "But I heard that our Milky way galaxy may one day collide with a neighboring galaxy . If galaxies are moving apart from each other , how can they collide ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , the universe is a chaotic place , and the gravity from one galaxy , or from a group of galaxies , may disturb the motion of its near neighbors , causing them to collide . However , on average , when you compare two large enough chunks of space , the galaxies in one are moving away from the galaxies in the other .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wow , you're really informative . Thanks a lot .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're welcome .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

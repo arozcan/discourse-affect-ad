@@ -1,0 +1,111 @@
+{
+  "id": "monologue_1021",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen view makes me uneasy right away.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.47510281205177307
+    },
+    {
+      "text": "The sink is overflowing uncontrollably, water everywhere on the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.37024980783462524
+    },
+    {
+      "text": "The woman stands there, one foot in the puddle, totally unaware.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.43316563963890076
+    },
+    {
+      "text": "She might slip and fall hard if she steps wrong.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5156376957893372
+    },
+    {
+      "text": "Then there's the boy on that unstable stool, tilting backward.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7402668595314026
+    },
+    {
+      "text": "He's reaching for cookies, but one wrong move and he'll tumble.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6150203943252563
+    },
+    {
+      "text": "The girl below him could get hurt too if he falls her way.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43850839138031006
+    },
+    {
+      "text": "The cookie jar is open, inviting this risky behavior.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5095363855361938
+    },
+    {
+      "text": "Water is damaging the cabinets, and the floor is getting slicker.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4609901010990143
+    },
+    {
+      "text": "Outside, the garden looks safe, but inside it's a hazard zone.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49983152747154236
+    },
+    {
+      "text": "I worry the woman won't turn around in time to save them.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7375184297561646
+    },
+    {
+      "text": "This could end in tears or a trip to the hospital.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4998015761375427
+    },
+    {
+      "text": "The stacked dishes might crash if anyone bumps into them.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.513948917388916
+    },
+    {
+      "text": "It's heartbreaking to watch potential tragedy unfold unnoticed.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.795599639415741
+    },
+    {
+      "text": "Please, someone intervene before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5016950368881226
+    }
+  ]
+}

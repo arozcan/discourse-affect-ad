@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5780",
+  "segments": [
+    {
+      "text": "ABC Company , my name is Lucy . How can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , Lucy , this is Monica . I ’ m calling for the accountant position . I saw the information about the vacancy on your company ’ s website . Is it still available ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Thank you for your interest . The position is still available . Have you already sent your CV to us ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , not yet . First , I want to check about the availability and see if you could give more information .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "It is quite urgent for us to fill this position now and I would like to stress that English is a must because of the international contacts and most likely traveling abroad very soon . If all these is not problem for you , I recommend you to mention these in your cover letter and send it to me directly .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "The notification period of my current job is not that long and I ’ m quite profession to English and I am happy with the traveling abroad as I ’ m good dealing with the people from other cultures . It makes the whole job even more interesting . I will send my resume to you still this week .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

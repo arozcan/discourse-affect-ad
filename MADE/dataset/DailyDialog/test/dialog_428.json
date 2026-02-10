@@ -1,0 +1,26 @@
+{
+  "id": "dialog_428",
+  "segments": [
+    {
+      "text": "Is it Fred's fault ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I don't suppose he's to blame.The man in the other car made a mistake .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "But he's equally responsible because he tried to overtake you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

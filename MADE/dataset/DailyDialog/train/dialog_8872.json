@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8872",
+  "segments": [
+    {
+      "text": "Well , what about this two-bedroom apartment ? The listing says it's right in the heart of the city , just steps from the metro .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Wow , that would be very convenient . How much is the rent ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It says it's $ 1600 . But if you share it with another person , that's only $ 800 per month .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That definitely sounds like a steal . I think that is a very trendy neighborhood as well .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's true . I know that there are lots of popular restaurants and coffee shops around there .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

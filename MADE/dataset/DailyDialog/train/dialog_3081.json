@@ -1,0 +1,26 @@
+{
+  "id": "dialog_3081",
+  "segments": [
+    {
+      "text": "Can you tell me the time ? I've got an appointment at 8: 30 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's 8 sharp by my watch .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Gee ! There's only thirty minutes to go .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

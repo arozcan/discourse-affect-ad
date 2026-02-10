@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5144",
+  "segments": [
+    {
+      "text": "Susan , Is the manager in this office ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . But he is meeting a client .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , that's too bad . I just got a phone call saying that my wife is now in the hospital . She is going to deliver a baby . I must take the day off to go to the hospital . May I talk to him to ask for leave ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am afraid not , but I think I could convey your leave to him after the client goes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , that's very kind of you . Thank you very much . I've got to go .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0599",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a little girl with her arm raised, eagerly waiting for a cookie from her brother.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7180050611495972
+    },
+    {
+      "text": "Her expression is one of pure anticipation, and it warms my heart to witness their sibling bond.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9244241714477539
+    },
+    {
+      "text": "But then I glance at the unstable stool, and my stomach drops with anxiety.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9426151514053345
+    },
+    {
+      "text": "What if he falls? What if she gets hurt too?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4739353656768799
+    },
+    {
+      "text": "I notice the water still gushing from the sink, creating a chaotic puddle that could easily cause someone to slip.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4258662462234497
+    },
+    {
+      "text": "The contrast of the serene garden view outside with the madness inside is jarring.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4595624804496765
+    },
+    {
+      "text": "I want to shout, to warn them, but I can't help but feel the sweetness of their innocent mischief.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5036804676055908
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "monologue_1857",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen feels a bit melancholic to me.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5047484636306763
+    },
+    {
+      "text": "The woman is so absorbed in her routine task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7392878532409668
+    },
+    {
+      "text": "But the overflowing water suggests something's going wrong.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4054301977157593
+    },
+    {
+      "text": "That puddle on the floor looks cold and unwelcoming.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.40171244740486145
+    },
+    {
+      "text": "She might slip and hurt herself any moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5977419018745422
+    },
+    {
+      "text": "The children are risking it all for a few cookies.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40945565700531006
+    },
+    {
+      "text": "The boy's precarious balance on the stool is heartbreaking.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6927177906036377
+    },
+    {
+      "text": "What if he falls and gets injured?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4934428632259369
+    },
+    {
+      "text": "The girl waits so expectantly, unaware of the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.33400315046310425
+    },
+    {
+      "text": "Their mischief might lead to tears soon enough.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43770939111709595
+    },
+    {
+      "text": "The calm garden outside contrasts with this impending sorrow.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7191708087921143
+    },
+    {
+      "text": "It's a reminder of how fragile these moments are.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5361654758453369
+    },
+    {
+      "text": "I wish I could warn them before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4893866777420044
+    }
+  ]
+}

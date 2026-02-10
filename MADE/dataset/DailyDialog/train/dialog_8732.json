@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8732",
+  "segments": [
+    {
+      "text": "How do I get to the post office from school ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Turn right outside the school ; go along until you come to the main road ; turn left ; go straight ahead , straight on at the roundabout , down the hill , and turn left at the bottom .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , I see . Thank you very much .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "You are welcome . Hope you can find it soon .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_7682",
+  "segments": [
+    {
+      "text": "Hello , Mr . Smith , I am returning to Shanghai by the 10:00 plane . I am calling to thank you for all your help during my stay here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don't mention it . It's been my pleasure .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Next time you are in Shanghai , please let me know , and let me be of some assistance to you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . I will .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Have a nice flight back , and take care . Thanks for your call .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

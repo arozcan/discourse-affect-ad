@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10623",
+  "segments": [
+    {
+      "text": "Here are the plans for the new finished goods warehouse . Do you have any thoughts or comments ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think the plans look good . There's just one thing though , I'm a bit concerned about the main lorry entrance . What's the height clearance ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let me check . It's 3.80 m .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you sure that's high enough ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's a good point . I'll make a note to increase it to 4.80 to make sure we can accept the new containers .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

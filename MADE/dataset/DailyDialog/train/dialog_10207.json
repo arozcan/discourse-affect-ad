@@ -1,0 +1,26 @@
+{
+  "id": "dialog_10207",
+  "segments": [
+    {
+      "text": "May I see you around 10 o'clock tomorrow morning , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly . Come to my office at ten ten . Be prompt , please . I've another appointment at 11 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Don't worry . I'll be there right on time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

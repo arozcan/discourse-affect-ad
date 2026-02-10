@@ -1,0 +1,6 @@
+source,path,monologues,utterances,mono_sent_mean,mono_sent_std,mono_sent_min,mono_sent_max,utt_words_mean,utt_words_std,utt_words_min,utt_words_max,pct_happy,pct_sad,pct_angry,pct_fearful,pct_disgusted,pct_surprised,pct_neutral
+genai_monologues_with_emo,dataset/MADE/genai_monologues_with_emo,2500,32891,13.1564,1.1202,10,15,11.0415,2.2023,3,23,8.1512,5.9196,6.1780,13.2407,4.1896,8.1116,54.2094
+gpt_monologues_with_emo,dataset/MADE/gpt_monologues_with_emo,2500,26024,10.4096,3.2481,7,16,14.1613,2.7658,4,28,17.8374,10.1868,8.8495,22.2026,3.0856,7.7966,30.0415
+grok_monologues_with_emo,dataset/MADE/grok_monologues_with_emo,2500,33364,13.3456,0.9424,11,15,9.4297,2.0373,2,20,12.3007,9.9748,9.0906,9.2885,10.1966,7.4002,41.7486
+mistral_monologues_with_emo,dataset/MADE/mistral_monologues_with_emo,2500,26150,10.4600,0.8255,7,14,13.3899,3.3482,4,38,12.0574,6.4168,8.2983,12.6386,6.6883,6.7151,47.1855
+OVERALL,-,10000,118429,11.8429,2.3088,7,16,11.7915,3.1935,2,38,12.3112,8.1095,8.0538,13.9636,6.1911,7.5336,43.8372

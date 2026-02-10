@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1492",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "What a disaster waiting to happen in this kitchen.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5197508335113525
+    },
+    {
+      "text": "The sink is overflowing, water everywhere like a waterfall.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41986414790153503
+    },
+    {
+      "text": "And the mom's just casually drying that plate, unaware.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7217305302619934
+    },
+    {
+      "text": "Her dress and apron are going to get soaked soon.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46314913034439087
+    },
+    {
+      "text": "The floor's slippery now with that puddle spreading.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49202626943588257
+    },
+    {
+      "text": "Over there, the kids are raiding the cookie jar.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8378381133079529
+    },
+    {
+      "text": "The boy's balanced on that flimsy stool, one wrong move and crash.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44637614488601685
+    },
+    {
+      "text": "He's holding a plate like he might drop everything.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7860082387924194
+    },
+    {
+      "text": "The girl looks excited, reaching up for her cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8679850101470947
+    },
+    {
+      "text": "But this mischief could lead to trouble.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.474319726228714
+    },
+    {
+      "text": "The garden view is nice, but inside it's a hazard zone.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4939459264278412
+    },
+    {
+      "text": "I feel bad for the water damage that's happening.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9814484119415283
+    }
+  ]
+}

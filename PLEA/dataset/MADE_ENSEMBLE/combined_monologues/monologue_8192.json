@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8192",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This is terrifying; the sink is flooding the whole area.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8814418911933899
+    },
+    {
+      "text": "Water's gushing out, and the woman's right in the middle.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6713116765022278
+    },
+    {
+      "text": "She's drying that plate without a clue.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44481009244918823
+    },
+    {
+      "text": "Her foot's wet already; she could slip any second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4639573097229004
+    },
+    {
+      "text": "The boy's on that stool—it's leaning back dangerously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3133147358894348
+    },
+    {
+      "text": "If it tips, he'll crash down onto the wet floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.44030559062957764
+    },
+    {
+      "text": "He's grabbing cookies like it's no big deal.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44825199246406555
+    },
+    {
+      "text": "The girl's reaching up, not even steadying him.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5025582313537598
+    },
+    {
+      "text": "What if they both fall and get hurt?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4905295968055725
+    },
+    {
+      "text": "The cabinets are getting soaked; damage everywhere.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.35332080721855164
+    },
+    {
+      "text": "Through the window, the garden seems so safe and far away.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6507466435432434
+    },
+    {
+      "text": "I feel my heart racing just watching this.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7485805749893188
+    }
+  ]
+}

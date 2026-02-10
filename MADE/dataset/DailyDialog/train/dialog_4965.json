@@ -1,0 +1,75 @@
+{
+  "id": "dialog_4965",
+  "segments": [
+    {
+      "text": "Good morning , Madam . Is everything OK ? Is there something I can assist you with ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Thank you , yes . I'm not sure how to use this ATM , I usually go to a clerk and use my Bank Book . But today , I thought I'd try something new . I want to take some money out .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Welcome to the electronic age ! I can run you through it ; it's what I'm here for .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thanks so much . Right , I've put my card in . What now ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just look at the screen here . It'll give you prompts , you see ? Now you need to enter your PIN number , then press ' enter ' to confirm it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Then it'll give me my money ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not right away , you need to decide what it is you want to do . The next thing is to select the service .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here we are ' withdrawal ' , so I just press here ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , then enter the amount you want .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , as simple as that ! I shall never wait for a real person again , these machines are wonderful .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "monologue_5470",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I notice the boy balancing on that stool, and it makes me nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5928699970245361
+    },
+    {
+      "text": "He’s stretching so far, and the stool looks like it’s about to tip.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42806512117385864
+    },
+    {
+      "text": "The girl is just standing there, waiting for a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5206885933876038
+    },
+    {
+      "text": "I think she knows it’s risky but doesn’t care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.733527421951294
+    },
+    {
+      "text": "The water is everywhere, and the woman is just drying dishes like nothing is wrong.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3517778217792511
+    },
+    {
+      "text": "I can’t look away from the boy—he’s going to fall!",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6049243807792664
+    },
+    {
+      "text": "The cookie jar is almost empty now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.859268307685852
+    },
+    {
+      "text": "I wonder if they’ll get caught before someone gets hurt.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47607600688934326
+    },
+    {
+      "text": "The whole kitchen is a mess, and no one is doing anything about it.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.775381326675415
+    },
+    {
+      "text": "I feel like I should say something, but it’s not my place.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.31203943490982056
+    }
+  ]
+}

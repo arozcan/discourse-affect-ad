@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0510",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water spilling everywhere, and it’s making me anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9399548768997192
+    },
+    {
+      "text": "The woman is standing in it like it’s nothing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4601152837276459
+    },
+    {
+      "text": "The kids are sneaking cookies, and I can’t help but smile at their mischief.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9252828359603882
+    },
+    {
+      "text": "The boy is so determined to get that cookie, even if it means risking a fall.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6651309728622437
+    },
+    {
+      "text": "The girl is just as guilty, waiting with her hand out.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.48350635170936584
+    },
+    {
+      "text": "I wonder if they’ve done this before and gotten away with it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47579190135002136
+    },
+    {
+      "text": "The woman is completely clueless, and it’s kind of funny.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7025747299194336
+    },
+    {
+      "text": "The whole scene is chaotic, but in a way that makes me laugh.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9428008794784546
+    },
+    {
+      "text": "I hope they don’t get caught, but I also hope no one gets hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4973922073841095
+    },
+    {
+      "text": "The water is going to cause a big mess if no one stops it soon.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.48676371574401855
+    }
+  ]
+}

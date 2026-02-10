@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9900",
+  "segments": [
+    {
+      "text": "Tomorrow is my day off . I wonder if it's convenient to change our appointment from tomorrow to next Wednesday , still at the same time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid I won't be free next week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "It's a shame.Will this afternoon be all right ? But I can only spare you an hour and a half today , from four o'clock .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's OK .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

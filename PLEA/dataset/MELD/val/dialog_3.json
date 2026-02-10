@@ -1,0 +1,38 @@
+{
+  "id": "dialog_3",
+  "segments": [
+    {
+      "text": "Okay, you guys free tonight?",
+      "speaker": "Gary",
+      "predicted_emotion": "neutral",
+      "sentiment": "neutral",
+      "utterance_id": 0,
+      "season": 5,
+      "episode": 20,
+      "start_time": "0:01:00,894",
+      "end_time": "0:01:02,271"
+    },
+    {
+      "text": "Yeah!!",
+      "speaker": "Ross",
+      "predicted_emotion": "happy",
+      "sentiment": "positive",
+      "utterance_id": 1,
+      "season": 5,
+      "episode": 20,
+      "start_time": "0:01:02,271",
+      "end_time": "0:01:03,961"
+    },
+    {
+      "text": "Tonight? You-you didn't say it was going to be at nighttime.",
+      "speaker": "Chandler",
+      "predicted_emotion": "surprised",
+      "sentiment": "negative",
+      "utterance_id": 2,
+      "season": 5,
+      "episode": 20,
+      "start_time": "00:01:04,731",
+      "end_time": "00:01:07,608"
+    }
+  ]
+}

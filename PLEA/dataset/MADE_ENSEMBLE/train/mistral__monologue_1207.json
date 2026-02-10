@@ -1,0 +1,83 @@
+{
+  "id": "monologue_1207",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing from the sink, and it's making me angry.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9705783128738403
+    },
+    {
+      "text": "How can the woman not notice the water spilling all over the floor?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4879494309425354
+    },
+    {
+      "text": "The puddle is getting bigger and bigger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6070553660392761
+    },
+    {
+      "text": "I notice the children are being sneaky, trying to get cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5294148325920105
+    },
+    {
+      "text": "The boy is standing on a wobbly stool; it's dangerous.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6100237369537354
+    },
+    {
+      "text": "I think the woman should pay more attention to what's happening around her.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4183224141597748
+    },
+    {
+      "text": "The kitchen is going to be a mess if this continues.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6867704391479492
+    },
+    {
+      "text": "I see the girl waiting for a cookie, looking so innocent.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6415302157402039
+    },
+    {
+      "text": "I wonder why the woman is so focused on that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5601316094398499
+    },
+    {
+      "text": "I think she should turn off the faucet before it's too late.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.60357666015625
+    },
+    {
+      "text": "I hope the children don't get into trouble for taking cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.519355058670044
+    }
+  ]
+}

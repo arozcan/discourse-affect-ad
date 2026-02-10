@@ -1,0 +1,26 @@
+{
+  "id": "dialog_3500",
+  "segments": [
+    {
+      "text": "What's the name of the singer who sings this song ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I can't remember .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's on the tip of my tongue . I think it starts with a ' B ' .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

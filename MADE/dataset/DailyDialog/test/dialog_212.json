@@ -1,0 +1,68 @@
+{
+  "id": "dialog_212",
+  "segments": [
+    {
+      "text": "Good morning , everyone . Let me introduce myself to you ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "You don't need to introduce yourself , Yang . You're famous .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , thank you very much but I thought l'd try and chair the meeting by the rule — at least for a while .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , OK !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Now , I'd like to get things under way . The main topic on today's agenda is the development of a U . S . sales strategy for the new EBB . I'd like to hear all of your ideas , Mr . Wall , you seem in top form today . Could you start the ball rolling ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Uh , oh , sure . Well , I think we should keep in mind that the key to good sales is advertising .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , that's kind of obvious .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Give me a break , Mr Yang .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Uh , let's keep this going , shall we ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    }
+  ]
+}

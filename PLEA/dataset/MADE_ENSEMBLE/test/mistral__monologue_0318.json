@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0318",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I can’t believe how calm the woman looks while the sink is overflowing right next to her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7321542501449585
+    },
+    {
+      "text": "She’s just standing there, drying that plate like it’s the only thing that matters.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.519446849822998
+    },
+    {
+      "text": "The water is pouring over the edge, and she doesn’t even flinch.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3957693576812744
+    },
+    {
+      "text": "I wonder if she’s ever going to notice the puddle at her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47049054503440857
+    },
+    {
+      "text": "The kids are being so sneaky behind her, and she has no idea.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3687998354434967
+    },
+    {
+      "text": "This is the kind of thing that makes me want to yell at the drawing.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.653141438961029
+    },
+    {
+      "text": "The stool is about to tip, and the floor is a slippery mess.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.45439228415489197
+    },
+    {
+      "text": "I feel like I’m watching a train wreck in slow motion.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.48426783084869385
+    },
+    {
+      "text": "The woman’s apron is going to be soaked any second now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4867226183414459
+    },
+    {
+      "text": "I can’t look away, even though I know it’s going to end badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.38779160380363464
+    }
+  ]
+}

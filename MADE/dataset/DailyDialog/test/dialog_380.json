@@ -1,0 +1,33 @@
+{
+  "id": "dialog_380",
+  "segments": [
+    {
+      "text": "Hello , Personal Banking . How may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi there . I'm calling about Personal Internet Banking , what details can you give me ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Personal Internet Banking is a self service financial service that is based on the Internet . It can be used by both businesses and individuals . We offer an online payment service , Personal Net Banking , which includes services such as account transfers , personal foreign exchange trading . You can also get account management services , online bill payment , for household bills like gas and electricity ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sounds good . At the moment I spend ages queuing at the post office to pay my bills .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

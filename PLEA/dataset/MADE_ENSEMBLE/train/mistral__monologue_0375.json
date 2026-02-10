@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0375",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "The water is just flowing over the edge, and no one is doing anything about it.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.542639970779419
+    },
+    {
+      "text": "The woman is standing in it, but she doesn’t even seem to feel it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41991814970970154
+    },
+    {
+      "text": "The boy is going to fall any second now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4072078466415405
+    },
+    {
+      "text": "The girl is just waiting for her cookie, completely unaware of the danger.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.37866055965423584
+    },
+    {
+      "text": "This whole scene is just chaotic.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6865778565406799
+    },
+    {
+      "text": "I can’t believe how calm everyone is.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9208098649978638
+    },
+    {
+      "text": "Someone is going to get hurt.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49312758445739746
+    }
+  ]
+}

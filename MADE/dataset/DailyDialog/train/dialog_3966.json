@@ -1,0 +1,40 @@
+{
+  "id": "dialog_3966",
+  "segments": [
+    {
+      "text": "Ernie , I'm really excited about starting this band together . We're going to be the two coolest students on campus .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know ! It's gonna be great . But what kind of music do you think we should play ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's a good question . You know I love hip hop , so maybe we can play some Vanilla Ice songs .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Hmm ... Vanilla Ice ? I know his most famous song , \" Ice Ice Baby , \" but I don't know his other songs .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's OK . You can buy his songs on iTunes and listen to them .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_2005",
+  "segments": [
+    {
+      "text": "Adam . I ’ m sorry .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Where have you been , Alice , you're over an hour late .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , But I couldn ’ t help it . I was late getting off work for a start and then I miss the bus . The bus I did catch that stuck in the traffic jam . It was one thing after another .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "why ere you getting off work so late ? The office close at six , doesn ’ t it ?",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . But those are the rush in that moment . And my boss ask me to do some urgent letters .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Didn ’ t you tell him you have an appointment ?",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , no . I thought I ‘ Ve finish in five minutes . and I didn ’ t want to be difficult about just few minutes , if I hadn ’ t been missing the bus and in the traffic I wouldn ’ t have been so late . I ’ m sorry .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well . You ’ re here .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0804",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I can’t believe how calm the woman looks while everything is falling apart around her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8886784315109253
+    },
+    {
+      "text": "She’s just drying that plate like it’s the most important thing in the world.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5380972027778625
+    },
+    {
+      "text": "The water is pouring out of the sink, and she doesn’t even flinch.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41070324182510376
+    },
+    {
+      "text": "I wonder if she’s just tired or completely oblivious.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4824313223361969
+    },
+    {
+      "text": "The kids are being so sneaky, and she has no clue.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.35766318440437317
+    },
+    {
+      "text": "I feel bad for her—she’s going to have a big mess to clean up later.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8433064222335815
+    },
+    {
+      "text": "I hope she turns around before someone gets hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5207997560501099
+    }
+  ]
+}

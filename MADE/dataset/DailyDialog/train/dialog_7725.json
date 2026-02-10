@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7725",
+  "segments": [
+    {
+      "text": "This is Manager Liang's office , what can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "This is Wang Miao from AB company speaking . Our CEO Mr . Green has an appointment with Mr . Liang tomorrow morning . But there is a minor change in tomorrow's schedule . Mr . Green has an abrupt urgent case tomorrow and he has to go abroad today . He wanted me to convey his apology to Mr . Wang .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK ! I'll tell him .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "And Mr . Green will make another appointment when Mr . Wang comes back .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok ! Thanks for calling .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Bye !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Bye !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

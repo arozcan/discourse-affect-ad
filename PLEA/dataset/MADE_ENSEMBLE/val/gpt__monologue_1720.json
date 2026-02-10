@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1720",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice how the kitchen feels like a bubble of normalcy, yet everything is about to burst.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49849358201026917
+    },
+    {
+      "text": "The woman seems so at peace with her task, her focus unwavering.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5109209418296814
+    },
+    {
+      "text": "But I can’t shake the feeling of impending disaster; the children are playing with fire.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.636626124382019
+    },
+    {
+      "text": "The boy, so determined, balances awkwardly on that stool, stretching for a cookie.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6325341463088989
+    },
+    {
+      "text": "I feel a mix of admiration and fear for him; he’s so brave yet so foolish.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5396761894226074
+    },
+    {
+      "text": "The girl’s hopeful expression contrasts sharply with the potential chaos.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.433069109916687
+    },
+    {
+      "text": "Will someone notice the water before it causes real trouble?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4464455842971802
+    }
+  ]
+}

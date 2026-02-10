@@ -1,0 +1,83 @@
+{
+  "id": "monologue_0411",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I notice the boy balancing on that wobbly stool, and it makes me nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6772074103355408
+    },
+    {
+      "text": "He’s stretching so far to reach the cookie jar, and the stool is already tilting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4642704725265503
+    },
+    {
+      "text": "I think he’s going to fall any second now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6355119347572327
+    },
+    {
+      "text": "The girl is just standing there, waiting for a cookie, like nothing bad could ever happen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46149498224258423
+    },
+    {
+      "text": "I can’t believe the woman hasn’t turned around yet.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9128351211547852
+    },
+    {
+      "text": "The water is just pouring over the sink, and she’s still drying that plate.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.48352155089378357
+    },
+    {
+      "text": "I feel like this is one of those moments where everything goes wrong at once.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6927692890167236
+    },
+    {
+      "text": "The boy’s plate is shaking in his hand, and I can see him losing balance.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.532222330570221
+    },
+    {
+      "text": "I wonder if the girl even realizes how dangerous this is.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5235480666160583
+    },
+    {
+      "text": "The whole scene is just a mess, and no one seems to care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5590633153915405
+    },
+    {
+      "text": "I think I’d be screaming if I were in that kitchen right now.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5149204730987549
+    }
+  ]
+}

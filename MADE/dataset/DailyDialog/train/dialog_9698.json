@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9698",
+  "segments": [
+    {
+      "text": "Hello , jewelry department . How may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's me , Ali . There's this strange guy who keeps coming around . He's been here three times this week .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "He's probably a pervert . Just ignore him .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "He makes me nervous . He looks at me funny . And he never buys anything !",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Maybe he wants to get something for his girlfriend , but he's embarrassed .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

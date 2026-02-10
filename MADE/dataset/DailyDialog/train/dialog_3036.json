@@ -1,0 +1,54 @@
+{
+  "id": "dialog_3036",
+  "segments": [
+    {
+      "text": "Hey Michelle . Good to see you . Are you at lunch ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh hi Jim . No I just got back . I thought you were on vacation now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , I wish I was ! I just got back from Spain actually .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh wonderful ! Have you been there before or was it your first time ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "My first time . I've traveled around Europe a lot , but this was my first time to Spain . It was amazing , and the weather was just beautiful ! No rain , and just sun , sun , sun ...",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm so jealous of you . I've never been anywhere in Europe . I've always dreamed of traveling around and seeing the sights .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I really recommend Spain . You really should go . Anyway , it's been great to catch up , but I must be going , this is my floor . Speak again soon I hope .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

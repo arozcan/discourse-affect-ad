@@ -1,0 +1,83 @@
+{
+  "id": "monologue_2001",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy stretching as high as he can to reach the cookie jar, he's really determined.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5261735320091248
+    },
+    {
+      "text": "He's standing on a stool that looks like it's about to tip over, that's dangerous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4521075189113617
+    },
+    {
+      "text": "I notice the girl standing nearby, looking up at him with her hand out, waiting for a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7698136568069458
+    },
+    {
+      "text": "I think they're trying to be quiet so the woman doesn't hear them, but they're not being very subtle.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7471033930778503
+    },
+    {
+      "text": "I wonder if they've done this before, they seem to know what they're doing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46997109055519104
+    },
+    {
+      "text": "The woman is just a few feet away, but she's completely unaware of what's going on.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5663026571273804
+    },
+    {
+      "text": "I see the stool wobbling as the boy tries to balance himself, he could really fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3963441252708435
+    },
+    {
+      "text": "I think they might be in trouble if the woman catches them, she might get angry.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.48401501774787903
+    },
+    {
+      "text": "I hope they don't hurt themselves trying to get those cookies, it's not worth it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4736386835575104
+    },
+    {
+      "text": "It's amazing how focused they are on getting those cookies, they're not paying attention to anything else.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8054769039154053
+    },
+    {
+      "text": "I wonder if the cookies are worth the risk, they might get in trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.48111048340797424
+    }
+  ]
+}

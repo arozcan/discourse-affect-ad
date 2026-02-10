@@ -1,0 +1,40 @@
+{
+  "id": "dialog_946",
+  "segments": [
+    {
+      "text": "Peter , go and tidy up your toys now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Wait a moment , mom .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'm mad ! I said now ! Turn off the TV , and do it now .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Mom , just ten more minutes . The show is going to be over soon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Peter , if you don't do it soon , I will throw your toys in the trash can .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

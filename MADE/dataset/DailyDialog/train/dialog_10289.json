@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10289",
+  "segments": [
+    {
+      "text": "Could you just run through the evacuation procedure ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , of course . When you hear the fire alarm , which is a very loud , continuous ringing noise , you should go to the nearest fire exit or fire escape as quickly as possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Should we use the stairs ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , don't use the lifts . We have regular fire drills so you'll soon become familiar with the procedure . And always shut the fire doors to prevent the fire spreading .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

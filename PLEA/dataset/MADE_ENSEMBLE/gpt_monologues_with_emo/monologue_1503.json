@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1503",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "Amidst the mundane task of dish drying, the woman stands like a sentinel.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5930109620094299
+    },
+    {
+      "text": "Yet there’s so much more happening just a few feet away.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6615707874298096
+    },
+    {
+      "text": "The boy’s risky climb has me feeling anxious; he could slip at any moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.692689061164856
+    },
+    {
+      "text": "I’m dumbfounded that he has the audacity to go for the cookies right in front of her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5292657613754272
+    },
+    {
+      "text": "I can see the girl’s eager stance, her hope fixed on the cookie jar.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.378932923078537
+    },
+    {
+      "text": "Their innocence is charming, but it’s also tinged with the threat of a mishap.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5876882076263428
+    },
+    {
+      "text": "I just wish that in this beautiful domestic scene, someone would take notice.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5370205640792847
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "monologue_1109",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the woman drying dishes, completely unaware of the chaos around her, she's so focused.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6969548463821411
+    },
+    {
+      "text": "The sink is overflowing, and water is pouring onto the floor, it's getting everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.33975812792778015
+    },
+    {
+      "text": "The children are being sneaky, taking cookies while she's distracted, they're so clever.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8199170827865601
+    },
+    {
+      "text": "The boy is climbing on a stool, and it looks like it's about to tip over, that's not safe at all.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.41742628812789917
+    },
+    {
+      "text": "I hope he doesn't fall and hurt himself, that would be terrible, I can't watch.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.718738317489624
+    },
+    {
+      "text": "The girl is just waiting for her cookie, completely trusting her brother, she's so sweet.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7129123210906982
+    },
+    {
+      "text": "I can't believe the woman hasn't noticed the water yet, she's going to slip and fall, someone should warn her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4603916108608246
+    },
+    {
+      "text": "The garden outside looks so nice and tidy, unlike the kitchen, it's a nice view.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6451067328453064
+    },
+    {
+      "text": "I wonder if the woman will notice the water before it's too late, someone should tell her, she's so distracted.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4459693729877472
+    },
+    {
+      "text": "The boy is really determined to get those cookies, he must really want one, he's so focused.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6467715501785278
+    },
+    {
+      "text": "I feel like I should warn them about the water, but they don't seem to care, they're so distracted.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3926042914390564
+    }
+  ]
+}

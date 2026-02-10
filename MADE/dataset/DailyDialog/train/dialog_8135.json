@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8135",
+  "segments": [
+    {
+      "text": "Do you like this dress , madam ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I like the colour very much . It's a lovely dress , but it's too small for me .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about this one ? It's a lovely dress . It's very smart . Short skirts are in fashion now . Would you like to try it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right . I'm afraid this green dress is too small for me as well . It's smaller than the blue one . I don't like the colour either . It doesn't suit me at all . I think the blue dress is prettier . Co",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'm afraid I haven't got a larger dress . This is the largest dress in the shop .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+name: made
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+
+  # Scientific packages
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+
+  # Jupyter / development
+  - ipykernel
+  - jupyterlab
+  - tqdm
+  - sentencepiece
+  - libsndfile
+  - ffmpeg
+
+  # PyTorch with MPS (Apple Metal backend)
+  - pytorch
+  - torchvision
+  - torchaudio
+
+  # pip packages
+  - pip:
+      # NLP / embeddings
+      - sentence-transformers
+      - transformers
+      - accelerate
+
+      # Modern AI clients
+      - openai==2.6.1
+      - mistralai
+      - google-genai
+      - httpx
+
+      # Data utils
+      - datasets
+      - hf-xet
+
+      # Structs / validation
+      - pydantic
+
+      # Visualization
+      - tensorboard
+
+      # PyTorch Lightning
+      - lightning
+      - pytorch-lightning

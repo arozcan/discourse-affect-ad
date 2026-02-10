@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8330",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I see the entire kitchen layout clearly in this drawing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6782370805740356
+    },
+    {
+      "text": "The sink area's got water running and spilling over the basin.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9246593117713928
+    },
+    {
+      "text": "The woman stands facing away, absorbed in drying that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9295216202735901
+    },
+    {
+      "text": "Her apron's on, and dishes are piled on the counter.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.934407114982605
+    },
+    {
+      "text": "The puddle's growing at her feet, unseen by her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7851042151451111
+    },
+    {
+      "text": "Leftward, the upper cabinets are ajar with the cookie jar inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.957268238067627
+    },
+    {
+      "text": "A boy’s climbing the stool, which looks off-balance.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8294456601142883
+    },
+    {
+      "text": "He's pulling out cookies while holding a plate steady.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9096020460128784
+    },
+    {
+      "text": "The girl beside him reaches up expectantly for her share.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8694146871566772
+    },
+    {
+      "text": "They're clearly in on this together, quiet and quick.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6724281907081604
+    },
+    {
+      "text": "The garden view through the window is calm and inviting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5523567795753479
+    },
+    {
+      "text": "It makes the indoor hazards feel even more out of place.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3960797190666199
+    },
+    {
+      "text": "I'm concerned the stool will give way and cause a fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5790374875068665
+    },
+    {
+      "text": "Also, that water could make everything slippery and dangerous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7549483776092529
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_9038",
+  "segments": [
+    {
+      "text": "Hello , this is IBA Bank . Maria speaking , how may I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , I'm looking into your loans and I'm a little confused about the interest rates . Could you give me some advice ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Not a problem . Which loan was it you were interested in ? Sorry , I must ask , because the interest rates can depend on the type of loan you apply for .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I understand . I'm interested in the Petty Consumer Loan .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "One of our most popular ! The usual interest rate is fixed by the PBC . That is The People's Bank of China . But of course , with some loans , credit rating and loan amount come into play , too .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , the rate could fluctuate a little , depending on the amount given by the PBC ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "That is correct .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm going to have to do some more research into this . Thanks for your help , bye for now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

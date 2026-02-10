@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9241",
+  "segments": [
+    {
+      "text": "Hello ? Ms . Patterson ? This is Bill from Workmate calling . I'm just wondering if you had a chance to look over the estimate I sent for your gala dinner project next month ... As I said in my email , we can help you with production according to your needs , but we will only be able to give insite management support services on a limited basis .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , yes . I reviewed your estimate . But it seems like the project blueprint you sent with the estimate is not quite what we had in mind . Did you get a copy of the specs for this project ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I have several copies , but they're all different versions ... The latest I have is version 12 , is that current ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No . Later we decided to opt for the prior outline , version 7 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Hold on , let me pull up your version 7 requirements ... Oh yes , no wonder our estimate is a little different from what you had in mind . I see the version 7 also includes 6 additional hostesses and a cocktail self-serve bar that wasn't in the version 12 . That will definitely add to your cost on this project ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

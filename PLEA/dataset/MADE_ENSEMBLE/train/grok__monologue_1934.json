@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1934",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I watch this kitchen scene and feel a pang of sadness for what's about to happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8763472437858582
+    },
+    {
+      "text": "The woman is so absorbed in her task, unaware of the water flooding the sink.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4667711853981018
+    },
+    {
+      "text": "It's spilling over, ruining the cabinets and wetting the floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.39625677466392517
+    },
+    {
+      "text": "She'll be heartbroken when she realizes the damage later.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.657282292842865
+    },
+    {
+      "text": "The children are up to mischief, reaching for cookies secretly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6655112504959106
+    },
+    {
+      "text": "The boy on the stool looks so vulnerable, one wrong move and he'll tumble.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.2867576777935028
+    },
+    {
+      "text": "The girl waits eagerly, but this could end in tears for everyone.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3817780613899231
+    },
+    {
+      "text": "The open window shows a beautiful garden, full of peace that's missing inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5061744451522827
+    },
+    {
+      "text": "Dishes stacked on the counter remind me of normal family routines.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7237844467163086
+    },
+    {
+      "text": "Her apron and dress make her look like a caring mom, yet she's missing it all.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4577542245388031
+    },
+    {
+      "text": "I wish I could warn them; it's such a shame to see potential joy turn to sorrow.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8856420516967773
+    },
+    {
+      "text": "The cookies in the jar are meant for sharing happily, not stolen in haste.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44126829504966736
+    }
+  ]
+}

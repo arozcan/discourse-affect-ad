@@ -1,0 +1,90 @@
+{
+  "id": "monologue_0505",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I see this kitchen with a woman standing by the sink.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9136401414871216
+    },
+    {
+      "text": "She's drying a plate with a towel, looking so focused.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6884593367576599
+    },
+    {
+      "text": "The faucet is running full blast behind her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8316305875778198
+    },
+    {
+      "text": "Water is overflowing from the sink onto the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7379762530326843
+    },
+    {
+      "text": "There's a big puddle forming right at her feet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7390583753585815
+    },
+    {
+      "text": "She hasn't noticed yet, one foot is already in it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5840553045272827
+    },
+    {
+      "text": "Over on the left, there's a boy on a stool reaching into a cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.952032208442688
+    },
+    {
+      "text": "The stool looks like it's about to tip over.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4369816184043884
+    },
+    {
+      "text": "A little girl is standing nearby, holding her hand out for a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8644638657569885
+    },
+    {
+      "text": "They seem to be sneaking cookies while the woman is busy.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8435475826263428
+    },
+    {
+      "text": "The window shows a nice garden outside, all calm.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5746340751647949
+    },
+    {
+      "text": "I hope no one slips on that wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5041397213935852
+    }
+  ]
+}

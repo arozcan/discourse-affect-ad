@@ -1,0 +1,76 @@
+{
+  "id": "monologue_6132",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I can't believe what I'm seeing here.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9159328937530518
+    },
+    {
+      "text": "That boy is standing on a wobbly stool, reaching for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47371962666511536
+    },
+    {
+      "text": "It looks like he's about to fall any second now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7036116123199463
+    },
+    {
+      "text": "The stool is tilted, and he's stretched out so far.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5181649923324585
+    },
+    {
+      "text": "His sister is right there, waiting for a cookie, not helping him at all.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5579355955123901
+    },
+    {
+      "text": "I feel like shouting at them to be careful.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7098305225372314
+    },
+    {
+      "text": "The woman at the sink is completely unaware of the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.31487369537353516
+    },
+    {
+      "text": "This is such a risky situation, and no one seems to care.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.34963691234588623
+    },
+    {
+      "text": "I hope that boy doesn't hurt himself.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49743014574050903
+    },
+    {
+      "text": "Someone needs to intervene before it's too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4978759288787842
+    }
+  ]
+}

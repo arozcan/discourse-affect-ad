@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6893",
+  "segments": [
+    {
+      "text": "Hi , this is Tom Port . May I speak to Mr . Smith ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Mr . Smith is not in his office . I am afraid he will not be back before 3 pm . Would you care to speak to Mr . Brown who takes all the calls in his absence ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "No . Thanks . Can I leave a message for Mr . Smith ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , I'll tell him that you called .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

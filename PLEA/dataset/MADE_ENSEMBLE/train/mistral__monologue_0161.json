@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0161",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water pouring over the sink, and it’s making me really nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9411530494689941
+    },
+    {
+      "text": "The woman doesn’t even seem to notice, and that’s terrifying.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5399516224861145
+    },
+    {
+      "text": "I think the floor is going to get so slippery that someone is going to fall.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5390129089355469
+    },
+    {
+      "text": "The boy on the stool is already in danger, and now the water is making everything worse.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.26739150285720825
+    },
+    {
+      "text": "I can’t believe how calm the woman is, just standing there in the puddle.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8621602058410645
+    },
+    {
+      "text": "I feel like I’m watching a disaster unfold in slow motion.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7636191844940186
+    },
+    {
+      "text": "The girl is so focused on the cookies that she doesn’t see the water either.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45305657386779785
+    },
+    {
+      "text": "I wish someone would just turn off the faucet before it’s too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5032362937927246
+    },
+    {
+      "text": "The water is spreading, and no one is doing anything about it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6123999357223511
+    },
+    {
+      "text": "I can’t stand here and watch this happen; it’s too stressful.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.45222020149230957
+    }
+  ]
+}

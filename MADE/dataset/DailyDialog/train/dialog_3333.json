@@ -1,0 +1,54 @@
+{
+  "id": "dialog_3333",
+  "segments": [
+    {
+      "text": "Hey , Joe ! Where have you been these past few days ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ Ve been busy with a first aid course that I started about a week ago at the Red Cross .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Cool ! I ’ Ve always wanted to do something like that ! Have you learned anything useful ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "For sure ! I mean we ’ Ve learned how to apply pressure to stop bleeding , how to check for a pulse , and even how to apply CPR !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Have you treated any real emergencies ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , they took us along with some paramedics.There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures . His wounds were pretty serious so they had to rush him to the hospital . It was intense !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I can imagine ! I tend to faint when I see blood , so I think I won ’ t be taking up a course like that anytime soon !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

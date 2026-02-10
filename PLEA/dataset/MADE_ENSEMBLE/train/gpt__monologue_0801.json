@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0801",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the kitchen filled with the warm light of day, yet inside, it feels chaotic and tense.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4758639335632324
+    },
+    {
+      "text": "The overflowing sink is like a ticking clock, reminding me that trouble is lurking.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4658828675746918
+    },
+    {
+      "text": "The woman, so lost in her task, seems completely unaware of the water spilling over.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.493596613407135
+    },
+    {
+      "text": "The boy is almost at the cookie jar, and I can't help but find myself holding my breath.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.318180114030838
+    },
+    {
+      "text": "He’s embracing danger in the pursuit of something sweet, a risky adventure in a mundane setting.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5382474064826965
+    },
+    {
+      "text": "The girl stands there, hopeful and eager, as if the cookies are the answer to her dreams.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.45895522832870483
+    },
+    {
+      "text": "It’s a mix of innocence and mischief, and it simultaneously fills me with joy and dread.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6401426792144775
+    }
+  ]
+}

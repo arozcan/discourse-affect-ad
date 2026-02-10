@@ -1,0 +1,90 @@
+{
+  "id": "monologue_9190",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the warm light from the window making everything look so homey.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8383998870849609
+    },
+    {
+      "text": "The garden outside is beautiful with its neat bushes and fence.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6253674030303955
+    },
+    {
+      "text": "Inside, the woman's concentrating on drying her plate with the towel.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.937348484992981
+    },
+    {
+      "text": "Her apron is tied neatly, and she seems content in her routine.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6850817799568176
+    },
+    {
+      "text": "But the sink is full to the brim, water cascading over the front.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5855089426040649
+    },
+    {
+      "text": "It's making a big puddle, and she's standing right in it unknowingly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42063722014427185
+    },
+    {
+      "text": "Stacks of dishes wait on the counter, ready to be put away.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.931973934173584
+    },
+    {
+      "text": "The upper cabinets are open, revealing the cookie jar inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8098201751708984
+    },
+    {
+      "text": "The boy is stretched tall on the stool, reaching in for treats.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8805047869682312
+    },
+    {
+      "text": "It looks fun, but that stool is leaning dangerously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4566197693347931
+    },
+    {
+      "text": "The girl's expectant face as she holds her hand up is adorable.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7971396446228027
+    },
+    {
+      "text": "I hope they get their cookies before anything goes wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5236123204231262
+    }
+  ]
+}

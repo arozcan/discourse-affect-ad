@@ -1,0 +1,47 @@
+{
+  "id": "dialog_102",
+  "segments": [
+    {
+      "text": "Here is the fish counter . Look at the lobsters and crabs . Shall we have some ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm allergic to these things , you know .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sorry , I forgot . I don ’ t like seafood , neither .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let ’ s go over there and get some milk , a couple dozen eggs and some orange juice .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let's get frozen juice . It is really good . We ’ Ve got enough food . Let ’ s go over to the check-out stand .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . But just let me pick up a bottle of cooking wine and oil as we go by .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

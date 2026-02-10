@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5505",
+  "segments": [
+    {
+      "text": "Thank you for your visit to our company . I'd like to make an introduction for you . Is there anything in particular you'd like to know ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Your company has a very good reputation , and I have been planning to visit it for a long time . What's the advantage of your factory over other plastics ones ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Our production speed is almost twice the industry-wide average . And we've already expanded the factory this year .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Could you tell me the cost of production per unit ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm not familiar with that part . Let me call someone in charge .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

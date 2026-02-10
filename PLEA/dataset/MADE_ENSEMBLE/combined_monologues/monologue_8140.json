@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8140",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the kitchen's bright with daylight from the open window.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6096270680427551
+    },
+    {
+      "text": "A woman in an apron is carefully drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9299504160881042
+    },
+    {
+      "text": "But the sink behind her is full and overflowing.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6904361248016357
+    },
+    {
+      "text": "Water's spilling over the edge, soaking the floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5398497581481934
+    },
+    {
+      "text": "She's unaware, standing right in the growing puddle.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4470036029815674
+    },
+    {
+      "text": "To her left, a boy's on a stool reaching into the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9209147691726685
+    },
+    {
+      "text": "The stool's unstable, legs spread out unevenly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6371058821678162
+    },
+    {
+      "text": "He might fall and hurt himself badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6431365013122559
+    },
+    {
+      "text": "The girl's beside him, arm up, waiting for a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9384868741035461
+    },
+    {
+      "text": "It's sweet how they're sharing the moment, but risky.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5620019435882568
+    },
+    {
+      "text": "The garden outside looks so serene compared to this.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4677879810333252
+    },
+    {
+      "text": "I feel bad thinking about what could go wrong here.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5043969750404358
+    },
+    {
+      "text": "The cabinets are getting wet; that can't be good.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.43342769145965576
+    },
+    {
+      "text": "Wish someone would notice and fix it all.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.614996075630188
+    }
+  ]
+}

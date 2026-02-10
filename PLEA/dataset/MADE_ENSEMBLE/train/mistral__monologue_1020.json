@@ -1,0 +1,83 @@
+{
+  "id": "monologue_1020",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing from the sink, and it's making me angry.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9705820679664612
+    },
+    {
+      "text": "The woman just keeps drying those dishes like nothing is happening.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4729937016963959
+    },
+    {
+      "text": "The puddle on the floor is getting bigger and bigger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4553237855434418
+    },
+    {
+      "text": "I notice the children in the background, but they seem more interested in the cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6778945922851562
+    },
+    {
+      "text": "The cabinets are getting soaked, and the water is just pouring down.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40768343210220337
+    },
+    {
+      "text": "I can't believe she hasn't turned off the faucet yet.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8989168405532837
+    },
+    {
+      "text": "The dish towel she's using looks so ordinary, but her actions are anything but.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4237765669822693
+    },
+    {
+      "text": "I wonder if she's going to slip on that wet floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.48285961151123047
+    },
+    {
+      "text": "The garden outside looks so calm, unlike the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3382192850112915
+    },
+    {
+      "text": "I feel like shouting at her to turn around and see the mess.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9310916662216187
+    },
+    {
+      "text": "The children are being so sneaky, but the water is the real issue here.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5697444677352905
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8238",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen is a total mess with that overflowing sink.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5293301939964294
+    },
+    {
+      "text": "Water just wasting everywhere, soaking the cabinets and floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.32267406582832336
+    },
+    {
+      "text": "The woman's standing in it, clueless, drying a grimy plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.46980249881744385
+    },
+    {
+      "text": "What a slob, not even checking the faucet.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4978625178337097
+    },
+    {
+      "text": "And those filthy kids pawing into the cookie jar.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5140679478645325
+    },
+    {
+      "text": "The boy's on a rickety stool, probably dropping crumbs all over.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4546307623386383
+    },
+    {
+      "text": "The girl's hand out, greedy for stolen sweets.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4663959741592407
+    },
+    {
+      "text": "The whole scene is so unhygienic with water and dirt mixing.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7551676034927368
+    },
+    {
+      "text": "Dishes stacked nearby, probably not even clean yet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5510716438293457
+    },
+    {
+      "text": "Outside the window, the garden's neat, but inside it's repulsive.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6936010122299194
+    },
+    {
+      "text": "I can't stand seeing such neglect in a home.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5444403290748596
+    },
+    {
+      "text": "Turn off the water before it floods the place completely.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.428594708442688
+    }
+  ]
+}

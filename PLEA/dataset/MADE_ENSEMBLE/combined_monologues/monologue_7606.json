@@ -1,0 +1,97 @@
+{
+  "id": "monologue_7606",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I'm looking at this kitchen scene, and it's quite ordinary at first glance.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7527706623077393
+    },
+    {
+      "text": "The adult is polishing a dish with a towel, completely absorbed.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7293970584869385
+    },
+    {
+      "text": "Water is running from the faucet, but the sink is full and overflowing.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6871951818466187
+    },
+    {
+      "text": "It's spilling over the edge onto the floor, making a mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3689824938774109
+    },
+    {
+      "text": "She has no idea; her foot is wet, but she's oblivious.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4434751272201538
+    },
+    {
+      "text": "Now, turning to the kids, the boy is on a stool reaching for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.95200514793396
+    },
+    {
+      "text": "The stool is tilting back dangerously; he could fall hard.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7227216362953186
+    },
+    {
+      "text": "He's grabbing cookies with one hand while balancing a plate.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7465898990631104
+    },
+    {
+      "text": "The girl is right there, arm up, waiting for her share.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8429853320121765
+    },
+    {
+      "text": "They're breaking the rules, sneaking treats without permission.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7153880596160889
+    },
+    {
+      "text": "The window shows a tidy garden, so calm compared to this.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6988925933837891
+    },
+    {
+      "text": "I hope someone notices before something bad happens.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49538761377334595
+    },
+    {
+      "text": "This whole setup feels like an accident waiting to occur.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4319036602973938
+    }
+  ]
+}

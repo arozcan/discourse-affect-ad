@@ -1,0 +1,33 @@
+{
+  "id": "dialog_38",
+  "segments": [
+    {
+      "text": "Hi , Mary . You look pale today . What's the matter with you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think I've caught a cold . Now I'm aching all over .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You'd better take some medicine and have a good rest . I hope you'll be yourself pretty soon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you . I suppose I should go to see a doctor .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

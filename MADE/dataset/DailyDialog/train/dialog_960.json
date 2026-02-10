@@ -1,0 +1,61 @@
+{
+  "id": "dialog_960",
+  "segments": [
+    {
+      "text": "It's almost midnight ! We are about to start a brand new year !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know it's so exciting ! A new year is always like a clean slate . Fresh start to accomplish any dreams , objectives and goals .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you have a New Year's resolution ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I was thinking about it , but I'm never able to keep my New Year's resolution . Last year for example I joined a gym and only went twice .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah I know what you mean . That's why this year I am keeping things more simple . Maybe like getting together with friends I haven't seen in a long time , or doing some volunteering work .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That seems reasonable . We should get together and watch the ball drop in Times Square .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sure , as long as you don't try to kiss me at midnight !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , we can't break tradition ! It's bad luck !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

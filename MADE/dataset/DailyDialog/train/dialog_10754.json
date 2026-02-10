@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10754",
+  "segments": [
+    {
+      "text": "And so , I just wanted to check in with you and find out where we are with this project . As you know , you ’ Ve missed a fairly significant deadline last week , and this will negativity impact the team ’ s ability to move forward with the next stages of this project .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know , I ’ m really sorry that I missed the deadline . But really , it wasn ’ t my fault . You see , we had all of these unexpected technical problems at the last minute , and that I couldn ’ t get into the database and extract the kind of information that I needed for the data analysis . You know , if the tech guys would have done their job and kept the ARM stable , then I wouldn ’ t have missed my deadline .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , come on ! An excuse like that is tantamount to lying . You ’ re essentially blaming the tech team for your time management issues , rather than accepting responsibility for the fact that you were procrastinating for the past two weeks .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "No , I ’ m not trying to pass the buck here ; I know that it was me who is ultimately responsible for getting this done . But the thing is , I could have finished on time if the system hadn ’ t gone down . And you know , with everything I ’ Ve got going on now , I can ’ t afford to waste time dealing with technical problems . I ’ Ve got a lot on my plate and there are only twenty-four hours in a day ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m not going to accept this excuse . You ’ re using these small technical glitches as a crutch and trying to rationalize the fact that you ’ Ve missed your deadline . Look , we have standards and I expect you to live up to those standards . No more phoney cases . If you ’ re in over your head , you tell me . No more missed deadlines . Now , I want that data on my desk by nine am !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

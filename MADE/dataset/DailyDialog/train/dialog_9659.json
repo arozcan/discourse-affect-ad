@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9659",
+  "segments": [
+    {
+      "text": "Hello , Sir . Can I help you with anything ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I would like to use the ATM to make a payment . But I need to pay 3 parties at once .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem at all . With this service , you can pay up to 10 parties at one time . Are these parties on your current beneficiaries list ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "They are , yes . How should I do this ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Select ' pay multiple beneficiaries ' , here ... then select ' pay from the account ' in the drop down menu ... OK , good . Then we need to enter the beneficiary statement reference .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I've got that here ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "And your statement reference and the payment amount . Click on next , then ' pay beneficiaries ' . That's it ! All done .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

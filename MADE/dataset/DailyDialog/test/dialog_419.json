@@ -1,0 +1,152 @@
+{
+  "id": "dialog_419",
+  "segments": [
+    {
+      "text": "Hello ! This is Ruby speaking from G . O . T . International Travel Agency . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ d like to make a reservation for my trip from Detroit to Beijing on April 13 on Trans Pacific Airline .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do you want a single ticket or a round trip ticket ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ d like to have a round trip ticket with a one-year open return .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Economy or Business Class ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Economy , please . How much is it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "It will be $ 850 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Very good . Could I get an electronic ticket ? I ’ m always afraid of losing my tickets .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . How do you wish to pay for it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Bank of American card . The number is 6786 9182 12300 8657 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you ! Would you like an aisle seat or a window seat ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "An aisle seat , please . I ’ m tall and need to get up and walk pretty often .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . Your ticket is for Trans Pacific Flight 87 from Detroit to Beijing at 3 forty p . m . on April 13 . You will arrive at Beijing International Airport at six 35 p . m . on April 14 . Your electronic",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "What time should I arrive at Detroit Airport ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 2
+    },
+    {
+      "text": "Please be at the airport two hours before your departure to check in . You also need to reconfirm your reservation with the airline at least 7 days prior to your departure .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 3
+    },
+    {
+      "text": "What happens if I can ’ t leave on April 13 ? Can I cancel my ticket or change the reservation to another date ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , you can , but you will have to pay a penalty of $ 75 for any change or cancellation .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s OK . What are the weight restrictions for checked baggage ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 17,
+      "dialog_act": 2
+    },
+    {
+      "text": "On Trans Pacific international flights , each ticketed passenger is permitted a maximum of two checked bags with a maximum weight per checked bag of 70 pounds .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 18,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s great ! I can have two bags checked for 70 pounds each . I think I ’ m all set . You ’ re really efficient . Thank you very much for your help .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 19,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you for the compliment and for calling G . O . T . Travel Agency . Have a nice trip !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 20,
+      "dialog_act": 1
+    }
+  ]
+}

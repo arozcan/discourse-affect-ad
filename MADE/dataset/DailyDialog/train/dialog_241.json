@@ -1,0 +1,33 @@
+{
+  "id": "dialog_241",
+  "segments": [
+    {
+      "text": "I'm really sick of waiting for a bus .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah.Especially when you have something urgent to do .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "But a taxi costs too much .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's true .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

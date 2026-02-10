@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8983",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, that sink is gushing water all over the place—disgusting mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9646042585372925
+    },
+    {
+      "text": "The woman standing in it, unaware, with her apron and all.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6467495560646057
+    },
+    {
+      "text": "Puddle spreading, soaking the floor—how gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8335978984832764
+    },
+    {
+      "text": "Kids climbing for cookies while everything's getting ruined.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42235898971557617
+    },
+    {
+      "text": "The stool tilting, cookies spilling—it's all so sloppy.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5015367865562439
+    },
+    {
+      "text": "Girl reaching up, probably getting crumbs everywhere.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5424072742462158
+    },
+    {
+      "text": "Water streaming down the cabinets; this kitchen is filthy now.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6516022086143494
+    },
+    {
+      "text": "The window shows a clean garden, but inside it's revolting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.897271454334259
+    },
+    {
+      "text": "I can't stand seeing the dishes stacked near the flood.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4922223687171936
+    },
+    {
+      "text": "Sneaking treats in this state—nasty business.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.541658341884613
+    },
+    {
+      "text": "The whole scene turns my stomach with its carelessness.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6087278127670288
+    },
+    {
+      "text": "Someone needs to clean this up before it's worse.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3916819393634796
+    }
+  ]
+}

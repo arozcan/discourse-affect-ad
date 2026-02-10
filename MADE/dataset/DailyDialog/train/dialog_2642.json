@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2642",
+  "segments": [
+    {
+      "text": "I am exhausted . I need some sleep .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Didn ’ t you sleep well last night ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I twisted and turned all night , and couldn ’ t sleep . I was worried about my mother ’ s health .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don ’ t worry . It ’ s only a cold .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5537",
+  "segments": [
+    {
+      "text": "How's the building work going ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I'm afraid we've had a slight delay .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What's the problem ? We really can't have any delays at this stage . We're working to a really tight schedule and we're already over budget .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "The cement arrived late but don't worry , I'm confident we can still meet the deadline . The crew is on stand-by and as soon as the concrete has set we can get started again .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK . Keep me informed . Jt must be ready on time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

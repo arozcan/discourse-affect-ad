@@ -1,0 +1,33 @@
+{
+  "id": "dialog_662",
+  "segments": [
+    {
+      "text": "Hey , sorry to be late .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "What happened to you last night ? You didn ’ t show up .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "My mother was ill . I had to look after her .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m so sorry to hear that .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

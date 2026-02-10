@@ -1,0 +1,75 @@
+{
+  "id": "dialog_6200",
+  "segments": [
+    {
+      "text": "Hello ! You have reached the offices of Maddox and McKnight , can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , my name is Max Richards . May I please speak to George Nelson ? I have already called several times . It seems I always catch him out of the office .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , I'm sorry . Mr . Nelson is away at the moment . I'm sorry that you keep missing him while he is out of the office . Would you like to leave a message ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry , I didn't hear you clearly . Could you repeat that please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly . Mr . Nelson can not take your call at the moment because he is away . He stepped out of the office for the whole afternoon and is not expected back until tomorrow morning . His schedule is very unpredictable at times , so the best way to reach him is to first make an appointment by email or text messaging .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Can I leave a message for him please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course , can you leave your name and number ? I'm sure Mr . Nelson will return your call as soon as he is able .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "My name is Max Richards , my phone number is 898-3423 . Could you ask him to call me back as soon as he gets back , please ? I have a rather timely matter to discuss with him .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Can you tell me what it's about ? I can make a note of it , so Mr . Nelson is aware and prepared when he returns your call .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , please let him know I would like to discuss the Girard case with him .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    }
+  ]
+}

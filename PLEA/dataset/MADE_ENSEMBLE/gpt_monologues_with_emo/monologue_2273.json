@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2273",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the sun shining through the window, illuminating the chaotic kitchen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8166047930717468
+    },
+    {
+      "text": "But my eyes keep drifting back to the puddle forming beneath the sink.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7489868402481079
+    },
+    {
+      "text": "It seems like such a trivial thing, yet it signals something much larger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47782808542251587
+    },
+    {
+      "text": "The woman remains so engrossed in her chores, blissfully unaware of the mess around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3487074375152588
+    },
+    {
+      "text": "Her calmness juxtaposed with the children's reckless play overwhelms me.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.42158743739128113
+    },
+    {
+      "text": "The boy's risky climb seems like a desperate quest for those cookies.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4489169418811798
+    },
+    {
+      "text": "And the girl, she stands there like a cheering squad, waiting with an open palm.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.519859790802002
+    }
+  ]
+}

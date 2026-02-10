@@ -1,0 +1,33 @@
+{
+  "id": "dialog_93",
+  "segments": [
+    {
+      "text": "I'd like to make an appointment with Dr.Cooper.Could you arrange it for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes.Would tomorrow morning be all right with you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sorry , I've got a meeting from nine to ten.What about Monday afternoon ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid he's fully engaged.Could you make it another time ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

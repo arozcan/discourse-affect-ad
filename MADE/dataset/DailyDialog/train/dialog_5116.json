@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5116",
+  "segments": [
+    {
+      "text": "Hello , this is Chen Kun . I am booked on flight LJ88 for Barcelona on Jan . 19th .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hold on please ... Yes , you are booked already .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Now I am afraid I can't get to the airport on that day . I want to change my flight for the 21st.Is that all right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry.Flight LJ88 0n that day is full . What about 22 ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine.Thank you so much .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

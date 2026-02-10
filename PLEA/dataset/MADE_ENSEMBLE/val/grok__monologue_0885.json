@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0885",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I'm really scared watching this; the boy's stool is about to fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9369347095489502
+    },
+    {
+      "text": "He's reaching so high into the cookie jar, all stretched out.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5196249485015869
+    },
+    {
+      "text": "One wrong move and he'll tumble right onto the wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45562422275543213
+    },
+    {
+      "text": "The girl's close by, she might get hurt too if he falls.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.34866631031036377
+    },
+    {
+      "text": "Water from the sink is spreading fast across the tiles.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6988047361373901
+    },
+    {
+      "text": "The woman has no idea, still focused on that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4958884119987488
+    },
+    {
+      "text": "Her foot's submerged, and she could slip any second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5059524774551392
+    },
+    {
+      "text": "It's sad thinking of the accident about to happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9873232841491699
+    },
+    {
+      "text": "The garden outside looks safe and inviting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49803388118743896
+    },
+    {
+      "text": "But inside, hazards everywhere with the overflow and the climb.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5378849506378174
+    },
+    {
+      "text": "I hope she turns around before someone gets injured.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5244879722595215
+    },
+    {
+      "text": "Those cookies aren't worth the risk they're taking.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.47021475434303284
+    },
+    {
+      "text": "This could end in tears for everyone.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4731689989566803
+    }
+  ]
+}

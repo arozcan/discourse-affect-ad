@@ -1,0 +1,26 @@
+{
+  "id": "dialog_10499",
+  "segments": [
+    {
+      "text": "Excuse me , waiter . Could we change our table for that one ? My wife is quite interested in the scenery .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry . That table has been booked .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "It doesn't matter . This one is fine .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

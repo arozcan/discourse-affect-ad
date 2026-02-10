@@ -1,0 +1,47 @@
+{
+  "id": "dialog_689",
+  "segments": [
+    {
+      "text": "I hate to do this , but I've got to cancel a reservation I made earlier this week .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "All I need is your name , phone , and reservation date .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "My name is Rudy Randolph . I'm at 818-555-1234 . The reservation was for April 9 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Randolph , Rudy . Let me hit one button , sir , and now your reservation is cancelled .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay , thank you . I'll make another reservation as soon as I can .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's been my pleasure to help you .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

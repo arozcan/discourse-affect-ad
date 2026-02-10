@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1558",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, that overflowing sink is disgusting, water just spilling everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9658573865890503
+    },
+    {
+      "text": "It's soaking the cabinet doors and pooling on the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.44689828157424927
+    },
+    {
+      "text": "The woman's foot is in that filthy puddle, how gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.893761932849884
+    },
+    {
+      "text": "She's drying a plate with a towel, probably getting it wet too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7484433650970459
+    },
+    {
+      "text": "And the kids, rummaging in the cookie jar like animals.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4964497983455658
+    },
+    {
+      "text": "The boy's balancing on that stool, about to make a bigger mess if he falls.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6912839412689209
+    },
+    {
+      "text": "Cookies crumbling everywhere, ants will come for sure.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3820219337940216
+    },
+    {
+      "text": "The girl reaching up, her hands all sticky already.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4972747564315796
+    },
+    {
+      "text": "This whole kitchen is turning into a swamp of filth.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.593180239200592
+    },
+    {
+      "text": "The window shows a clean garden, but inside it's revolting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8971201181411743
+    },
+    {
+      "text": "I hate seeing food stolen and water wasted like this.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6791665554046631
+    },
+    {
+      "text": "Someone clean this up before it's unbearable.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7661949396133423
+    }
+  ]
+}

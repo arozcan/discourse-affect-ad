@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1867",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice the sunlight streaming through the window, bringing warmth to the kitchen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42181986570358276
+    },
+    {
+      "text": "Yet, the joy of that moment is overshadowed by the chaos inside.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.30695658922195435
+    },
+    {
+      "text": "The overflowing sink is a stark reminder of how easily things can go wrong in a busy household.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47733116149902344
+    },
+    {
+      "text": "I see the girl looking up at her brother, her anticipation palpable as she waits for her cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7370377779006958
+    },
+    {
+      "text": "Their camaraderie is sweet, but I can't help feeling a pang of anger at their sneaky behavior.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4714442193508148
+    },
+    {
+      "text": "I want to call out to them, to stop this before someone gets hurt or in trouble.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3842707872390747
+    },
+    {
+      "text": "Still, I find it hard not to smile at their innocent excitement, even if it’s misguided.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6256911158561707
+    }
+  ]
+}

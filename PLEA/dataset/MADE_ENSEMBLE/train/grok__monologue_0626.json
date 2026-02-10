@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0626",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I watch the woman in the kitchen, so calmly drying that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8643344640731812
+    },
+    {
+      "text": "The faucet runs unchecked, causing the sink to overflow steadily.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6923559308052063
+    },
+    {
+      "text": "She's unaware, one foot in the growing puddle on the tile.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7244079113006592
+    },
+    {
+      "text": "What if she slips on that wet surface? It terrifies me.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9624937176704407
+    },
+    {
+      "text": "The boy on the stool is reaching high into the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9280813932418823
+    },
+    {
+      "text": "His balance is off; the stool tilts, and I hold my breath.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5078291296958923
+    },
+    {
+      "text": "The girl below him looks up expectantly, adding to the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5455797910690308
+    },
+    {
+      "text": "If he falls, he could land in the water and hurt himself badly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5346853137016296
+    },
+    {
+      "text": "The window reveals a peaceful garden, oblivious to the indoor peril.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6578615307807922
+    },
+    {
+      "text": "I feel my heart racing just observing this risky scene.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4301285445690155
+    },
+    {
+      "text": "Someone needs to intervene before an accident happens.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3830508589744568
+    },
+    {
+      "text": "The open cabinets make the climb even more hazardous.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.35230064392089844
+    },
+    {
+      "text": "This could end in tears for the whole family.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6480962634086609
+    }
+  ]
+}

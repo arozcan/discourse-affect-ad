@@ -1,0 +1,54 @@
+{
+  "id": "dialog_10124",
+  "segments": [
+    {
+      "text": "Good morning , Madam . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I need to have some money transferred from the UK , from my company . It's kind of an emergency .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That shouldn't be a problem , Madam . I'm sure we can sort this out for you quickly .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "That would be wonderful . The problem is I don't have an account with you . That is a problem , isn't it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , to be honest , it will slow things down a little . But it's not a big problem . You can do it by T / T .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "T / T ? What on earth is that ! ? Sorry , but I've never heard of it . T / T ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "It means ' telegraphic transfer ' . So , if you use this way it's fast and secure and can be done from anywhere , to anywhere in the world .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

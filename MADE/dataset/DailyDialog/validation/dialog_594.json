@@ -1,0 +1,33 @@
+{
+  "id": "dialog_594",
+  "segments": [
+    {
+      "text": "Hi , Sally ! You are talking to the proud father of a new baby girl !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Congratulations , Bob ! That ’ s great news , what ’ s her name ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "We ’ Ve named her Alice after my wife ’ s grandmother .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s a pretty name . Give your wife my best !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

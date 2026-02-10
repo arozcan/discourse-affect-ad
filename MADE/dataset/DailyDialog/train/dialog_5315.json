@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5315",
+  "segments": [
+    {
+      "text": "Hello , Is this EYE computers ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeas , It is . Sewen Jes speaking . How can I help ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Actually , I'm calling to complain about your service . The computer I bought last week is faulty .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I'm sorry to hear that , sir . What exactly is problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , easily , It doesn't work . It doesn't even start probably .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , dear ! I'll do whatever I can .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

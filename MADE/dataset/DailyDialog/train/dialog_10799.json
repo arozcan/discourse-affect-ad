@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10799",
+  "segments": [
+    {
+      "text": "Excuse me , would you please tell me where I can find a telephone ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Over there in the booth .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "How do you use a public phone ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "For a local call , just insert 35 cents in the slot and use it in the same way as your home phone . Inquiries are free from a public phone .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

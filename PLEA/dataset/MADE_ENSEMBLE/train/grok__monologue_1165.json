@@ -1,0 +1,97 @@
+{
+  "id": "monologue_1165",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Oh no, the sink is overflowing, and water's spilling everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3806349039077759
+    },
+    {
+      "text": "The woman's right there, one foot in the puddle—she might slip.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5303043723106384
+    },
+    {
+      "text": "She's drying that plate, completely unaware of the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3717501759529114
+    },
+    {
+      "text": "Look at the boy on that unstable stool; it's tilting backward.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.34725797176361084
+    },
+    {
+      "text": "If he falls from that height, it could be bad.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5461817979812622
+    },
+    {
+      "text": "The girl's reaching up, so close to the action.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46969273686408997
+    },
+    {
+      "text": "Wet floor plus wobbly stool— this is terrifying.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9750504493713379
+    },
+    {
+      "text": "The window shows a calm garden, but inside it's risky.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6140408515930176
+    },
+    {
+      "text": "Cookies in the jar might scatter if he tips over.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6034427881240845
+    },
+    {
+      "text": "Water damage to the cabinets could be expensive.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.40453681349754333
+    },
+    {
+      "text": "Her expression is so neutral; she has no clue.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6608589887619019
+    },
+    {
+      "text": "I hope the stool holds; my heart's racing watching this.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5520535707473755
+    },
+    {
+      "text": "The curtains frame the scene like a warning.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8864881992340088
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dialog_9413",
+  "segments": [
+    {
+      "text": "Good afternoon . It's a pleasure to see you again ! What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've come in to give you the documents under the L / C we opened , the new one . This lot are from Singapore , a new customer .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Have you had a chance to go through them yet ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , with a fine toothed comb , as usual . Everything seems fine , except for one thing . The description of the items we are purchasing is a little different from what we expected .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is it a big difference ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not really , perhaps just a translation problem , that's all . Anyway , we've agreed to accept it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

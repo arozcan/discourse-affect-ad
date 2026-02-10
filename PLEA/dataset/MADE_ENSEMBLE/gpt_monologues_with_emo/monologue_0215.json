@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0215",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the sun streaming through the window, illuminating the kitchen and the chaos within it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8122812509536743
+    },
+    {
+      "text": "The contrast between the tidy garden and the messy kitchen is striking.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.33058711886405945
+    },
+    {
+      "text": "I feel a pang of sadness as I watch the woman blissfully unaware of the impending disaster.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9601462483406067
+    },
+    {
+      "text": "How can she not hear the water gushing over the sink, pooling at her feet?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6687259674072266
+    },
+    {
+      "text": "I want to shout, to warn her, but part of me is rooted in this moment, captivated.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3952850103378296
+    },
+    {
+      "text": "The children are so engrossed in their sneaky business, their energy contagious.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5170126557350159
+    },
+    {
+      "text": "I think about how much joy and trouble they find in such innocent acts.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.3611561357975006
+    }
+  ]
+}

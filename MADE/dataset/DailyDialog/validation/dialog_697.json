@@ -1,0 +1,26 @@
+{
+  "id": "dialog_697",
+  "segments": [
+    {
+      "text": "Who ate the cookies that were sitting here ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I did , Mom .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Shame on you . I was saving them for your brother .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

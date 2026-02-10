@@ -1,0 +1,83 @@
+{
+  "id": "monologue_2004",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see a woman drying dishes by the sink, not noticing the water overflowing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6697847843170166
+    },
+    {
+      "text": "The children are being so naughty, taking cookies without asking.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.787407636642456
+    },
+    {
+      "text": "The boy is standing on a stool that looks like it's about to tip over any second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5325936079025269
+    },
+    {
+      "text": "I can't believe how careless they're being, someone is going to get hurt.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.29162436723709106
+    },
+    {
+      "text": "The girl is just standing there, waiting for a cookie, not noticing the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3962084650993347
+    },
+    {
+      "text": "I think the woman must be really tired or something to not notice any of this.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6448646783828735
+    },
+    {
+      "text": "The floor is getting more and more slippery with all that water, it's a disaster waiting to happen.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6275486946105957
+    },
+    {
+      "text": "I feel like I need to say something, but I'm not sure what to do.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4646492898464203
+    },
+    {
+      "text": "This is just so frustrating to watch, seeing the woman so distracted and the kids being so careless.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5700156688690186
+    },
+    {
+      "text": "I hope no one gets hurt, but it seems like it's only a matter of time.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4997020661830902
+    },
+    {
+      "text": "I can't believe how reckless they're all being, it's just not safe.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5723291635513306
+    }
+  ]
+}

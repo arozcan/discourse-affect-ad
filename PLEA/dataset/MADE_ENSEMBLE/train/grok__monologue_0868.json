@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0868",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen, I notice the woman totally absorbed in drying dishes.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6394942402839661
+    },
+    {
+      "text": "She's wearing an apron, looking every bit the busy homemaker.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7364978790283203
+    },
+    {
+      "text": "But the sink behind her is a disaster, water pouring out over the edge.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.26331642270088196
+    },
+    {
+      "text": "How can she not hear or see that mess?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7453498840332031
+    },
+    {
+      "text": "The puddle is spreading across the floor, soaking her shoe already.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4740067720413208
+    },
+    {
+      "text": "Over on the other side, kids are up to no good with the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8143346905708313
+    },
+    {
+      "text": "The boy is balanced precariously on that stool, stretching high.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7992775440216064
+    },
+    {
+      "text": "If it tips, he'll come crashing down with cookies flying everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4511204659938812
+    },
+    {
+      "text": "The girl is just egging him on, hand outstretched like she's entitled to some.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46553778648376465
+    },
+    {
+      "text": "This whole setup screams negligence; someone needs to step in.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.553629994392395
+    },
+    {
+      "text": "The open cabinets make it easy for them, but so dangerous.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5018869042396545
+    },
+    {
+      "text": "Outside the window, everything looks perfect, which makes the inside chaos even worse.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3760053515434265
+    },
+    {
+      "text": "I feel bad for what might happen next.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9439296126365662
+    }
+  ]
+}

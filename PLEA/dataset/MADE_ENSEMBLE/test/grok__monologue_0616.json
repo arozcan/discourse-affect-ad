@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0616",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I glance at the kitchen scene and spot the woman at the sink.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8637402057647705
+    },
+    {
+      "text": "She's drying dishes, completely absorbed in her work.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8489054441452026
+    },
+    {
+      "text": "The water from the faucet is overflowing onto the counter.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7432396411895752
+    },
+    {
+      "text": "It's cascading down like a waterfall, flooding the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47765347361564636
+    },
+    {
+      "text": "Her foot is wet, but she keeps going without a care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4755097031593323
+    },
+    {
+      "text": "Over on the other side, a boy is on a stool by the cabinet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9493595361709595
+    },
+    {
+      "text": "He's stretching to grab from the cookie jar inside.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9373434782028198
+    },
+    {
+      "text": "The stool looks unstable, legs all spread out unevenly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4539257884025574
+    },
+    {
+      "text": "If it tips, he'll come crashing down with cookies flying.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44545456767082214
+    },
+    {
+      "text": "The little girl beside him has her arm up, begging for one.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8848742246627808
+    },
+    {
+      "text": "They're conspiring together, so cute but so risky.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9026728868484497
+    },
+    {
+      "text": "Outside the window, the garden is blooming nicely.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5497064590454102
+    },
+    {
+      "text": "This contrast between calm outside and disaster inside is stark.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46533697843551636
+    },
+    {
+      "text": "I wish I could warn them about the dangers brewing.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.48503223061561584
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "monologue_2361",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This scene in the kitchen is heartbreaking.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7182365655899048
+    },
+    {
+      "text": "The woman is so absorbed in drying that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45729517936706543
+    },
+    {
+      "text": "She doesn't see the water flooding everywhere.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4055746793746948
+    },
+    {
+      "text": "The puddle is spreading, and it could ruin the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3406856656074524
+    },
+    {
+      "text": "Her dress might get soaked if she steps wrong.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44385820627212524
+    },
+    {
+      "text": "The children are up to mischief with the cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7547144889831543
+    },
+    {
+      "text": "That boy on the stool looks like he's about to fall.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4065738022327423
+    },
+    {
+      "text": "The girl is just waiting, so innocent in her excitement.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5681366324424744
+    },
+    {
+      "text": "I wish the mom would notice and stop everything.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4943971633911133
+    },
+    {
+      "text": "The garden outside is calm, but inside it's chaos waiting to happen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6640487909317017
+    },
+    {
+      "text": "It's sad how everyday moments can turn dangerous so fast.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5845649838447571
+    },
+    {
+      "text": "Those kids might get hurt, and she wouldn't even know.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.48061785101890564
+    }
+  ]
+}

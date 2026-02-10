@@ -1,0 +1,54 @@
+{
+  "id": "dialog_10722",
+  "segments": [
+    {
+      "text": "Excuse me . This chicken doesn't taste right to me .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What seems to be the problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "How should I know ? It's just kind of cold in the middle . It just doesn't taste right . Do you want to try it ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , let me get that out of your way . Would you like to order something else from the menu ? Or I could bring you another order of chicken if you'd like .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Another one ? I don't want another one . Give me something simple . You've got steak , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , we do . How would you like it cooked ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Half done .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

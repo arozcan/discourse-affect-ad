@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5749",
+  "segments": [
+    {
+      "text": "How many people does your company employ ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "We have over sixty employees . We have about forty factory workers and technical people and the rest are admin and sales staff . We started off with only ten people , so our workforce has grown a lot .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What's your annual turnover ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It was just over two million euros last year .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

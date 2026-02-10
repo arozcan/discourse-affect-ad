@@ -1,0 +1,111 @@
+{
+  "id": "monologue_2235",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I see the woman facing away from the room, at the sink.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9271703958511353
+    },
+    {
+      "text": "She's holding a plate, rubbing it gently with the towel.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9289437532424927
+    },
+    {
+      "text": "The faucet runs unchecked, filling the sink too high.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7478821873664856
+    },
+    {
+      "text": "Overflowing water drenches the counter and floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46985262632369995
+    },
+    {
+      "text": "It's such a wasteful mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5177268385887146
+    },
+    {
+      "text": "She steps in the puddle without a care.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.43574342131614685
+    },
+    {
+      "text": "Behind her, the children plot their cookie heist.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8917008638381958
+    },
+    {
+      "text": "The boy perches on the unsteady stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8659131526947021
+    },
+    {
+      "text": "His arm is deep in the jar, pulling out treats.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6170154809951782
+    },
+    {
+      "text": "The girl reaches up, eyes wide with anticipation.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5062472820281982
+    },
+    {
+      "text": "They're so sneaky and adorable.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.980904221534729
+    },
+    {
+      "text": "Yet the danger of the tipping stool worries me.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8622932434082031
+    },
+    {
+      "text": "And the slippery floor adds to the risk.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4186990261077881
+    },
+    {
+      "text": "This could turn tragic quickly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5799649357795715
+    },
+    {
+      "text": "The tidy yard outside mocks the chaos inside.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3921477198600769
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2421",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "Those kids are up to no good, climbing on that stool to reach the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4501800239086151
+    },
+    {
+      "text": "The boy is stretching so far, it looks like he's going to fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43388184905052185
+    },
+    {
+      "text": "I can't believe how reckless they're being, especially with the floor all wet.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.42701613903045654
+    },
+    {
+      "text": "The girl is just standing there, waiting for a cookie, like it's the most normal thing in the world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.593218207359314
+    },
+    {
+      "text": "I think they're going to get into so much trouble if their mom catches them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.1938329041004181
+    },
+    {
+      "text": "I remember doing things like this when I was a kid, but it never ended well.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.45365220308303833
+    },
+    {
+      "text": "I hope they don't break anything or hurt themselves.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4970565140247345
+    }
+  ]
+}

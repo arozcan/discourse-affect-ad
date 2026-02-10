@@ -1,0 +1,90 @@
+{
+  "id": "monologue_9717",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen is a total mess, it's disgusting.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9628757238388062
+    },
+    {
+      "text": "Water gushing out of the sink, flooding the floor like that.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4379945397377014
+    },
+    {
+      "text": "The woman's standing in it, drying dishes without a clue.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3706803619861603
+    },
+    {
+      "text": "That puddle spreading everywhere, soaking the cabinets— gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8709113597869873
+    },
+    {
+      "text": "And the kids, filthy hands in the cookie jar while the floor's wet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5272762179374695
+    },
+    {
+      "text": "The boy's balancing on that rickety stool, about to make it worse.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.34411516785621643
+    },
+    {
+      "text": "The girl's just waiting there, probably tracking water too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9174415469169617
+    },
+    {
+      "text": "Open cabinets with crumbs from the cookies, ugh.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6764389276504517
+    },
+    {
+      "text": "The garden outside is clean, but inside it's filthy chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.46929195523262024
+    },
+    {
+      "text": "How can they ignore this sloppy disaster?",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.45900091528892517
+    },
+    {
+      "text": "The towel she's using might get soaked next.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8305272459983826
+    },
+    {
+      "text": "I can't stand seeing such neglect in a kitchen.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5257186889648438
+    }
+  ]
+}

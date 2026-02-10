@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9418",
+  "segments": [
+    {
+      "text": "Excuse me , driver , you have kept us waiting for 15 minutes . Can't we start the tour right now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am sorry , sir , there are still 5 minutes remaining ... OK , it's time . We will take a roll call before starting the fantasy sightseeing .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Finally . How long does the tour last ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "For about 3 hours . Enjoy your trip .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

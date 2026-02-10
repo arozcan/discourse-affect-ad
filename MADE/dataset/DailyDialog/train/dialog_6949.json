@@ -1,0 +1,54 @@
+{
+  "id": "dialog_6949",
+  "segments": [
+    {
+      "text": "Good morning , Mr . Chu . Would you like me to brief your schedule for today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "You are scheduled to meet Mr . Thompson of ABC Company at eleven this morning . Then , you have a lunch appointment with Mr . Li . And this afternoon at four you will attend a press conference .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I am afraid I can't attend the press conference due to an urgent conference with the Board of Directors at half past four .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "All right . Do you want me to cancel the reservation for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , thank you very much . In addition , do you have the marketing proposal ready ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "The proposal is being repaired right now and I think it will be ready by tomorrow morning .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

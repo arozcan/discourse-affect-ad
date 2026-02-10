@@ -1,0 +1,75 @@
+{
+  "id": "dialog_7004",
+  "segments": [
+    {
+      "text": "OK darling , I got some pizzas , potato chips , hot dogs and lots of cheese !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh John , I thought we said we would start eating right ! Remember ? Our new healthy lifestyle ? That ’ s all junk food !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Humph ! Right , so what did you get ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , healthy food , of course ! I got some whole wheat bread , skimmed milk , fresh fish and organic carrots ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Organic ? What ’ s organic ? Do we need organic carrots ... ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "They were grown without using any chemicals that are harmful to our health . And yes , John , we need organic carrots ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , so organic vegetables are the ‘ green ’ option , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yup , better for the environment and better for us !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wait a minute , what's that ? ... Doughnuts ? They organic doughnuts , Kelly ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "I like doughnuts .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

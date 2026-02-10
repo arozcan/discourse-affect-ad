@@ -1,0 +1,40 @@
+{
+  "id": "dialog_667",
+  "segments": [
+    {
+      "text": "Dad , may I have a room of my own ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , honey , I'm so sorry , we don't have enough space for you to have your own room .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Dad , but I don't want to share a room with Peter . He snores every night .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Honey , you can ask him to be quite . Otherwise you may punish him and tell him to stand out of the room , right ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Alright . Maybe it's the only way to do it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

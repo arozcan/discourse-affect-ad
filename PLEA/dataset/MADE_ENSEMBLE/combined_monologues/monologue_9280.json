@@ -1,0 +1,97 @@
+{
+  "id": "monologue_9280",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking into this kitchen, I notice the woman at the sink absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7091023921966553
+    },
+    {
+      "text": "She's polishing that plate meticulously, her apron tied neatly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7046185731887817
+    },
+    {
+      "text": "But the faucet is running full blast, and the sink is full to the brim.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7318503856658936
+    },
+    {
+      "text": "Water's spilling everywhere, soaking the cabinets and floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3398572504520416
+    },
+    {
+      "text": "I worry she'll slip on that wet floor any moment now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8429380655288696
+    },
+    {
+      "text": "Over by the cabinets, a boy's on a stool that's tilting dangerously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.679223358631134
+    },
+    {
+      "text": "He's stretching for the cookie jar, which is wide open.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9057719111442566
+    },
+    {
+      "text": "The girl beside him has her hand out, waiting eagerly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7814866304397583
+    },
+    {
+      "text": "This could end in tears if that stool gives way.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4952080547809601
+    },
+    {
+      "text": "The mom's completely oblivious to it all.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7847983837127686
+    },
+    {
+      "text": "Sunlight from the window highlights the pretty garden outside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.561353325843811
+    },
+    {
+      "text": "It's such a contrast to the potential disaster unfolding here.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5629702806472778
+    },
+    {
+      "text": "I hope someone turns off that water soon.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5049273371696472
+    }
+  ]
+}

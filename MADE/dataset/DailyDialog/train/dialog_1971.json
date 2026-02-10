@@ -1,0 +1,75 @@
+{
+  "id": "dialog_1971",
+  "segments": [
+    {
+      "text": "What's your number ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm number seven . What about you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Five .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hah hah ! You have to go before me .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "You think it's funny . I'm terrified .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don't worry . It's safe .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "But I've never jumped off anything in my life . The highest thing I've jumped off is my bed . I'm scared .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "You are the one who wanted to come here , Sandy . You should enjoy it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "I guess I'm adventuresome , but then I'm scared too .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'm not too scared . But I've done sky diving before .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

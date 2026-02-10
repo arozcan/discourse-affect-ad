@@ -1,0 +1,54 @@
+{
+  "id": "dialog_1106",
+  "segments": [
+    {
+      "text": "Hey . I'm a visitor from China . I love your music . It's the best I've ever heard . Will you please spare a little bit of time for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . Thank you for saying that . Actually , those songs were sung for the first time today . I wrote them in the past two months .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , you wrote them all by yourself . That's amazing ! Are you a regular singer here ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can say that . But my band and I also sing regularly in several other places , too .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Cool . Your guitar skills are very impressive . How did you learn to play like that ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I picked up guitar at an early age , maybe around 8 years old . Afterward , I taught myself by listening to some records of top players .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wow , that's unbelievable ! You play so well , but you've never been to a real teacher . You will definitely be famous in the near future .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

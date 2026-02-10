@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1104",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the woman’s expression is calm, almost serene as she dries her plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.721425473690033
+    },
+    {
+      "text": "But the noise of the overflowing sink disrupts that sense of peace.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.41866829991340637
+    },
+    {
+      "text": "Why doesn’t she notice how dangerous this is? It angers me.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9541175961494446
+    },
+    {
+      "text": "Meanwhile, the boy’s excitement over cookies is infectious; I can’t help but smile.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9558131098747253
+    },
+    {
+      "text": "His precarious position sends shivers down my spine; it feels so risky.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.592314600944519
+    },
+    {
+      "text": "The girl's hopeful stance adds to the absurdity of this scene; it’s almost comical.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6319059729576111
+    },
+    {
+      "text": "With all this chaos, I just hope everyone comes out of it without any harm.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5071505904197693
+    }
+  ]
+}

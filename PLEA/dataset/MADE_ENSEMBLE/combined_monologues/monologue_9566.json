@@ -1,0 +1,97 @@
+{
+  "id": "monologue_9566",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen scene, it seems like a typical day at home.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6650399565696716
+    },
+    {
+      "text": "The woman is polishing dishes, her apron tied neatly around her dress.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8854526877403259
+    },
+    {
+      "text": "But the faucet is running full blast, and the sink is full to the brim.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7320640683174133
+    },
+    {
+      "text": "Water's cascading down onto the cabinets and floor— what a mess!",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5164255499839783
+    },
+    {
+      "text": "She's standing right in the puddle but keeps drying that plate oblivious.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4754669666290283
+    },
+    {
+      "text": "Over on the left, kids are up to no good with the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8646954298019409
+    },
+    {
+      "text": "The boy's on a stool that's tilting backward dangerously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5273457765579224
+    },
+    {
+      "text": "He's grabbing cookies while holding a plate in the other hand.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9154924750328064
+    },
+    {
+      "text": "The girl is eagerly waiting, her hand outstretched for her share.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6580874919891357
+    },
+    {
+      "text": "It's kind of cute how they're teaming up for this little adventure.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9371352195739746
+    },
+    {
+      "text": "The open window shows a nice garden, all calm and green.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5097195506095886
+    },
+    {
+      "text": "I just wish they'd be more careful; this could end badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4961243271827698
+    },
+    {
+      "text": "Someone needs to watch these kids before they fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.44596290588378906
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0323",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "What a typical family moment in the kitchen, or so it seems.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6382073163986206
+    },
+    {
+      "text": "The woman is drying dishes methodically, her face calm and concentrated.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7605881690979004
+    },
+    {
+      "text": "But the sink behind her is flooding, water gushing over the rim.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5307521224021912
+    },
+    {
+      "text": "It's soaking the floor and her shoes, yet she's unaware.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40199530124664307
+    },
+    {
+      "text": "I feel bad for her; this could ruin the whole day with cleanup.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9612329006195068
+    },
+    {
+      "text": "On the other side, the cabinet is open with the cookie jar inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9289911985397339
+    },
+    {
+      "text": "A boy is precariously balanced on a tilting stool, hand in the jar.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8688094615936279
+    },
+    {
+      "text": "One wrong move and he'll tumble down with cookies flying.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47150492668151855
+    },
+    {
+      "text": "The little girl beside him has her hand out, eyes full of hope.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.34226590394973755
+    },
+    {
+      "text": "They're sharing this secret adventure, which is kind of sweet.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8395524621009827
+    },
+    {
+      "text": "The open window lets in light from the neat garden outside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8588970899581909
+    },
+    {
+      "text": "It contrasts so sharply with the chaos brewing indoors.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43333899974823
+    },
+    {
+      "text": "I hope someone notices before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49797186255455017
+    },
+    {
+      "text": "This scene is tense, like holding my breath.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4109156131744385
+    }
+  ]
+}

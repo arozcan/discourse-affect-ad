@@ -1,0 +1,75 @@
+{
+  "id": "dialog_5782",
+  "segments": [
+    {
+      "text": "Well , we've settled the question of price , quality and quantity . Now what about the terms of payment ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "We only accept payment by irrevocable letter of credit payable against shipping documents .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Could you make an exception and accept D / A or D / P ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid not . We insist on a letter of credit .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "To tell you the truth , a letter of credit would increase the cost of my import . When I open a letter of credit with a bank , I have to pay a deposit . That'll tie up my money and increase my cost .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Consult your bank and see if they will reduce the required deposit to a minimum .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Still , there will be bank charges in connection with the credit . It would help me greatly if you would accept D / A or D / P . You can draw on me just as if there were a letter of credit . It makes no great difference to you , but it does to me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , Mrs . Wang , you must be aware that an irrevocable letter of cred it gives the exporter the additional protection of the bank er's guarantee . We always require L / C for our exports . And the other way round , we pay by L / C for our imports .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "To meet you half way , what do you say if 50 % by L / C and the balance by D / P ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm very sorry , Mrs . Wang . But I'm afraid I can't promise you even that . As I've said , we require payment by L / C .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

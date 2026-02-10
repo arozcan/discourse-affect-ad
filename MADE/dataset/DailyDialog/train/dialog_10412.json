@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10412",
+  "segments": [
+    {
+      "text": "I wonder if you could allow us any discount for this commodity . It's the general practice that wholesalers usually get some discount from manufacturers or suppliers .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "As a rule , we don't allow any discount .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "But we usually get a discount of 3 % to 5 % from our other suppliers . Actually , some discount on your prices would make it easier for us to promote sales , you know .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's true . But I am sorry I can't make an exception . We have quoted you our lowest price . We can't give you any more discounts .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

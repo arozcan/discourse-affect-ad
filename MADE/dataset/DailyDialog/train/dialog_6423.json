@@ -1,0 +1,26 @@
+{
+  "id": "dialog_6423",
+  "segments": [
+    {
+      "text": "How do you like you dishes today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not so delicious as before , but it's fine . The soup is tasty but the meat is a little tough .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I am sorry for that . We will improve the dishes next time .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

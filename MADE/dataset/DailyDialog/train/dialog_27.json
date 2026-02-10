@@ -1,0 +1,33 @@
+{
+  "id": "dialog_27",
+  "segments": [
+    {
+      "text": "Your house is too small . Why not buy a big one .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I do wish I could afford one .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You can get a loan from the bank . You know LPF program provides low cost loans for participants home purchases .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course I know that . But don't you notice that the house price is skyrocketing ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

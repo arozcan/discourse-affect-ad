@@ -1,0 +1,83 @@
+{
+  "id": "monologue_2021",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "Looking at this scene, I can't help but feel a sense of nostalgia.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6440809965133667
+    },
+    {
+      "text": "It reminds me of my own childhood, sneaking cookies when my mom wasn't looking.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4917435050010681
+    },
+    {
+      "text": "But at the same time, I'm filled with a sense of dread as I see the dangers unfolding.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.691895604133606
+    },
+    {
+      "text": "The water overflowing from the sink, the wobbly stool, it's all just too much.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.42211678624153137
+    },
+    {
+      "text": "I want to reach out and steady the stool, to keep the boy from falling.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4030762314796448
+    },
+    {
+      "text": "And I want to shout at the woman, to make her turn around and see what's happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6754258871078491
+    },
+    {
+      "text": "But I know I can't do anything, so I'm left feeling helpless and frustrated.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.44873398542404175
+    },
+    {
+      "text": "I can't help but think about how quickly things can go wrong, how a simple moment can turn into a disaster.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.33492809534072876
+    },
+    {
+      "text": "But even with all the danger, there's still a sense of warmth and love in this scene.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9049332141876221
+    },
+    {
+      "text": "It's a family, after all, and they're all just trying to enjoy a simple moment together.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47620803117752075
+    },
+    {
+      "text": "I just hope they can do so safely, without any accidents or injuries.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5096359848976135
+    }
+  ]
+}

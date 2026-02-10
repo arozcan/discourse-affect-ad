@@ -1,0 +1,69 @@
+{
+  "id": "monologue_5127",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water pouring over the sink, and it’s just getting worse.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3686436116695404
+    },
+    {
+      "text": "The woman is standing in it, and she doesn’t even react.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4789833426475525
+    },
+    {
+      "text": "The boy is climbing on that stool, and it’s about to tip over.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.411526620388031
+    },
+    {
+      "text": "The girl is watching him, her hand ready to catch whatever he drops.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9077224731445312
+    },
+    {
+      "text": "I can’t believe how calm the woman is, drying that plate like nothing is happening.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8724365234375
+    },
+    {
+      "text": "The water is spreading everywhere, and she doesn’t even notice.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3288765847682953
+    },
+    {
+      "text": "The boy is so close to falling, and the girl is just waiting for her cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5158088803291321
+    },
+    {
+      "text": "I think the whole kitchen is going to be ruined if this keeps up.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5577043294906616
+    },
+    {
+      "text": "The garden outside looks so peaceful, but inside is pure chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.2721801996231079
+    }
+  ]
+}

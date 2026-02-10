@@ -1,0 +1,40 @@
+{
+  "id": "dialog_440",
+  "segments": [
+    {
+      "text": "Hello , welcome to Lincoln Bank . What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I want to effect payment under an L / C today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . OK ... just checking for you . Ah , I'm afraid there aren't enough funds in your account to cover this transaction . What you can do is buy some US dollars , using local currency and we can credit your account with that amount .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That seems alright . What's the exchange rate like today ? Good or bad ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's not too bad today , actually . 828.23 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

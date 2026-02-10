@@ -1,0 +1,33 @@
+{
+  "id": "dialog_67",
+  "segments": [
+    {
+      "text": "I hate to do this to you , Alice , but I ’ m going to have to ask you to put in some more overtime .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Does it have to be this afternoon , Mr . Fairbanks ? I ’ Ve already made plans .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I would have preferred to do it today , but if you ’ Ve already made plans , we can do it tomorrow .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I ’ d appreciate that , sir . How long do you think you ’ ll need me to stay ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

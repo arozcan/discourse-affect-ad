@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1230",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the woman standing at the sink, completely fixated on the plate in her hands.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9232369661331177
+    },
+    {
+      "text": "It’s almost impressive how she seems unaware of the water cascading off the counter.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5126665830612183
+    },
+    {
+      "text": "I notice the puddle forming at her feet; it almost looks like a little lake now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.36833444237709045
+    },
+    {
+      "text": "The light from the window makes the situation almost serene, yet chaotic at the same time.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6191683411598206
+    },
+    {
+      "text": "I can’t help but feel a little anxious about what could happen if she slips.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.613857626914978
+    },
+    {
+      "text": "Outside, the garden looks peaceful and inviting, a stark contrast to the mess inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4474489688873291
+    },
+    {
+      "text": "It seems so unfair that she's so absorbed in her task, unaware of the potential disaster around her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5175519585609436
+    }
+  ]
+}

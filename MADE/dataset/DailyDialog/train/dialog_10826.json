@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10826",
+  "segments": [
+    {
+      "text": "Look , Jim . That man just fell down over there .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "We'd better see if he is ok .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sir , sir , are you all right , sir ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "He is not answering . You'd better check his pulse and breathing .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , no . He is not breathing and there ’ s no pulse . Call 911 .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Hello ? Yes , someone has passed out at Dongle Ave . and 2nd street . He isn't breathing and doesn't have a pulse . Yes , my friend is performing CPR . Ok , thank you . They are sending an ambulance . Here , let me help .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

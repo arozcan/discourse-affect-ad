@@ -1,0 +1,47 @@
+{
+  "id": "dialog_8486",
+  "segments": [
+    {
+      "text": "Good afternoon , Lincoln Corporate Services . Lina speaking , how may I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , Lina . I'm calling about your new PIN scheme . I'm new to all of this , so some of my questions may sound a little ignorant ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's not a problem , I'm more than happy to explain everything in laymen's terms . PIN stands for Personal Internet Banking . You can do all of your usual banking using the Internet , no need to call",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . How about buying and selling items ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "We can take care of that for you , too . You can get all of your usual banking services plus some new extra ones . As this service is net bases , you can do it anywhere .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's good to know , because I do travel quite frequently .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

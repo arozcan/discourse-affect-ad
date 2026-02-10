@@ -1,0 +1,76 @@
+{
+  "id": "monologue_5090",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy on the stool, and I feel a little sick.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4890083074569702
+    },
+    {
+      "text": "He’s reaching so high, and that stool looks like it’s about to collapse.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.37671881914138794
+    },
+    {
+      "text": "The girl is just standing there, waiting for a cookie like nothing’s wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46309950947761536
+    },
+    {
+      "text": "The woman is drying dishes, and she doesn’t even see the water everywhere.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.39145907759666443
+    },
+    {
+      "text": "I wonder if she’ll ever notice the puddle at her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.479266494512558
+    },
+    {
+      "text": "The sink is overflowing, and she’s just acting like it’s a normal day.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46457886695861816
+    },
+    {
+      "text": "The garden outside looks so peaceful, but inside, it’s pure chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.2875276207923889
+    },
+    {
+      "text": "I hope the kids don’t get hurt before someone stops them.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4944975674152374
+    },
+    {
+      "text": "The scene is almost funny, but mostly just stressful.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5280334949493408
+    },
+    {
+      "text": "I wish someone would turn off the water before it gets worse.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.518633246421814
+    }
+  ]
+}

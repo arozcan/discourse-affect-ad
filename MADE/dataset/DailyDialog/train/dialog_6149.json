@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6149",
+  "segments": [
+    {
+      "text": "Good morning , sir . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm Jack in Room 606 . Can you change the room for me ? It's too noisy . My friend was woken up several times by the noise from upstairs . He said it was too much for him .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm awfully sorry , sir . I do apologize . A ten-year-old boy and a mother live upstairs . Maybe the boy is a little bit naughty .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Anyway , I'd like to change our room .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem , sir . We'll manage it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

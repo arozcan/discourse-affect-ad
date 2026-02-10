@@ -1,0 +1,75 @@
+{
+  "id": "dialog_9484",
+  "segments": [
+    {
+      "text": "Hello , Lincoln Bank . Kristy speaking , how may I help you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , Kristy . Could I speak to the department that deals with credit card applications , please ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I can deal with that , Sir . Are you interested in our personal or corporate card ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "The personal card , please . Is it possible to take care of this over the phone ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm sorry , Sir , but you will need to come in to your local branch to deal with the application procedure . Come in and fill out an application form and let us have a duplicate of your ID card . You'll also need a copy of your guarantor's and he or she will need to sign the form , too .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK ... and what deposit do I need ? I mean , is there a minimum deposit ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "You'll need to deposit 1,500 RIB initially . There will also be some small additional charges for this service .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's no problem . How long will the whole thing take ? A week ? 10 days ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "It should all be sorted out within 5 working days after receipt of the required documents .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Right , I'll contact my guarantor now and we'll come in within the next couple of days . Thanks very much for your help . Goodbye .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

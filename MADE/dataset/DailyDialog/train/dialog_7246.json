@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7246",
+  "segments": [
+    {
+      "text": "Hello , how can I help you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I would like to open a Current Account , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , please fill in a Deposit Slip . All you need to do is to write the amount here and your name over here , on this line . I'll take care of the rest . First , could I see some ID ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's great , here you are . This is my passport .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5072",
+  "segments": [
+    {
+      "text": "Good afternoon , how can I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi there . I'd like to draw some cash from my Fund Account at the Securities Company . Could I check my balance before I withdraw anything ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course . Your balance is 92,320 RIB in your Securities Account . How much would you like to withdraw ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'd like 20,000 RIB , please . If that's possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . Please fill in this transfer form that will authorise us to send the amount from the Securities Company to your account .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

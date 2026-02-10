@@ -1,0 +1,82 @@
+{
+  "id": "dialog_58",
+  "segments": [
+    {
+      "text": "I have a cell phone in my car . Now it's probably on the floor on the passenger side.Why don't you get it for me , and then I can call the police ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Alright .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "It doesn't work . It looks like it's broken . I need to get to a hospital . You should drive me there .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , yeah ? It's better if we make a police report first . Then you can go to the hospital .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Damn it ! I'm injured here . We could wait all day for the police .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , you'll just have to wait . I'm not going to move my car until the police arrive . I'll go into one of those houses over there and use their phone . Don't worry . You'll get to the hospital in time .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "It really hurts .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Yes , maybe it does.But if you're going to drive like you did just now , you will have to get used to a little physical pain . You know what I mean ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "To hell with you . The accident was your fault .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm afraid it wasn't . And when the police get here , you will also see that it wasn't . But enough of this bickering . I'm going to go find a phone.Don ' t move that arm while I'm gone . Alright ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "To hell with you .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

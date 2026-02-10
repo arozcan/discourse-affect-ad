@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9943",
+  "segments": [
+    {
+      "text": "Hello , Ms . Murphy ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes ? Who ’ s calling ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s John Anderson . I ’ m afraid I ’ m going to be out sick today . I ’ Ve got a nasty cold . I hope you don ’ t mind , ma ’ am .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , that ’ s no problem . I ’ m sorry to hear you ’ re not feeling well . Get some rest . If you need to see a doctor , let me know .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

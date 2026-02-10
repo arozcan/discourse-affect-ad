@@ -1,0 +1,54 @@
+{
+  "id": "dialog_2743",
+  "segments": [
+    {
+      "text": "How was the movie last night ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I didn't really like it .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Mary said that she was really pleased with the photography .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I found it very disappointing .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "She liked the acting , too , because that's what she wanted to see .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I wasn't happy with it .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Nothing is to your satisfaction .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

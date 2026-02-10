@@ -1,0 +1,26 @@
+{
+  "id": "dialog_7209",
+  "segments": [
+    {
+      "text": "Miss , which is the movie channel ? I can't find it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let me help you . OK , this is the one you want . Push this button to change the channel . We have 6 channels in all . Have a good day .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thanks so much .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

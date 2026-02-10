@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10908",
+  "segments": [
+    {
+      "text": "Martin ? Did you remember to bring back that software I lent you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , Kate ! I ’ m sorry . It completely slipped my mind !",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "That ’ s okay , Martin . If you could just bring it in tomorrow , I ’ d appreciate it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Definitely . I ’ m really sorry !",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

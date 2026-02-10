@@ -1,0 +1,40 @@
+{
+  "id": "dialog_11022",
+  "segments": [
+    {
+      "text": "Hi , boss . You wanted to see me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Zina . Look , I know when I hired you , I told you I'd pay you a salary . But I just can't .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Excuse me ? I hope I didn't just hear what I think I just heard .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I know it's awkward , but you're going to be thanking me later . I'm going to make you rich .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "You're going to make me rich by not paying me ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 2
+    }
+  ]
+}

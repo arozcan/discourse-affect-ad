@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5562",
+  "segments": [
+    {
+      "text": "Excuse me , Ms . Montgomery ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m sorry , Jeff . Please don ’ t interrupt me right now . I ’ m in the middle of a conversation .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , I ’ m sorry , Ms . Montgomery . I ’ ll come back later .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s all right . I ’ ll be finished in a little while .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

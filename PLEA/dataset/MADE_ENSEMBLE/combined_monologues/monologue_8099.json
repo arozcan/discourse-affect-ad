@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8099",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen is turning into a soggy mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6142815947532654
+    },
+    {
+      "text": "Water from the sink is spilling everywhere, drenching the floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3773166537284851
+    },
+    {
+      "text": "The woman's just standing there, drying that plate without looking down.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4996510148048401
+    },
+    {
+      "text": "Her foot's wet, but she keeps going like it's fine.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5890880823135376
+    },
+    {
+      "text": "Dishes are stacked neatly on the counter, untouched by the flood.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8723450899124146
+    },
+    {
+      "text": "Now the kids are raiding the cookie jar on the sly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7074148654937744
+    },
+    {
+      "text": "The boy's on that shaky stool, about to topple.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7765874862670898
+    },
+    {
+      "text": "I can't believe they're risking it for cookies.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5909488201141357
+    },
+    {
+      "text": "The girl's reaching up, eager for her share.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6077796220779419
+    },
+    {
+      "text": "The whole scene makes me worry about slips and falls.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6982743740081787
+    },
+    {
+      "text": "Outside the window, everything's dry and orderly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.862255871295929
+    },
+    {
+      "text": "It's sad how the interior is falling apart unnoticed.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8225523233413696
+    }
+  ]
+}

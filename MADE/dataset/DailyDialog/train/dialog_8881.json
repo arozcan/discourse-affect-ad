@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8881",
+  "segments": [
+    {
+      "text": "I'd like to cancel my reservation on flight MS701 to Warsaw on the 23rd.My name is Michael .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Hold on for a moment . ( a few minutes later ) I have cancelled your reservation.Shall I make another one for you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , thanks .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I see . Please call us again for any further reservation.Thanks for calling us .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6017",
+  "segments": [
+    {
+      "text": "Hello . Mr . Rodriguez ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . Is this Paula ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , sir . I ’ Ve just dropped those slides off at the Winthrop office . Do you need anything else while I ’ m out ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , that ’ s all right . Paula . Why don ’ t you get something to eat , and I ’ ll see you this afternoon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

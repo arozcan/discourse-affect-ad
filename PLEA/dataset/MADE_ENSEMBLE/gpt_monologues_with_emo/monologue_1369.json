@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1369",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the woman at the sink, completely focused on her task of drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9004067778587341
+    },
+    {
+      "text": "Her dress is lovely, but what's more striking is her obliviousness to the water overflowing the sink.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5108950734138489
+    },
+    {
+      "text": "I can’t help but feel a pang of worry for her; the floor is getting dangerously slippery.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6100344657897949
+    },
+    {
+      "text": "She looks so serene, like she is in another world, while everything around her is falling apart.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.44429686665534973
+    },
+    {
+      "text": "The children are up to no good, and she doesn’t even notice!",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5846908092498779
+    },
+    {
+      "text": "The boy is reaching for cookies, perched on that flimsy stool that’s clearly one step away from disaster.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4580475091934204
+    },
+    {
+      "text": "The girl stands there, with her hand raised in anticipation, adding to the chaos without a clue of the consequences.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.37518972158432007
+    }
+  ]
+}

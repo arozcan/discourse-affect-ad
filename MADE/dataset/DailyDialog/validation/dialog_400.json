@@ -1,0 +1,26 @@
+{
+  "id": "dialog_400",
+  "segments": [
+    {
+      "text": "Excuse me , sir . Is there anything I can do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I bought the can two days ago , but today I found that is beyond the guarantee period .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me see . I am sorry , sir . We will change another one for you . Please wait a moment .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 3
+    }
+  ]
+}

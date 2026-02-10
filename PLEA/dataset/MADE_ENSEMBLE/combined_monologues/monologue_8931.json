@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8931",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "The scene hits me with a wave of sadness.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9536020755767822
+    },
+    {
+      "text": "That poor woman, so unaware of the chaos around her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5508974194526672
+    },
+    {
+      "text": "Water flooding from the sink, damaging all in its path.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40397509932518005
+    },
+    {
+      "text": "She's drying the plate like nothing's wrong.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7077054977416992
+    },
+    {
+      "text": "The children are risking it all for some cookies.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3908848762512207
+    },
+    {
+      "text": "The boy's stool is about to give, I can tell.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7398116588592529
+    },
+    {
+      "text": "Girl's just standing there, expecting her treat.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4775453805923462
+    },
+    {
+      "text": "This negligence could lead to real harm.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4478175640106201
+    },
+    {
+      "text": "The garden outside seems like a safe haven.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5774606466293335
+    },
+    {
+      "text": "I wish someone would intervene before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49678337574005127
+    },
+    {
+      "text": "The puddle's growing, inviting accidents.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49714818596839905
+    },
+    {
+      "text": "Cookies aren't worth the potential heartbreak.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5123231410980225
+    },
+    {
+      "text": "It's all so avoidable, yet here we are.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.3917185068130493
+    }
+  ]
+}

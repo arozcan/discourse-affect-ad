@@ -1,0 +1,47 @@
+{
+  "id": "dialog_7644",
+  "segments": [
+    {
+      "text": "I'll try one of these on . ( The customer tries one of the shoes on . ) It's too big . It slides up and down my heel when I walk around .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , let's try a size ten . ( He gets another pair and the customer tries a shoe on . ) Looks like a perfect fit .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Not really . It pinches my toes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I'm sure they'll be fine once you break them in .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don't know ... well , I guess I'll take them , since you don't seem to have anything better .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you , ma'am . It's been a pleasure doing business with you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

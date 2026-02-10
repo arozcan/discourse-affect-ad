@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10658",
+  "segments": [
+    {
+      "text": "I'm looking forward to our son's graduation this weekend .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes . So am I . But what will he do after graduation ? He really needs to go to college .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , dear , we can't force him to go to college . It's up to him .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I know that but he has to learn to be independent . He can't just keep living at home .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

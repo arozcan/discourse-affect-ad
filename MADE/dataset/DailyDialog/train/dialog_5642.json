@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5642",
+  "segments": [
+    {
+      "text": "Welcome to Super Stereos . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'd like to look at your stereo systems . Do you have anything on sale ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , this system over here is on sale for $ 1,000 . As you can see , all of the components are brand-name .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "But it doesn't have a turntable . I have a fair number of vinyl records , so I need something to play them on .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Our selection of stereo systems with turntables is somewhat limited , but we do have this system over here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

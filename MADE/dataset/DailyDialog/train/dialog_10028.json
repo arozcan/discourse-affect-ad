@@ -1,0 +1,110 @@
+{
+  "id": "dialog_10028",
+  "segments": [
+    {
+      "text": "Can I see the doctor ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , do you have an appointment ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I don't .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well . The doctor doesn't see nobody without an appointment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , I am spending my vacation here and I have a stomachache and ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I see . Maybe we can fit you in at 3 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ d prefer to see him asap . If I have to wait for another 30 mins , I think I will faint from this unbearable pain in my stomach and ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Oh , why didn't you say it's an emergency ? Here , fill out this form and take a seat . I'll send you in next.You don't have insurance ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , not for this country .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "How about traveler's insurance ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I didn't think I ’ d need it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can you pay cash , then ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    },
+    {
+      "text": "Cash , credit card , cheque anything . I just have to see a doctor . I am in pain .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 12,
+      "dialog_act": 4
+    },
+    {
+      "text": "All right , all right , relax . I am only trying to do my job .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "I know . I am sorry that I yelled at you .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 14,
+      "dialog_act": 4
+    }
+  ]
+}

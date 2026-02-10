@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0342",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen, everything seems so ordinary at first.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6443750858306885
+    },
+    {
+      "text": "The woman is busy with dishes, her back to the room.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9350645542144775
+    },
+    {
+      "text": "Water is running from the faucet, filling the sink to the brim.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9220960736274719
+    },
+    {
+      "text": "It's spilling over onto the floor, making a big mess.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4800122380256653
+    },
+    {
+      "text": "She's standing right there, oblivious to it all.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5221312046051025
+    },
+    {
+      "text": "The kids are up to no good with that cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.39936256408691406
+    },
+    {
+      "text": "The boy is stretched out on that shaky stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9431261420249939
+    },
+    {
+      "text": "One wrong move and he'll come tumbling down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4809655547142029
+    },
+    {
+      "text": "The girl is just waiting, her eyes full of expectation.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6437110304832458
+    },
+    {
+      "text": "This could end so badly with the wet floor and all.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3590583801269531
+    },
+    {
+      "text": "I wish someone would notice before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4972078800201416
+    },
+    {
+      "text": "The open window shows a nice garden, but inside it's a disaster waiting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3848852813243866
+    },
+    {
+      "text": "How can she not hear the water splashing?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8957245349884033
+    }
+  ]
+}

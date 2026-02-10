@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1807",
+  "segments": [
+    {
+      "text": "Good morning . Phyllis Seymour speaking .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hi , Ms . Seymour ? It ’ s Allan Parker . I ’ Ve been waiting to call you and thank you for all your help last week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you very much , Mr . Parker . But , that is my job .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , I want to let your boss know that she ’ d better hold on to you ! You ’ re a hard worker !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

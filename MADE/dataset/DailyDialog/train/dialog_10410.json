@@ -1,0 +1,61 @@
+{
+  "id": "dialog_10410",
+  "segments": [
+    {
+      "text": "Sam , you ’ Ve got to forgive me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Forgive you for what ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I used your computer . And I ’ m afraid I ’ Ve erased your personal files accidentally .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "No ! Are you kidding me ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m afraid not . I apologize .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I can ’ t believe it ! I have all my important personal documents stored in that computer . It ’ s no laughing matter .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I told you I ’ m sorry . What can I do to make it up to you ?",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , you should be sorry ! Don ’ t ever use my computer again ! You can ’ t do anything now , it ’ s too late !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

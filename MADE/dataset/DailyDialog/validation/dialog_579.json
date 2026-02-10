@@ -1,0 +1,26 @@
+{
+  "id": "dialog_579",
+  "segments": [
+    {
+      "text": "I have been very busy this year , working late , often taking work home and taking no vacation . I feel exhausted .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "You should ask for a holiday and relax yourself for a little bit . You worked so hard .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "You are right . For the past few weeks , I had no appetite and couldn ’ t sleep well . What ’ s worse my back started aching this Monday . It is time for me to take a vacation .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 3
+    }
+  ]
+}

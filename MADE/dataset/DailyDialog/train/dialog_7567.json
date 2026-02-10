@@ -1,0 +1,47 @@
+{
+  "id": "dialog_7567",
+  "segments": [
+    {
+      "text": "I'm sorry , Julia ! I can't get home early this evening .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ? But today is my birthday !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know , darling . But I do have a lot of work to do , hope you can understand me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "But Steven , why don't you ask for a leave ? ... Steven , why don't you speak ? Are you still there ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , Julia ? I can't hear you clearly . I'm afraid the line is out of order . Okay , B , listen ! How about I hang up now and call you back later ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Okay ! Bye !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_9738",
+  "segments": [
+    {
+      "text": "Can you book me a double room for February 22 ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , we won't be able to guarantee you a room for February 22 , but we can book you on February 23.Is that OK ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I guess so .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

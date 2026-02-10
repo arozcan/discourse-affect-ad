@@ -1,0 +1,26 @@
+{
+  "id": "dialog_842",
+  "segments": [
+    {
+      "text": "Excuse me . My name is Dan Ford . I have an appointment with the dentist at 3:30 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , Mr . Ford . The dentist will be ready to see you in a minute . Have a seat .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

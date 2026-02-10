@@ -1,0 +1,110 @@
+{
+  "id": "dialog_1210",
+  "segments": [
+    {
+      "text": "Hello , Jason , there is going to be a screening of Final Destination 3 at our campus cinema tomorrow . I plan to go to see it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is it a horror movie ?",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , I love horror movies . Would you like to go with me tomorrow ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "No way . I will be scared out of my wits .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's funny , I didn't know a big fellow like you could be so soft and timid on the inside .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hey , how would you like to taste my fist ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Alright , all joking aside , what kinds of moves do you like ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Um , let me see , romance , comedy . documentary , action , science fiction , animated and so on .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "That is to say , you like all genres except for horror movies .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah . It seems like we don't speak the same language as far as movies are concerned .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Not quite . I also greatly enjoy romance and comedy .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    },
+    {
+      "text": "The Notebook is this type of movie .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? I haven't heard of it .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 12,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well then , this could be a nice opportunity to enjoy it together . I bet you'd love it .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok . I can't wait to see it . Let's go !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 14,
+      "dialog_act": 1
+    }
+  ]
+}

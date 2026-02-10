@@ -1,0 +1,82 @@
+{
+  "id": "dialog_5184",
+  "segments": [
+    {
+      "text": "You must be Mr.Sellers . I'm Steven . I am here to see the apartment you advertised .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , nice to see you . The apartment is on the tenth floor . The previous tenant just moved out yesterday .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Could I have a look at it first ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . Let me show you the way . Here we are . Apartment 1008 . ( They enter . ) This is the living room dining room combination . Here's the kitchen . It's small , but fully equipped . The refrigerator is new , and the stove and the microwave oven are less than a year old .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "It's nice . So this is the bathroom . And that must be the bedroom .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes . And there's a walk-in closet .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is there air conditioning ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , there's central air conditioning and heating . The thermostat is in the living room 。",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "What's the house rent ? When is the rent due ? And how much security deposit do you require ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's 600 yuan per month.The rent is due no later than the tenth of the month . We ask that you leave a month's rent as a deposit . It will be returned to you at the end of your lease .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "I like the apartment , Mr.Sellers . You can show me the lease .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 3
+    }
+  ]
+}

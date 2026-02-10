@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1970",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I catch a glimpse of the girl, her hand raised in expectation, waiting for her cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.865913987159729
+    },
+    {
+      "text": "There’s something innocent about her eagerness, but it’s paired with a hint of mischief.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4641743004322052
+    },
+    {
+      "text": "I can’t believe the woman hasn’t noticed the chaos unfolding just a few feet away.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8241006135940552
+    },
+    {
+      "text": "The contrast of the tidy garden outside against the burgeoning mess inside is striking.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3690655827522278
+    },
+    {
+      "text": "It feels like a ticking time bomb, with the stool teetering and the water pooling.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.356853723526001
+    },
+    {
+      "text": "I wish I could warn them, but I am here, just watching.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4529534876346588
+    },
+    {
+      "text": "There’s a thrill in their clandestine act, but it makes me uneasy at the same time.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.373281329870224
+    }
+  ]
+}

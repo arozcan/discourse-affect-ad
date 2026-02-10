@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5213",
+  "segments": [
+    {
+      "text": "Well , Mr . Brooks . I ’ m sorry , again , for the delay , but we should have everything completed by the time you get back .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I certainly hope so . Can we arrange to meet on the 27th ? That should give you enough time .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , sir . That ’ s more than enough time . I do appreciate your understanding . Why don ’ t we say 10:00 o ’ clock on the 27th ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine , Mr . Tan . I ’ ll see you then .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

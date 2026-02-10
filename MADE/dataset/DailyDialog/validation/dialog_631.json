@@ -1,0 +1,54 @@
+{
+  "id": "dialog_631",
+  "segments": [
+    {
+      "text": "John , I'd like to see you in my office for a minute .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , sir , I'll be there in just a moment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "John , I have been watching you . I've been paying attention to you over the last quarter and I'm impressed . You've done a tremendous job in tackling some difficult accounts . I just want to let you to know , after this month's performance reviews , I'm recommending you for promotion .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Gosh sir , thank you , sir ! I had no idea there were any positions opening up in our department .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , it's not going to be in our department . I've recommended you for an interdepartmental transfer . There's supervisory spot opening up in financial . I'm turning your name in for it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Management ? Wow , I had no idea I could move so quickly from entry level to managerial staff .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "You've earned it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

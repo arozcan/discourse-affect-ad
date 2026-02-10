@@ -1,0 +1,61 @@
+{
+  "id": "dialog_8802",
+  "segments": [
+    {
+      "text": "Ok , let ’ s go through this one more time . I don ’ t want anymore ruined or dyed blouses !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I know , I know . OK , so I have to separate the colors from the whites and put them in this strange looking contraption so called washing machine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Right . You have to turn it on and program it depending on what type of clothes you are washing . For example for delicates , you should set a shorter washing cycle . Also , be sure to use fabric softener and this detergent when washing .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "So complicated ! Ok , what about this red wine stain ? How do I get it out ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Since this is a white t-shirt , you can just pour a little bit of bleach on it and it will do the trick .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Cool . Then I can just throw everything in the dryer for an hour and it ’ s all set right ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "No ! Since you are washing delicates and cotton , you should set the dryer to medium heat and for twenty minutes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "You know what ? I ’ ll just have everything dry cleaned .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

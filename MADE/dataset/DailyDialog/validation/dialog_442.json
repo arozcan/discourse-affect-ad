@@ -1,0 +1,54 @@
+{
+  "id": "dialog_442",
+  "segments": [
+    {
+      "text": "Excuse me . Would you please make a suit with this material ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . May I take your measurements ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Please don't make it too tight . This is for autumn wear , so make sure you allow for a cardigan underneath .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I see , sir . Can you come back for a fitting on the 10th , that's in a week's time ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "The 10th ? I'm sorry , but you see I'm going to attend an international conference on the 11th . Could you have the suit ready by the 8th , or at the latest , the 9th ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , a business suit usually takes ten days ' time . But in your case , we'll try to have it ready sooner . How about coming for your fitting on the 8th ? Then your suit will be ready for you on the 10th ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's fine , thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

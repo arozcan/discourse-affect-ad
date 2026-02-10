@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1999",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I find it amusing how the girl holds her hand up, as if summoning a cookie from the boy.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5968296527862549
+    },
+    {
+      "text": "Her eager stance is so childlike and innocent; it's hard not to smile.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9141786098480225
+    },
+    {
+      "text": "Yet, there’s danger lurking in their playful mischief, and that worries me.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7104500532150269
+    },
+    {
+      "text": "I can’t shake the feeling that a slip could turn this moment of joy into a disaster.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4753357172012329
+    },
+    {
+      "text": "The woman’s indifference only heightens that sense of impending misfortune.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3698616921901703
+    },
+    {
+      "text": "I notice that the cookies are almost within reach, tempting the boy further.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.638804018497467
+    },
+    {
+      "text": "How easy it is to overlook the risks when you're focused on something sweet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5349805355072021
+    }
+  ]
+}

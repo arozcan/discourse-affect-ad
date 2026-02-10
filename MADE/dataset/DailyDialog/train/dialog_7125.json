@@ -1,0 +1,40 @@
+{
+  "id": "dialog_7125",
+  "segments": [
+    {
+      "text": "Hello , Sir . What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Bill payment , please . I'd like to pay my electricity bill . I heard there's a new way ; I'm sick and tired of all this queuing !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Now , you can do it via our Atms . It's convenient and easy to use . And we have 4 machines in this branch , so the queues are not usually very long .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "So , how do I use it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "You just simply follow the instructions on the screen . You can inquire about your account information and use the self-service payment function .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

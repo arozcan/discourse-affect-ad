@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6734",
+  "segments": [
+    {
+      "text": "Is Mr . Thomas there , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sorry , I can ’ t hear you . Could you please speak up a little ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I said , is Mr . Thomas there ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Pardon ? The line is bad . Don ’ t hang up please . I ’ ll have the call transferred to another line .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "dialog_342",
+  "segments": [
+    {
+      "text": "Hello , the nurse said that you might have my test results in from the other day .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I would like for you to come in and talk about a few more tests that I would like to run .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Does this mean that you have bad news for me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I just want to talk to you about the tests that I want to run .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can ’ t you just tell me now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "I don ’ t know anything for certain . We always do a double check if there is a question .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "I want to see you right away .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "You can come in this afternoon . If you are feeling too stressed , feel free to bring a friend along .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "I know for sure that something is wrong !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don ’ t worry about a thing ; we are just taking a second look and talking .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8046",
+  "segments": [
+    {
+      "text": "Is there any way we could get a better warranty on this product ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I can't give you a better warranty , if you would be willing to agree to an annual contract .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That might not be ideal because there would be some drawbacks to an annual contract situation that might make it difficult to sell to our buyers . What about free delivery ? If we make a large enough order , could you waive the deliver fee ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , our delivery fee could be waived , if you make an order of 50 units or more . We would have to insist on the annual contract , however . I understand it's not the most convenient for you . Perhaps we could shorten it to a sixth month contract if you are willing to take a lower rebate .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "That would be fine . We could accept a lower rebate .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

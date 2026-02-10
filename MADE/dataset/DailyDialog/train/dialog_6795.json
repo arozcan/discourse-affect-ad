@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6795",
+  "segments": [
+    {
+      "text": "Welcome to Lincoln Bank . What can I help you with , Sir ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm not sure if I'm at the right counter , but I need some advice on mortgages , can you help me ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Unfortunately , no , I can't . But our specialist can . Please take a seat and our Mortgage Adviser will come out to see you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "A specialist ? That's excellent , thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "No problem , Sir . He'll be with you in just a minute . Could I get you something to drink while you are waiting ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "A black coffee with 2 sugars would be much appreciated , thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

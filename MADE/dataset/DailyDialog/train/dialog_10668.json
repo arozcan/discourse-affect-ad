@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10668",
+  "segments": [
+    {
+      "text": "Susan ! Why didn ’ t you tell me that you were taking over the Silk Company account ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I thought you knew , Todd . It was decided last week . I guess you weren ’ t at the meeting .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You know I wasn ’ t at the meeting . I was meeting with Mr . Wei about this account . I ’ Ve been on this for a month and a half .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ m sorry . Todd , but Mr . Emory felt that it was going too slowly , and that it needed a fresh start . He should have told you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_2145",
+  "segments": [
+    {
+      "text": "Tom , you're my good friend , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure . What's the matter with you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "The exam ! The terrible exam ! I'm not ready yet . Can you tell me how to get good marks ?",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Don't be so nervous ! Relax ! First , sleep early at night . Second , study two hours a day after school . Third , don't tire yourself out , but don't be lazy . Will that help ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , thank you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

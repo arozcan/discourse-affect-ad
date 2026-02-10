@@ -1,0 +1,104 @@
+{
+  "id": "monologue_7593",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen is a mess, I have to say.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4718405604362488
+    },
+    {
+      "text": "Water overflowing from the sink, soaking everything in sight.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47386109828948975
+    },
+    {
+      "text": "The puddle on the floor is spreading, and the woman's foot is in it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4734429717063904
+    },
+    {
+      "text": "She's drying a plate, completely ignoring the flood.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7282450795173645
+    },
+    {
+      "text": "How gross, with water everywhere and no one stopping it.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7842223644256592
+    },
+    {
+      "text": "The kids are climbing for cookies like little thieves.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4118739366531372
+    },
+    {
+      "text": "The boy's stool is tipping, hand deep in the jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5991030335426331
+    },
+    {
+      "text": "His sister’s reaching up, probably getting crumbs all over.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6766959428787231
+    },
+    {
+      "text": "The counter has stacks of dirty dishes waiting too.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8060862421989441
+    },
+    {
+      "text": "Outside the window, the garden is neat, but inside it's filthy chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.427257776260376
+    },
+    {
+      "text": "I can't stand seeing this sloppiness in a home.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5000193119049072
+    },
+    {
+      "text": "They need to clean up before it's worse.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3998282551765442
+    },
+    {
+      "text": "What a disgusting situation to watch.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9658751487731934
+    },
+    {
+      "text": "The towel she's using might get soaked next.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8304450511932373
+    }
+  ]
+}

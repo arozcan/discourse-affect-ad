@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6212",
+  "segments": [
+    {
+      "text": "We are going to need confirmation on these orders today , and delivery must be made before next Tuesday . Do you think you can handle that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "We are willing to work with you , but do you think it would be possible to extend your confirmation deadline ? We need to check the warehouse to make sure the products are in stock . The earliest I will be to get back to you is tomorrow morning .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , I must know today because we have to go to press for the advertisements . Is there anyway you can speed up the process of checking inventory ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "We can do that , but it will cost ... If we have to check our inventory with all our guys on overtime , you're looking at an increased cost of , I'd say , maybe 10 % .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Are you kidding ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , and let me tell you why ... If I make my guys stay over to check the inventory , I'll have to pay them at an overtime rate , which is time and a half . I estimate it will probably take 3 guys two hours to finish , that will be an increase on your labor fee by at least 10 % ... if you need the numbers that urgently , I can have them do it . Otherwise , we can wait until tomorrow morning , and I'll call you with the numbers after they're done . It's your call ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1600",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the woman at the sink, diligently polishing a plate without a care in the world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8257977366447449
+    },
+    {
+      "text": "It strikes me as odd that she hasn’t noticed the water spilling over the sink.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4860168397426605
+    },
+    {
+      "text": "I can’t help but feel a twinge of concern as the water creeps closer to her feet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.38317275047302246
+    },
+    {
+      "text": "The children are full of energy, and their playful mischief makes my heart race a little.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9132089018821716
+    },
+    {
+      "text": "I notice the boy perched precariously on the stool, reaching for cookies.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7318135499954224
+    },
+    {
+      "text": "His stance looks unstable, and I fear the moment he tips backward into the puddle.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8561254143714905
+    },
+    {
+      "text": "Meanwhile, the girl stands there, eager and expectant, as if she knows she’s breaking the rules.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4141768217086792
+    }
+  ]
+}

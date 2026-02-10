@@ -1,0 +1,47 @@
+{
+  "id": "dialog_7513",
+  "segments": [
+    {
+      "text": "Hi , Francis , morning ! How are you doing today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I had a bad start of the day . I was stuck in a bad traffic jam on my way and I missed my morning meeting .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Indeed , I agree that is not a good start . How about the meeting ? You missed anything important ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It is ok . My boss briefs me later on .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Was he unhappy with you not attending the meeting ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Err , kind of . You know this traffic jam is really bad with so many new cars hitting the streets these days .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

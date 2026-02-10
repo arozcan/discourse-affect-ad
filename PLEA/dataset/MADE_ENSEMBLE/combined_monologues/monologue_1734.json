@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1734",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the light filtering in through the window, illuminating the chaos in the kitchen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.821037769317627
+    },
+    {
+      "text": "It should be a peaceful scene, but the bubbling water creates a tension that’s hard to ignore.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3874478042125702
+    },
+    {
+      "text": "The woman’s casual demeanor feels almost inappropriate given the circumstances.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4726267457008362
+    },
+    {
+      "text": "I can't help but feel frustrated; how can she not notice the impending mess?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8627824783325195
+    },
+    {
+      "text": "The warm garden outside seems to mock the turmoil inside the house.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6514731645584106
+    },
+    {
+      "text": "I think about how someone is bound to slip, and it could all turn into an accident.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4254942238330841
+    },
+    {
+      "text": "The children's secretive little operation is thrilling yet makes me uneasy.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3947063088417053
+    }
+  ]
+}

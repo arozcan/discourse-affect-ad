@@ -1,0 +1,26 @@
+{
+  "id": "dialog_3590",
+  "segments": [
+    {
+      "text": "I want to have Mexican food for dinner .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm tired of Mexican food . Besides , you picked the restaurant last week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK , you win . You pick the restaurant this time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

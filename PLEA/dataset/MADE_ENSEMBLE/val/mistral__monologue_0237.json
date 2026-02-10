@@ -1,0 +1,69 @@
+{
+  "id": "monologue_0237",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I’m disgusted by how messy this kitchen is becoming.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9119840860366821
+    },
+    {
+      "text": "The water is just pouring out, and no one is doing anything about it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6483157277107239
+    },
+    {
+      "text": "The children are being so sneaky, and it’s really unpleasant to watch.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4475507140159607
+    },
+    {
+      "text": "The woman is just standing there, completely oblivious to everything.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.37378478050231934
+    },
+    {
+      "text": "The boy is going to fall, and it’s going to be a huge mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4937831461429596
+    },
+    {
+      "text": "The girl is just waiting for a cookie, not caring about anything else.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45612677931785583
+    },
+    {
+      "text": "This whole situation is just so unpleasant and avoidable.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4614603817462921
+    },
+    {
+      "text": "I wish someone would just clean up the water before it gets worse.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5238141417503357
+    },
+    {
+      "text": "The children should know better than to do this right now.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6336965560913086
+    }
+  ]
+}

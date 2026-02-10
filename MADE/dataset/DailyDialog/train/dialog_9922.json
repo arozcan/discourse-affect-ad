@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9922",
+  "segments": [
+    {
+      "text": "Peter , it's time to go home now ! Hurry up !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ten more minutes , mom . Please !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Honey , it's almost noon . We have to go home and make lunch for your sister .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I bet she will hang around with her mates after school .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Peter , it's a quarter to twelve . Let's go home now !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

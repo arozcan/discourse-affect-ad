@@ -1,0 +1,33 @@
+{
+  "id": "dialog_599",
+  "segments": [
+    {
+      "text": "I'm calling to tell you that the merchandise ordered last month has not arrived yet .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry , hold on a moment . I'll check it out . But we have already shipped it to you last month . Would you like us to contact the express company to know what's going on ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Please find out the reason as soon as possible . We are in bad need of it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , I am terribly sorry for the trouble you are getting into.We will contact you first thing , once we know the reason .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

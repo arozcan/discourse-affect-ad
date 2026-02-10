@@ -1,0 +1,40 @@
+{
+  "id": "dialog_382",
+  "segments": [
+    {
+      "text": "Jeff , look at this listing ! It says there is a cozy studio apartment for rent , and it's only $ 700 per month . What do you think ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well I think I can afford that apartment . But are pets allowed ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hmm ... let me look . Yes , it says it's a pet-friendly building .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's great . That means I can bring my cat , Mr . Twinkles . Where is the apartment located ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "It says it's located in the suburbs .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

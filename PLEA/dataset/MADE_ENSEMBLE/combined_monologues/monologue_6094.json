@@ -1,0 +1,76 @@
+{
+  "id": "monologue_6094",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing and I feel a sense of disgust.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9528042674064636
+    },
+    {
+      "text": "The puddle on the floor looks dirty and slippery.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3093649744987488
+    },
+    {
+      "text": "The woman is standing in it, completely unaware.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5792961120605469
+    },
+    {
+      "text": "The children are being quite sneaky, taking cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6373154520988464
+    },
+    {
+      "text": "The boy is standing precariously on a stool, reaching for the jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9153704643249512
+    },
+    {
+      "text": "I feel a bit sick watching him, knowing he could fall.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5628560185432434
+    },
+    {
+      "text": "His sister is waiting eagerly, her hand outstretched.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7740556597709656
+    },
+    {
+      "text": "The whole scene is a bit nauseating, to be honest.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9067571759223938
+    },
+    {
+      "text": "I can't believe how careless everyone is being.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5791539549827576
+    },
+    {
+      "text": "I feel like looking away, but I can't help but watch.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5037817358970642
+    }
+  ]
+}

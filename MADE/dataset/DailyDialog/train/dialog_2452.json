@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2452",
+  "segments": [
+    {
+      "text": "I'm feeling wonderful .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you crazy ? The papers make everybody listless . I don't think you are the exception",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm no exception , and that's why I spent a whole afternoon in the swimming pool .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'd better exercise my body too.My limbs are rusty now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

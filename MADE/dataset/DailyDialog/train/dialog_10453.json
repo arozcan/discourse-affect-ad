@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10453",
+  "segments": [
+    {
+      "text": "Sue ? Do you want to join the softball team ? We need another player .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I haven ’ t played softball since I was in high school !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Come on ! It ’ ll be fun . We play every other Saturday afternoon from May until August .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Okay . I guess I could give it a try .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

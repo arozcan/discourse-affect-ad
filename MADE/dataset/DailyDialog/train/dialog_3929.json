@@ -1,0 +1,75 @@
+{
+  "id": "dialog_3929",
+  "segments": [
+    {
+      "text": "Excuse me . Can you tell me how to find some books on social science ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . You see all these little drawers here and all the way around the walls ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "These drawers contain cards describing every book in our library . Together they constitute the library's \" card catalog \" . You can see that each drawer runs from one part of the alphabet to another . Fox example , this drawer goes from SCA to SCM .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "So if I'm looking for a look called A History of Western Society , I'd just look under ' A ' .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "No . You'd look under ' W ' . The articles ' a ' and ' the ' don't count in our alphabetization , and cards are generally omitted for extremely common words and phrases such as ' history of ' , ' introduction to ' , ' story of ' and so forth .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "What if I don't know the title of the book ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , you can look under the author's name .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Could you give me an example ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "Suppose you want to find a book by your professor , William Smith . You'd look under SMITH and then WILLIAM . Since that's very common name , you may have to go through several ' William Smith ' until you come to the one who wrote book on the subject you are interested in .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    }
+  ]
+}

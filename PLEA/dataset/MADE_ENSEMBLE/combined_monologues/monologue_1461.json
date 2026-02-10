@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1461",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I can’t help but chuckle a bit at the sight of the boy reaching for cookies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6609500646591187
+    },
+    {
+      "text": "But that laughter dies quickly as I see the precarious position he’s in.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.41433995962142944
+    },
+    {
+      "text": "The girl is mimicking his excitement, but it’s all too risky for my liking.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.27674010396003723
+    },
+    {
+      "text": "I wish the woman would look up, notice the water, notice the kids.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5234597325325012
+    },
+    {
+      "text": "It feels so absurd that she stands there while the chaos unfolds.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5025040507316589
+    },
+    {
+      "text": "I wonder if she knows how fragile this moment really is, how quickly it could shatter.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.46949535608291626
+    },
+    {
+      "text": "Will she remember this day as just another ordinary moment in the kitchen?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.42985743284225464
+    }
+  ]
+}

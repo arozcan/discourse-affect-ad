@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2006",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I glance outside the window, where everything looks serene and picturesque.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6604820489883423
+    },
+    {
+      "text": "The garden is perfectly arranged, a world away from the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4429014325141907
+    },
+    {
+      "text": "It almost feels unfair that the woman can’t see the impending disaster behind her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.43068695068359375
+    },
+    {
+      "text": "Why is she so focused on those dishes while her children are about to make a mess?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.48543357849121094
+    },
+    {
+      "text": "I can see the water pooling, and I wonder how long it will take for the cabinets to start absorbing it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5037188529968262
+    },
+    {
+      "text": "The boy is stretching longer, and I can feel my breath hitch in my throat.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40660110116004944
+    },
+    {
+      "text": "What will happen when he finally loses his balance?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5023989081382751
+    }
+  ]
+}

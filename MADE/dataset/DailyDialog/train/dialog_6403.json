@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6403",
+  "segments": [
+    {
+      "text": "What is my schedule for today , Miss Liu ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , you are supposed to meet the president at ten fifteen this morning . Then , you have a lunch appointment with Mr . Clark . And this afternoon at three you are scheduled to speak before a group of seminar participants .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you have the meeting report ready ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

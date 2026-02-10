@@ -1,0 +1,82 @@
+{
+  "id": "dialog_8668",
+  "segments": [
+    {
+      "text": "Hello !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello , is Doris available ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "This is Doris . Who's calling please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , Doris , this is Mike calling from Parker's Dentistry . I'm calling to confirm your appointment for tomorrow morning at 9 am with Dr.Parker .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , I almost forgot . Thank you for calling to remind me . Actually . I do need to change the time of my appointment . I have a scheduling conflict . And I can't make it that early .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "If I put you in at a later spot , would that work out ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "It would have to be after lunch . Do you have anything available about 2 o'clock ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sorry ma'm , the only opening we have after lunch is one fifteen , but I might be able to work you in after 4 . would that be a better time ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s alright , . I think I should be able to make it at one fifteen . Can you put me down for that time slot ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem . I have you appointment changed from tomorrow morning to tomorrow afternoon at one fifteen .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "Wonderful . Thanks very much .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

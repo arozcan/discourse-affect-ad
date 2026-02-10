@@ -1,0 +1,33 @@
+{
+  "id": "dialog_430",
+  "segments": [
+    {
+      "text": "Hi there . Welcome to Lincoln Corporate Services . How can we help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi . I was wondering what kind of fixed asset loans you have ? Do you have Fixed Asset Loans ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , we do . You'll go through the acceptance application , then a first review , then an evaluation and examination and finally get approval . Why don't you read through this brochure ? It outlines all of the important aspects of the loan , the terms and conditions , etc .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's a good idea , to familiarise myself with it . Then , I'll be back if we decide to go ahead .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

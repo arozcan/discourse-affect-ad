@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0049",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the little boy reaching for the cookie jar, his excitement palpable.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8044370412826538
+    },
+    {
+      "text": "He’s almost on tiptoe, and I can’t help but admire his determination.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7795218229293823
+    },
+    {
+      "text": "But then I notice the way the stool is tilting and it makes me feel anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9152357578277588
+    },
+    {
+      "text": "What if he falls? The image of him crashing down makes my stomach twist.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5363015532493591
+    },
+    {
+      "text": "The girl seems to be encouraging him, her arm raised eagerly for a cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7024198770523071
+    },
+    {
+      "text": "I think it’s sweet how they’re working together, but it’s also wildly irresponsible.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4270296096801758
+    },
+    {
+      "text": "The kitchen, typically a haven of warmth, feels fraught with potential danger right now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6486191749572754
+    }
+  ]
+}

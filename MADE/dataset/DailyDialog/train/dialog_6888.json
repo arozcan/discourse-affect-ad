@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6888",
+  "segments": [
+    {
+      "text": "Is that a no-smoking sign ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it is . As you know , some of the materials we use are highly-flammable so we have a very strict non-smoking policy in the factory .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What does that sign mean ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "It means there must be no naked flames or sparks anywhere near flammable materials . If the materials ignite , it could cause a serious fire and the fumes they give off can be very dangerous if you inhale them .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

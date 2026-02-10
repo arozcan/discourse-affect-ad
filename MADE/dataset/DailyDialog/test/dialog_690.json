@@ -1,0 +1,54 @@
+{
+  "id": "dialog_690",
+  "segments": [
+    {
+      "text": "Hey , what's new ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not much . Just sitting here eating some Chinese food . Is that the paper ? Why don't you open it and tell me my horoscope ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Ok , wait a minute ... let's see . I'm a Taurus , and it says , Mars is in the third house , and is soon to eclipse Venus . I don't know what that means , but then it says , Your charm and drive will win others over to your way of thinking . Remember to be positive . Sounds good to me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about Gemini ? What's the prediction ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Since Mercury has crossed paths with Jupiter , your fortunes are falling . Bad luck will follow you today , and you will lose that which you value . Be careful .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That sounds bad ! I'm really worried , what should I do ? Maybe I should go home and stay in the rest of the day .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "But we have a date tonight ! You can't stay at home because of a stupid horoscope .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1041",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Oh no, the sink is overflowing, and she's not even looking at it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4638439118862152
+    },
+    {
+      "text": "Water is everywhere, streaming down the cabinets and pooling on the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5237067341804504
+    },
+    {
+      "text": "If she slips in that puddle, it could be really bad.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5913280248641968
+    },
+    {
+      "text": "The boy is balanced on that stool, and it's starting to tip backward.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5955305099487305
+    },
+    {
+      "text": "He's reaching into the cookie jar with one hand, holding a plate with the other— so unstable.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3867981731891632
+    },
+    {
+      "text": "What if he falls and hits his head on the counter?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4920620918273926
+    },
+    {
+      "text": "The girl is right there, reaching up, and she might get knocked over too.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8365243077278137
+    },
+    {
+      "text": "The window shows a nice garden, but inside it's a hazard zone.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.612747073173523
+    },
+    {
+      "text": "I hope the stool doesn't give way right now.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49840405583381653
+    },
+    {
+      "text": "The faucet is still running full blast, making it all worse.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5217272043228149
+    },
+    {
+      "text": "She's drying the plate so calmly, but disaster is inches away.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44480210542678833
+    },
+    {
+      "text": "The children are sneaking cookies, but the risk is too high.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7295859456062317
+    }
+  ]
+}

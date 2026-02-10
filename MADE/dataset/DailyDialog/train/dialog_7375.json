@@ -1,0 +1,61 @@
+{
+  "id": "dialog_7375",
+  "segments": [
+    {
+      "text": "Excuse me , I ’ Ve been waiting here for fifteen minutes.Do you know why the traffic is so heavy ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "A lorry overturned on the road and blocked it , so all the traffic was held up .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , what a terrible situation ! This traffic is unbearable .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , traffic was brought to a standstill by the accident . If we had gone early we would miss the traffic .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I agree with you . But now we have to wait . The sky is overcast , and it is very sultry . I fear a thunder storm is brewing .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don ’ t worry . The traffic jam is said to be over soon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , I hope so . Thank you for telling me this .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "It ’ s my pleasure .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

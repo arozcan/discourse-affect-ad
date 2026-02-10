@@ -1,0 +1,26 @@
+{
+  "id": "dialog_5214",
+  "segments": [
+    {
+      "text": "Would you like me to fill out the form ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I suppose so , but don't rush . I've got to tell you how to do it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's very kind of you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

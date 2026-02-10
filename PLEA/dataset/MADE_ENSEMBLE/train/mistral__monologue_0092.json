@@ -1,0 +1,83 @@
+{
+  "id": "monologue_0092",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing, and I feel a little sad.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9849172830581665
+    },
+    {
+      "text": "The woman is just standing there, drying dishes like nothing’s wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42226600646972656
+    },
+    {
+      "text": "She doesn’t even seem to notice the puddle at her feet.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5983011722564697
+    },
+    {
+      "text": "The kids are being sneaky, and it’s kind of sweet.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8886651992797852
+    },
+    {
+      "text": "The boy is reaching for cookies, and the stool looks so unstable.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3559685945510864
+    },
+    {
+      "text": "The girl is just waiting for her turn, and it’s almost peaceful.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7957854270935059
+    },
+    {
+      "text": "The garden outside looks so calm compared to the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3633342981338501
+    },
+    {
+      "text": "I wonder if the woman will ever turn around and see what’s happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4879029393196106
+    },
+    {
+      "text": "The whole scene feels like a quiet moment before something goes wrong.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7118393182754517
+    },
+    {
+      "text": "I hope the kids are careful and don’t get hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5894302725791931
+    },
+    {
+      "text": "The water is going to ruin the floor, and no one seems to care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3276873528957367
+    }
+  ]
+}

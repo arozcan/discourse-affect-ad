@@ -1,0 +1,61 @@
+{
+  "id": "dialog_6683",
+  "segments": [
+    {
+      "text": "It's my first visit to Prague , I'll be here for three days for a conference , then I have a day on my own to do some sightseeing before I head back home . What do you suggest I see when I'm here ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "There are many interesting places you should be sure to see . One problem is transportation , however . Because the city is very old , the roads are narrow and congested . If you only have three or four days to visit , you don't want to spend them waiting in traffic in a cab . I suggest you take the subway .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "The subway ? But is there a subway station next to my hotel ? I have to go between the conference center and the hotel several times a day ...",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No worries , there's a subway station at the conference center itself , and a shuttle from your hotel to the conference center that takes only 5 minutes . When you do your personal sightseeing , you can first take the shuttle to the conference center , then hop on the metro .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is it expensive to ride on the underground ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can get a daily pass that will allow you to travel unlimited for the whole day for about 6 dollars . Otherwise , you can pay by trip , which is about 50 cents to 2 dollars each trip , depending on how far you go .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is it easy to get lost ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , no ... . it's very hard to get lost . There are two lines , one that goes in a circle , the other that is straight . If you get lost , there are always subway attendants that can help you find your way .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

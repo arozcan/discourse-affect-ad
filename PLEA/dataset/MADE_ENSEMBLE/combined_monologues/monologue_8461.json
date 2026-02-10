@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8461",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I can't believe what I'm seeing in this kitchen drawing.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9271217584609985
+    },
+    {
+      "text": "The adult is drying dishes, oblivious to the disaster brewing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5229294300079346
+    },
+    {
+      "text": "The sink is full to the brim, water cascading down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8164709806442261
+    },
+    {
+      "text": "Puddle spreading fast, her shoe's wet and she doesn't care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3772856593132019
+    },
+    {
+      "text": "Curtains are pulled back from the window, showing a calm yard.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8885632753372192
+    },
+    {
+      "text": "Inside, it's anything but calm with the kids up to no good.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5347965359687805
+    },
+    {
+      "text": "Boy climbing on that shaky two-step stool toward the cabinet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7754352688789368
+    },
+    {
+      "text": "He's got one hand in the cookie jar, the other holding a plate.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6468427181243896
+    },
+    {
+      "text": "The girl next to him is reaching up, expecting a treat.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9072580933570862
+    },
+    {
+      "text": "They're cooperating in this little theft, so cute yet risky.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9178506135940552
+    },
+    {
+      "text": "If the stool tips, he could fall right onto the wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4546651244163513
+    },
+    {
+      "text": "And slip, breaking dishes or worse.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.501905620098114
+    },
+    {
+      "text": "Mom needs to notice soon.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4689348042011261
+    }
+  ]
+}

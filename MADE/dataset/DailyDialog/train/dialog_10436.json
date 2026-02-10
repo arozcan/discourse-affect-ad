@@ -1,0 +1,54 @@
+{
+  "id": "dialog_10436",
+  "segments": [
+    {
+      "text": "Hi , Sven , can you help me ? Could you hold the end of the tape measure , please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Of course , where do you want me to stand ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just there by the door . I need to measure the length of this workbench . We're going to replace it . OK - 3 m 47 cm . Let's round it up to 3 m 50 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm glad you're replacing it . We need more space to work on things . How deep will the new workbench be ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Tell me what size you want and I'll order the wood .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , it's about 65 cm at the moment . Could we increase it by about a third ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . So let's see . We need a piece of wood 3.5 m long by 1 m wide . I'll order it right away and I'll be able to install it next Tuesday .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

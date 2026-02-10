@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6484",
+  "segments": [
+    {
+      "text": "Welcome to IBA . What can we do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's a bit of a problem situation , actually ... you see , our company has a Corporate Account with you , but unfortunately , we've been experiencing cash flow problems recently .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry to hear that . We value all of our customers , regardless of circumstances . What can we do to help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "We are going to need a loan . I'm not sure what loan is suitable for us , though .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "If you think it will be very short-term , I would recommend you go with the 60 - day loan . Then it can be paid back quicker , so you won't have to consider it in the future .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "That seems like a good idea , it's for wages , you see .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

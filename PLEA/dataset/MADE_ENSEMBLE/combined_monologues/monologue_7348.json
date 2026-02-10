@@ -1,0 +1,76 @@
+{
+  "id": "monologue_7348",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water pouring over the edge of the sink, and it's making me sad.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9854376316070557
+    },
+    {
+      "text": "It's spreading quickly, and no one seems to notice or care.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3765147626399994
+    },
+    {
+      "text": "The woman is just standing there, drying dishes like nothing is wrong.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4171115756034851
+    },
+    {
+      "text": "I notice the dishes stacked on the counter, and I wonder if they're going to get ruined by the water.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5142815113067627
+    },
+    {
+      "text": "The cabinets are getting soaked, and I can already see the damage being done.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4532195031642914
+    },
+    {
+      "text": "I think someone needs to turn off that faucet before it's too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4702838063240051
+    },
+    {
+      "text": "But no one is doing anything about it, and it's making me feel helpless.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.47435715794563293
+    },
+    {
+      "text": "I can't believe how much water is on the floor, and no one is doing anything to stop it.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7953935861587524
+    },
+    {
+      "text": "I feel like I need to do something, but I'm frozen in place and don't know what to do.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.46411073207855225
+    },
+    {
+      "text": "This is a disaster waiting to happen, and I can't look away, but I also can't bring myself to help.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49274879693984985
+    }
+  ]
+}

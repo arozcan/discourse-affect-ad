@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0844",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "What a typical kitchen scene, with the window open to the garden outside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5116795301437378
+    },
+    {
+      "text": "The woman is polishing that plate so meticulously.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.2951149344444275
+    },
+    {
+      "text": "I can see the garden path and bushes through the panes.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8747862577438354
+    },
+    {
+      "text": "But the faucet is running full blast into the sink.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7780958414077759
+    },
+    {
+      "text": "Why hasn't she turned it off? The water's spilling everywhere!",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5316354036331177
+    },
+    {
+      "text": "It's soaking the cabinets and flooding the floor.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4273872375488281
+    },
+    {
+      "text": "The kids are up to no good over there by the cabinets.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.870972752571106
+    },
+    {
+      "text": "That boy on the stool is going to fall and hurt himself.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5568113923072815
+    },
+    {
+      "text": "The stool is tilting back precariously.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5216079354286194
+    },
+    {
+      "text": "He's got his hand in the cookie jar, sneaking treats.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4713258147239685
+    },
+    {
+      "text": "The girl is helping him, reaching for a cookie too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9023793339729309
+    },
+    {
+      "text": "This is so irresponsible; she should be watching them.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5241485834121704
+    },
+    {
+      "text": "The puddle is getting bigger; someone could slip badly.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5373675227165222
+    },
+    {
+      "text": "I just can't believe she's oblivious to all this chaos.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8914185762405396
+    }
+  ]
+}

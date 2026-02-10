@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8004",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I can't help but feel upset seeing the sink overflow like that.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8654507994651794
+    },
+    {
+      "text": "The water is ruining the cabinets, streaming down without mercy.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3644177317619324
+    },
+    {
+      "text": "That poor woman is so engrossed in her dish drying she misses it all.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.47296708822250366
+    },
+    {
+      "text": "Her neutral face amid the disaster just boils my blood.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5034775733947754
+    },
+    {
+      "text": "The children are risking everything for a few cookies.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.38609158992767334
+    },
+    {
+      "text": "The boy's stool is on the verge of collapse, it's infuriating.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9078227877616882
+    },
+    {
+      "text": "His sister encourages him, hand out like it's no big deal.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6437215209007263
+    },
+    {
+      "text": "Outside, the garden mocks the indoor turmoil with its peace.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7610896825790405
+    },
+    {
+      "text": "I feel a chill thinking about a potential fall on that wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.38588687777519226
+    },
+    {
+      "text": "The whole thing disgusts me, the carelessness everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.94051194190979
+    },
+    {
+      "text": "Why can't they just be safe and follow the rules?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.45897090435028076
+    },
+    {
+      "text": "It's surprising how quickly the puddle formed under her feet.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9240376949310303
+    },
+    {
+      "text": "This could end happily if someone intervenes soon.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4925616383552551
+    },
+    {
+      "text": "But right now, it's a sad state of affairs.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9699718952178955
+    }
+  ]
+}

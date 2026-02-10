@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1421",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a woman standing by the sink, completely absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8943195343017578
+    },
+    {
+      "text": "The overflow from the faucet creates a small waterfall, yet she seems unaware of the growing puddle at her feet.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3863999843597412
+    },
+    {
+      "text": "It's as if she exists in her own little world, polishing that plate with such focus.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6184267997741699
+    },
+    {
+      "text": "I notice the way the sunlight illuminates the kitchen, making everything look cheerful and warm.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8358228802680969
+    },
+    {
+      "text": "But then my gaze drifts to the children, caught in their mischief.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7971922755241394
+    },
+    {
+      "text": "The boy is climbing on that unstable stool, reaching for the cookie jar like a little daredevil.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.47850531339645386
+    },
+    {
+      "text": "I can't help but feel anxious about the impending disaster that seems so obvious to me yet not to her.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5749382972717285
+    }
+  ]
+}

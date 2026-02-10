@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10268",
+  "segments": [
+    {
+      "text": "Oh , there is something wrong with my car .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Your car is rather old . Why not change a new one ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I want to change a new car . I like Honda best , especially the red one . But it is too expensive .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , there is a car exhibition tomorrow afternoon . I have two tickets . Would you like to go there with me ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah . Maybe I can find my favorite car in addition to Honda .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "And the bank will offer you loans for twenty years !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

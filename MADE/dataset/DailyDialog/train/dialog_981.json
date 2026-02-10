@@ -1,0 +1,54 @@
+{
+  "id": "dialog_981",
+  "segments": [
+    {
+      "text": "Have you followed the value of dollar lately ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "How could I help but follow it ? The fluctuation of dollar is killing my company ! The exchange rates are eating into our profits , and we can't do anything about it .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's really frustrating , isn't it ? I have the same problem . I would feel a lot better if the currency was a little more stable . With the way the dollar plummeting lately , my securities have gone up in smoke .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Every day I have less money ! I haven't spent anything , it is just melting away because of the shifts in exchange rate .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "What we really should be making investment in is the Euro . I've followed the Euro's progress over the last quarter , I think it's about time to buy in .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "What about the Yen ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Are you kidding ? The Yen is in worse shape than the Dollar !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

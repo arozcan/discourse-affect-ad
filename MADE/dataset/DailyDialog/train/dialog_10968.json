@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10968",
+  "segments": [
+    {
+      "text": "Which type of telephone bill would you like to pay today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "My home phone , the landline . I don't have a mobile phone , far too complicated for an old lady like me ! Do you need my Bank Book ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'll need your Bank Card , please . Your Bank Book is required for over the counter services ; with the ATM you just need to have your card .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Let's get started . First , select the service you require . That's household bill payment for you . Then we select the type of bill , so that's landline ... here you go . Your bill for this month comes to 87.42 RIB . The money will come out of your account and go straight to the phone company .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , that is easy ! It sure beats waiting in line for ages waiting to deal with a real person !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8830",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen looks like a disaster waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5617955327033997
+    },
+    {
+      "text": "The woman stands at the sink, focused on drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.942587673664093
+    },
+    {
+      "text": "Water from the faucet is filling the basin and spilling over.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9034799337387085
+    },
+    {
+      "text": "It's pouring down the front, pooling on the floor around her feet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.647729754447937
+    },
+    {
+      "text": "She might slip on that wet floor any second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5377796292304993
+    },
+    {
+      "text": "The cabinets are getting soaked, which could ruin them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.33072856068611145
+    },
+    {
+      "text": "Nearby, a boy is on a stool that's clearly unstable.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6340529918670654
+    },
+    {
+      "text": "He's reaching into the open cookie jar, body stretched out.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7872551679611206
+    },
+    {
+      "text": "If that stool tips, he'll come crashing down with cookies flying.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4204844832420349
+    },
+    {
+      "text": "The little girl is watching, her hand out for her share.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.835193395614624
+    },
+    {
+      "text": "They're both at risk here, especially with the slippery floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5319390296936035
+    },
+    {
+      "text": "Outside the window, the garden is calm, unaware of the indoor peril.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6384453773498535
+    },
+    {
+      "text": "I just hope someone turns off that faucet before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49641838669776917
+    },
+    {
+      "text": "This whole setup makes me anxious just watching.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7326149940490723
+    }
+  ]
+}

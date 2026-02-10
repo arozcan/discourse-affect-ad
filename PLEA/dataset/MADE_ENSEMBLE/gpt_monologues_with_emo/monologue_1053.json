@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1053",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I can see the sunlight streaming in through the window, illuminating the chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7377152442932129
+    },
+    {
+      "text": "The outside world looks so peaceful, almost mocking the frenzy inside the kitchen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5887645483016968
+    },
+    {
+      "text": "I think about how that calm garden provides a stark contrast to the mess we have here.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3762250244617462
+    },
+    {
+      "text": "It’s a lovely day outside; it feels so wrong that this scene is unfolding within these walls.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.3332473635673523
+    },
+    {
+      "text": "The woman is blissfully unaware, lost in the mundane task of dishwashing, while danger looms.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3694157004356384
+    },
+    {
+      "text": "I feel a twist in my stomach, anticipating the moment the boy loses his balance.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.37579432129859924
+    },
+    {
+      "text": "It's strange how our domestic bliss can hide such peril.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4344883859157562
+    }
+  ]
+}

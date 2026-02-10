@@ -1,0 +1,40 @@
+{
+  "id": "dialog_3242",
+  "segments": [
+    {
+      "text": "I wonder if it is possible that we organize a dinner party for all the colleagues in our departments . They are working very hard these days . Maybe it is time for everybody to relax a little .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "That is a good idea , I love it . What time do you think is convenient ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , what about this Thursday evening after we finish the weekly meeting ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , I will inform everybody when they come back from lunch . It has been a long time since we had the department dinner last time . I am sure they don ’ t want to miss it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "I hope so . Let me know how many will come . Then I will book the restaurant .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

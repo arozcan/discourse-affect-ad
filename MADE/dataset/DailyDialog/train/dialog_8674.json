@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8674",
+  "segments": [
+    {
+      "text": "Can you read and write English and French ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , I'm proficient in both written and spoken English , but I can only carry on a simple conversation in French .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Could you tell me something about your English education ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "My mother is an English teacher in a college , so I began learning English when I could speak , and I took English as my minor subject at university .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

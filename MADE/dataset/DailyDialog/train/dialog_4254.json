@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4254",
+  "segments": [
+    {
+      "text": "Hi , Lilly , it ’ s so nice to see you again .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hum , me too . This winter holiday was especially long . What have you done ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Nothing special . I had a get-together with some schoolmates at the high school , visited the Internet and read a couple of books which I had been longing for . How about yours ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You know , I like traveling . I made good use of this long vacation and enjoyed myself .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

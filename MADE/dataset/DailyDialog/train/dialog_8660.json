@@ -1,0 +1,26 @@
+{
+  "id": "dialog_8660",
+  "segments": [
+    {
+      "text": "Hello , Mr . Jones . We need to have a meeting to discuss our deal .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Shall I come to your office this afternoon ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That would be great ! How about 2:30 ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    }
+  ]
+}

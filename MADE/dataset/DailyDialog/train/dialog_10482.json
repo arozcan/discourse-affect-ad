@@ -1,0 +1,89 @@
+{
+  "id": "dialog_10482",
+  "segments": [
+    {
+      "text": "What's happening , officer ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "There is a fire in your building . You need to evacuate immediately .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ? A fire ? Oh , my God ! What shall I do ? Please get me out of here !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Don't panic ! We'll help you get out of the building safely .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "I can smell smoke !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Please follow my instructions . Use a wet towel to cover your mouth and nose . Walk quietly to th nearest emergency exit . Now go get the wet towel .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Come with me .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sir , I need to go back to get my jewelry box .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "Don't take your personal belongings . We need to get out of the building now !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "Gosh ! I can see the flames !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 10,
+      "dialog_act": 4
+    },
+    {
+      "text": "Crouch down and try not to breathe in the smoke .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 3
+    }
+  ]
+}

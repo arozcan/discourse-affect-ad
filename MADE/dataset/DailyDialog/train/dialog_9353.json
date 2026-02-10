@@ -1,0 +1,47 @@
+{
+  "id": "dialog_9353",
+  "segments": [
+    {
+      "text": "Hello , IBA Bank , how can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , I'd like to talk to someone about making a withdrawal .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "You can withdraw money from your account either over the counter or via the ATM .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , but the problem is that I have a Savings Account with you , and I need to take some money from that . Do I really have to give 90 days notice if I want my money ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Actually , you only need to give 7 days notice if you wish to withdraw funds . Of course , you will lose some interest due to the withdrawal .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's not a problem . I'll pop in later today to make a formal request . Thanks !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

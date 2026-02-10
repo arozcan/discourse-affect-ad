@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0758",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the woman drying dishes, completely unaware of the water.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6459863185882568
+    },
+    {
+      "text": "The children are being so clever, taking cookies without her noticing.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7058254480361938
+    },
+    {
+      "text": "The boy is balancing on that stool, and it looks so dangerous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4827272891998291
+    },
+    {
+      "text": "I think the girl is being patient, waiting for her share.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7057902812957764
+    },
+    {
+      "text": "The water is just pouring out, and it’s making a huge puddle.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5193271636962891
+    },
+    {
+      "text": "The garden outside looks so calm, like nothing is wrong inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4616631269454956
+    },
+    {
+      "text": "I wonder if the woman will ever turn off the faucet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49827009439468384
+    },
+    {
+      "text": "The children are going to have a great time with those cookies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9778932332992554
+    },
+    {
+      "text": "I hope the stool doesn’t tip over and hurt someone.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49628034234046936
+    },
+    {
+      "text": "The floor is getting so slippery, and it’s going to be a big mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6104284524917603
+    }
+  ]
+}

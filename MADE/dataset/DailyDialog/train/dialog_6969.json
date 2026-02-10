@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6969",
+  "segments": [
+    {
+      "text": "Hello , how can I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello there . I need to buy some foreign currency for a business trip . How much can I exchange ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "That does depend on where you plan to travel . If you are planning to travel to Hong Kong or Macao we can exchange up to 1,000 USD for you . If your destination is elsewhere , we can exchange up to 2,000 USD .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , well , I'm going to Europe . I guess 1,000 USD will be sufficient for now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK , I'll process that for you now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

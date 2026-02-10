@@ -1,0 +1,69 @@
+{
+  "id": "monologue_0885",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the little girl standing there, so excited about getting a cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49830254912376404
+    },
+    {
+      "text": "She’s reaching up with her hand open, like she’s begging for one.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8605464100837708
+    },
+    {
+      "text": "She doesn’t seem to notice how dangerous this is.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4230763912200928
+    },
+    {
+      "text": "The boy is really struggling to get those cookies, but she’s just waiting patiently.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6104506850242615
+    },
+    {
+      "text": "I wonder if she’s ever fallen trying to do something like this.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4800531268119812
+    },
+    {
+      "text": "The stool is wobbling, and she’s not even flinching.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45631393790245056
+    },
+    {
+      "text": "She must really trust her brother, or she’s just not thinking.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3825460374355316
+    },
+    {
+      "text": "I hope they don’t get caught, but I also hope they don’t get hurt.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49934110045433044
+    },
+    {
+      "text": "This is such a sweet but reckless moment.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8990833163261414
+    }
+  ]
+}

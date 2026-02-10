@@ -1,0 +1,55 @@
+{
+  "id": "monologue_234",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a woman drying dishes at the sink, completely absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8925819396972656
+    },
+    {
+      "text": "She has no idea that the water is overflowing, creating a puddle at her feet.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4889363646507263
+    },
+    {
+      "text": "I wonder how she can be so unaware of the chaos unfolding around her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.618506908416748
+    },
+    {
+      "text": "The children are sneaking cookies, their excitement palpable as they scheme.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6302201151847839
+    },
+    {
+      "text": "The boy is precariously balanced on that rickety stool, reaching into the cookie jar.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6118006110191345
+    },
+    {
+      "text": "I can’t help but feel a rush of adrenaline watching him stretch so far.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8337608575820923
+    },
+    {
+      "text": "The girl stands ready, her hand raised, waiting for her treat, completely trusting him.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6679192781448364
+    }
+  ]
+}

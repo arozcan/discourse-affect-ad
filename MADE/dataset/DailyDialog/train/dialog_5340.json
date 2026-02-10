@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5340",
+  "segments": [
+    {
+      "text": "Hello , this is Sunshine Trading Company . Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I want to apply for the accountant in your corporation and I think it is not beyond attainment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Great . Could you tell me something about cash control ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , of course . In accounting , cash means all items that are acceptable for depositing in a bank .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

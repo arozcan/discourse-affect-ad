@@ -1,0 +1,83 @@
+{
+  "id": "monologue_1153",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the girl standing next to the boy, reaching up for a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9197070598602295
+    },
+    {
+      "text": "She seems quite happy to be getting a treat.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.709998369216919
+    },
+    {
+      "text": "I feel a bit envious of their mischievous fun.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.37908828258514404
+    },
+    {
+      "text": "I wonder if she's aware of the danger they're in.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.473436176776886
+    },
+    {
+      "text": "The boy on the stool looks like he's about to lose his balance.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6346116065979004
+    },
+    {
+      "text": "I hope she's ready to catch him if he falls.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5388920903205872
+    },
+    {
+      "text": "I think they make a good team, working together to get those cookies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9693601131439209
+    },
+    {
+      "text": "I wonder what they would do if they heard their mother coming.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47169116139411926
+    },
+    {
+      "text": "Would they try to hide, or would they just freeze in place?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4303591251373291
+    },
+    {
+      "text": "I feel a bit sad thinking about them getting into trouble.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9803732633590698
+    },
+    {
+      "text": "I hope they don't get caught, but I also hope they don't get hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49662089347839355
+    }
+  ]
+}

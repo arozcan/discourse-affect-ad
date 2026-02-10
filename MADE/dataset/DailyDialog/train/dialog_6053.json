@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6053",
+  "segments": [
+    {
+      "text": "Good afternoon . What can I help you with today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have a Time Deposit here and I'd like to get the money now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "The maturity date isn't for another 10 weeks . Are you aware of that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I know , but I need the money urgently for a family emergency , you see . I know I should apply in writing if I wish to withdraw , but I'm afraid there just isn't time .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "The regulations state that the interest is paid at the rate of a Current Deposit , so unfortunately you will lose some interest .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , it can't be helped . I really must have that money . Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

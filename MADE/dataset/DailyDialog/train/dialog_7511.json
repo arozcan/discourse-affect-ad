@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7511",
+  "segments": [
+    {
+      "text": "Good morning . Sales Division . Alex speaking .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Alex . It ’ s Nancy over in Marketing . I ’ Ve got some good news for you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh yeah ? I could use some . What ’ s up ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Mr . Morris was so pleased with your sales work on his account that he went straight to the top with it . He wrote a letter about it to Mr . Macmillan !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dialog_469",
+  "segments": [
+    {
+      "text": "Can you tell me a little bit about yourself ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am a graduate of a technical university and have been employed as a technician with Company or approximately 10 years .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Please explain why you are interested in leaving your current position and please elaborate on your technical skills .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am looking for a growth opportunity , which I feel is not available at my current employer . In terms of skills , I am Microsoft certified in Windows XP and several other operating system",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Where do you see yourself five years from now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I see myself in a management position .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

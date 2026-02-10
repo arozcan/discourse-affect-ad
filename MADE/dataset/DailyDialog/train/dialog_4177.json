@@ -1,0 +1,89 @@
+{
+  "id": "dialog_4177",
+  "segments": [
+    {
+      "text": "Hi Mary , how's it going ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "well , last night I had a big argument with Ann .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "terrible . It must be something serious . You two are such close friends .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "now that I look back at it , it wawsn't that big a deal . I shouldn't have lost my temper .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "really ? What happened ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "it's just we've been planning to go the beach for a while , and we decided we could both make it this weekend . Then out of nowhere she called me up , said her boyfriend had made plans and that she nee",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "that's pretty harsh .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know , but I was so upset . I mean , come on ! Does she have to do everything her boyfriend says ?",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "you know she probably feels just as bad .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "well , I think I was being a little selfish myself . I know they don't get to see each other very often .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "well , in that case I guess maybe you can be more understanding . You shouldn't let a trivial thing like this stand in the way of your friendship . After all you can go to the beach anytime you want .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "yeah , I'll call her later to patch things up .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 4
+    }
+  ]
+}

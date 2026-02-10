@@ -1,0 +1,33 @@
+{
+  "id": "dialog_713",
+  "segments": [
+    {
+      "text": "Yes , emergency . There is a huge fire here .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Calm down , sir . What's your name and where are you now ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "My name is Jerry and we are on the intersection of West Road and East Road .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sir , leave the house if the fire draws any closer to your house . Our men will be over in 5 minutes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

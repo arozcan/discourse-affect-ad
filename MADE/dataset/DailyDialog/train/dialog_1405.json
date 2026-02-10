@@ -1,0 +1,75 @@
+{
+  "id": "dialog_1405",
+  "segments": [
+    {
+      "text": "Hello , Chandler ! How are you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Fine . And you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Just so so . I am too tired . My company has been holding too many training sessions lately .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's good . Not Evey company provides employees with training opportunity . It seems that your company wants to further develop their employees and encouragelifelong learning .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good ? ! For them but not to me .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , what's the problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "We have to participate in training after a busy day and during the weekend . You know , after work all you want to do is throw yourself onto your bed . And during the Weekend , you just want to stay at home and enjoy a family dinner .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , you are right . But one should keep learning daily to maintain our keen mental power expand our intellectual capacity . Constant learning drive us to Sharp our power of reasoning , analysis and judgement .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , I agree with you on the point but couldn't the training be held during the working day instead of weekend ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , you are right . I think weekend is the time for family gathering and rest Maybe you could make that suggestion to your boss .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

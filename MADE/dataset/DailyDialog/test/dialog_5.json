@@ -1,0 +1,75 @@
+{
+  "id": "dialog_5",
+  "segments": [
+    {
+      "text": "how long will it take us to drive to London ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "that ’ s unless there is a traffic jam . It could take three hours .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "so , shall we allow three hours to cover the distance ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "ok . You haven ’ t seen my company car , have you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "no . let me take a look ... it ’ s longer than my car .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "I think it ’ s over five meters long . I can ’ t remember exactly . It has a maximum speed of over 200 kilometers an hour .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "wow ! That ’ s fast ! I don ’ t think we will be traveling that fast on the motorway .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "we can ’ t . if we went that fast , we would break the speed limit .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1246",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I hear the sound of water running steadily, a comforting background noise.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6634505391120911
+    },
+    {
+      "text": "But then I see the water spilling over the sink and feel disgusted by the mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9394040703773499
+    },
+    {
+      "text": "The woman remains fixated on her plate, blissfully unaware of the chaos she's creating.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4521673023700714
+    },
+    {
+      "text": "It makes me think about how easily we can get lost in our routines.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4891585111618042
+    },
+    {
+      "text": "I can see the children working together, but at what cost?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4074160158634186
+    },
+    {
+      "text": "Their potential for injury just hangs in the air, thick and palpable.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4230111837387085
+    },
+    {
+      "text": "I wish they would see the risks instead of just the cookies.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5356982946395874
+    }
+  ]
+}

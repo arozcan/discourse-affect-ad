@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0521",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the woman at the sink, her face absorbed in drying the plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9161602258682251
+    },
+    {
+      "text": "The water is overflowing from the basin, but she seems completely unaware.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49943429231643677
+    },
+    {
+      "text": "I can't help but notice how her foot is already in that spreading puddle.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.39767253398895264
+    },
+    {
+      "text": "It’s almost as if she’s in her own world, unconcerned about the chaos around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6685686707496643
+    },
+    {
+      "text": "I wonder if she could hear the water gushing over the edge.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47920936346054077
+    },
+    {
+      "text": "The children, on the other hand, are plotting their little heist with such enthusiasm.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7084255218505859
+    },
+    {
+      "text": "The boy is precariously balanced on that stool, and I can’t shake the unease it brings me.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3703140318393707
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "monologue_0789",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I can’t believe how calm the woman is while the sink is overflowing like that.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7877066135406494
+    },
+    {
+      "text": "The water is just pouring out, and she’s acting like nothing is wrong.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43876880407333374
+    },
+    {
+      "text": "Doesn’t she feel the water on her foot?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4342682659626007
+    },
+    {
+      "text": "She’s just standing there, polishing that plate like it’s the most important thing in the world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.40969356894493103
+    },
+    {
+      "text": "Meanwhile, the kids are about to cause a whole other mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5175870656967163
+    },
+    {
+      "text": "That boy is going to fall off that stool if he’s not careful.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.25005021691322327
+    },
+    {
+      "text": "And the girl is just encouraging him, standing there with her hand out.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45494288206100464
+    },
+    {
+      "text": "I don’t know what’s worse—the water everywhere or the kids stealing cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.30623728036880493
+    },
+    {
+      "text": "This whole kitchen is a mess, and no one seems to care.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.42893725633621216
+    }
+  ]
+}

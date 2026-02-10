@@ -1,0 +1,33 @@
+{
+  "id": "dialog_8828",
+  "segments": [
+    {
+      "text": "Well , I'm glad I had a chance to see these samples , but I'm really not in a position to make a decision right now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Would you like me to leave the samples with you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , why don't you do that , and then you can give me a call sometime next week .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Fine , Mr . Grant . Thanks for your time .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

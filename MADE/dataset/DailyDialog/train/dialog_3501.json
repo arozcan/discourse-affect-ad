@@ -1,0 +1,61 @@
+{
+  "id": "dialog_3501",
+  "segments": [
+    {
+      "text": "Hi , Bill . Are you going to the commencement ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . Do you want to go with me ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK . ( Several minutes later . ) Let's go into the school auditorium .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Now that take this seat . Do you see those piles of red diplomas on the desks on the stage ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I find my heart is now rising and falling like waves , all sorts of feelings welling up in my heart .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's true . Four years ' trails and hardships , joys and sorrows of life are gushing out to my mind all together . I can hardly tell whether I am joyful or gloomy at the moment when I am about to leave the campus and to start a new stage of my life .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "How time flies . Look , the president of the college has come onto the stage .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "He's going to make the opening speech .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

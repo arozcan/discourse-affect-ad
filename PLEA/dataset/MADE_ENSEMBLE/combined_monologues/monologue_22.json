@@ -1,0 +1,55 @@
+{
+  "id": "monologue_22",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the sunlight filtering through the window, illuminating the clutter inside.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8425238132476807
+    },
+    {
+      "text": "But that overflowing sink is a glaring issue, a mess waiting to happen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.2544415295124054
+    },
+    {
+      "text": "The woman seems so consumed by her task, lost in her world.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7436975836753845
+    },
+    {
+      "text": "I can’t help but feel a sense of disbelief as water spills over the edge.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6853359937667847
+    },
+    {
+      "text": "Meanwhile, the boy is reaching deep into the cookie jar, completely unaware.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6379814147949219
+    },
+    {
+      "text": "I wish I could shout at him to get down, but it would ruin the moment.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.46431565284729004
+    },
+    {
+      "text": "That girl is waiting so patiently, and I can’t help but feel a warmth towards their innocence.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.733506441116333
+    }
+  ]
+}

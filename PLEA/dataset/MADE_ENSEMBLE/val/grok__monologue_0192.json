@@ -1,0 +1,90 @@
+{
+  "id": "monologue_0192",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, the sink is overflowing, water everywhere like a disgusting flood.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9553921222686768
+    },
+    {
+      "text": "That puddle on the floor looks filthy, spreading out.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6065789461135864
+    },
+    {
+      "text": "The woman's foot is soaked in it, and she just stands there.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4916132092475891
+    },
+    {
+      "text": "Drying a plate while ignoring the mess—how gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.792104959487915
+    },
+    {
+      "text": "Kids climbing on a stool to steal cookies, what a sloppy scheme.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4642225205898285
+    },
+    {
+      "text": "The boy's hand rummaging in the jar, probably getting crumbs all over.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5125184059143066
+    },
+    {
+      "text": "The girl begging with her palm up, like it's entitled.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4873755872249603
+    },
+    {
+      "text": "Water streaming down the cabinets, staining everything.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4273400902748108
+    },
+    {
+      "text": "The kitchen should be clean, not this watery disaster.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4493100345134735
+    },
+    {
+      "text": "Outside garden is tidy, but inside it's revolting.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.873735785484314
+    },
+    {
+      "text": "I can't stand the carelessness with the running faucet.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9423438310623169
+    },
+    {
+      "text": "This whole scene turns my stomach.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7061453461647034
+    }
+  ]
+}

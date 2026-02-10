@@ -1,0 +1,62 @@
+{
+  "id": "monologue_5334",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "The boy is going to hurt himself if he’s not careful.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.27156344056129456
+    },
+    {
+      "text": "The stool is already tipping, and he’s still reaching for those cookies.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4747835099697113
+    },
+    {
+      "text": "The girl is just standing there, not even trying to help him.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.601996898651123
+    },
+    {
+      "text": "The woman is completely unaware of what’s happening behind her.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42712655663490295
+    },
+    {
+      "text": "The water is making the floor slippery, and someone is going to fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5830980539321899
+    },
+    {
+      "text": "I hope the boy doesn’t break anything when he falls.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.501176118850708
+    },
+    {
+      "text": "The girl seems to think this is all fun and games, but it’s not.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7506030201911926
+    },
+    {
+      "text": "Someone needs to step in before this turns into a disaster.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5039191842079163
+    }
+  ]
+}

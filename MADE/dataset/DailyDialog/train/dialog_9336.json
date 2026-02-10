@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9336",
+  "segments": [
+    {
+      "text": "Welcome to IBA . Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , hello . Our company used your bank to send some documents to Malaysia last week . Could you check and see if the proceeds have come back yet , please ? It's Sang Hung Enterprises , based in Kula Lump .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , just a moment ... yes , it has arrived . The amount is 51,998 US dollars net , 12 US dollars has been deducted by the intermediary bank .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "That's as it should be . When will it be paid in and credited to our account ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's already credited to your account .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

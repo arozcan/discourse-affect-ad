@@ -1,0 +1,54 @@
+{
+  "id": "dialog_6226",
+  "segments": [
+    {
+      "text": "Hello , there . How can I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . I'm hoping to buy some Treasury Certificates today . Are they available ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Certainly , Visible Treasury Certificates . Then you can get a receipt from the savings office as proof of payment . Hence the ' visible ' , you can see it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ah , right . How much do I need to spend ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "The minimum is 100 RIB , and the maximum is 500,000 RIB .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "How about Bearer Certificates ? Are they different ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , they are different because they are printed by the Ministry of Finance in set amounts . Just 100 RIB , 500 RIB and 1,000 RIB , you cannot choose from many amounts , you see .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

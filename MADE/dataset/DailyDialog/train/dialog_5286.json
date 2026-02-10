@@ -1,0 +1,61 @@
+{
+  "id": "dialog_5286",
+  "segments": [
+    {
+      "text": "I don't know , but he gives me the creeps .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Just take it easy . If he starts to bother you , let me know and I'll call security .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "But what if he knows my name , where I live ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Don't get all worked up over him . He's probably harmless .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Actually , he's really good-looking . Too bad he's a weirdo .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "You never know . Maybe he's just an innocent , lonely guy ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Now he's looking over here ! He's coming !",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK ! I'll call security .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

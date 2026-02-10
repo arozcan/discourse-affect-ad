@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0728",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I can't believe she hasn't noticed the sink overflowing yet.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.851779580116272
+    },
+    {
+      "text": "The water is already forming a puddle around her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.74223792552948
+    },
+    {
+      "text": "She’s just standing there, polishing that plate like nothing’s wrong.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.48373034596443176
+    },
+    {
+      "text": "I wonder if the drain is clogged or if she forgot to turn it off.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.490589439868927
+    },
+    {
+      "text": "This is going to be a mess to clean up later.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.27492618560791016
+    },
+    {
+      "text": "And the kids are completely ignoring it too.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5225998163223267
+    },
+    {
+      "text": "They’re too busy trying to sneak cookies to care.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7034465074539185
+    },
+    {
+      "text": "I hope she realizes what’s happening before the whole kitchen floods.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4545632600784302
+    },
+    {
+      "text": "The water is already dripping down the cabinets.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6671798229217529
+    },
+    {
+      "text": "This is just asking for trouble.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.42599278688430786
+    }
+  ]
+}

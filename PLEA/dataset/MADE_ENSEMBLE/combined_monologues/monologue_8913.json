@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8913",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking at this kitchen, I feel a pang of worry for those kids.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.28032317757606506
+    },
+    {
+      "text": "The boy's on that unstable stool, about to tip over any second.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5667820572853088
+    },
+    {
+      "text": "If he falls, he could get hurt badly on the hard floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5541083812713623
+    },
+    {
+      "text": "The girl's reaching up too, so innocent but in danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3725225627422333
+    },
+    {
+      "text": "And the mother, she's oblivious, drying that plate like nothing's wrong.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5480530261993408
+    },
+    {
+      "text": "Water's flooding from the sink, making everything slippery.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4317401647567749
+    },
+    {
+      "text": "One slip and someone could crack their head open.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4963746666908264
+    },
+    {
+      "text": "The puddle's growing, soaking her apron and the cabinets.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4952445924282074
+    },
+    {
+      "text": "Outside, the garden is calm, but inside it's a disaster waiting.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4136795997619629
+    },
+    {
+      "text": "Why isn't she turning around to check on them?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7732393741607666
+    },
+    {
+      "text": "This mischief could end in tears, and it breaks my heart.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6831852197647095
+    },
+    {
+      "text": "The cookie jar's open, tempting them into this risk.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7161566615104675
+    },
+    {
+      "text": "I just wish someone would notice before it's too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4951437711715698
+    }
+  ]
+}

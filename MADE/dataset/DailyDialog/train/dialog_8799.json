@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8799",
+  "segments": [
+    {
+      "text": "You got our email with all the specifications for the project . We'll be accepting bids untill noon on Tuesday . If you have any questions between now and then , please let me know .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Actually , I did have a question . We'd like to know what you had in mind for the budget on this project . We are hoping to put together a really competitive bid . But at the same time , we'd like to hit your target price , too .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I understand . But unfortunately , it is our policy not to disclose our bottom line . You can be assured that price is a weighty consideration when we review the proposals . We also consider other elements , including design and practicality . We also give weight to the reputation of the submitting company .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Do you have any price range ? Is there any way you can give me any idea of what direction to go or how high is too high ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "We're just looking for a reasonable price according to the specifications in our project blueprint . That's all I can say .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

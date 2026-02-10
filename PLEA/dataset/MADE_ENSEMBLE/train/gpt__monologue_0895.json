@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0895",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "In this quiet moment, I feel a deep appreciation for the simple act of sharing cookies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7644205093383789
+    },
+    {
+      "text": "But mixed with that is the frustration of their secretive actions.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.49625518918037415
+    },
+    {
+      "text": "The woman is steadfast in her task, yet oblivious, and I can’t help but wonder why she doesn’t look down.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.42249447107315063
+    },
+    {
+      "text": "The children are so intent on their mission; it’s both adorable and alarming.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5926275849342346
+    },
+    {
+      "text": "I wish they could appreciate the beauty of the moment without the looming risk.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5373790264129639
+    },
+    {
+      "text": "The scene feels charged with potential; anything could happen next.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5901181697845459
+    },
+    {
+      "text": "I want to step in, to intervene, but I’m just an observer in this tiny world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4543611407279968
+    }
+  ]
+}

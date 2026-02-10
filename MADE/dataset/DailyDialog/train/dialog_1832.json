@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1832",
+  "segments": [
+    {
+      "text": "How do you feel about the TV series ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , to be frank , I think it's sheer waste of time to watch it .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , I agree , but still a lot of people watch it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "But I don't think much of it .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

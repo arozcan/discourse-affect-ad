@@ -1,0 +1,76 @@
+{
+  "id": "monologue_5979",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy on the stool, reaching for the cookie jar, and I’m terrified he’s going to fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8888761401176453
+    },
+    {
+      "text": "The stool is wobbling, and he’s stretching so far—it’s making my heart race.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.38235002756118774
+    },
+    {
+      "text": "The girl is just standing there, waiting for him to hand her a cookie, completely unaware of the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3553319275379181
+    },
+    {
+      "text": "I don’t know how the woman can be so calm with all this happening.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8024470210075378
+    },
+    {
+      "text": "The water is overflowing, and she’s just drying dishes like it’s nothing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4298604130744934
+    },
+    {
+      "text": "I hope the boy doesn’t hurt himself—he’s so close to losing his balance.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49120545387268066
+    },
+    {
+      "text": "The whole scene is just a disaster waiting to happen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.42974913120269775
+    },
+    {
+      "text": "I can’t believe no one is doing anything about it.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7256163358688354
+    },
+    {
+      "text": "The kids are so focused on those cookies, they don’t even see the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.38180264830589294
+    },
+    {
+      "text": "I wish someone would step in and help before it’s too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4997676610946655
+    }
+  ]
+}

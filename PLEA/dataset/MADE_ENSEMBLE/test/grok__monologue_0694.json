@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0694",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, what a disgusting mess in this kitchen.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9645712375640869
+    },
+    {
+      "text": "The sink's overflowing with dirty water, I bet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5079417824745178
+    },
+    {
+      "text": "It's spilling all over the counters and floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.37185075879096985
+    },
+    {
+      "text": "The woman's standing in it, clueless as ever.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.45122742652893066
+    },
+    {
+      "text": "Her towel's probably going to get soaked too.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4891415238380432
+    },
+    {
+      "text": "And those kids raiding the cookie jar—sneaky little thieves.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5272707939147949
+    },
+    {
+      "text": "The boy's balancing on that flimsy stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4875272810459137
+    },
+    {
+      "text": "It's tilting; serves them right if he falls.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44316449761390686
+    },
+    {
+      "text": "Girl's just waiting, hand out like she's entitled.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4514331817626953
+    },
+    {
+      "text": "The whole place is going to be a slippery hazard.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.42351073026657104
+    },
+    {
+      "text": "Outside, the garden's tidy—why can't inside be like that?",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.3578443229198456
+    },
+    {
+      "text": "This negligence is just gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5442488789558411
+    },
+    {
+      "text": "Cookies all over if they drop them in the water.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8027169704437256
+    },
+    {
+      "text": "I wouldn't touch anything in there now.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4424251616001129
+    }
+  ]
+}

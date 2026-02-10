@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9893",
+  "segments": [
+    {
+      "text": "Hello , Mr Lawson . It's a pleasure to see you again . You seem to be in here all the time at the moment ! What can I do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've prepared some L / C documents , all in accordance with the conditions . There shouldn't be any problems ; I've done about a million of these things recently .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're right , no problems . You are becoming quite the expert , Mr Lawson . If any problem does turn up , which I'm sure it won't , I'll give you a call .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks very much . I'm sure I'll be back , so see you again soon . Bye !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

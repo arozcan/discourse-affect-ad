@@ -1,0 +1,61 @@
+{
+  "id": "dialog_1308",
+  "segments": [
+    {
+      "text": "Hey , Jeff , where's your stereo ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I needed some money , so I hocked it last week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You must have been really hurting for cash to have done that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I had just enough money to make ends meet until payday . Then last Wednesday I received a phone bill to the tune of $ 195.00 . I hit the ceiling when I saw that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "It sounds like you weren't expecting that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'd forgotten that my brother had used my phone earlier this month to call his girlfriend . He forgot to mention that she happened to be in New York at the time 3000 miles away .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , if you need some money to tide you over until payday , I can loan you some .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks , but tomorrow's payday I can make until then . Thanks any-way .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

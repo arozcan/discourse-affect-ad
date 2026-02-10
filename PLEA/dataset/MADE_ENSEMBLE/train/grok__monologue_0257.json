@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0257",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the kitchen's bright with daylight from that window.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6226767301559448
+    },
+    {
+      "text": "The woman's in her apron, polishing that plate carefully.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7911686897277832
+    },
+    {
+      "text": "But the sink—water's gushing out uncontrollably!",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3898742198944092
+    },
+    {
+      "text": "It's flooding the floor, and she's standing right in it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5280637741088867
+    },
+    {
+      "text": "She looks so calm, unaware of the danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.43478015065193176
+    },
+    {
+      "text": "Now the boy on the stool, he's reaching for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8734682202339172
+    },
+    {
+      "text": "The stool's tilting back, this is bad.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3720063865184784
+    },
+    {
+      "text": "He's got cookies in hand, grinning I bet.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5606710910797119
+    },
+    {
+      "text": "The girl beside him is eager, palm up for one.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8354518413543701
+    },
+    {
+      "text": "They're being sneaky, breaking the rules behind mom's back.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7190881967544556
+    },
+    {
+      "text": "The puddle's spreading, could make anyone slip.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5033337473869324
+    },
+    {
+      "text": "Outside, the garden's serene, plants neatly lined up.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7241284847259521
+    },
+    {
+      "text": "I feel bad for the mom; she'll be upset when she sees this.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9609547853469849
+    },
+    {
+      "text": "What a mix of innocence and impending trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.36869895458221436
+    }
+  ]
+}

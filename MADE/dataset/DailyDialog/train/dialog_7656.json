@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7656",
+  "segments": [
+    {
+      "text": "Ms . Wang , this is Mr . Cooper , president of Ivy Publishing .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's nice to meet you , Mr . Cooper .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Nice to meet you , Ms . Wang . You must be exhausted after your long trip from Canada .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , it was quite a long flight . I'm glad to finally be here .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

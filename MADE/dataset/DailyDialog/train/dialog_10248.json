@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10248",
+  "segments": [
+    {
+      "text": "I want a suit of workmanship and suitable for formal meetings.Would you recommend some brands ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "How about these famous brands ? Such as pierre Cardin ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm afraid that's a bit beyond my means .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Then you can try some local products.They ' re also of good quality .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

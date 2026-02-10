@@ -1,0 +1,58 @@
+name: made
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+
+  # Scientific packages
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+
+  # Jupyter / development
+  - ipykernel
+  - jupyterlab
+  - tqdm
+  - sentencepiece
+  - libsndfile
+  - ffmpeg
+
+  # PyTorch with CUDA support
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.4  # RTX 4060 Ti ile uyumlu
+  # NOT: Bunlar pytorch + nvidia kanallarından gelecek
+
+  # pip packages
+  - pip:
+      # NLP / embeddings
+      - sentence-transformers
+      - transformers
+      - accelerate
+
+      # Modern AI clients
+      - openai==2.6.1
+      - mistralai
+      - google-genai
+      - httpx
+
+      # Data utils
+      - datasets
+      - hf-xet
+
+      # Structs / validation
+      - pydantic
+
+      # Visualization
+      - tensorboard
+
+      # PyTorch Lightning
+      - lightning
+      - pytorch-lightning

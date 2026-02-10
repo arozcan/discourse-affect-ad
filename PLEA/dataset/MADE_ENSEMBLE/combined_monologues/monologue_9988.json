@@ -1,0 +1,90 @@
+{
+  "id": "monologue_9988",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This scene just breaks my heart a little.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9784338474273682
+    },
+    {
+      "text": "The mom's so absorbed in her routine, drying that plate carefully.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8243144750595093
+    },
+    {
+      "text": "She has no idea the sink's flooding behind her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4450762867927551
+    },
+    {
+      "text": "Water's cascading over the edge, pooling around her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6028284430503845
+    },
+    {
+      "text": "It's going to ruin the floor and cabinets if it keeps up.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.44461604952812195
+    },
+    {
+      "text": "The boy on the stool is risking a bad fall for some cookies.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7275614738464355
+    },
+    {
+      "text": "That stool looks so unstable, legs all spread out.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4595853388309479
+    },
+    {
+      "text": "He's reaching in the jar, probably excited about his find.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8017204999923706
+    },
+    {
+      "text": "The girl's right there, hoping for one too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4908846914768219
+    },
+    {
+      "text": "They're just kids being kids, but it's dangerous.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5160866975784302
+    },
+    {
+      "text": "The calm garden view contrasts with this indoor chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5259312987327576
+    },
+    {
+      "text": "I wish someone would notice and stop it all.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5633609294891357
+    }
+  ]
+}

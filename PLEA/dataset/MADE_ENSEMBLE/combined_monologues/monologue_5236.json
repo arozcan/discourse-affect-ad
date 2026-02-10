@@ -1,0 +1,69 @@
+{
+  "id": "monologue_5236",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I’m horrified by the water just pouring out like that.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4791966676712036
+    },
+    {
+      "text": "The woman is going to slip and fall any second now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.48995834589004517
+    },
+    {
+      "text": "The boy is going to topple off that stool, and it’s terrifying.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9363857507705688
+    },
+    {
+      "text": "The girl is just standing there, completely unaware of the danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.26767605543136597
+    },
+    {
+      "text": "I’m scared that someone is going to get hurt in all this chaos.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9682892560958862
+    },
+    {
+      "text": "The water is spreading, and it’s only a matter of time before it causes a problem.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.511652410030365
+    },
+    {
+      "text": "I hope the woman turns around and sees what’s happening before it’s too late.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5266886949539185
+    },
+    {
+      "text": "The children are going to regret this if they don’t stop now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4801340699195862
+    },
+    {
+      "text": "This whole situation is a disaster waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.2970593273639679
+    }
+  ]
+}

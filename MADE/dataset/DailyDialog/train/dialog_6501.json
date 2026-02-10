@@ -1,0 +1,75 @@
+{
+  "id": "dialog_6501",
+  "segments": [
+    {
+      "text": "Welcome to IBA . What can we assist you with today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello . Yes , I've just read your leaflet about the new MoneyLink Card . I was wondering how I go about applying for one .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "This scheme has just started and you will be one of our first 100 customers , so if your application is accepted , you will receive some rather nice perks .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That does sound good . I'm already an account holder , have been for many years . And I already have your existing card .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That should make things perfectly simple , then . Actually , if you had waited a little while longer , we would have notified you by post .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Perhaps your letter is already in the mail ! So , I can just upgrade automatically ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "May I have your details , and I'll check for you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK , so you are already a gold card holder , with a sound credit history . That means we can automatically upgrade you to our new platinum card .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wonderful ! And , you mentioned ' perks ' ? I do hope I'll be getting some of those .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

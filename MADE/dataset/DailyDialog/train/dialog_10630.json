@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10630",
+  "segments": [
+    {
+      "text": "Do you have any questions before you commit yourself to this ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Actually , yes I do . I was wondering about the subscription fee . And how much will you charge me during the time of redeeming this new fund ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "The subscription fee is charged at a rate of 1.2 % . But for redeeming , a rate of a usual 0.5 % , we shall charge you 1.6 % if you apply to buy it after the fund-raising period .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , it's going to cost me then ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm afraid so , yes . There is always some risk on the buyer's part .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

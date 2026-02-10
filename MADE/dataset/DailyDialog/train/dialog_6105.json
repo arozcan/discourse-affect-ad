@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6105",
+  "segments": [
+    {
+      "text": "What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , there . I've just started using your net banking and I'm looking for some information about my Commission Fund .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see . The Fund Trading System of our Net Banking deals with both trading and information . If you use this system , you can subscribe for and apply to buy other funds . You can also get lots of other useful information .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Regarding what exactly ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Fund info , the fund code , fund net value per unit , fund public info , fund account balance , fund trading conformation , daily details and the history . With our Net Banking , anything is possible !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

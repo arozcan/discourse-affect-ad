@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1207",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, this kitchen looks like a total slob fest.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7849512100219727
+    },
+    {
+      "text": "The sink is spewing water everywhere, what a filthy overflow.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8169087171554565
+    },
+    {
+      "text": "Puddle on the floor? That's disgusting and unsanitary.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9567326903343201
+    },
+    {
+      "text": "The woman's stepping in it while drying her plate—gross.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7947738766670227
+    },
+    {
+      "text": "Those cabinets are getting soaked; it'll warp and smell musty.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4967561960220337
+    },
+    {
+      "text": "Now the kids are climbing around in this mess for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6281138062477112
+    },
+    {
+      "text": "The boy's hand deep in the jar—hope it's clean in there.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4693276584148407
+    },
+    {
+      "text": "Stool tipping on wet floor? That's begging for a nasty fall.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49631786346435547
+    },
+    {
+      "text": "The girl reaching up, probably tracking dirt everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4667222797870636
+    },
+    {
+      "text": "Sneaking treats in this chaos is just irresponsible.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8102089166641235
+    },
+    {
+      "text": "The whole scene turns my stomach with its disorder.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6674354076385498
+    },
+    {
+      "text": "Even the neat garden can't redeem this indoor filth.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5028293132781982
+    }
+  ]
+}

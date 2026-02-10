@@ -1,0 +1,26 @@
+{
+  "id": "dialog_454",
+  "segments": [
+    {
+      "text": "You look great ! How do you stay in such good shape ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I go jogging every morning , eat a healthful diet and work out in a gymnasium twice a week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wow , it sounds like a lot of work . I guess I'm too lazy to do all that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

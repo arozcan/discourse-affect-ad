@@ -1,0 +1,237 @@
+{
+  "overall": {
+    "counts": {
+      "monologues": 10000,
+      "utterances": 118429
+    },
+    "lengths_summary": {
+      "monologue_sentences": {
+        "mean": 11.8429,
+        "std": 2.308755644338072,
+        "min": 7,
+        "max": 16
+      },
+      "utterance_words": {
+        "mean": 11.791537545702488,
+        "std": 3.1934713908491674,
+        "min": 2,
+        "max": 38
+      },
+      "utterance_chars": {
+        "mean": 65.65814960862626,
+        "std": 16.283633799519578,
+        "min": 12,
+        "max": 207
+      }
+    },
+    "emotion_counts": {
+      "neutral": 51916,
+      "surprised": 8922,
+      "disgusted": 7332,
+      "fearful": 16537,
+      "sad": 9604,
+      "angry": 9538,
+      "happy": 14580
+    },
+    "emotion_percent": {
+      "happy": 12.31117378344831,
+      "sad": 8.109500206875005,
+      "angry": 8.053770613616598,
+      "fearful": 13.963640662337772,
+      "disgusted": 6.191051178343142,
+      "surprised": 7.533627743204789,
+      "neutral": 43.837235812174384
+    },
+    "files_failed_total": 0
+  },
+  "per_source": {
+    "genai_monologues_with_emo": {
+      "path": "dataset/MADE/genai_monologues_with_emo",
+      "counts": {
+        "monologues": 2500,
+        "utterances": 32891,
+        "files_total": 2500,
+        "files_failed": 0
+      },
+      "lengths_summary": {
+        "monologue_sentences": {
+          "mean": 13.1564,
+          "std": 1.1201968471614954,
+          "min": 10,
+          "max": 15
+        },
+        "utterance_words": {
+          "mean": 11.041531117934998,
+          "std": 2.202318276684351,
+          "min": 3,
+          "max": 23
+        },
+        "utterance_chars": {
+          "mean": 63.57857772642972,
+          "std": 11.653223515378055,
+          "min": 12,
+          "max": 120
+        }
+      },
+      "emotion_counts": {
+        "neutral": 17830,
+        "surprised": 2668,
+        "disgusted": 1378,
+        "fearful": 4355,
+        "sad": 1947,
+        "angry": 2032,
+        "happy": 2681
+      },
+      "emotion_percent": {
+        "happy": 8.151165972454471,
+        "sad": 5.919552461159587,
+        "angry": 6.177981818734608,
+        "fearful": 13.240704143990758,
+        "disgusted": 4.189595938098568,
+        "surprised": 8.11164148247241,
+        "neutral": 54.2093581830896
+      }
+    },
+    "gpt_monologues_with_emo": {
+      "path": "dataset/MADE/gpt_monologues_with_emo",
+      "counts": {
+        "monologues": 2500,
+        "utterances": 26024,
+        "files_total": 2500,
+        "files_failed": 0
+      },
+      "lengths_summary": {
+        "monologue_sentences": {
+          "mean": 10.4096,
+          "std": 3.248083721079828,
+          "min": 7,
+          "max": 16
+        },
+        "utterance_words": {
+          "mean": 14.161274208422995,
+          "std": 2.765753452271878,
+          "min": 4,
+          "max": 28
+        },
+        "utterance_chars": {
+          "mean": 78.29192284045496,
+          "std": 14.245064002970313,
+          "min": 17,
+          "max": 147
+        }
+      },
+      "emotion_counts": {
+        "neutral": 7818,
+        "happy": 4642,
+        "fearful": 5778,
+        "angry": 2303,
+        "surprised": 2029,
+        "disgusted": 803,
+        "sad": 2651
+      },
+      "emotion_percent": {
+        "happy": 17.83738087918844,
+        "sad": 10.186750691669229,
+        "angry": 8.849523516753766,
+        "fearful": 22.202582231786042,
+        "disgusted": 3.0856132800491856,
+        "surprised": 7.7966492468490625,
+        "neutral": 30.041500153704273
+      }
+    },
+    "grok_monologues_with_emo": {
+      "path": "dataset/MADE/grok_monologues_with_emo",
+      "counts": {
+        "monologues": 2500,
+        "utterances": 33364,
+        "files_total": 2500,
+        "files_failed": 0
+      },
+      "lengths_summary": {
+        "monologue_sentences": {
+          "mean": 13.3456,
+          "std": 0.94239900591762,
+          "min": 11,
+          "max": 15
+        },
+        "utterance_words": {
+          "mean": 9.42974463493586,
+          "std": 2.037271636119813,
+          "min": 2,
+          "max": 20
+        },
+        "utterance_chars": {
+          "mean": 53.477940294928665,
+          "std": 10.284824784077097,
+          "min": 13,
+          "max": 107
+        }
+      },
+      "emotion_counts": {
+        "neutral": 13929,
+        "surprised": 2469,
+        "fearful": 3099,
+        "angry": 3033,
+        "sad": 3328,
+        "disgusted": 3402,
+        "happy": 4104
+      },
+      "emotion_percent": {
+        "happy": 12.300683371298405,
+        "sad": 9.974823162690324,
+        "angry": 9.09063661431483,
+        "fearful": 9.288454621747992,
+        "disgusted": 10.196619110418416,
+        "surprised": 7.400191823522359,
+        "neutral": 41.748591296007675
+      }
+    },
+    "mistral_monologues_with_emo": {
+      "path": "dataset/MADE/mistral_monologues_with_emo",
+      "counts": {
+        "monologues": 2500,
+        "utterances": 26150,
+        "files_total": 2500,
+        "files_failed": 0
+      },
+      "lengths_summary": {
+        "monologue_sentences": {
+          "mean": 10.46,
+          "std": 0.8255135304982134,
+          "min": 7,
+          "max": 14
+        },
+        "utterance_words": {
+          "mean": 13.389904397705545,
+          "std": 3.348226581091321,
+          "min": 4,
+          "max": 38
+        },
+        "utterance_chars": {
+          "mean": 71.24126195028681,
+          "std": 17.562015005150915,
+          "min": 20,
+          "max": 207
+        }
+      },
+      "emotion_counts": {
+        "neutral": 12339,
+        "surprised": 1756,
+        "disgusted": 1749,
+        "angry": 2170,
+        "fearful": 3305,
+        "sad": 1678,
+        "happy": 3153
+      },
+      "emotion_percent": {
+        "happy": 12.05736137667304,
+        "sad": 6.416826003824092,
+        "angry": 8.298279158699808,
+        "fearful": 12.638623326959847,
+        "disgusted": 6.688336520076482,
+        "surprised": 6.7151051625239,
+        "neutral": 47.185468451242826
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "monologue_7810",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I'm terrified just looking at this kitchen scene.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.964033305644989
+    },
+    {
+      "text": "The sink is overflowing uncontrollably, water everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.35759902000427246
+    },
+    {
+      "text": "The woman doesn't see it, she's too busy with her plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5659356117248535
+    },
+    {
+      "text": "That puddle could cause someone to slip and fall hard.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5202598571777344
+    },
+    {
+      "text": "Now the boy's on that shaky stool, reaching way up.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8119566440582275
+    },
+    {
+      "text": "If it tips, he'll come crashing down with cookies flying.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4454347491264343
+    },
+    {
+      "text": "The girl's hand is out, but she might get knocked over too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8987671136856079
+    },
+    {
+      "text": "The cabinets are open, adding to the instability.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7784337401390076
+    },
+    {
+      "text": "Dishes stacked nearby could topple in the chaos.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5917309522628784
+    },
+    {
+      "text": "The window lets in light, but it can't brighten this danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7245885133743286
+    },
+    {
+      "text": "The garden outside seems safe, unlike this hazard zone.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5518202185630798
+    },
+    {
+      "text": "I hope she turns around before something awful happens.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4889081120491028
+    },
+    {
+      "text": "My heart is racing imagining the accident about to unfold.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.35634341835975647
+    }
+  ]
+}

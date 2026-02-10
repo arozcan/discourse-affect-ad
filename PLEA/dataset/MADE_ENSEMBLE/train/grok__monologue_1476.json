@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1476",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Peeking into the kitchen, I see the woman focused on drying dishes.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8922632932662964
+    },
+    {
+      "text": "But the faucet is on, and the sink is flooding over.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5687985420227051
+    },
+    {
+      "text": "How irresponsible to leave it running like that!",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6229833364486694
+    },
+    {
+      "text": "The water is damaging everything it touches.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5234318375587463
+    },
+    {
+      "text": "Her foot is wet, and she just stands there.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44194096326828003
+    },
+    {
+      "text": "The children are being sneaky, climbing for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6766128540039062
+    },
+    {
+      "text": "That stool is unstable; the boy could get hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5286989808082581
+    },
+    {
+      "text": "He's holding a plate while grabbing cookies—dangerous combo.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5319274663925171
+    },
+    {
+      "text": "The girl looks so eager, hand up high.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.43329954147338867
+    },
+    {
+      "text": "Outside, the garden is neat and inviting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5393542051315308
+    },
+    {
+      "text": "I get why the kids are tempted; cookies are the best.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5196898579597473
+    },
+    {
+      "text": "But the adult should be watching them, not the plate.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6695618033409119
+    }
+  ]
+}

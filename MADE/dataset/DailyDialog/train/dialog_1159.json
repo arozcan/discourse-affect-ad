@@ -1,0 +1,40 @@
+{
+  "id": "dialog_1159",
+  "segments": [
+    {
+      "text": "Two people were robbed last night near the park .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Again ? The area around the park is too dark at night . There should be more lights there .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I am afraid of the dark . I don ’ t feel safe in the dark . I feel someone is hiding in the dark to attack me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Your feelings might be right . You should never walk alone there at night . It is too dangerous .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I Know . And you should be more careful , too .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

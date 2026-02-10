@@ -1,0 +1,61 @@
+{
+  "id": "dialog_3490",
+  "segments": [
+    {
+      "text": "Good morning golf aficionados ! My name is Rick Fields , and you guessed it , I am here with my main man , Bob Copeland .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you , Rick ! As you can see , ladies and gentleman , we are here in beautiful Pebble Beach where the top golfers in the world are trying to win the grand prize of one million dollars !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Whoa , that ’ s a lot of cash ! Let ’ s go to the course and see how Tiger Woods is doing .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "All right , we are here at the eighth hole . It ’ s a par four , and has some very difficult hazards which many golfers find difficult to avoid . Although , I did see Jack Nicklaus hit a hole in one on this very same hole !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Tiger Woods is about to tee off , and let ’ s see if he has the same luck as Jack . Tiger is asking his caddie for his driver and , he seems to be very nervous .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh no ! Not a good swing at all ! It ’ s definitely not his day today . On the seventh hole he got a bogey and before that he barely made par . He will definitely not get a birdie on this shot .",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "It seems that his ball has flown somewhere deep in the trees . He is having a hard time finding it and even his caddie has climbed a tree to try and spot it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh no ! A bear ! Run , Tiger , run ! Somebody call animal control !",
+      "speaker": "S2",
+      "predicted_emotion": "fearful",
+      "utterance_id": 7,
+      "dialog_act": 3
+    }
+  ]
+}

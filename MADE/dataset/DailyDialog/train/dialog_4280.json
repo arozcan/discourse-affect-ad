@@ -1,0 +1,47 @@
+{
+  "id": "dialog_4280",
+  "segments": [
+    {
+      "text": "I'm so excited ! We have two weeks off ! What are you going to do ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm not sure . I guess I'll just stay at home . Maybe I'll catch up on my reading . What about you ? Any plans ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , my parents have rented a condominium in Florida . I'm going to take long walks along the beach every day and do lots of swimming .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sounds great !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Say , why don't you come with us ? We have plenty of room .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Do you mean it ? I'd love to !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

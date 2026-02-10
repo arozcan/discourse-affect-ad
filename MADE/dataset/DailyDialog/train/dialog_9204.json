@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9204",
+  "segments": [
+    {
+      "text": "The boss had an informal discussion with me this morning , I feel really down .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ’ s up ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , actually I failed to meet a deadline last week and I forgot to answer an e-mail for a VIP customer yesterday .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Anything that distracts you from work ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , everything . I feel overwhelmed by the daily work . Sometimes , I just can ’ t focus on what I am doing . What is worse , though I make plans for a whole week , I always have to make changes later on because other things come up . I can ’ t manage my time well . I can ’ t handle work well . I am afraid I was screw up more things .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Look , Lucy . Things are not so bad as you said . This is our company ’ s busiest time in a year . You need to relax a little . Don ’ t push yourself too hard , ok ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I will try .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

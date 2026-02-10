@@ -1,0 +1,55 @@
+{
+  "id": "monologue_2348",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I observe the chaos in the kitchen and feel a wave of frustration rise within me.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.947754979133606
+    },
+    {
+      "text": "The careless overflow from the sink is unacceptable; how can she not notice?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7865480184555054
+    },
+    {
+      "text": "That puddle could lead to someone slipping and getting hurt, yet she seems so nonchalant.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.25912243127822876
+    },
+    {
+      "text": "The children are clearly misbehaving, sneaking cookies like little bandits.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6658067107200623
+    },
+    {
+      "text": "I see the boy’s foot wobble on the edge of the stool, and my heart races with dread.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8240030407905579
+    },
+    {
+      "text": "What a chaotic scene—it's like they're playing a game with danger.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.34684550762176514
+    },
+    {
+      "text": "I want to yell at them, but I know it wouldn't help the situation right now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6480100154876709
+    }
+  ]
+}

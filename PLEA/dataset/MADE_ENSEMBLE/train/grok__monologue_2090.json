@@ -1,0 +1,90 @@
+{
+  "id": "monologue_2090",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, this kitchen flood is disgusting, water everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9620795845985413
+    },
+    {
+      "text": "The sink's overflowing like a broken pipe, soaking everything.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3858204782009125
+    },
+    {
+      "text": "Woman's just drying a plate, her apron getting splattered.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6882100105285645
+    },
+    {
+      "text": "Puddle on the floor, filthy and slippery.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5538742542266846
+    },
+    {
+      "text": "Kids climbing for cookies, adding to the disorder.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6476927995681763
+    },
+    {
+      "text": "That stool in the wet spot, gross if he falls.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5013976097106934
+    },
+    {
+      "text": "Boy's hand in the jar, crumbs probably falling into the mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5733959674835205
+    },
+    {
+      "text": "Girl reaching up, oblivious to the nasty water nearby.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6716543436050415
+    },
+    {
+      "text": "Cabinets dripping, what a waste and eyesore.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5425705313682556
+    },
+    {
+      "text": "Dishes stacked, could get ruined in this slop.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4711977243423462
+    },
+    {
+      "text": "The window's garden looks clean, unlike this pigsty inside.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.36479249596595764
+    },
+    {
+      "text": "I can't stand watching this unclean disaster unfold.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5215349793434143
+    }
+  ]
+}

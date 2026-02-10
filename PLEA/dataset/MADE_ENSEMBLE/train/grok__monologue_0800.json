@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0800",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen drawing catches my eye immediately.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6941903829574585
+    },
+    {
+      "text": "The woman is standing there, polishing a plate with a towel.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8976016044616699
+    },
+    {
+      "text": "But the faucet is running full blast, and the sink is full to the brim.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7318503856658936
+    },
+    {
+      "text": "Water is spilling everywhere, soaking the cabinets and floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3494666516780853
+    },
+    {
+      "text": "She's oblivious, one foot in the puddle already.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.42698460817337036
+    },
+    {
+      "text": "I feel bad; she could slip and hurt herself any moment.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.503964900970459
+    },
+    {
+      "text": "Now, turning to the kids, the boy is on that unstable stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9162827134132385
+    },
+    {
+      "text": "He's stretching to get into the cookie jar, plate in hand.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9175804853439331
+    },
+    {
+      "text": "The girl is reaching up too, like she's part of the plan.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8410472273826599
+    },
+    {
+      "text": "If that stool tips, he'll fall right onto the wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41532909870147705
+    },
+    {
+      "text": "It's heartbreaking to think of the accident waiting to happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9720033407211304
+    },
+    {
+      "text": "The window shows a tidy garden, but inside it's chaos.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4953632354736328
+    },
+    {
+      "text": "Why isn't she watching them? This could end badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.45810627937316895
+    }
+  ]
+}

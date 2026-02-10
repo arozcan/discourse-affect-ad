@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3534",
+  "segments": [
+    {
+      "text": "So Emily , do you still want to see a movie together this weekend ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , what do you want to see ? I don't think there are many good movies out right now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Mmmm ... I know ! We can go to a really bad sci-fi movie and sit in the back of the theater and make fun of it . What do you think ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Now that's a great plan . It's a date !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

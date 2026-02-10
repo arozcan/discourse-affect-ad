@@ -1,0 +1,75 @@
+{
+  "id": "dialog_607",
+  "segments": [
+    {
+      "text": "Excuse me ? Is this where I register ? I ’ d like to sign up for my courses for next semester .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , of course . I need your student ID please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Here you are .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Okay , Susan . It says here that you are a business major and you are in your second year . Is this information correct ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I do want to take some additional credits this year to get a minor in psychology .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sure.That ’ s not a problem.Do you have the list of courses you want to taketh semester ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah . Here ’ s my list . I ’ m not sure if the class schedule will allow me to take all of them though .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , that ’ s perfect . What about the subjects for your minor ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh yeah ! Almost forgot ! I need to take fundamental linguistics , consumer psychology and neuroanatomy .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wow , you are going to be busy this semester ! Okay , here you go . You are registered now . you ’ ll have to make your first tuition payment before classes start .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

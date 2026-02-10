@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10582",
+  "segments": [
+    {
+      "text": "How often are stockholders meetings held ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Stockholders meetings are held biannually . Usually the meetings are scheduled for spring and fall . In between the meetings , each stockholder receives biannual reports . Financial statements are made once a year .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What percentage of the stockholders actually attend the meetings ? I'm guessing not a large percentage ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "You're right , it's a low percentage . Also , in order to attend meetings , you have to hold a certain amount of shares . It's quite a large number , so most of the stockers are excluded from proceedings .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , how much say do the stockholders really have ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Unless they're united , very little ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

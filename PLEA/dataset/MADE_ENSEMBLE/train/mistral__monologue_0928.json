@@ -1,0 +1,69 @@
+{
+  "id": "monologue_0928",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the woman drying a plate, completely unaware of the water.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6573176383972168
+    },
+    {
+      "text": "The sink is overflowing, and she doesn’t even care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49553465843200684
+    },
+    {
+      "text": "The boy is reaching for cookies, and that stool looks so unstable.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3077680468559265
+    },
+    {
+      "text": "The girl looks so excited, just waiting for her turn.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6209415793418884
+    },
+    {
+      "text": "I can’t believe the woman hasn’t turned around yet.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9128929376602173
+    },
+    {
+      "text": "The water is just pouring out, and she’s not doing anything about it.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.526305079460144
+    },
+    {
+      "text": "I wonder if the kids have done this before.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4986738860607147
+    },
+    {
+      "text": "This whole scene is just a mess.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5594282150268555
+    },
+    {
+      "text": "I hope the woman notices before it’s too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5632025003433228
+    }
+  ]
+}

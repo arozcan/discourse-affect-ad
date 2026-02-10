@@ -1,0 +1,75 @@
+{
+  "id": "dialog_5777",
+  "segments": [
+    {
+      "text": "Good morning . I understand that you ’ Ve got a problem with your washing machine . I ’ m from the repair company .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Excellent . Come in please . The washing machine is in the bathroom upstairs . It keeps breaking down .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "When did it first break down ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "About ten days ago . I ’ Ve tried to use it since then . Sometimes it works and sometimes it doesn ’ t . it ’ s very frustrating .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is it still under warranty . If it is and I can ’ t fix it , it would be quicker and easier to exchange it for a new one .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , it ’ s still under warranty . Over the last few weeks , it ’ s also been making a high-pitch noise when it ’ s in use .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ok . I ’ ll start by looking at the motor . I ’ ll just unplug it and take a look inside the machine ... oh , yes . There ’ s the problem . It ’ s quite simple . I ’ ll sort it out in a few minutes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ’ s wrong with it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Part of the motor is loose . I can put it back in place quite easily .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s great . Thanks very much . Would you like a cup of tea or coffee ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 2
+    }
+  ]
+}

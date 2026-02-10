@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8809",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen is disgusting, what a sloppy situation.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9581198692321777
+    },
+    {
+      "text": "The sink is overflowing with water gushing everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3894355893135071
+    },
+    {
+      "text": "It's soaking the cabinets and floor in a nasty puddle.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8640956282615662
+    },
+    {
+      "text": "The woman stands there, foot in the mess, drying a plate.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47370779514312744
+    },
+    {
+      "text": "She's oblivious, which makes it even more gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6272543668746948
+    },
+    {
+      "text": "Dishes stacked nearby, probably getting splashed too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8962675333023071
+    },
+    {
+      "text": "Now the kids are climbing around in this filth.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5283525586128235
+    },
+    {
+      "text": "The boy on that rickety stool, hand in the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.591550350189209
+    },
+    {
+      "text": "What if he drops crumbs into the water?",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4406156837940216
+    },
+    {
+      "text": "The girl reaching up, potentially stepping in the spill.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.903459906578064
+    },
+    {
+      "text": "The whole place smells of waste and neglect.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5739109516143799
+    },
+    {
+      "text": "Outside, the garden is clean, but inside it's revolting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8592474460601807
+    },
+    {
+      "text": "I can't believe they'd let it get this bad.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.7216312885284424
+    },
+    {
+      "text": "Turn off that faucet before it's a total disaster.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49690529704093933
+    }
+  ]
+}

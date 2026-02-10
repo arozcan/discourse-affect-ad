@@ -1,0 +1,61 @@
+{
+  "id": "dialog_163",
+  "segments": [
+    {
+      "text": "Hello , this is Steven from Blue Sky Co . May I speak to Mr . James ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Speaking .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Excuse my troubling you . You purchased our products last year and now I am following up to find out about their workings . Are they still in good condition now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , exactly ! I bought them last year . En ... at present , they are still in good state .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's it ! All of them have first-class quality and performance . Besides , we adopt advanced technology . Now we have developed new products . They are much better than what you have bought .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Your company is developing so fast . Maybe later on I will plan to buy more .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's great ! Thanks for your support . If any , please remember to call us . I am afraid I have to say goodbye now ! Bye , Mr . James !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Bye !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "dialog_311",
+  "segments": [
+    {
+      "text": "Do you like cooking ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I love it . I really enjoy creating a meal from various ingredients and watching my friends enjoy it.It gives me a real sense of satisfaction.Do you enjoy cooking ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don ’ t like it.It takes up too much time and I really hate having it clean up after the meal . I can ’ t stand doing the washing up , drying up and putting all the dishes and cutlery away .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "You can ask the guests for help . My guests usually insist on doing the washing up . I just have to remind them where everything goes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "So what kinds of dishes do you usually make ? I know you like Italian food .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Italian , Indian and chinese . I ’ Ve only recently started cooking chinese meals and I need some more practice .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you find it hard to get ingredients for Chinese food ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not at all.You can find most of them in supermarkets.The ingredients are usually the same as in Western food.The way that the food is prepared is the big difference , not the ingredients .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "How long does it take you to cook a meal for 5 or 6 people ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Obviously , it depends on what I ’ m cooking.But I ’ d say it generally takes about one and a half hours .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

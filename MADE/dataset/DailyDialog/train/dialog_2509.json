@@ -1,0 +1,124 @@
+{
+  "id": "dialog_2509",
+  "segments": [
+    {
+      "text": "Hi , Ann . I was wondering if you are free tomorrow night ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , George . I guess I am . Why do you ask ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've just gotten a pair of pre-sale Star Wars movie tickets from a friend and was thinking of inviting you along for the opening premiere . Are you interested ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , definitely ! Thanks for inviting me .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "My pleasure .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I really wanted to watch the Star Wars on the opening day , but the pre-sale tickets were sold out . How did you manage to get hold of them ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "A friend of mine works at the corporate headquarters of Pepsi , which is a major sponsor of the movie . He was able to get the tickets for free , and then he sold two more for me for 50 dollars a piece .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "You paid 50 dollars for each ticket ? That's a huge premium over the regular price .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not really . Considering the fact that other people were willing to pay as much as 200 dollars each on the black market . Besides , I knew you were really looking forward to watching Star Wars on the opening day .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wow ! I am really honored you went through all this trouble just for my sake . I really appreciate that . So , what time are we going ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , let's see . The movie stars at 10 . We should be there at least 1 hour earlier , because there is a big line . I could pick you up at your house at 8 , if that's ok with you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "8 pm , that's fine with me .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    },
+    {
+      "text": "Okay .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "So I'll see you tomorrow then at 8 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , that's great . I'll see you tomorrow night .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 4
+    },
+    {
+      "text": "Ok , George . Bye !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 1
+    },
+    {
+      "text": "Bye , Ann !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5468",
+  "segments": [
+    {
+      "text": "Mr . Crane ’ s office . Sandy speaking . May I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , Sandy . It ’ s Walter Knight . I need to book some time with Mr . Crane .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly , Mr . Knight . When would you like to meet with him ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Can you see what his schedule is like on Wednesday ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

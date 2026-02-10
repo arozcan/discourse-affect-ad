@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0787",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I observe the woman in her apron, diligently drying that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8476462960243225
+    },
+    {
+      "text": "The faucet is on, and the sink is overflowing onto the floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8492217063903809
+    },
+    {
+      "text": "She's standing right in the puddle but doesn't seem to care or notice.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4008325934410095
+    },
+    {
+      "text": "It makes me worry she'll slip and fall any moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.879042387008667
+    },
+    {
+      "text": "Now, turning to the children, the boy is on a stool that's tilting backward.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9172298908233643
+    },
+    {
+      "text": "He's reaching into the cookie jar, which is open in the cabinet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9189661741256714
+    },
+    {
+      "text": "The girl is beside him, her arm up, expecting a treat.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9352114200592041
+    },
+    {
+      "text": "It's kind of cute how they're teaming up for cookies.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8602492809295654
+    },
+    {
+      "text": "But the stool's instability has me on edge.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7028131484985352
+    },
+    {
+      "text": "Water damage is spreading, and no one's addressing it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3708851933479309
+    },
+    {
+      "text": "The garden view through the window is serene, a stark contrast.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5495254993438721
+    },
+    {
+      "text": "I hope the boy doesn't drop those cookies or the plate.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5821267366409302
+    },
+    {
+      "text": "This could turn into a big accident so quickly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5572347640991211
+    },
+    {
+      "text": "The children's mischief adds a spark of joy amid the worry.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7819926142692566
+    }
+  ]
+}

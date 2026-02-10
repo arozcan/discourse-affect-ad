@@ -1,0 +1,96 @@
+{
+  "id": "dialog_3531",
+  "segments": [
+    {
+      "text": "How come you're still up ? Shouldn't you be asleep by now ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I've been having a hard time sleeping lately .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "As far as I know , insomnia is usually caused by stress . Are you stressed at all ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I'm really worried about my grades . I didn't think this course would be so stressful .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're a good student . I'm sure you can do well . What you need to do is to relax .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "You're probably right . I just wish it were that simple . How can I stop feeling so anxious all the time ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Taking a yoga class or learning some relaxation techniques can help you cope with your stress .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "I don't really have time to learn anything new . I need to spend my time studying !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "You need to take some breaks throughout the day . Studying all day isn ’ t very usually effective .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "You ’ re right . I usually end up staring at my computer or checking my email instead of doing my work for class .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 4
+    },
+    {
+      "text": "Besides , it ’ s not difficult to learn yoga . In fact , I can teach you a move that ’ s supposed to help you fall asleep ! You just have to sit down like this , bend over and breath in deeply .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s fantastic . I ’ m going to go try that out in my room now . good night !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 11,
+      "dialog_act": 4
+    },
+    {
+      "text": "Good night , sleep tight ; don ’ t let the bed bugs bite !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 12,
+      "dialog_act": 1
+    }
+  ]
+}

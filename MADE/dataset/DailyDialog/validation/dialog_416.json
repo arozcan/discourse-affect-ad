@@ -1,0 +1,54 @@
+{
+  "id": "dialog_416",
+  "segments": [
+    {
+      "text": "Good afternoon , Sir . You're here to see about a Temporary Loan , right ? The loans we offer are for purchasing income-generating assets . Is that what you require ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , that's exactly what I need . How about terms for these ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , we offer 60 - day or 90 - day loans . The balance of the loan is to be repaid in full by the end of the specified period .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is there any flexibility on that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Unfortunately , not .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "OK . In my position , I think the best way to go would be for the 90 - day loan . That would give us a little more time to sort out the repayment plan .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Not a problem , Sir . If you'd just fill out these forms , and of course with necessary clearance , we can get you the money right away .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

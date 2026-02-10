@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1771",
+  "segments": [
+    {
+      "text": "You know ... I did very poorly on that test .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Cheer up ! It's not the only chance in life to do well on a test . There'll be many more .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , you know how I am about exams . I'm a perfectionist .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don't worry about it . All in all , you've done very well in school .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

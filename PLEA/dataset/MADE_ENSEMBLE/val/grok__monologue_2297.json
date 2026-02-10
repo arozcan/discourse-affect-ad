@@ -1,0 +1,104 @@
+{
+  "id": "monologue_2297",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I observe the woman in her apron, diligently drying dishes.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8779815435409546
+    },
+    {
+      "text": "The window shows a tidy garden, which is nice.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5917952656745911
+    },
+    {
+      "text": "But the sink situation is terrible.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.42233139276504517
+    },
+    {
+      "text": "Water gushing out, soaking everything in sight.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49485349655151367
+    },
+    {
+      "text": "It's wasteful and gross, pooling on the floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7624256610870361
+    },
+    {
+      "text": "She has one foot in the puddle, yet keeps working.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5375949740409851
+    },
+    {
+      "text": "I feel sorry for the cabinets getting drenched.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8898994326591492
+    },
+    {
+      "text": "To the left, the cabinet is open with the cookie jar inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9340475797653198
+    },
+    {
+      "text": "A boy is precariously balanced on that unstable stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7522724866867065
+    },
+    {
+      "text": "He's reaching in, probably stuffing his pockets.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9418797492980957
+    },
+    {
+      "text": "The girl beside him looks eager for a cookie too.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8059065341949463
+    },
+    {
+      "text": "They're breaking the rules, sneaking treats.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4637978672981262
+    },
+    {
+      "text": "This could end in tears if the stool gives way.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.495623379945755
+    },
+    {
+      "text": "The contrast between outside calm and inside chaos is striking.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46665313839912415
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_7930",
+  "segments": [
+    {
+      "text": "Hello , Mr Brown . I'm glad you came in today ; we've just opened a new service that you might be interested in . It's called Bank Securities Link .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "And what does that entail ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's actually a Deposit Account that links to your Margin Account , the one you have with the Securities Company . You can transfer the money you have in your account into your Fund Account .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "How can I do that ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "You can use your Deposit Book or your Credit Card . And of course , you can use our e-banking .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

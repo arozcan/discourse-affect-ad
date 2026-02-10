@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9468",
+  "segments": [
+    {
+      "text": "Hi ! Susan ! I haven ’ t seen you for ages !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ Ve been really busy . How is everything ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , fine . Hey , why don ’ t we grab a bite to eat and do some catching up ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , why not ? I ’ Ve got a little free time on my hands . Where do you want to eat ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

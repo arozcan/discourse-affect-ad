@@ -1,0 +1,40 @@
+{
+  "id": "dialog_10432",
+  "segments": [
+    {
+      "text": "Excuse me ! Do you know of any hotel nearby ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes.There are the Huangshan Hotel and Anshan Hotel nearby.And you can take a taxi to go there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , I see . Thank you !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're welcome ! By the way , you'd better booked in the Internet or the telephone next time and then you kow whether there are rooms available or not .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I see , thank you very much !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

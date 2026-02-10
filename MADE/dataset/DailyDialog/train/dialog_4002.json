@@ -1,0 +1,75 @@
+{
+  "id": "dialog_4002",
+  "segments": [
+    {
+      "text": "Hi Isabel ! You wanted to see me ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes Anthony , come on in . Have a seat .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is everything okay ? You seem a bit preoccupied .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , Anthony , this is not going to be an easy conversation.The company has made some decisions which will have a direct impact on your employment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don ’ t want to beat around the bush so I ’ m just gonna come out with it . We are going to have to let you go .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ? Why ? I mean ... just like that ? I ’ m fired ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m sorry but , to be honest , you are a terrible employee !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ! I resent that !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Anthony , you were caught making international calls from the office phone , you called in sick in eight times this month and you smell like alcohol !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

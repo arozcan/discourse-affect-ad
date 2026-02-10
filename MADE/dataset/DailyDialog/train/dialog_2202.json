@@ -1,0 +1,40 @@
+{
+  "id": "dialog_2202",
+  "segments": [
+    {
+      "text": "Hi , Peter . I ’ m afraid I can ’ t make it to dinner tomorrow night .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , why not ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It ’ s just I ’ m not feeling well . I think I ’ m coming down with a cold or something .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I ’ m sorry to hear that . Hey , don ’ t worry about the dinner . We ’ ll do it some other time . But you take care of yourself .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks . I will .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

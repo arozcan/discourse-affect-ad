@@ -1,0 +1,61 @@
+{
+  "id": "dialog_8510",
+  "segments": [
+    {
+      "text": "Did you put this morning's faxes on my desk ? I'm waiting for some urgent faxes from headquarters , I'm pretty sure they came in last night .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Everything that came in off the fax machine last night is all on your desk . But I noticed that some of the faxes came through pretty blurred . Maybe you can take a look at them . If the copy is unreadable , I'll call them and ask them to relax .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , you're going to have to call them and get them to be re-faxed . These copies are so dark , I can't make out any of the words .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "What about that one ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "This one ? This one is so light I can barely read it . How can that be ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "You know , I think the fax machine is out of toner , I can change the toner cartridge . That should solve the problem .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , but this one will have to be re-faxed as well . And look , there's about three pages missing ! It looks loke the fax machine ate half my important faxes , and the ones that made it through are so blurred or too light , they're unreadable !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "I guess the fax machine is out of paper , too . Don't worry , I'll have someone look at it this afternoon , and in the meantime , I'll have your documents re-faxed to our other fax machine .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_7645",
+  "segments": [
+    {
+      "text": "Why have you stopped production ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "We've had a few problems . One of the bolts has worked loose and a blade has snapped off .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . Make sure the power is switched off then tighten up all the bolts on the unit and replace the broken blade . Why is there oil all over the floor ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think the valve is faulty . I couldn't regulate the pressure and the seal burst . I tried opening the emergency valve but it was jammed .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Clean up the mess first , then fit a new seal and check the valve .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

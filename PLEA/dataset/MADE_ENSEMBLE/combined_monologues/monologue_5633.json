@@ -1,0 +1,76 @@
+{
+  "id": "monologue_5633",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing, and it’s making me so angry.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9686082005500793
+    },
+    {
+      "text": "The woman is just standing there, doing nothing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6049352884292603
+    },
+    {
+      "text": "The boy is going to fall off that stool, and she won’t even notice.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.39571717381477356
+    },
+    {
+      "text": "The girl is just waiting for a cookie, like it’s no big deal.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5276880860328674
+    },
+    {
+      "text": "I think the whole kitchen is going to be ruined.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5615381598472595
+    },
+    {
+      "text": "The woman is so focused on that plate, it’s ridiculous.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5140665769577026
+    },
+    {
+      "text": "The garden outside looks so nice, but inside is a disaster.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.43674322962760925
+    },
+    {
+      "text": "I can’t believe how calm the woman is.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9219423532485962
+    },
+    {
+      "text": "The children are being so bold, taking cookies right behind her back.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5281038880348206
+    },
+    {
+      "text": "I wonder if she’ll ever notice what’s happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4859473705291748
+    }
+  ]
+}

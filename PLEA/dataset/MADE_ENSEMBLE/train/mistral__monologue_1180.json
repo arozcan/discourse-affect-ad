@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1180",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I can't believe how calm the woman is while drying that plate.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9030037522315979
+    },
+    {
+      "text": "She doesn't even seem to notice the water overflowing from the sink.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4867100119590759
+    },
+    {
+      "text": "Her foot is soaked, but she just keeps on drying that plate.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4788185954093933
+    },
+    {
+      "text": "The children are being so sneaky, trying to get those cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3630112409591675
+    },
+    {
+      "text": "That boy is going to fall off that stool if he's not careful.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.24894647300243378
+    },
+    {
+      "text": "The girl is just waiting for her share, completely focused on the boy.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8102243542671204
+    },
+    {
+      "text": "The garden outside looks so serene, it's a stark contrast to the kitchen.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7072857022285461
+    },
+    {
+      "text": "I wonder if the woman will ever notice the water or the children's antics.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47734248638153076
+    },
+    {
+      "text": "The stool is wobbling, and it's making me nervous just looking at it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9576928019523621
+    },
+    {
+      "text": "I can feel the anticipation building, something is bound to happen soon.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.776330828666687
+    },
+    {
+      "text": "The children are so engrossed in their mission, they don't care about anything else.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5496344566345215
+    },
+    {
+      "text": "I just hope everyone stays safe in this chaotic kitchen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5669293403625488
+    }
+  ]
+}

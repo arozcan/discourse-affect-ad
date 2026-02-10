@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6364",
+  "segments": [
+    {
+      "text": "Can I ask for leave this afternoon ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What is the problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I had a headache this morning . I didn ’ t pay attention to it . I thought probably it is because I didn ’ t sleep well . But now it is getting worse and worse . I feel quite dizzy now and my eyes are somehow very light-sensitive . Maybe it is the migrated .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "It is ok . You look really pale and red eyes . I suggest you go home immediately and have a good rest .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you very much . I am sure good rest will do indeed . I don ’ t have this too often .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

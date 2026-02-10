@@ -1,0 +1,40 @@
+{
+  "id": "dialog_11091",
+  "segments": [
+    {
+      "text": "Excuse me . I'm looking for Bluemingdails . Could you tell me how to get there ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . It's very close actually.You go straight down this road . Then you turn left , at the next junction .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Left the next junction . Ok .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Bluemingdails is on the corner of that block . You see it as you turn left.Seriously , You can't miss it.It ' s enormous .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks very much .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

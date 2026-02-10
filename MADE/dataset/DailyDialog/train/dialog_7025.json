@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7025",
+  "segments": [
+    {
+      "text": "Do you think I could use your car tomorrow ? I ’ Ve got a date with this girl , see ? And ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I see . Well , now you can have it as long as you bring it back by nine thirty .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Nine thirty ? That ’ s no good . Couldn ’ t I have it a bit longer ? Even if I fill up the tank ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m afraid not , Nick . That ’ s the best I can do .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dialog_5084",
+  "segments": [
+    {
+      "text": "Oh great ! This stupid computer froze again ! That's the third time today ! Hey Samuel , can you come take a look at my PC ? It's acting again . It must have a virus or something .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Just give me a second . I'll be right up . I ran a virus scan on your computer , and it turns out that you have a lot of infected files !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "But I'm quite careful when I'm browsing theinternet , I have no idea how I could have picked up a virus .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , you have to make sure that your anti-virus software is updated regularly , yours wasn't up to date , that ’ s probably what was causing your problems .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok . Anything else ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yeah , try not to kick or hit the computer !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Um yeah . Sorry about that .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10634",
+  "segments": [
+    {
+      "text": "Hello , Mr . Gao . We appreciate your letting us have the apartment .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "My pleasure . You're a sweet couple . Do you have any questions ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "The ad said rent was thirty thousand . That includes utilities and phone , I assume .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , it doesn't . And there's a maintenance fee for each month . It's forty NT per ping .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's another one thousand six hundred ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , but that doesn't include cable . It's for cleaning and trash removal . You just leave your trash outside your door .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

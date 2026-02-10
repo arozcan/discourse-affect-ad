@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0211",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I admire the serenity outside the window, a stark contrast to the chaos within.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6532959342002869
+    },
+    {
+      "text": "The water is gushing from the sink, a steady stream that seems to mirror my rising anxiety.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5335051417350769
+    },
+    {
+      "text": "The woman drying that plate looks so serene, blissfully unaware of the growing mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.2984236478805542
+    },
+    {
+      "text": "And those children! They’re so intent on their cookies, it’s almost comical.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8950958847999573
+    },
+    {
+      "text": "But I feel that pang of frustration; do they have to be so reckless?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8664959073066711
+    },
+    {
+      "text": "The boy’s stool looks like it’s about to tip at any moment, and I’m holding my breath.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4829792082309723
+    },
+    {
+      "text": "I just want to rush in and save them from themselves.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47387975454330444
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "monologue_6072",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the woman drying that plate, and I feel so sad for her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9689704775810242
+    },
+    {
+      "text": "She's completely unaware of the water spilling out of the sink, the puddle forming around her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6509232521057129
+    },
+    {
+      "text": "I think she must be so tired, so lost in thought, to not notice any of this.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6055654287338257
+    },
+    {
+      "text": "I notice her apron is neat and clean, despite the mess around her, and it makes me feel even sadder.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7937530279159546
+    },
+    {
+      "text": "I see the kids behind her, being so mischievous, and she has no idea.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41256001591682434
+    },
+    {
+      "text": "I think she must be a hard worker, to be so focused on drying that plate, even with everything else going on.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4910597801208496
+    },
+    {
+      "text": "I notice the light coming in from the window, illuminating the scene, and it feels so peaceful compared to the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4970749616622925
+    },
+    {
+      "text": "I feel like I want to give her a hug, to tell her everything is going to be okay.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6855158805847168
+    },
+    {
+      "text": "I see the boy on the tipping stool, reaching for the cookies, and I hope she doesn't turn around and get startled.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4927881360054016
+    },
+    {
+      "text": "I think she deserves a break, someone to take care of her for once.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.503871738910675
+    },
+    {
+      "text": "I notice the girl waiting for her cookie, so innocent and eager, and it makes me smile a little.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9275949001312256
+    }
+  ]
+}

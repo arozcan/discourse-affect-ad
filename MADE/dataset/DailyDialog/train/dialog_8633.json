@@ -1,0 +1,68 @@
+{
+  "id": "dialog_8633",
+  "segments": [
+    {
+      "text": "Good morning . What can I do for you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I hate to disturb you , but I really can't stand it any more . Can you change my room for me ? It's too noisy . I was woken up several times by the noise the baggage elevator made . It was too much for me .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry to hear that . This room is at the end of the corridor . It's possible that the noise is heard early in the morning when everything is quiet .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Anyhow , I'd like to change my room .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm awfully sorry , Miss . I do apologize . We'll manage it , but we don't have any spare room today . Could you wait till tomorrow ? A tour company will be leaving tomorrow morning . There'll be some rooms for you to choose from .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "All right . I hope I'll be able to enjoy my stay in a quiet suite tomorrow evening and have a sound sleep .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Be sure . And if there is anything more you need , please let us know .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK . Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're welcome . I hope you'll be more comfortable in your new room .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 8,
+      "dialog_act": 1
+    }
+  ]
+}

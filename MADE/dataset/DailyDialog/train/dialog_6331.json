@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6331",
+  "segments": [
+    {
+      "text": "Hi , United Airlines ? This is Elizabeth parks calling . I have a reservation on the 2:30 p . m . flight to Shanghai this afternoon .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , Miss Parks ? How may I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I ’ d like to reschedule my flight for the tomorrow morning one at 9:05 . Is that possible ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m very sorry , Miss Parks , but the 9:05 flight is completely booked . I can put you on a waiting list if you would like .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

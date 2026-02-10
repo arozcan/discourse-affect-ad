@@ -1,0 +1,47 @@
+{
+  "id": "dialog_198",
+  "segments": [
+    {
+      "text": "Have you heard of the Love Bug ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Do you mean the ' I love you ' virus that attacks computers through e-mail ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . It is one of the most harmful computer viruses in the world . People say it will break out again om Valentines ' Day this year .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "This is terrible . Why do hackers play such a dirty trick ?",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hackers are smart , and they want people to know about it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "So they create viruses to tell people they are smart ? That's really sick .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 5,
+      "dialog_act": 2
+    }
+  ]
+}

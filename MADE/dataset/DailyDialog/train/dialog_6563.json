@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6563",
+  "segments": [
+    {
+      "text": "Good morning . Miss Lee . My name is Alex Jones . I'm the new assistant in the office .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Welcome and nice to meet you . I heard you were coming today . Is today your first day here in the company ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I'm looking forward to meeting everybody and getting started on my new job .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "First day is often exciting , isn't it ? Here , let me show you to your desk . You can have this computer and telephone and share the copy machine with us in the office . How do you like it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "This is wonderful . Thank you for doing all this for me , Miss Lee .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "You are welcome . And , please call me Betty .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

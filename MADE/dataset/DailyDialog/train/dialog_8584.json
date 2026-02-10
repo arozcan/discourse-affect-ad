@@ -1,0 +1,54 @@
+{
+  "id": "dialog_8584",
+  "segments": [
+    {
+      "text": "I am really exhausted , you know , I have been working without the weekend for two weeks . My boss always asks us to work overtime .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Does your boss pay you for the over-time work ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . But he provides free meals and sometimes gives us some small gifts . Many of us get very tired of this , and we'd rather have weekends than stay in the office .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "He should know that this is against the Labor Law in our country . Legally , employees should get double pay if asked to do extra work during the weekend or on holidays .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "We all know about that , but we have no choice . The chairman of the trade union says he is going to negotiate with the management .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I suggest that you go to the lawyers ' office to get some help .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's a good idea . I think we will soon come to a solution to the problem .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

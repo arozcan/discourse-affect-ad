@@ -1,0 +1,47 @@
+{
+  "id": "dialog_1510",
+  "segments": [
+    {
+      "text": "What courses are you going to take next year ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I am certainly going to take chemistry and physics , but I haven't decided on the other subjects yet . I'd like to take English .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why are you going to take english with chemistry and physics ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Because I want to study english literature . but I think chemistry is better for getting a job .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Of course it depends on what you are going to do when you leave college . Have you beside what you are going to do when you graduated ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am going to be a , well , I hope to be a research chemist .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

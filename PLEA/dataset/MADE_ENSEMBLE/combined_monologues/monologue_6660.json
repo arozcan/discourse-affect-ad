@@ -1,0 +1,69 @@
+{
+  "id": "monologue_6660",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I'm shocked by how much water is on the floor.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.9722614288330078
+    },
+    {
+      "text": "The sink is overflowing, and the woman doesn't even notice.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4787901043891907
+    },
+    {
+      "text": "She's just standing there, drying a plate like nothing is wrong.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4929438829421997
+    },
+    {
+      "text": "The puddle is getting bigger, and it's heading towards the children.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4860245883464813
+    },
+    {
+      "text": "I see the boy on the stool, reaching for cookies, and I feel a sense of urgency.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7310706377029419
+    },
+    {
+      "text": "The girl is waiting for a cookie, completely oblivious to the water.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5835303664207458
+    },
+    {
+      "text": "I can't believe how calm the woman looks while everything is going wrong.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.899430513381958
+    },
+    {
+      "text": "The garden outside looks so peaceful, contrasting with the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5209451913833618
+    },
+    {
+      "text": "I hope someone turns off that faucet soon.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5036541819572449
+    }
+  ]
+}

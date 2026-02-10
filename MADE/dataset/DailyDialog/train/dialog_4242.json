@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4242",
+  "segments": [
+    {
+      "text": "OK , Nick . Here's the question , What movie and its sequel both won an Oscar for Best Picture ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "The Godfather and The Godfather II , of course . They were both directed by Francis Ford Coppola .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Whew ! I'm impressed ! You really know your stuff !",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Only about old movies , really ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

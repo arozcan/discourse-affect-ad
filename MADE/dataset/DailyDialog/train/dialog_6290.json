@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6290",
+  "segments": [
+    {
+      "text": "My brother gave me a baby cat yesterday . I can keep it as my pet .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don ’ t understand . Why do you want a cat ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Cats are beautiful and lovely , aren ’ t they ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , cats are too dirty . They are lazy and cunning . I don ’ t like them at all .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don ’ t think so . I think cats are sweet .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "You can keep the cat , but you should keep it away from me .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

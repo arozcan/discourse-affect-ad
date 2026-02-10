@@ -1,0 +1,75 @@
+{
+  "id": "dialog_8063",
+  "segments": [
+    {
+      "text": "I've been waiting here in the conference room for ten minutes already . What time does our meeting start ? Where is everyone anyway ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Didn't you hear about that ? Our meeting was proponed until Friday .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What ? The meeting was proponed ? No one told me anything about it .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Didn't you get the memo ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "What memo ? There haven't been any memos this whole week . I check my unbox every day , and I haven't seen anything .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "The memo went out three days ago . It should have made it to your in-box , but maybe it got lost in all the clutter on your desk .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "You know how things get piled up on my desk when I am busy — I know that sometimes I do misplace things , but I always read all the memos that go around . They go directly to my in-box . Are you sure it was sent to the whole office ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "It should have gone around to everybody . They also posted a copy of the memo in the break-room . Don't you ever look at the messages posted on the bulletin board ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm usually too busy to take a bunch of coffee breaks and gossip by the water cooler . Anyway , I am sure the memo never got to my in-box . I'll have to talk to our secretary about it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "That's right . You never know what you're missing out if you don't read the memos .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    }
+  ]
+}

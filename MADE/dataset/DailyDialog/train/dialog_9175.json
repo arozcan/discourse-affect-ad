@@ -1,0 +1,26 @@
+{
+  "id": "dialog_9175",
+  "segments": [
+    {
+      "text": "Here comes the last course ! Shall I help you to the dish ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'd rather not have it if you don't mind . I'll have soup instead . I'm supposed to be on a diet .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "But I can't resist a good dinner .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 4
+    }
+  ]
+}

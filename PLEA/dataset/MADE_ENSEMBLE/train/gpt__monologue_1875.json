@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1875",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The woman’s focus is almost admirable, but I feel a twinge of frustration.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5600704550743103
+    },
+    {
+      "text": "That countertop is clear, a stark contrast to the mess at her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6855299472808838
+    },
+    {
+      "text": "The boy’s bravery is kind of sweet, but that stool looks terribly unstable.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4463716149330139
+    },
+    {
+      "text": "It’s like a suspenseful moment in a movie, waiting for the inevitable fall.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4015602469444275
+    },
+    {
+      "text": "I can’t shake the feeling that something will go horribly wrong.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7643438577651978
+    },
+    {
+      "text": "The girl’s hopeful expression makes me melt, yet I’m anxious for her safety.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.587655782699585
+    },
+    {
+      "text": "Did they really think they could get away with this without her noticing?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8802239894866943
+    }
+  ]
+}

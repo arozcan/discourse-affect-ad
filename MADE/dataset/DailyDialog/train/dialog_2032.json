@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2032",
+  "segments": [
+    {
+      "text": "Hi , Alex . How are you doing ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just fine , Karen . I ’ m just taking a breather from all this paper work !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know the feeling . I ’ m calling to let you know about this new Italian place I found . It ’ s right around the corner .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I ’ ll have to try it . You know how I am about Italian food ! What ’ s the name ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    }
+  ]
+}

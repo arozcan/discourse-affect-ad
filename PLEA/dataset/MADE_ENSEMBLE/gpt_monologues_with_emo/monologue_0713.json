@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0713",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the water trickling down the cabinet doors like an unforgiving stream.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7579201459884644
+    },
+    {
+      "text": "It seems so reckless, yet the woman continues drying the plate without a care in the world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3272896409034729
+    },
+    {
+      "text": "How could she be so oblivious? It's infuriating to think about.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8691861033439636
+    },
+    {
+      "text": "I glimpse the cookies in the jar, an irresistible temptation for the children.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7329772710800171
+    },
+    {
+      "text": "But the risks they are taking make my heart race.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47891220450401306
+    },
+    {
+      "text": "The girl’s posture reveals her anticipation, yet it could lead to disaster.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4233001470565796
+    },
+    {
+      "text": "I wish she'd be more aware of the chaos brewing just a few feet away.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5101968050003052
+    }
+  ]
+}

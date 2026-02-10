@@ -1,0 +1,97 @@
+{
+  "id": "monologue_8139",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Looking into this kitchen, I notice the woman at the sink totally absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.689565896987915
+    },
+    {
+      "text": "She's polishing that plate like it's the most important thing in the world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4661259651184082
+    },
+    {
+      "text": "But water is gushing from the faucet, overflowing the sink and spilling onto the floor.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47358158230781555
+    },
+    {
+      "text": "How can she not hear it or see the mess she's making?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.46065273880958557
+    },
+    {
+      "text": "The puddle is spreading, soaking her shoes, and she just stands there oblivious.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.40702545642852783
+    },
+    {
+      "text": "Now, behind her, the kids are up to no good with that cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8752391934394836
+    },
+    {
+      "text": "The boy is on a stool that's tilting dangerously backward.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5275493860244751
+    },
+    {
+      "text": "If he falls, he'll hit the wet floor hard— this is reckless!",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.41844505071640015
+    },
+    {
+      "text": "He's grabbing cookies while his sister holds out her hand expectantly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8866086602210999
+    },
+    {
+      "text": "They're being so sneaky, thinking the mom won't catch them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40584632754325867
+    },
+    {
+      "text": "The open window shows a nice garden, but inside it's a disaster zone.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.31421542167663574
+    },
+    {
+      "text": "I hope someone turns off that water before it ruins everything.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5220396518707275
+    },
+    {
+      "text": "Those poor cabinets are getting soaked through.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49427199363708496
+    }
+  ]
+}

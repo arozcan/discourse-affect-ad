@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5498",
+  "segments": [
+    {
+      "text": "Mr Edgar , hello ! How's business ? Still booming ? What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I'm here to get some help from you . I was hoping to have someone who we can deal with exclusively . On a long-term basis , if that's possible .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What we can do is to assign you a customer manager , that way you can just deal with him . You don't need to deal with anyone else .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That sounds perfect .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

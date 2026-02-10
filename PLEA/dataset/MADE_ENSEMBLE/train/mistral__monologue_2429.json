@@ -1,0 +1,83 @@
+{
+  "id": "monologue_2429",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I notice the boy is really stretching to reach those cookies, and it makes me nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6293331980705261
+    },
+    {
+      "text": "He's standing on his tiptoes, trying to balance on that wobbly stool, and I can't help but feel worried for him.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.40530845522880554
+    },
+    {
+      "text": "His sister is right there, waiting for him to share a cookie with her, and she looks so hopeful.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.36198872327804565
+    },
+    {
+      "text": "I wonder if their mom knows they're sneaking cookies like this, and I feel a bit guilty just watching them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.30124250054359436
+    },
+    {
+      "text": "The woman at the sink is completely oblivious to what's happening behind her, and it's frustrating to watch.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.48715922236442566
+    },
+    {
+      "text": "She's just standing there, drying dishes like nothing is wrong, and it's like she's in her own little world.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6315371990203857
+    },
+    {
+      "text": "I can't believe she hasn't noticed the water overflowing all over the floor; it's like she's completely unaware of the chaos around her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8255301713943481
+    },
+    {
+      "text": "I hope someone cleans up that water before someone slips and falls, but I'm not holding my breath.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4865313172340393
+    },
+    {
+      "text": "This whole scene is just a mess, and it's making me feel a bit anxious and sad.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4930271506309509
+    },
+    {
+      "text": "I wish someone would step in and help, but it seems like everyone is just doing their own thing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49860769510269165
+    },
+    {
+      "text": "I feel like I'm watching a train wreck in slow motion, and there's nothing I can do to stop it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6823953986167908
+    }
+  ]
+}

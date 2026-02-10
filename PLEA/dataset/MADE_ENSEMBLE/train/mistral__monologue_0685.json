@@ -1,0 +1,62 @@
+{
+  "id": "monologue_0685",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see a woman standing by the sink, completely absorbed in drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9192297458648682
+    },
+    {
+      "text": "She doesn’t even notice the water overflowing and flooding the floor around her feet.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.425359845161438
+    },
+    {
+      "text": "Her dress is getting wet, but she just keeps polishing that dish like nothing’s wrong.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4154481589794159
+    },
+    {
+      "text": "I wonder if she’s just too focused or if she’s ignoring the mess on purpose.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4983435869216919
+    },
+    {
+      "text": "The puddle is spreading, and it’s going to be a disaster if someone slips.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6260322332382202
+    },
+    {
+      "text": "I can’t believe she hasn’t turned off the faucet yet.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8975816965103149
+    },
+    {
+      "text": "The kids behind her are up to no good, but she’s completely oblivious.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.37603867053985596
+    },
+    {
+      "text": "I think she’s going to regret not paying attention soon.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4173513948917389
+    }
+  ]
+}

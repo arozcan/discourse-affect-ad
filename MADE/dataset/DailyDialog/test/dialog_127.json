@@ -1,0 +1,40 @@
+{
+  "id": "dialog_127",
+  "segments": [
+    {
+      "text": "Have you seen the tower in front of us . That's the famous Eiffel Tower . It was built in 1889 for the World's Fair .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "How tall is this building ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It stands 320m ( 1050ft ) high and held the record as the world's tallest structure until 1930 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I have heard its name is connected with someone , is that right ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , the towel was named after its designer Gustave Eiffel .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

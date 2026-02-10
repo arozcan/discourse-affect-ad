@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8135",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This is heartbreaking— the sink's overflowing and no one cares.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7694629430770874
+    },
+    {
+      "text": "The woman's so engrossed in her task, missing the flood at her feet.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5617460012435913
+    },
+    {
+      "text": "Water's ruining the cabinets, seeping everywhere.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.42667752504348755
+    },
+    {
+      "text": "Those poor kids, trying to get cookies but risking a fall.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.45122030377388
+    },
+    {
+      "text": "The boy's stool is unsteady; he could get hurt so easily.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49879300594329834
+    },
+    {
+      "text": "The girl's expectant face tugs at my heart—she just wants a snack.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.4228295087814331
+    },
+    {
+      "text": "They're breaking rules behind her back, which feels a bit lonely.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9393168091773987
+    },
+    {
+      "text": "The peaceful garden outside contrasts with this indoor trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49139899015426636
+    },
+    {
+      "text": "I worry about the slip hazard on that wet floor.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7964137196540833
+    },
+    {
+      "text": "Dishes might shatter if someone tumbles.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6327406764030457
+    },
+    {
+      "text": "It's a shame such a nice kitchen is facing this mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8397400975227356
+    },
+    {
+      "text": "The cookies in the jar look tempting, but at what cost?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4089888632297516
+    }
+  ]
+}

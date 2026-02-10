@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1998",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "The water gushing out of the sink is turning my stomach.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5081365704536438
+    },
+    {
+      "text": "That woman standing in the mess, unaware, it's gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7102031707763672
+    },
+    {
+      "text": "Her foot soaking in the dirty puddle makes me cringe.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5043846368789673
+    },
+    {
+      "text": "The kids climbing for cookies while everything's flooding—yuck.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.726956844329834
+    },
+    {
+      "text": "The stool's tilting, and they might fall into the wet floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.551932692527771
+    },
+    {
+      "text": "Cookies in an open cabinet, probably getting dusty or something.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7972368001937866
+    },
+    {
+      "text": "The water streaming down the cabinets looks filthy.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.6947853565216064
+    },
+    {
+      "text": "I hate seeing food stolen like that, sneaky and wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49586355686187744
+    },
+    {
+      "text": "The girl's reaching hand just adds to the chaos.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41120898723602295
+    },
+    {
+      "text": "Outside the window, the garden is clean, unlike this slop inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.598712146282196
+    },
+    {
+      "text": "Dishes stacked nearby could get ruined by the splash.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.39168214797973633
+    },
+    {
+      "text": "This whole scene is just unsanitary and annoying.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5259630680084229
+    }
+  ]
+}

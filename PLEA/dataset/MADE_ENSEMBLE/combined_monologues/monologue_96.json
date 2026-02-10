@@ -1,0 +1,55 @@
+{
+  "id": "monologue_96",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The warmth of the sun streams through the window, illuminating the chaotic scene.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7067582607269287
+    },
+    {
+      "text": "It feels so mundane, yet there’s something inherently risky about it.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.404511958360672
+    },
+    {
+      "text": "The woman seems oblivious, and her pristine white apron contrasts starkly with the mess of water at her feet.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40060997009277344
+    },
+    {
+      "text": "I can see the water pooling, and I feel a pit in my stomach as I anticipate the potential disaster.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6917334794998169
+    },
+    {
+      "text": "And then there’s that boy, climbing onto the stool, stretching his arm toward the cookie jar.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7015886902809143
+    },
+    {
+      "text": "He looks so determined, yet the stool is tilting dangerously.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.2999953627586365
+    },
+    {
+      "text": "I can’t help but smirk a little at the girl’s expectant expression, like she’s part of some secret mission.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.47666001319885254
+    }
+  ]
+}

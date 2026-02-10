@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5097",
+  "segments": [
+    {
+      "text": "Hello . This is Doctor Bell ’ s Office . Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi . This is Taylor Wright calling . I ’ Ve got an appointment with Doctor Bell at 9.00 tomorrow morning . I ’ Ve got to cancel this appointment . My father-in-law passed away suddenly last night .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m sorry to hear that . Cancelling the appointment is no problem . Thank you for your call .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Thanks a lot . Good bye .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

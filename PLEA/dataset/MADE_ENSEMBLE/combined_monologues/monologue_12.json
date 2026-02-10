@@ -1,0 +1,55 @@
+{
+  "id": "monologue_12",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a woman standing at the sink, completely engrossed in drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9198793172836304
+    },
+    {
+      "text": "The water is overflowing from the basin, and she's completely oblivious to the chaos around her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.36902254819869995
+    },
+    {
+      "text": "I can't help but feel a sense of worry; the puddle is getting bigger.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8342472314834595
+    },
+    {
+      "text": "I notice the children scheming behind her, and my heart races a bit.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.3352975845336914
+    },
+    {
+      "text": "The boy is climbing the stool so recklessly, it's hard to watch.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3149987459182739
+    },
+    {
+      "text": "Meanwhile, the girl stands eagerly, her arm outstretched, waiting for a cookie.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6462917923927307
+    },
+    {
+      "text": "It’s like they are in their own little world, unaware of the dangers lurking just around them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.43107324838638306
+    }
+  ]
+}

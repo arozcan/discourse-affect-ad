@@ -1,0 +1,33 @@
+{
+  "id": "dialog_791",
+  "segments": [
+    {
+      "text": "Tell me something about your Valentine's Day .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , on that day , boys usually give roses to the sweet hearts and girls give them chocolate to return .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "So romantic . Young people must have lot of fun .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yeah , that is the holiday is hot , isn't it ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 2
+    }
+  ]
+}

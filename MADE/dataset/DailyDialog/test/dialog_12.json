@@ -1,0 +1,40 @@
+{
+  "id": "dialog_12",
+  "segments": [
+    {
+      "text": "I'm sorry I'm so late . I had a really bad day .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "It's ten after six.We ' re late.But dinner is at six thirty .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know . I know . I'm really sorry . I lost my bag .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'll call the lost and found office .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I didn't think of it.Thank you.And I do apologize for being late .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

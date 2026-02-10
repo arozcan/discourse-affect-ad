@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0012",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "The garden outside looks so peaceful compared to the chaos inside.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.43122249841690063
+    },
+    {
+      "text": "The sunlight is streaming through the window, making everything look so calm.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6394974589347839
+    },
+    {
+      "text": "But inside, it’s a completely different story.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6666611433029175
+    },
+    {
+      "text": "The water is just gushing out of the sink, and no one seems to care.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.40929877758026123
+    },
+    {
+      "text": "I can’t believe how much of a mess this is becoming.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5667838454246521
+    },
+    {
+      "text": "The woman is just standing there, drying dishes like nothing is wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41718804836273193
+    },
+    {
+      "text": "The kids are being so sneaky, and she has no idea.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3629123866558075
+    },
+    {
+      "text": "I wonder if she’ll notice before the water ruins the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4754256010055542
+    },
+    {
+      "text": "The contrast between the outside and inside is almost funny.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7446828484535217
+    },
+    {
+      "text": "But I know it’s not going to end well for anyone.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.22355008125305176
+    }
+  ]
+}

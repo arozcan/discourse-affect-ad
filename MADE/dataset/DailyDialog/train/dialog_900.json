@@ -1,0 +1,33 @@
+{
+  "id": "dialog_900",
+  "segments": [
+    {
+      "text": "Did you hear that Mary ’ s marriage is on the rocks ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "So I hear .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yesterday I met Mary , and she told me her husband often made pass at his secretary .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "After all the crises they have survived together , her husband should do such things . She must feel that she ’ s been stabbed in the back .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

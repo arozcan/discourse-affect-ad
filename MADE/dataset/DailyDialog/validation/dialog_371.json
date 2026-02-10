@@ -1,0 +1,110 @@
+{
+  "id": "dialog_371",
+  "segments": [
+    {
+      "text": "Ahem ... uh , sir , I beg your pardon ... Uh , mister , are you waiting to buy a ticket for the movie ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "What's it look like , lady ? This is the ticket line I'm standing in , isn't it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , yes , it is , but ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , what's your beef anyway , lady ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "You just cut into line , in front of me and everyone else , that's what ! Go take your place back at the end of the line , like every - one else !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh sure , lady , and fat chance I'd get a ticket before they're sold out . I'm staying right here , understand ? So be a nice lady and butt out !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Just what gives you the right ... ?",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Because I'm no sucker ; only suckers go to the end of the line . It's as simple as that , lady .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , you're no gentleman , either .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay , lady , just to show what a gentleman I really am , I'll let you go in front of me . Now , just buy your ticket and shut your trap , will you , lady ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 3
+    },
+    {
+      "text": "Whew ! I got the last one . This must be my lucky day !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 10,
+      "dialog_act": 4
+    },
+    {
+      "text": "What was that you just said ? Last one ... ? Hey , they've closed the ticket window !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , I'm afraid I bought the last ticket , and to think , if you hadn't been such a gentleman . . .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "Lady ! This is unfair ! I've been cheated ! I was in line before you.That should have been my ticket ! Come on , hand it over , lady !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 13,
+      "dialog_act": 3
+    },
+    {
+      "text": "Gentleman ! Hah ! Fat chance ! Hah ! Eat your heart out , sucker ! Hah !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 14,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7980",
+  "segments": [
+    {
+      "text": "Bob , can I talk to you for a minute ? There have been some developments for the Stewart case that I really need to talk to you about .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yeah , what's the matter now ? We've had so much trouble with this case already . Don't tell me there's more bad news .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , I'm afraid there is . I have some bad news for you about the results of the forensic tests ... there won't be any results .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ? What does that mean ? Why won't there be any results ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I hate to tell you this , but it seems that every shred of evidence that would help us to convict were destroyed in a laboratory fire . There's nothing left . I'm so sorry ...",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , no , you can't be serious . I never expect anything like this would happened . What are we going to do ?",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "There's nothing that can be done . Everything is gone . I wish I could tell you differently , but what has happened has happened . We will just have to figure out a way to move on .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dialog_3374",
+  "segments": [
+    {
+      "text": "Have the aerobic classes any effect on you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure , great effect.My weight has dropped from 150 pounds to 120 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Congratulations ! That's really something beyond my imagination .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dialog_539",
+  "segments": [
+    {
+      "text": "Welcome to the company . We are conducting a survey of new employees to find out what influenced them to choose our company .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's easy . It was your office ergonomics that decided me .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're kidding ! Something as simple as that ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . It is very important to me . My mother worked in offices for twenty years , and she finally had carpal tunnel syndrome . I have been reading about repetitive stress injuries , and I know that t",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , there has been a lot of research into RSI's . Something so simple as proper chair height can prevent injuries . Tell me , did anything else influence your decision ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , I noticed that you have professional training and team-building days . I like the idea of working for a company that invests in its staff .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , welcome to the team .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

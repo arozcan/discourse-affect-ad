@@ -1,0 +1,61 @@
+{
+  "id": "dialog_7441",
+  "segments": [
+    {
+      "text": "John , I was talking to the travel agent about where we might be taking our vacation this year .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am going fishing in Alaska with my friend , Mark .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What are you talking about ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "What's wrong with heading out with Mark for vacation ?",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "You and I have been together for a whole year , and our vacation time should be about the two of us !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Really ? Who made that rule up ?",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "With that attitude , I don't really think we have much more to discuss here .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "That works for me !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

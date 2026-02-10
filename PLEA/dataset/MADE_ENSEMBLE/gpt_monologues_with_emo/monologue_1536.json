@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1536",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I observe the woman’s calm demeanor, almost reassuring in this turbulent scene.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5162075757980347
+    },
+    {
+      "text": "But then I see the puddle growing bigger, spreading like a warning sign.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5170325040817261
+    },
+    {
+      "text": "The boy still seems unaware of the danger he’s in, completely lost in his cookie quest.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.29879558086395264
+    },
+    {
+      "text": "And the girl, with her palm open, looks like a little bird waiting to be fed.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8630632758140564
+    },
+    {
+      "text": "It’s a precious moment, yet loaded with potential chaos.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.35340410470962524
+    },
+    {
+      "text": "I can’t help but feel frustrated by the woman’s oblivion to the mounting hazards.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5694705247879028
+    },
+    {
+      "text": "The scene ebbs and flows between innocence and recklessness, leaving me anxious.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.42132246494293213
+    }
+  ]
+}

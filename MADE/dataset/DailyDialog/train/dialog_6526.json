@@ -1,0 +1,75 @@
+{
+  "id": "dialog_6526",
+  "segments": [
+    {
+      "text": "Consumer Credit Department . How may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I need some info on car loans . Such as payment periods , interest rates , things like that , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly . Do you currently bank with us ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I do . I have a Current Account , a credit card and a mortgage with you already .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's excellent . Well , for our Personal Automobile Consumer Loan we offer some really competitive rates . The maximum repayment period for this type of loan is 5 years .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I plan to repay it within 2 years . And the interest ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course , the interest rates depend on what is announced at the time , but at the moment , the interest for a 2 - year loan is 5.29 %",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "So the rate is variable ? OK , that's fine . How about the frequency of repayment ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "We usually set up a direct debit system taking installments directly from your bank account on a monthly basis . And since you are already a valued customer , there should be no trouble in processing you application for this loan .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's nice and easy . Thanks for your time .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 1
+    }
+  ]
+}

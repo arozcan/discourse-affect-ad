@@ -1,0 +1,40 @@
+{
+  "id": "dialog_7978",
+  "segments": [
+    {
+      "text": "Excuse me . Miss , what does the doctor say about me ? When can I be discharged ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "The doctor has examined your current situation . Since you are recovering so well , you will be discharged tomorrow .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Great , thanks . But how can I get discharged ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "First please get the bill at the doctor's office , then pay it either with cash or by check . Even though you're discharged , you still need to take a rest at home . Don't hurry back to work until you have fully recovered .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I will . Thanks for your care .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

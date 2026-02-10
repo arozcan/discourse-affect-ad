@@ -1,0 +1,54 @@
+{
+  "id": "dialog_6636",
+  "segments": [
+    {
+      "text": "I ’ m looking for a budget hotel in Orlando . Have you ever stayed at the Comfort Hotel ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes ... I wouldn ’ t recommend it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why not ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Granted , it ’ s cheap , but the place is filthy , the beds are uncomfortable , there ’ s no A / C , the breakfast is pretty skimpy ... and the staff couldn ’ t care less about the guests .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh . I guess you get what you pay for . How long did you stay there ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just one night , when my flight was canceled due to bad weather . It ’ s bearable if you just need a place to crash , but you definitely don ’ t want to book a vacation there . Unless you enjoy sharing your room with cockroaches .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hmm , I ’ ll pass . Hopefully I can find a decent place that won ’ t cost a fortune .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

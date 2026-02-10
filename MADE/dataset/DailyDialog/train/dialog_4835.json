@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4835",
+  "segments": [
+    {
+      "text": "Hello , this is Lin Tao . I am calling to inquire about my interview result last week .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hi , I am sorry to say that your experience doesn't fit the job at all .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sorry to hear that , but could you inform me why I failed ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have to say your education and experience are very outstanding , but it seems that you are not good at working in a team which we attach great importance to .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

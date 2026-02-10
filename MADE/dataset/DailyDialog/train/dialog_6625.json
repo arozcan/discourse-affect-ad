@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6625",
+  "segments": [
+    {
+      "text": "Hello . I'd like to change my reservation for March 19 . My name is Mary Chang .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ah , yes , Miss Chang . What seems to be the problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I'd like to change the date to March 20 , and make that for two singles , not one .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Very well . That can be arranged .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

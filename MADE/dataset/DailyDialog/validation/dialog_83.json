@@ -1,0 +1,33 @@
+{
+  "id": "dialog_83",
+  "segments": [
+    {
+      "text": "Excuse me , I ’ m sorry to trouble you . My name is Susan Ransom , and I have placed several orders with you company .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , Mr . Ransom ? This is Karl Miller . How may I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I wonder if you could track an order I placed with you last month . It hasn ’ t arrived yet .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Certainly , Ms . Ransom . Do you have an order number ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    }
+  ]
+}

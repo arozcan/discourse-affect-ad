@@ -1,0 +1,90 @@
+{
+  "id": "monologue_9712",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the warm light in this kitchen, but it feels off.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5325611233711243
+    },
+    {
+      "text": "The woman is drying a plate so meticulously, lost in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7997888326644897
+    },
+    {
+      "text": "But the sink is overflowing, water spilling sadly onto the floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5144478678703308
+    },
+    {
+      "text": "She's unaware, standing in the puddle that could lead to trouble.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3848303258419037
+    },
+    {
+      "text": "It breaks my heart thinking of the potential slip and fall.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8839554786682129
+    },
+    {
+      "text": "The boy on the stool reaches for the cookie jar, so innocent yet risky.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4976755380630493
+    },
+    {
+      "text": "That stool looks unstable, and he might get hurt climbing like that.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.2995230257511139
+    },
+    {
+      "text": "The girl waits eagerly, her little hand outstretched for a treat.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4807358980178833
+    },
+    {
+      "text": "They're just kids being kids, but the oversight makes me melancholy.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5114666223526001
+    },
+    {
+      "text": "Water damage to the cabinets, possible broken bones—it's all so avoidable.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3342542052268982
+    },
+    {
+      "text": "The garden outside is tidy and serene, contrasting this indoor sorrow.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.491438090801239
+    },
+    {
+      "text": "I wish the woman would turn around and see what's happening.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5178423523902893
+    }
+  ]
+}

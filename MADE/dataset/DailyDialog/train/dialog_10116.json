@@ -1,0 +1,47 @@
+{
+  "id": "dialog_10116",
+  "segments": [
+    {
+      "text": "Hi , still in the office ? It ’ s already 7 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I would like to go but I have to finish a very important presentation . Our boss needs it for tomorrow ’ s morning meeting and I was given the complete information only late this afternoon .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sounds like our boss . Typically him always late with important information . Anything I can help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , that will be great . Thank you so much . Please help me to double-check the name list . I have to make sure they are all correct .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , shall I make a coffee first ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Not for me . It is already late . I can not fall asleep after drinking coffee this late .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "monologue_2487",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I notice the sunlight coming through the window, lighting up the kitchen nicely.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6380167007446289
+    },
+    {
+      "text": "The garden outside looks so inviting with its neat bushes and path.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7423897981643677
+    },
+    {
+      "text": "Inside, the woman's busy drying dishes, looking content in her apron.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7664159536361694
+    },
+    {
+      "text": "But wait, the sink is overflowing—water everywhere!",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6976327300071716
+    },
+    {
+      "text": "It's pouring down the front, making a mess on the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3893994092941284
+    },
+    {
+      "text": "She's standing right in it, but totally zoned out on that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.49201342463493347
+    },
+    {
+      "text": "Over on the other side, a boy's climbing to get cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9080847501754761
+    },
+    {
+      "text": "His stool's tilting dangerously backward.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6609582901000977
+    },
+    {
+      "text": "I hope he doesn't fall and get hurt.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4966978132724762
+    },
+    {
+      "text": "The little girl is waiting patiently, arm up high.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8615840673446655
+    },
+    {
+      "text": "It's kind of cute how they're teaming up for a snack.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8466536402702332
+    },
+    {
+      "text": "But the water could make everything slippery and dangerous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7754013538360596
+    },
+    {
+      "text": "What a mix of joy and worry in one room.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8487364649772644
+    }
+  ]
+}

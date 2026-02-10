@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1647",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Ugh, that overflowing sink is disgusting.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.968580424785614
+    },
+    {
+      "text": "Water just pouring out, drenching the cabinets and floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44906488060951233
+    },
+    {
+      "text": "The woman's standing right in it, her dress hem probably getting soaked soon.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4824589490890503
+    },
+    {
+      "text": "She's so absorbed in that plate, ignoring the mess at her feet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4323137104511261
+    },
+    {
+      "text": "The kids are making it worse, climbing around like little monkeys.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4445492625236511
+    },
+    {
+      "text": "That boy's stool is tilting backward— what are they thinking?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.48636195063591003
+    },
+    {
+      "text": "He's got cookies in hand, but one wrong move and down he goes.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5980610847473145
+    },
+    {
+      "text": "The girl's just standing there, begging for her share without a care.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3335975706577301
+    },
+    {
+      "text": "The cookie jar's open wide, inviting all this trouble.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5882120728492737
+    },
+    {
+      "text": "Outside, the garden's pristine, mocking the sloppiness inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5141927003860474
+    },
+    {
+      "text": "I can't believe no one's turned off the water yet.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6313397884368896
+    },
+    {
+      "text": "This whole scene is a recipe for disaster and filth.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7168295383453369
+    }
+  ]
+}

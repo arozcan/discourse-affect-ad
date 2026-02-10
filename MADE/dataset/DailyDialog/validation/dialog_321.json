@@ -1,0 +1,33 @@
+{
+  "id": "dialog_321",
+  "segments": [
+    {
+      "text": "Hello . Mr . Othman ? This is Michael in Mr . Emory ’ s office . He ’ d like to set up and appointment with you to talk about buying a new copier .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure , I ’ d be glad to . What time frame did he have in mind ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "He ’ d like to do it as soon as possible , sir . How about tomorrow at 2:45 ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Mm , yeah , that ’ ll be great . Tell him I ’ ll see him then .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

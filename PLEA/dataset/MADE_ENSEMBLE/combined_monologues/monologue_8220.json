@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8220",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "It's heartbreaking to watch this scene in the kitchen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9799632430076599
+    },
+    {
+      "text": "The woman's so diligently drying dishes, unaware of the trouble brewing.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5514599084854126
+    },
+    {
+      "text": "Water overflowing from the sink, pooling on the floor.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7089190483093262
+    },
+    {
+      "text": "She might slip and get hurt any moment.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4984232783317566
+    },
+    {
+      "text": "The children are risking so much just for some cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3504595160484314
+    },
+    {
+      "text": "That boy on the unsteady stool, stretching so far.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7896032333374023
+    },
+    {
+      "text": "If it tips, he'll fall and it could be bad.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5630245208740234
+    },
+    {
+      "text": "The girl looks so hopeful, hand raised for a treat.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5020430684089661
+    },
+    {
+      "text": "But this mischief could lead to tears and injury.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.44529590010643005
+    },
+    {
+      "text": "The peaceful garden outside contrasts with this potential sorrow inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.5193850994110107
+    },
+    {
+      "text": "I feel sorry for them all, caught in this unaware moment.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.964697003364563
+    },
+    {
+      "text": "Why can't things just stay calm and safe?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.40648090839385986
+    }
+  ]
+}

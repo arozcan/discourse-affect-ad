@@ -1,0 +1,61 @@
+{
+  "id": "dialog_1050",
+  "segments": [
+    {
+      "text": "I can't wait until my car is repaired . The commuting with public transportation is killing me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "It can't be that bad .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "But it is ! Take this morning for example . The subway was so packed this morning , I got totally squished by about a hundred busy commuters on the way to work .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "At least the subway is better than the bus . It's faster for one thing . And usually less crowded . But the drawback is that the subway is more expensive than the bus . It adds up over time , if you take it every day .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's true . The bus is even worse . Just thinking about taking the bus every day makes me tired ! Hey , how do you get to work every day ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ride my bike . I don't live too far away , so it's pretty convenient . it's only about a ten minute bike ride from my house to the office .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'll bet it's good exercise , too ... a good way to keep fit .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , not only a good way to keep in shape , but a good way to relieve stress as well . While you're stressed out by your commute , I'm releasing all the stress of the day with mine .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

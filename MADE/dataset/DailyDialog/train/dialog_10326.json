@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10326",
+  "segments": [
+    {
+      "text": "I ’ d like to set a fixed time for this meeting before we finish today . Can you all take a look at your schedules ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Thursday mornings are usually the slowest around here . Why don ’ t we set it for Thursday at 10:00 a . m . ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s out for me . I already have a standard meeting on Thursdays at 9:30 a . m . How about Wednesday afternoon at 2",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s all right for my department . I don ’ t know how the rest of you feel .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

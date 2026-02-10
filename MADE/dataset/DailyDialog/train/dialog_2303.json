@@ -1,0 +1,61 @@
+{
+  "id": "dialog_2303",
+  "segments": [
+    {
+      "text": "Howdy ! Nice car ! What seems to be the problem ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don ’ t know ! This stupid old car started spewing white smoke and it just died on me . Luckily , I managed to start it up and drive it here . What do you think it is ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not sure yet.How about you pop the hood and we can take a look . Mmmm , it doesn ’ t look good .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What do you mean ? My daddy gave me this car for my birthday last month . It ’ s brand new !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well missy , the white smoke that you saw is steam from the radiator . You overheated your engine so now the pistons are busted and so is your transmission . You should have called us and we could have towed you over here when your car died .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ugh ... So how long is this going to take ? An hour ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m afraid a bit more than that . We need to order the spare parts , take apart your electrical system , fuel pump and engine and then put it back together again . You are going to have to leave it here for at least two weeks .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "What ! How am I supposed to get to school or go shopping ? This is not happening !",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

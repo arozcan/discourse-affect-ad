@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9690",
+  "segments": [
+    {
+      "text": "When would you like me to send those plans over to your office , Mr . Montgomery ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It would be good if you could get them to me by Thursday afternoon , Ms.Barkley .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That shouldn't be a problem . What is the exact address , again ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "7880 Crofton Avenue , Building 40A , Room 304 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

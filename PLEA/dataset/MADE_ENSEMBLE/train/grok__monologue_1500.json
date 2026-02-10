@@ -1,0 +1,104 @@
+{
+  "id": "monologue_1500",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I think this scene is full of everyday kitchen moments.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6548071503639221
+    },
+    {
+      "text": "The adult is carefully wiping down the plate she's holding.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8648068904876709
+    },
+    {
+      "text": "But the faucet's left on, and the sink's brimming over.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5942345857620239
+    },
+    {
+      "text": "Water's gushing out, soaking everything in its path.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5379184484481812
+    },
+    {
+      "text": "The puddle's growing, right under her unsuspecting feet.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5110225677490234
+    },
+    {
+      "text": "She looks so content, unaware of the flood.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6173368096351624
+    },
+    {
+      "text": "Nearby, the boy balances precariously on the stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9201704263687134
+    },
+    {
+      "text": "He's reaching right into the cookie jar for a snack.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6359074115753174
+    },
+    {
+      "text": "The girl's cooperating, her hand up in anticipation.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8630566596984863
+    },
+    {
+      "text": "The stool's tilting backward; this is nerve-wracking.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9195396900177002
+    },
+    {
+      "text": "Through the window, I see the calm garden path.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7978224754333496
+    },
+    {
+      "text": "It's surprising how peaceful outside compared to in here.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4766734838485718
+    },
+    {
+      "text": "I feel bad for the potential mess and accidents.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8062697649002075
+    },
+    {
+      "text": "Why isn't anyone stopping this before it's too late?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.460842102766037
+    }
+  ]
+}

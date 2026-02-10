@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5561",
+  "segments": [
+    {
+      "text": "Excuse me , sir ? I just need a little bit more information . Could you tell me your telephone number and mailing address ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . My number is 545-8897 , and I live at 908 Mulbury Street .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s 545-8897 and your mailing address is 908 Mulbury Street . The zip code is 20310 , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "That ’ s right .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

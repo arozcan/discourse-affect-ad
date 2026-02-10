@@ -1,0 +1,97 @@
+{
+  "id": "monologue_1407",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I observe the woman standing by the sink, absorbed in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9008523225784302
+    },
+    {
+      "text": "She's drying dishes while the water overflows behind her.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7524502873420715
+    },
+    {
+      "text": "It's heartbreaking how unaware she is of the danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6140276193618774
+    },
+    {
+      "text": "The puddle is spreading, and it could make someone slip badly.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.47256630659103394
+    },
+    {
+      "text": "Now, turning to the children on the left.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9481789469718933
+    },
+    {
+      "text": "The boy is stretched out on that tilting stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9595770835876465
+    },
+    {
+      "text": "He's reaching for the cookie jar with one hand.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7943329811096191
+    },
+    {
+      "text": "The girl looks up expectantly, her arm raised.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8908481597900391
+    },
+    {
+      "text": "They're being so sneaky, but it's risky.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4443899691104889
+    },
+    {
+      "text": "I worry they'll fall and get hurt.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8080116510391235
+    },
+    {
+      "text": "The open window shows a peaceful garden outside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7472899556159973
+    },
+    {
+      "text": "It makes the inside feel even more out of control.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.358622670173645
+    },
+    {
+      "text": "This domestic scene just tugs at my heartstrings.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5259400606155396
+    }
+  ]
+}

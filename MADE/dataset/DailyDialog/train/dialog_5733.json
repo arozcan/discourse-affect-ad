@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5733",
+  "segments": [
+    {
+      "text": "Hello , there . Welcome , and what can we assist you with ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Good morning . I have a Bill of Exchange against Bank Acceptance here . I'd like to discount it . Is that possible here ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , we can do that . We require the original Trading Contract and also the VAT Invoice and the Commodity Delivery Documents . They all need to be in duplicate .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I've got all that here .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Do you have a copy of the ID card of the person who took care of the legal aspects of this ? The Legal Rep , I mean ? We also need the Loan Certificate as well . Do you have that ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "A copy or the original ? I guess you need the original , right ? OK , I'll return shortly .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0120",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen scene feels a bit melancholic to me.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.49575918912887573
+    },
+    {
+      "text": "The woman is so absorbed in her dish drying.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47654882073402405
+    },
+    {
+      "text": "Water flowing endlessly from the tap, no one cares.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7132982015609741
+    },
+    {
+      "text": "The puddle growing, soaking everything in sight.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6032235622406006
+    },
+    {
+      "text": "She's standing in it, unaware of the trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5732880234718323
+    },
+    {
+      "text": "The children are up to mischief with the cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7546464800834656
+    },
+    {
+      "text": "Boy on the stool, stretching high for the jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9577587842941284
+    },
+    {
+      "text": "But that stool doesn't look stable at all.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4420451819896698
+    },
+    {
+      "text": "He might fall and cry, poor kid.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6247486472129822
+    },
+    {
+      "text": "The girl waiting patiently, her little hand raised.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8229870796203613
+    },
+    {
+      "text": "They think it's fun, but it's risky.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5573170185089111
+    },
+    {
+      "text": "The calm garden outside makes the inside seem even sadder.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8705259561538696
+    },
+    {
+      "text": "I wish someone would notice before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49720826745033264
+    }
+  ]
+}

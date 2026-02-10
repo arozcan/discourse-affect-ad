@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5039",
+  "segments": [
+    {
+      "text": "Rachel ? This is John Emory speaking .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , Mr . Emory ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ Ve got some bad news . All the plans sent over to the McGrath Corporation have been rejected . We ’ re going to have to start from scratch .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I thought they had already agreed to everything . That ’ s going to take weeks to rework .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

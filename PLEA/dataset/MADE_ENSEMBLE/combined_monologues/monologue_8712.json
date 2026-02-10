@@ -1,0 +1,90 @@
+{
+  "id": "monologue_8712",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Eww, that sink is a total disaster, water spilling everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9172030687332153
+    },
+    {
+      "text": "The faucet's just left on, like who forgets that?",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4809035360813141
+    },
+    {
+      "text": "And the woman's standing there, drying a plate in the middle of it all.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.52238529920578
+    },
+    {
+      "text": "Her shoe's soaked, and the puddle's spreading—gross.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7626094222068787
+    },
+    {
+      "text": "Those cabinet doors are getting drenched; what a mess.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5402253270149231
+    },
+    {
+      "text": "Now the kids are making it worse, climbing for cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.621931791305542
+    },
+    {
+      "text": "The boy's hand deep in the jar, probably getting crumbs everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4910130500793457
+    },
+    {
+      "text": "That stool's unstable, and with the wet floor? Disaster waiting.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4762786626815796
+    },
+    {
+      "text": "The girl's just hovering, waiting to grab her share.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8742059469223022
+    },
+    {
+      "text": "Sneaking treats without permission—such naughty behavior.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.785457968711853
+    },
+    {
+      "text": "The window shows a clean garden; inside it's filthy chaos.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.35182642936706543
+    },
+    {
+      "text": "I can't stand how careless it all looks.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.9589821696281433
+    }
+  ]
+}

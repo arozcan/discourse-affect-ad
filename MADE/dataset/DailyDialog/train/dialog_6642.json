@@ -1,0 +1,117 @@
+{
+  "id": "dialog_6642",
+  "segments": [
+    {
+      "text": "Hello , how are you ? I am Jack .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , I am Amy .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What brings you here ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I saw that your Corollas are on sale .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , it is really a good deal . $ 1,000 discount . I've never seen a sale as good as this one .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Tell me about Corollas .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . It has 1.8 liter engine . This one comes with all power options , air condition , CD player , full size spare tire , automatic transmission and ABC . The window price is $ 17,000 , and I can give You for $ 16.000 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "Sounds good . How about $ 15 , 000 ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 2
+    },
+    {
+      "text": "You must be kidding ! You cannot get that price anywhere .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 8,
+      "dialog_act": 1
+    },
+    {
+      "text": "I am serious . $ 15,000 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Can you put down a $ 2,000 deposit , and I'll talk to my manager , see what we can do .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    },
+    {
+      "text": "No . Just talk to your manager and let me know .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 4
+    },
+    {
+      "text": "Okay , I'll be right back ... Congratulations ! The manager approved the final price $ 15,000 .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 12,
+      "dialog_act": 1
+    },
+    {
+      "text": "The price is fine if you give me free security system and free carpet mats .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "You are really tough . You got a deal .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 14,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thanks !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 15,
+      "dialog_act": 1
+    }
+  ]
+}

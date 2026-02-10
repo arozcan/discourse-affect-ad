@@ -1,0 +1,40 @@
+{
+  "id": "dialog_2244",
+  "segments": [
+    {
+      "text": "Hi , Mel , would you like to come and have a cup of coffee this afternoon ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ d love to , but you know I ’ Ve got another appointment . I ’ m really sorry .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I see . Then what about tomorrow , at Starbucks ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m afraid not , George . You gotta know something , I ’ m not available any more . but I know Becky has a crush on ya .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Are you kidding me ? Becky ? She ’ s a real bitch .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 4,
+      "dialog_act": 2
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "dialog_8155",
+  "segments": [
+    {
+      "text": "Excuse me , can you help me ? I would like to change rooms if possible , I couldn ’ t sleep at all last night , because the people in the room next to mine were making a lot of noise , also if at all possible , I ’ d like a room that doesn ’ t overlook the street , between the noisy neighbors and the highway outside , I didn ’ t sleep a wink .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am so sorry to hear that sir , let me check and see what is available , what room are you in now ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m on the 6th floor , room 698 , I ’ v had many problems with that room , just this morning , I called someone up to fix the light fixture in the bathroom , it didn ’ t work , and it still doesn ’ t work .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , dear , well , it looks like we have a few rooms available , can I put you into a room on the 17th floor ? It has a balcony and it doesn ’ t face the highway .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Ok , that would be very nice ! What do I need to do to transfer ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Let me check you out of your old room , you have to sign here , and acknowledge these changes and also the charges to your previous room . Then I can hook you right up to room 1780 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Mmm , I don ’ t think the charges are right , can you explain them please ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

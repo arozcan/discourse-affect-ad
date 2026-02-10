@@ -1,0 +1,33 @@
+{
+  "id": "dialog_3517",
+  "segments": [
+    {
+      "text": "Well now that I know what kind of movies you like , tell me , what's your least favorite kind of movie ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I don't really like sci-fi movies because they're always really weird .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I know ! I don't get them at all . But wait , isn't ' Terminator ' a sci-fi movie ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hmm ... you're right . Well , I guess ' Terminator ' is an exception to the rule .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

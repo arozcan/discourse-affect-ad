@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0205",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the girl reaching up, hoping to get a cookie from her brother.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7260420918464661
+    },
+    {
+      "text": "She looks so innocent, just waiting for her treat.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3510802984237671
+    },
+    {
+      "text": "I wonder if she realizes how dangerous this is.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.532126247882843
+    },
+    {
+      "text": "The boy is balancing so precariously on that stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3632802665233612
+    },
+    {
+      "text": "I hope he doesn’t fall and hurt himself.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4945199489593506
+    },
+    {
+      "text": "The woman is still drying dishes, completely unaware.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6580705046653748
+    },
+    {
+      "text": "I can’t believe she hasn’t noticed the water overflowing yet.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8967602252960205
+    },
+    {
+      "text": "The kitchen is going to be ruined if this keeps up.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.6621883511543274
+    },
+    {
+      "text": "I feel bad for the kids; they’re just trying to get a snack.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9264916181564331
+    },
+    {
+      "text": "But someone needs to step in before it’s too late.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49725890159606934
+    }
+  ]
+}

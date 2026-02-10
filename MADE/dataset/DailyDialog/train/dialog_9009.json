@@ -1,0 +1,75 @@
+{
+  "id": "dialog_9009",
+  "segments": [
+    {
+      "text": "Welcome to Adventure Tours . How may I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I want to book a tour with adventure sports .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Excellent ! Our company has more than ten years of experience in the adventure tourism and sports field . Let me show you some options . This is our most popular choice , our river guides will take you",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I don ’ t really think I ’ m ready to throw myself down a river full of jagged rocks in a rubber boat or go up in the air in a wicker basket held up by an oversize balloon . What else do you have ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , in that case , we can take you hang gliding with one of our experienced instructors . It ’ s the closest you can get to flying .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "What ? You mean strap myself to a flimsy kite ? No , thank you ! Next !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "Mmm . OK . Well , why don ’ t you tell me a little bit more about what you would like ? We have everything from mountain biking , to rock climbing to street luge .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m thinking something exciting but safer .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 4
+    },
+    {
+      "text": "I have the perfect option , this package will take you on a hiking trip through the Himalayas for three days and afterwards there ’ s a dog sledding journey !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 3
+    },
+    {
+      "text": "That ’ s more like it !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 4
+    }
+  ]
+}

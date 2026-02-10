@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1341",
+  "segments": [
+    {
+      "text": "Melissa ? I ’ d like to invite you to my wife ’ s birthday party .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks , Frank . I ’ d love to come . When is it ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Her birthday is on the 9th . We ’ re going to have dinner at a Mexican restaurant , and then maybe go out dancing .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sounds like fun . You can count me in ! Just give me directions to the restaurant .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

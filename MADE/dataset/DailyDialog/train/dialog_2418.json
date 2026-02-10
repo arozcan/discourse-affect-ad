@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2418",
+  "segments": [
+    {
+      "text": "Hey , Mary , nice to see you again . I heard you're going back home to the U . S ..",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes . I'm leaving tomorrow . I came here just because I want to say good-bye to you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "You're so thoughtful . Wish you a good trip home . And we'll miss you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'll miss you too , my friends .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

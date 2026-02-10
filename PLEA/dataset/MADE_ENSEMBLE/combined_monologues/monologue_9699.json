@@ -1,0 +1,90 @@
+{
+  "id": "monologue_9699",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen flood is disgusting; water everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.962979793548584
+    },
+    {
+      "text": "The woman's apron is probably getting soaked soon.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45106783509254456
+    },
+    {
+      "text": "She's drying that plate so meticulously, ignoring the chaos.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6121762990951538
+    },
+    {
+      "text": "The floor's a slippery mess now.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.36440393328666687
+    },
+    {
+      "text": "And the kids raiding the cookie jar— greedy little ones.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3403022289276123
+    },
+    {
+      "text": "That stool looks filthy from all the use, and it's tipping.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7065636515617371
+    },
+    {
+      "text": "Boy's hand deep in the jar, pulling out treats.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7693324685096741
+    },
+    {
+      "text": "Girl's just standing there, begging for her piece.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40478992462158203
+    },
+    {
+      "text": "Crumbly cookies all over the counter soon, I bet.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4833356440067291
+    },
+    {
+      "text": "The garden view is nice, but inside it's gross.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49408426880836487
+    },
+    {
+      "text": "Water damage will make everything moldy— ugh.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5963324308395386
+    },
+    {
+      "text": "She needs to snap out of it before it's worse.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.32978370785713196
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "monologue_8049",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I see the indoor kitchen, bright from the daytime window.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8378207683563232
+    },
+    {
+      "text": "The adult is facing away, drying a dish intently.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9246079921722412
+    },
+    {
+      "text": "The sink's faucet is on, but the water's not draining.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8179877400398254
+    },
+    {
+      "text": "It's overflowing, drenching the cabinets and floor—disgusting!",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9521417617797852
+    },
+    {
+      "text": "The puddle grows, slick and unclean underfoot.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42478036880493164
+    },
+    {
+      "text": "She stands in it, oblivious to the filth spreading.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5197800993919373
+    },
+    {
+      "text": "Dishes stack on the counter, soon to be affected maybe.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.843037486076355
+    },
+    {
+      "text": "Nearby, a boy's on a stool, raiding the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9387129545211792
+    },
+    {
+      "text": "His reach is bold, plate in hand like a shield.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7795140743255615
+    },
+    {
+      "text": "The girl assists, her palm up in anticipation.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8524975776672363
+    },
+    {
+      "text": "This cookie heist amid the mess is almost comical.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7921231985092163
+    },
+    {
+      "text": "Yet the stool's tilt worries me, unstable as it is.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6271665692329407
+    },
+    {
+      "text": "The window's view of the tidy garden mocks the interior sloppiness.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7359809875488281
+    },
+    {
+      "text": "I cringe at the potential for slips and spills.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5293567776679993
+    }
+  ]
+}

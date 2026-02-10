@@ -1,0 +1,47 @@
+{
+  "id": "dialog_461",
+  "segments": [
+    {
+      "text": "I'm a little nervous .",
+      "speaker": "S1",
+      "predicted_emotion": "fearful",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Don't worry . You'll be fine . First of all , put on your seat belt . Adjust the mirrors .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "You don't think I'll need the seat belt , do you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Of course not . But it's a good habit to put it on every time you drive .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Just in case , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Right . Hold the steering wheel with your hands at ten o'clock and two o'clock .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

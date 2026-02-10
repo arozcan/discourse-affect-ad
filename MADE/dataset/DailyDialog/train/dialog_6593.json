@@ -1,0 +1,40 @@
+{
+  "id": "dialog_6593",
+  "segments": [
+    {
+      "text": "Please send this memo out to all the managerial staff ... there will be training for all the department heads next week . Attendance for managerial staff is mandatory , except for the financial department . Financial officers may participate if their schedules allow .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "You would like me to send this to all managerial staff ? I'm sorry , sir , could you please clarify ? Who all is included in managerial staff ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Managerial staff is anyone who is in a position of authority or responsibility , or who has anyone working under them . It includes all supervisors and department heads .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "What about the senior account managers ? Do they count ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , they are in a position of leadership and have more experience than normal account managers , but they do not directly supervise others . They are not members of the managerial staff and will not be included in our training .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

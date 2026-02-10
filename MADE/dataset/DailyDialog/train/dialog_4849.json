@@ -1,0 +1,47 @@
+{
+  "id": "dialog_4849",
+  "segments": [
+    {
+      "text": "I'm looking for a white purse as a gift . Could you show what you have in stock ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You are in luck . We just receive a shipment of several different styles of white purses .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "They must be popular again this season .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , I believe they are . Here are something that might interest you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Wow . this is nice . I'll take this one . I guess if she doesn't like it she can return it , right ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure . Let me ring this up for you at the register . If you would like , this can be gift-wrapped for free . Just take it to the customer service department .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

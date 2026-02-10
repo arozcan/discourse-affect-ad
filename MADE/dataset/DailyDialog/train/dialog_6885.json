@@ -1,0 +1,82 @@
+{
+  "id": "dialog_6885",
+  "segments": [
+    {
+      "text": "Good afternoon , Ma ’ am , My name is Mike and I am selling subscriptions to all sorts of periodicals .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , thank you , I am not interested .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Please ma ’ am , if you could spare five minutes of your time , I am sure we could find something that interests you !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I wish I could , but I have to walk the dog and finish cooking so if you would excuse me .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "We have a great variety of magazines all about cooking ! This one for example , is a bi monthly publication with recipes from all over the world !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "Wow , that would be kind of useful , do you have any other cooking magazines ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure do ! This one is a quarterly publication , but each issue has over 200 color pages of recipes and also many home decorating ideas !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wow , this is nice ! Ok , sign me up for both publications .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 3
+    },
+    {
+      "text": "You mentioned you have a dog , most pet owners sign up for this weekly newsletter that has information on dog care , pet shops and even pet sitters !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 4
+    },
+    {
+      "text": "That is exactly what I needed ! What else do you have ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 9,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I also have ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 1
+    }
+  ]
+}

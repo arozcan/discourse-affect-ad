@@ -1,0 +1,40 @@
+{
+  "id": "dialog_8165",
+  "segments": [
+    {
+      "text": "Watch out ! You'll hit that car if you're not careful .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh no , I won't . But we will have an accident if you don't stop shouting .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "You see . I told you you'd hit him if you weren't careful .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , shut up , will you ? It was all your fault . If you'd kept quite this would never have happened .",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , so it was my fault , was it ? If I hadn't warned you in time it would have been much worse .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 4,
+      "dialog_act": 2
+    }
+  ]
+}

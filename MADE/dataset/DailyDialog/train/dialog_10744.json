@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10744",
+  "segments": [
+    {
+      "text": "Can I take your order now or do you still want to look at the menu ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I want a fillet steak , medium , but my little girl doesn't care for steak . Could she have something else instead ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Certainly . How about spaghetti with clams and shrimps .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sounds delicious . OK . She'll try that .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

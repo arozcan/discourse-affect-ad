@@ -1,0 +1,47 @@
+{
+  "id": "dialog_810",
+  "segments": [
+    {
+      "text": "Hey , Mary . We're back . Have you eaten yet ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I had some bread for breakfast .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let's go out for brunch .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Brunch ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "It is a meal that combines breakfast and lunch . On Sundays , many Americans sleep late and go out for brunch . Those who go to church without having breakfast have brunch also .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Actually , many Taiwanese wake up late on Sunday mornings , too . It may be a good idea for them to eat brunch instead of eating breakfast and lunch .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

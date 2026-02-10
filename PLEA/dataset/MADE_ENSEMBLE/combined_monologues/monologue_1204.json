@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1204",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The girl’s expression is full of anticipation, her hand reaching for the cookie jar.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49161455035209656
+    },
+    {
+      "text": "I think she has no idea how precarious this whole situation is.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4249282479286194
+    },
+    {
+      "text": "It’s like watching a slow-motion disaster unfold; every moment feels tense.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6045101284980774
+    },
+    {
+      "text": "I can’t believe the woman hasn’t turned around yet; it’s almost absurd.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5929880142211914
+    },
+    {
+      "text": "What if the boy falls? What if he hits his head?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49188414216041565
+    },
+    {
+      "text": "The kitchen is filled with domestic bliss, yet there’s an undercurrent of danger.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.31664562225341797
+    },
+    {
+      "text": "Sometimes, I wonder if these moments are what childhood is all about—risk and reward.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4683893918991089
+    }
+  ]
+}

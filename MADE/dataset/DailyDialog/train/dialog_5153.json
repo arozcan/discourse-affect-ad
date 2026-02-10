@@ -1,0 +1,61 @@
+{
+  "id": "dialog_5153",
+  "segments": [
+    {
+      "text": "Good morning .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Ah , hello . Do you have a service for buying Traveller's Cheques ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , we do . How can I help ? I can give you a simple introduction , if you'd like ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "That would be wonderful .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "We usually recommend our clients buy US Dollar Traveller's Cheques , as they can be exchanged for local currency all over the world . They are certainly the most versatile .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "But what if something happened to them ? What would happen to my money ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "As soon as you purchase your Traveller's Cheques from us , you are covered . No matter if you lose them or they are stolen , we will replace them promptly . All we ask is for you to write down the reference number of each cheque and keep it in a safe place away from the actual cheques . We will need that number if you need to make a claim .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , I'd like to purchase 500 US dollars worth of Traveller's Cheques , please .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    }
+  ]
+}

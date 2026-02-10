@@ -1,0 +1,55 @@
+{
+  "id": "monologue_392",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "As I observe this scene, I’m struck by the tranquility outside versus the turmoil inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45366373658180237
+    },
+    {
+      "text": "The woman is drying her dishes with such intent focus, and it feels like a moment frozen in time.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7205901145935059
+    },
+    {
+      "text": "Yet underneath that calm exterior, there’s water spilling everywhere, and I’m fearful for everyone involved.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8192219734191895
+    },
+    {
+      "text": "The boy is scaling that unstable stool, and it makes my stomach drop.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4976360499858856
+    },
+    {
+      "text": "He’s reaching for the cookie jar, and I can’t help but feel a bit tense watching him.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4465075731277466
+    },
+    {
+      "text": "Meanwhile, the little girl stands there, eagerly waiting for her cookie, and it’s almost enchanting to witness.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.580403745174408
+    },
+    {
+      "text": "But their innocence is laced with risk, and I find myself holding my breath just waiting to see what happens next.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.2707922160625458
+    }
+  ]
+}

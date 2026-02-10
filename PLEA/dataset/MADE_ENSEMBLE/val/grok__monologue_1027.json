@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1027",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "It's such a shame to see this happy home turning messy.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9610040187835693
+    },
+    {
+      "text": "The woman's just drying dishes, lost in her task.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7904301881790161
+    },
+    {
+      "text": "But the sink's overflowing, ruining everything.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.46452733874320984
+    },
+    {
+      "text": "Her foot in the water, she doesn't even feel it.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.580856442451477
+    },
+    {
+      "text": "The children are playing around, but it's dangerous.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5221408009529114
+    },
+    {
+      "text": "The boy on the stool looks so vulnerable up there.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3692867159843445
+    },
+    {
+      "text": "One wrong move and he'll tumble down.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5017830729484558
+    },
+    {
+      "text": "The girl's waiting eagerly, but it feels risky.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4131179749965668
+    },
+    {
+      "text": "They're just kids wanting cookies, that's all.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8542116284370422
+    },
+    {
+      "text": "The garden outside is beautiful, full of life.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7968757748603821
+    },
+    {
+      "text": "Inside, though, it's like a quiet tragedy unfolding.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6421539187431335
+    },
+    {
+      "text": "I wish the mom would notice and keep them safe.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5901209115982056
+    }
+  ]
+}

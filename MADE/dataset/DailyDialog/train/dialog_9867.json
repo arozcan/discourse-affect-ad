@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9867",
+  "segments": [
+    {
+      "text": "Those are the headlines for today , and now for the international weather report with Mike Sanderson .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you , Bob ! This past week has been the beginning of Armageddon for many , a series of unprecedented meteorological events occurred around the world . In Switzerland , a major avalanche was reported in the Alps . Fortunately , no one was injured . Due to to the extreme cold this winter , a blizzard has struck the US Midwest , causing classes in schools and universities to be temporarily canceled .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Moving to to Latin American , Ecuador has suffered a six month drought that has not only affected farming , but has also forced the closure of the hydroelectric power plant that provides electricity for the entire country . In Chile , a major earthquake that registered seven point five on the Richter scale struck the southern region . Losses are reported to be in the billions . Authorities have not yet released an official statement .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Not a great week for the world ! Any good news ?",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ m afraid not , Bob . One of the major volcanoes in Mexico has erupted , causing major floods and landslides in the region . Meanwhile , Mexico ’ s coast has been hit by hurricane Liliana and officials say that all the seismic activity leads them to believe that a tsunami may hit Central America , affecting Honduras , Guatemala and Panama . That ’ s all the news we have for today , but stay tuned for updates on the six o ’ clock news . Back to you Bob .",
+      "speaker": "S1",
+      "predicted_emotion": "sad",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

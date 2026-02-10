@@ -1,0 +1,40 @@
+{
+  "id": "dialog_9793",
+  "segments": [
+    {
+      "text": "Good morning , Mr Bell . How are you today ? Are you here to sort out your L / C documents ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I've been through them and there's a problem , a rather major discrepancy actually . You see ? It should be KN509 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I see , here it says KM509 .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Exactly , if we accept these it could cause a lot of problems in our record and our accounts system because the numbers don't match .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yes , I see what you mean . You need to reject these documents .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    }
+  ]
+}

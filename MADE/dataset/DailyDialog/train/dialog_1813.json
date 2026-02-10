@@ -1,0 +1,33 @@
+{
+  "id": "dialog_1813",
+  "segments": [
+    {
+      "text": "Well , I've never downloaded music before . How does it work ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "You haven't ? If you've never tried it I can show you how .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Alright . But why is downloading music better than buying Cds at the store ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Downloading music is really fast and convenient , and you can preview all the songs before you buy them .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

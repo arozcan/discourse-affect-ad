@@ -1,0 +1,40 @@
+{
+  "id": "dialog_5742",
+  "segments": [
+    {
+      "text": "Is this Mr David Richton ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hello , Mr David Richton , this is Min Wang calling from network , i am calling about the reporter position you advertised on the internet .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh , yes , Mr Wang , i look at your resume you emailed , very impressive , are you a P . M . ~ meet someone like you , i was thinking of calling you this afternoon , and having a telephone interview .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "That is wonderful .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 4
+    }
+  ]
+}

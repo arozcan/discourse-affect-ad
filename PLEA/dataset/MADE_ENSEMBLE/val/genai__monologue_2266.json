@@ -1,0 +1,83 @@
+{
+  "id": "monologue_2266",
+  "label": "gemini-2.5-flash",
+  "segments": [
+    {
+      "text": "I'm just observing this domestic scene, so full of unnoticed details.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6867786645889282
+    },
+    {
+      "text": "The woman is doing her daily chore, oblivious to the chaos around her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6893875002861023
+    },
+    {
+      "text": "It's almost sad how absorbed she is in drying that single plate.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6327199935913086
+    },
+    {
+      "text": "She has no idea the sink is overflowing right onto her dress.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.36481985449790955
+    },
+    {
+      "text": "And her children are up to no good, right behind her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7274103164672852
+    },
+    {
+      "text": "The scene outside the window is so serene and tidy.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5832162499427795
+    },
+    {
+      "text": "That contrast between the calm garden and the impending kitchen disaster is striking.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3824407160282135
+    },
+    {
+      "text": "It makes me feel a bit melancholic, seeing all these unnoticed risks.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.8801045417785645
+    },
+    {
+      "text": "I wish someone would warn her about the water and the stool.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4879803955554962
+    },
+    {
+      "text": "It feels like a moment frozen just before things go wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7100575566291809
+    },
+    {
+      "text": "She seems so content in her task, it's a shame.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9356536865234375
+    }
+  ]
+}

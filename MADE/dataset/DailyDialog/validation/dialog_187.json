@@ -1,0 +1,33 @@
+{
+  "id": "dialog_187",
+  "segments": [
+    {
+      "text": "I can't open this email attachment our Paris office has sent me .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Are you sure you're using the right program ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , yes it's definitely the same program but I might have the wrong version . Their system is newer than ours .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's why you can't open it . You'll have to upgrade before you can read the file .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    }
+  ]
+}

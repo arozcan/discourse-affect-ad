@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0827",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see the open window casting light across the kitchen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9058782458305359
+    },
+    {
+      "text": "It's such a pleasant view of the garden outside, so orderly and bright.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.8216555118560791
+    },
+    {
+      "text": "But inside, there’s this chaotic ballet of mischief unfolding.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5170309543609619
+    },
+    {
+      "text": "The woman is still polishing her plate, completely unaware of the child's impending fall.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.43189382553100586
+    },
+    {
+      "text": "Water is cascading out of the sink, and the floor is becoming a hazard.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3639717400074005
+    },
+    {
+      "text": "I find myself frustrated at how she doesn’t see the chaos around her.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7749983668327332
+    },
+    {
+      "text": "It feels like the children are putting on a show, but I fear there might be a fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4970839023590088
+    }
+  ]
+}

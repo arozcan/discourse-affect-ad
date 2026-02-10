@@ -1,0 +1,26 @@
+{
+  "id": "dialog_4437",
+  "segments": [
+    {
+      "text": "John's very late.Do you think he's coming ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , it doesn't seem like it.He must have forgotten .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I suppose you're right.He can't have remembered .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

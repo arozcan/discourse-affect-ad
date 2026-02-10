@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5360",
+  "segments": [
+    {
+      "text": "Good evening Ms . Jackson . Fancy meeting ’ you here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Hi , Clyde . This is my friend , Wen . She's visiting from UCLA .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Clyde Smith . Pleasure to meet you . May I treat you ladies to dinner ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK ! I was just tellin ’ Wen about African-American food .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "You weren't going to tell her about chitterlings and hog maws , were you ? Well , my Creole ancestors never ate that stuff . We have refined French tastes .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hey ! That “ stuff ” is my grandma's cooking , and it's good !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

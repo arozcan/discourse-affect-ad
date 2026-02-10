@@ -1,0 +1,47 @@
+{
+  "id": "dialog_713",
+  "segments": [
+    {
+      "text": "Morning , Peter . Nice suit ! A new one ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Oh , yes . My wife bought it for me yesterday . Hmm , you look nice in that yellow dress . Yellow suits you really well .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Maybe . Several people have suggested that I get more yellow clothes . They say the color suits me because I have a fair complexion .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's right . You know , pink , green and black could also be good for you . Actually , I think that all colors are okay for a person with your complexion . It's just that different colors can give people different impressions . For example , black could make you look mature , while pink could make you look young and energetic .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you for your compliments . It sounds like you're a clothing expert .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , compared with my wife , I'm just a beginner .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

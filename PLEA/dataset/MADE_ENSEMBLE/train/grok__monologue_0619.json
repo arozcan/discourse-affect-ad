@@ -1,0 +1,111 @@
+{
+  "id": "monologue_0619",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Peeking into the kitchen, I see the woman at work.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8829545974731445
+    },
+    {
+      "text": "She's carefully wiping that plate with her towel.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8342193365097046
+    },
+    {
+      "text": "But look, the sink is spilling water all over.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5565927028656006
+    },
+    {
+      "text": "It's forming a lake on the floor around her.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8928059339523315
+    },
+    {
+      "text": "Her dress hem is getting wet, what a shame.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7379006147384644
+    },
+    {
+      "text": "To the side, the boy climbs the stool boldly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8779022097587585
+    },
+    {
+      "text": "Reaching for the cookie jar with determination.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8003770709037781
+    },
+    {
+      "text": "The stool wobbles threateningly, heightening the risk.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6018809080123901
+    },
+    {
+      "text": "He holds a plate, maybe to steady or collect.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8977392315864563
+    },
+    {
+      "text": "The girl stands ready, hand extended expectantly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8289388418197632
+    },
+    {
+      "text": "They're teaming up for some sweet secrecy.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5322005152702332
+    },
+    {
+      "text": "Through the window, the garden looks inviting and calm.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5600777864456177
+    },
+    {
+      "text": "Inside, it's a recipe for slips and falls.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5077674984931946
+    },
+    {
+      "text": "I can't help but feel anxious watching this.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4594269394874573
+    },
+    {
+      "text": "Turn around, lady, before it's too late!",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5432149171829224
+    }
+  ]
+}

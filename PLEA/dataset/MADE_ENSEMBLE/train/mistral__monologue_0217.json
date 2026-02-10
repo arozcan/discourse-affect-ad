@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0217",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing from the sink, and it’s making me anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9333997964859009
+    },
+    {
+      "text": "The woman is just drying dishes, completely unaware of the mess.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47874021530151367
+    },
+    {
+      "text": "The children are sneaking cookies, and it’s making me smile.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9695209264755249
+    },
+    {
+      "text": "The boy is standing on that stool, and it looks so unstable.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.38637998700141907
+    },
+    {
+      "text": "The girl is just waiting for her cookie, and it’s adorable.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9463017582893372
+    },
+    {
+      "text": "I think the woman is going to be shocked when she sees the puddle at her feet.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6280304193496704
+    },
+    {
+      "text": "The water is spreading fast, and the floor is getting slippery.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41832613945007324
+    },
+    {
+      "text": "I notice the garden outside looks so calm compared to the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3496015667915344
+    },
+    {
+      "text": "This scene is a mix of funny and dangerous.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7986215949058533
+    },
+    {
+      "text": "I wonder how long it will take for her to notice what’s happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4972098171710968
+    }
+  ]
+}

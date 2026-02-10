@@ -1,0 +1,90 @@
+{
+  "id": "monologue_1265",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen disaster has me feeling disgusted by the carelessness.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9372210502624512
+    },
+    {
+      "text": "Water from the sink is flooding the counter and floor.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5357657670974731
+    },
+    {
+      "text": "The woman's standing in it, unaware, with her wet foot.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.40586405992507935
+    },
+    {
+      "text": "She's fussing over that plate like it's the only thing that matters.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4593304693698883
+    },
+    {
+      "text": "Meanwhile, the kids are raiding the cookie jar on a rickety stool.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8191198110580444
+    },
+    {
+      "text": "The boy's about to topple, hand full of cookies.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6435052156448364
+    },
+    {
+      "text": "The girl eggs him on, palm up expectantly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.811449408531189
+    },
+    {
+      "text": "It's gross how the water's ruining the cabinets.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8472228050231934
+    },
+    {
+      "text": "Outside, the garden is pristine, mocking the indoor sloppiness.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5007931590080261
+    },
+    {
+      "text": "I can't stand watching this unfold without anyone stopping it.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.8490122556686401
+    },
+    {
+      "text": "Dishes stacked nearby could crash if someone slips.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6765998601913452
+    },
+    {
+      "text": "The whole scene reeks of neglect.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5234207510948181
+    }
+  ]
+}

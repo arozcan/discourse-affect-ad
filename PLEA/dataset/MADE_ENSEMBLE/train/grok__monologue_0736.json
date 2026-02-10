@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0736",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen is a nightmare with water everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.459919273853302
+    },
+    {
+      "text": "The sink's overflowing, and no one's stopping it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5597860217094421
+    },
+    {
+      "text": "That woman just polishes her plate while standing in the mess.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4485006332397461
+    },
+    {
+      "text": "Her apron's probably getting soaked soon enough.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7115518450737
+    },
+    {
+      "text": "Piles of dishes wait on the counter, untouched.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6377223134040833
+    },
+    {
+      "text": "Now the kids are up to no good with the cookies.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45654672384262085
+    },
+    {
+      "text": "The boy's on a stool that's about to collapse.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7548685073852539
+    },
+    {
+      "text": "Reaching in like that, crumbs will be all over.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45014071464538574
+    },
+    {
+      "text": "The girl's begging for her piece, what brats.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.49796462059020996
+    },
+    {
+      "text": "The floor's wet and filthy from the spill.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4868018627166748
+    },
+    {
+      "text": "Outside the window, the garden's pristine—why can't inside be like that?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.36360201239585876
+    },
+    {
+      "text": "I feel sick thinking about slipping in that puddle.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5183948278427124
+    },
+    {
+      "text": "This whole setup is just poorly managed.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.34162455797195435
+    },
+    {
+      "text": "The cabinet doors are dripping; it's all so sloppy.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5218065977096558
+    }
+  ]
+}

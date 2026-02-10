@@ -1,0 +1,33 @@
+{
+  "id": "dialog_626",
+  "segments": [
+    {
+      "text": "Freeze ! Police ! Put your hands over your head .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What crime did I commit ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "You are suspected of hiding illegal drugs , so we are taking you into custody . We ’ Ve found some heroin in your house . You have the following rights while you are being interviewed . You have the right to remain silent . You don't have to make any statement against your will . You have the right to defense counsel . You have the right to request an investigation of evidence favorable to your case . Do you understand your rights ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I am innocent .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

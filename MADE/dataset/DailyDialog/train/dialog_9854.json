@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9854",
+  "segments": [
+    {
+      "text": "How long will it take for our order to be delivered ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Let's see ... You are importing fifty containers of textiles from China . They should be able to place your order before the end of next week . It will take 2 days for shipping to the port city of Ningpo . The freight will take 3 weeks on the open ocean , and will arrive in Los Angeles approximately a month from today . Domestic shipping will be your responsibility , you can make arrangements with the pier in Los Angeles .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Fine . We will handle domestic shipping , but what about customs ? Will we have to pay tariff on our imports ? I hope we don't run into any problems with the border control .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , the Chinese company has that all worked out . With the paperwork you receive with the shipment , you should be good to go .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

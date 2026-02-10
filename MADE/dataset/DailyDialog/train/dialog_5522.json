@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5522",
+  "segments": [
+    {
+      "text": "Have you taken your temperature ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , and it is 37 ° C .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , open your mouth and let me have a look . It is nothing serious . You haven't got a fever . But you should take the medicine and need have more rest recently . When you feel well , you could take more exercises , or play sports like basketball , running , and swimming . And eating healthy food , having more fruits and vegetable and drinking milk are good for your heath .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , I see . Thanks a lot .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

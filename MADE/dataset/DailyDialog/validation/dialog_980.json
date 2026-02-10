@@ -1,0 +1,61 @@
+{
+  "id": "dialog_980",
+  "segments": [
+    {
+      "text": "Mr . Bryant ? Hi , I'm Mike from Florence Incorporated . I'll glad you made it okay . How was your flight ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It was pretty bumpy , also a bit long , all together about 5 hours .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "That is a long flight . You had a layover too , is that right ? You must be tired .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Actually I feel quite rested . I was able to sleep on the plane .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good ! Here , let me help you with your bag . Is it your first time to Seattle ? I'd be happy to take you around this city and show you the sights tonight if you're up to it .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "That will be very nice . You're too kind .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 4
+    },
+    {
+      "text": "I've already made a hotel reservation for you , let's go to the hotel first and drop off your things . Then , I'd like to have a drink so that we can get better acquainted . I've booked a table at an exclusive restaurant downtown . Afterwards , I've made arrangements to take you to see the city lights . Seattle ’ s nightlife can be really quite exciting . How does that schedule sound to you ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sounds great . Thank you for your hospitality .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

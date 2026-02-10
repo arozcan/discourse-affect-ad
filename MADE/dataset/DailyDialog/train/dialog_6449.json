@@ -1,0 +1,47 @@
+{
+  "id": "dialog_6449",
+  "segments": [
+    {
+      "text": "Doctor , I slipped and fell on my way to school . The ground is so slippery from the snow . It seems I can't move my left arm now .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me see . Roll up your sleeve , please . Um ... it's swollen and red here . I'm afraid we'll need to take an X-ray to see if it's broken .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "What if it's broken ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Then we'll put you in a cast .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "What do you mean by a cast ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , we apply tape and plaster to from a solid enclosure to protect the bones from moving . In this way they will heal properly . Take it easy . It won't hurt you . Let me see . The X-ray picture indicates that your humerus is broken in two places . And you'll have to wear the cast for three weeks . You'll need to come back in two weeks , so I can have another look .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    }
+  ]
+}

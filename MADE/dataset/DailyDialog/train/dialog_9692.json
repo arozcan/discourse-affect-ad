@@ -1,0 +1,54 @@
+{
+  "id": "dialog_9692",
+  "segments": [
+    {
+      "text": "We will carry out the order when the purchase order gets here .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Good . And because this is our initial order , and your products is so new , we would like to make a deal with you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , actually in most cases we don't talk about special deals , but since this one is so new I will listen to what you have to say .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "We want to make this a trial order . If we can sell all the products in two months , we will pay for them ; if not , we will send them back to you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I can't agree to that . My company will have to pay for both sending them and bringing them back .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "We promise that if the products are sold out in two months , we will place a repeat order right away , at the same quality .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "OK , I agree . But the repeat order can't have the same terms .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 4
+    }
+  ]
+}

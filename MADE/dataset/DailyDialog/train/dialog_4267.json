@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4267",
+  "segments": [
+    {
+      "text": "Jack ! Do you want to see a picture of my new puppy ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure . I thought people only showed off pictures of their new babies , not new pets !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "Well , this is my new baby . He ’ s just as much trouble . That ’ s for sure ! But , he ’ s a lot of fun !",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see what you mean . He ’ s really cute . How old is he ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "dialog_10666",
+  "segments": [
+    {
+      "text": "Sir , may I please see your license and registration ? Do you know how fast you were going ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "No , I ’ m not sure . I think about 65 mph , right ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "You ’ re not sure ? You were going at 90 miles per hour ! That ’ s 25 mph over the legal speed limit ! Have you been drinking ?",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No , Officer , not at all .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Then how can you explain your behavior ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , I guess I just wasn ’ t paying attention to the speedometer .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Not paying attention to the speedometer ? Why not ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "Um , because I was busy talking to my friend .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "On a cell phone ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I was using a cell phone . I just bought it , so I decided to give my friend a phone call to tell him about it . While I did that I also turned on the radio and was listening to one of my favorite songs , and eating some food I had bought at a fast food restaurant , and , um ... guess I had too many distractions .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "That ’ s definitely true . I ’ m going to have to give you a ticket . Please remember to drive more carefully next time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 3
+    }
+  ]
+}

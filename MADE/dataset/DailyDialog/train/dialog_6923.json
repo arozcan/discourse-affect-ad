@@ -1,0 +1,54 @@
+{
+  "id": "dialog_6923",
+  "segments": [
+    {
+      "text": "Mom , I'm ready for school .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me feel your forehead . I'm so glad it wasn't strep throat .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I don't have a fever , and I'm ready for my test .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "But I'm not sure you're strong enough yet . Here's some seafood rice soup I made . It's delicious .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm fine , Mom . I feel so much better . I want to go to school . I'm missing out on all the fun .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "But the last two days were a weekend .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "Let me go to school , please ! I'm sick of medicine , sick of soup , and sick of being sick !",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 6,
+      "dialog_act": 3
+    }
+  ]
+}

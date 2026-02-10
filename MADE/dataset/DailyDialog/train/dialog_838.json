@@ -1,0 +1,40 @@
+{
+  "id": "dialog_838",
+  "segments": [
+    {
+      "text": "Hi , Mr . Smith . Are you enjoying the cookout ? You don't look too happy .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I spent the morning at the cemetery . I put flowers on the graves of my old war buddies .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Is that what people usually do on Memorial Day ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "They should . This holiday is about remembering our war dead . But people these days think it's just a holiday for summer sales and cookouts !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm sorry to hear that . Thank you for telling me a little more about it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

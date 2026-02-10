@@ -1,0 +1,33 @@
+{
+  "id": "dialog_2578",
+  "segments": [
+    {
+      "text": "That sounds pretty good . But isn't downloading music illegal ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not if you pay for it . For example , if you download from iTunes and pay with your credit card , it's legal .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "OK , I'm going to get iTunes and download some Vanilla Ice songs .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Awesome . You'll see that they are really catchy .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

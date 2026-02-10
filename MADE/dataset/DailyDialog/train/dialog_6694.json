@@ -1,0 +1,33 @@
+{
+  "id": "dialog_6694",
+  "segments": [
+    {
+      "text": "Has my package arrived ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm not sure . What does it look like ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's quite a delicate piece of equipment , so I hope it was well-packed . It's oblong-shaped , about 50 cm long . It's made of metal .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "There's a large wooden crate in the corner which I haven't unpacked yet . It might be in there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

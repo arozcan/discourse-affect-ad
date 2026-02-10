@@ -1,0 +1,33 @@
+{
+  "id": "dialog_5207",
+  "segments": [
+    {
+      "text": "Good afternoon.Swiss Airline.Miss Grown speaking . Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes . I'd like to make a reservation to Los Angeles on Sep . 19th .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Just a moment , please . Let me check for you . ( A moment later ) Thank you for waiting . I am sorry but our flights are fully booked on that day.The next available flight leaves at 4:00 pm on 20th . Shall I reserve you a seat on it ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , please , thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

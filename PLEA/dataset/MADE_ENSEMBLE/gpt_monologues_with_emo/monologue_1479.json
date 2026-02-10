@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1479",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The warm light coming through that window makes everything seem so serene.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.803019642829895
+    },
+    {
+      "text": "Yet, here I am, fixated on the chaos happening just a few feet away.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4261520504951477
+    },
+    {
+      "text": "The woman just keeps polishing that plate, entirely oblivious to the impending disaster.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.36236846446990967
+    },
+    {
+      "text": "I can see the water glistening on the cabinet doors, and I wonder when she’ll notice.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.4679342806339264
+    },
+    {
+      "text": "The joy of the children seems almost infectious, but I can't shake the fear.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6880079507827759
+    },
+    {
+      "text": "Her calmness contrasts so drastically with their excitement, it's unsettling.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3177011013031006
+    },
+    {
+      "text": "Part of me wishes for chaos; maybe it would bring her back to reality.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5297698378562927
+    }
+  ]
+}

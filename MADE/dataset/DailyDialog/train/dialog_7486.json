@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7486",
+  "segments": [
+    {
+      "text": "Hello , miss . I would like to check out .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , sir . If you want to check out now , we will charge you $ 200 as well .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why ? I have stayed for 3 nights .",
+      "speaker": "S1",
+      "predicted_emotion": "surprised",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Well , the check out time is 12:00 o'clock everyday , if you checked out after 15:00 , we have to charge you for another day .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

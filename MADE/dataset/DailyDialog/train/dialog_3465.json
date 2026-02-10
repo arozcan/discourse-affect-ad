@@ -1,0 +1,47 @@
+{
+  "id": "dialog_3465",
+  "segments": [
+    {
+      "text": "Mom , you know that Andrea and I sometimes worry about you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Really ? Why would you worry about me ? I ’ m just fine .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "You ’ re almost 70 years old , Mom ! Don ’ t you think it would be better for you if you moved in with us ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "No way ! I like my apartment , and I like to be independent .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Do you ever get lonely living alone ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "Not at all . I see you and your family twice a week , and I enjoy seeing my own friends . I ’ m too busy to feel lonely !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

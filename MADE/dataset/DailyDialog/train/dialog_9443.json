@@ -1,0 +1,33 @@
+{
+  "id": "dialog_9443",
+  "segments": [
+    {
+      "text": "Excuse me . Who is the person responsible for handling complaints here ? I would like to make a few complaints .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am the manager here . You can complain to me . How may I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Here is the thing . I was woke up by strange noises of the telephone several times last night . Even I unplugged it , it wouldn't stop beeping . I am also not satisfied with the housekeeping service in my room . So I want to change to a cleaner and quieter room .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "I apologize for everything disturbing you . We will give another room to you right now . Please wait a moment .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

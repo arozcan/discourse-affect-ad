@@ -1,0 +1,90 @@
+{
+  "id": "monologue_0265",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "This kitchen scene is heartbreaking; the sink's flooding uncontrollably.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9793853163719177
+    },
+    {
+      "text": "Water cascades down the front, soaking everything.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5471404790878296
+    },
+    {
+      "text": "The woman stands there, unaware, drying her plate.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7789208889007568
+    },
+    {
+      "text": "Her dress might get wet soon from the puddle.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.651879072189331
+    },
+    {
+      "text": "The children are up to no good with the cookies.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5142763257026672
+    },
+    {
+      "text": "Boy's balancing precariously on that stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5907702445983887
+    },
+    {
+      "text": "It looks like it's about to give way.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5883801579475403
+    },
+    {
+      "text": "Girl's reaching for her cookie, so innocent yet risky.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.39761078357696533
+    },
+    {
+      "text": "I wish someone would notice and stop this.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5523480176925659
+    },
+    {
+      "text": "The open window shows a beautiful garden, untouched by trouble.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5262946486473083
+    },
+    {
+      "text": "Inside, it's all potential disaster waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.37574416399002075
+    },
+    {
+      "text": "Poor kids; they don't realize the danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9037597179412842
+    }
+  ]
+}

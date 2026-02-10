@@ -1,0 +1,47 @@
+{
+  "id": "dialog_11107",
+  "segments": [
+    {
+      "text": "Hello Mr Fang ! It's good to see you again . What can we do for you today ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Hello , Miao Ping . I'd like to open a Foreign Currency Account today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "That shouldn't be a problem , Mr Fang . Have you got your Certificate of Use of Foreign Exchange Account and the Foreign Exchange Account Opening Notice with you ? Our most widely used currencies are US dollar , Japanese yen and Hong Kong dollar .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I need to open a US dollar account , trade with America is going up each year .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "We will transact this for you as soon as we can after the materials you have given me have been checked and verified .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Good , thanks . I look forward to hearing from you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

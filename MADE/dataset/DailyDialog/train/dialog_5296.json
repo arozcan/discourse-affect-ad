@@ -1,0 +1,47 @@
+{
+  "id": "dialog_5296",
+  "segments": [
+    {
+      "text": "Hi , did you call for an exterminator ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes ! Thank goodness you ’ re here.These bugs are driving us crazy !",
+      "speaker": "S2",
+      "predicted_emotion": "angry",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What sort of pest are we dealing with ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "We just bought this house and it is infected with just about everything . We have termites in the wood , cockroaches all over the place , and last night I saw a huge rat out in the backyard !",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , there ’ s nothing we can ’ t handle . I ’ ll spray the floorboards and walls to get rid of the cockroaches , but the termites will be harder to get rid of . We will have to cover the entire house and fu",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 3
+    },
+    {
+      "text": "No problem , just get rid of the bugs !",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 4
+    }
+  ]
+}

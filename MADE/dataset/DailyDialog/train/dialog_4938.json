@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4938",
+  "segments": [
+    {
+      "text": "Hi , John Phillips ? I ’ m Rose Green . I ’ Ve been asked to handle your training and introduce a little bit of the company to you . It ’ s nice to meet you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "It ’ s nice to meet you , too , Ms . Green . This company seems so big right now ; I don ’ t know how I ’ ll ever get used to it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "After a week , you ’ ll be running around here like a pro . Let me give you this list of departments first , next to each department is its location and the name of the manager .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Great – That ’ ll be big help .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

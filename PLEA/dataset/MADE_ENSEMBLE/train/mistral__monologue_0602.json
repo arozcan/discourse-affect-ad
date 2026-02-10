@@ -1,0 +1,69 @@
+{
+  "id": "monologue_0602",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I can’t believe that boy is standing on that wobbly stool like that.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8810112476348877
+    },
+    {
+      "text": "He’s reaching for the cookie jar, and the stool looks like it’s about to tip over.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6534928679466248
+    },
+    {
+      "text": "The girl is just standing there, waiting for a cookie, like this is totally normal.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5769778490066528
+    },
+    {
+      "text": "I see the woman drying dishes, completely oblivious to what’s happening behind her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7863573431968689
+    },
+    {
+      "text": "The water is everywhere, and she’s just standing in it like it’s fine.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.41146600246429443
+    },
+    {
+      "text": "I think someone’s going to get hurt if this keeps up.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.411758691072464
+    },
+    {
+      "text": "The boy is so focused on those cookies, he doesn’t even notice how unstable he is.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5813431739807129
+    },
+    {
+      "text": "I wonder if the girl realizes how dangerous this is.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6341886520385742
+    },
+    {
+      "text": "This whole situation is just asking for trouble.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.37000900506973267
+    }
+  ]
+}

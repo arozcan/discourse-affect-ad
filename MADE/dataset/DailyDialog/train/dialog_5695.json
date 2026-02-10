@@ -1,0 +1,54 @@
+{
+  "id": "dialog_5695",
+  "segments": [
+    {
+      "text": "Hello , is everything alright ? Can I help ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I have a Promissory Note , but it's not called that . It's a Bill of Exchange .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Similar to a Promissory Note , yes . I can deal with that for you right here . The difference between a Promissory Note and a Bill of Exchange is that this product is transferable and can bind one party to pay a third party that was not involved in its creation .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "So , even if someone wasn't directly involved , they can become involved ? Like the bank you cash it in ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's right . We didn't issue it to you , but technically we are buying it from you . So , we become involved .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Sorry about this , I'm new in this job and I've never even seen one of these before ! My boss just told me to come here and sort it out .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "As long as you have all of the documentation we require you have nothing to worry about .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

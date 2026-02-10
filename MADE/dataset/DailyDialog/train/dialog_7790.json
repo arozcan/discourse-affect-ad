@@ -1,0 +1,61 @@
+{
+  "id": "dialog_7790",
+  "segments": [
+    {
+      "text": "Hello , I am Richard from the Brooks Head-hunter company . Can I have a private talk with you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Er ? I am driving right now . Can you call back in 30 minutes ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Sure .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "Hi , Monica , Richard again . Have you ever heard about our company ? It is an international one with good reputation . We have a lot of successful cases . If you ’ re trying advance your career , I would love to help you . XYZ Company is one of our clients . They ’ re in need of the talent like you . Would you be interested in taking part in an interview ? It is scheduled some time within this week .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you for calling . I really appreciate your kindness . But right now , I ’ m very busy preparing for an interview of another company . I don ’ t think I am available for this opportunity .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 4
+    },
+    {
+      "text": "Ok , I see . Good luck to you . You have my number . Call me when you change your mind . I can send you more detailed information about our company and jobs you might be interested in if you give me your private e-mail address .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I will text it to you . Thank you , bye for now .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 6,
+      "dialog_act": 4
+    },
+    {
+      "text": "You ’ re welcome . Bye .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

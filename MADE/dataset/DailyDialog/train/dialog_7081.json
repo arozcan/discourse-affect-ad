@@ -1,0 +1,33 @@
+{
+  "id": "dialog_7081",
+  "segments": [
+    {
+      "text": "How long have we had the A3 printer in the sales department ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just over a year I think . Why , what's the problem ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm not sure but there seems to be something wrong with it . Is it still under guarantee ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I think the guarantee's just run out . Let me check . Oh , it's OK . We took out an extended warranty , it runs until next March .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

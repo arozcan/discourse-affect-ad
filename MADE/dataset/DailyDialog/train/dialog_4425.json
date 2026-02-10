@@ -1,0 +1,47 @@
+{
+  "id": "dialog_4425",
+  "segments": [
+    {
+      "text": "All right , let's see who's ruining my TV time .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "What are you going to do ? Call my boss and chew him out ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Is your boss named Vic ? Your pager says , This is Vic . Here I come !",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "Impossible . My pager is really old . It doesn't display messages .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "Here , see for yourself . That's really strange ! It's almost the same as when I ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Gosh , you're right ! It's from some guy named Vic . I wonder who he is ...",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 5,
+      "dialog_act": 2
+    }
+  ]
+}

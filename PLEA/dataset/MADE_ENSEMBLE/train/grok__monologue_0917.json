@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0917",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Oh no, look at that sink—water's just gushing out everywhere.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6370311975479126
+    },
+    {
+      "text": "The faucet is still running, and the basin is full to the brim.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8037921190261841
+    },
+    {
+      "text": "The woman is right there, but she's oblivious, polishing that plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45141085982322693
+    },
+    {
+      "text": "Puddle's spreading across the floor, soaking her shoe.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4759616553783417
+    },
+    {
+      "text": "If she steps wrong, she'll slip for sure.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4503473937511444
+    },
+    {
+      "text": "Now, those kids— the boy's on that shaky stool.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9456723928451538
+    },
+    {
+      "text": "It's tilting back, and he's stretched way up to the cookie jar.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.73253333568573
+    },
+    {
+      "text": "One wrong move, and he'll come tumbling down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5516253709793091
+    },
+    {
+      "text": "The girl's waiting eagerly, hand out for a cookie.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.704049825668335
+    },
+    {
+      "text": "They're being so naughty, sneaking treats behind her back.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3377111852169037
+    },
+    {
+      "text": "The cabinets are getting wet from the overflow too.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5304864645004272
+    },
+    {
+      "text": "This whole scene is a disaster waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.269501656293869
+    },
+    {
+      "text": "I hope someone turns off that water soon.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5049064755439758
+    }
+  ]
+}

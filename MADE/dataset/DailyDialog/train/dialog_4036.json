@@ -1,0 +1,26 @@
+{
+  "id": "dialog_4036",
+  "segments": [
+    {
+      "text": "Hi , Bob . Can I have the book back I lent to you last month ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Oh ! I forgot all about it . Of course you can have it back , John . I'm sorry about the delay .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Well , it doesn't matter . I almost forgot it too if it is not for Peter who asked me about it this coming .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    }
+  ]
+}

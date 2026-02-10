@@ -1,0 +1,47 @@
+{
+  "id": "dialog_7368",
+  "segments": [
+    {
+      "text": "I hear that you've got a chance to go to Europe for a half-year training program . Is it true ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I'm leaving on the 14th of next month .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Congratulations ! How can you get such a good opportunity to be trained overseas ?",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Actually , it is a policy in my company . The human resources management department has connections overseas this year , so we can receive training there .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "How nice ! But will you have to pay for the training ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "No . The company pays for everything . Doesn't this sound very attractive ? This is why our company can always get the best employees !",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 5,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "monologue_0763",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I see a woman in the kitchen, seemingly so focused on her task of drying a plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8706098794937134
+    },
+    {
+      "text": "Her dress is neat, and the apron is tied perfectly, giving a sense of domesticity.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6101233959197998
+    },
+    {
+      "text": "Yet, I can’t help but notice the water overflowing from the sink, a small disaster brewing.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4270416796207428
+    },
+    {
+      "text": "The puddle at her feet grows larger, yet she remains completely unaware of it.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5033595561981201
+    },
+    {
+      "text": "I wonder how she can be so engrossed in such a mundane task and not see the chaos around her.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.498706579208374
+    },
+    {
+      "text": "The garden outside looks so peaceful, contrasting sharply with the mess inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4343237280845642
+    },
+    {
+      "text": "It's a beautiful day, and yet here is this uncontrolled overflow, a little mishap waiting to happen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.47576257586479187
+    }
+  ]
+}

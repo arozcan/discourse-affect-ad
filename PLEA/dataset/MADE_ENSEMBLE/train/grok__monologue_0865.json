@@ -1,0 +1,104 @@
+{
+  "id": "monologue_0865",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "That overflowing sink is disgusting; water everywhere.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9675915241241455
+    },
+    {
+      "text": "She's drying a plate while standing in filth.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.5082285404205322
+    },
+    {
+      "text": "The puddle is gross, soaking her shoes probably.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7832889556884766
+    },
+    {
+      "text": "Kids climbing for cookies in this mess? Yuck.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7190985083580017
+    },
+    {
+      "text": "The stool's unstable on that wet floor—nasty setup.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.8764267563819885
+    },
+    {
+      "text": "Boy's hand in the jar, who knows if it's clean.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.48036137223243713
+    },
+    {
+      "text": "Girl reaching up, feet near the slop.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9598734378814697
+    },
+    {
+      "text": "Cabinets dripping water; everything's getting ruined.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.49385303258895874
+    },
+    {
+      "text": "This kitchen hygiene is appalling right now.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.7914519309997559
+    },
+    {
+      "text": "The garden looks tidy, but inside it's revolting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.9014558792114258
+    },
+    {
+      "text": "Sneaking cookies amid this chaos is just wrong.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7624216079711914
+    },
+    {
+      "text": "I can't look at that faucet spewing water anymore.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.4403678774833679
+    },
+    {
+      "text": "What a sloppy, careless scene this has become.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.49290555715560913
+    },
+    {
+      "text": "Her apron's probably getting splashed too.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8481374382972717
+    }
+  ]
+}

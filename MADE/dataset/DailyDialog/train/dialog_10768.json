@@ -1,0 +1,33 @@
+{
+  "id": "dialog_10768",
+  "segments": [
+    {
+      "text": "Hello , could I speak to Mr . Wang , the PR Director ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "Yes , speaking . How can I help you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "I am calling to inquire about the position of PR manager . What requirements does the job need ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "The requirements are strong communicational skills , management and work assiduously . And you have to handle the recurring crisis good-humoredly and discreetly .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

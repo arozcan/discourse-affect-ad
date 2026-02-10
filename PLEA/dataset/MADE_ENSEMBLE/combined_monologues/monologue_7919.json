@@ -1,0 +1,97 @@
+{
+  "id": "monologue_7919",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "The kitchen looks so ordinary at first glance, with the woman at the sink.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6986593008041382
+    },
+    {
+      "text": "She's polishing that plate so meticulously, wrapped in her apron.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.484720379114151
+    },
+    {
+      "text": "But the sink is full to the brim, water cascading over like a waterfall.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5813202857971191
+    },
+    {
+      "text": "It's such a shame she doesn't see it; everything's going to get damaged.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9315329790115356
+    },
+    {
+      "text": "The puddle's spreading, and her dress might get soaked soon.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46268749237060547
+    },
+    {
+      "text": "Now, the boy on the stool— he's reaching for the cookie jar with such determination.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46219775080680847
+    },
+    {
+      "text": "His sister's right there, expectant, like they're sharing a little secret.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.849337100982666
+    },
+    {
+      "text": "But that stool looks unstable; he could fall and get hurt.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.575098991394043
+    },
+    {
+      "text": "I feel bad thinking about the accident that might happen any moment.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.49210822582244873
+    },
+    {
+      "text": "The open window lets in light from the tidy garden outside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8421958088874817
+    },
+    {
+      "text": "It contrasts so much with the potential heartbreak inside.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.6405553817749023
+    },
+    {
+      "text": "These kids are just being playful, but it's risky in this wet floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.3057442307472229
+    },
+    {
+      "text": "I hope someone intervenes before it's too late.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.4964815378189087
+    }
+  ]
+}

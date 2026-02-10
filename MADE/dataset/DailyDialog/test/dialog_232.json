@@ -1,0 +1,33 @@
+{
+  "id": "dialog_232",
+  "segments": [
+    {
+      "text": "Do you understand any other foreign languages besides English ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I know a little about Japanese which is similar to Chinese not only in culture but in language itself .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "What band did you pass in Japanese Language Proficiency Test ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "I passed the Band two in LPT , but I will try to achieve Band one which is the highest level .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    }
+  ]
+}

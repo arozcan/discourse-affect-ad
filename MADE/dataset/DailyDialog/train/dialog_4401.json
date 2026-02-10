@@ -1,0 +1,33 @@
+{
+  "id": "dialog_4401",
+  "segments": [
+    {
+      "text": "Betty and I will throw a dinner party this weekend , we ’ d like you to come .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "That would be very nice . Only that I ’ ll be a little late . Is that OK ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure . We ’ ll be looking forward to that day .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "So will I . Thank you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

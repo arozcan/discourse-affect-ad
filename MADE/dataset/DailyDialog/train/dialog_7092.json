@@ -1,0 +1,54 @@
+{
+  "id": "dialog_7092",
+  "segments": [
+    {
+      "text": "Welcome to Lens Magic , ma ’ am.How can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I ’ d like to buy an inexpensive camera .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , we ’ Ve got several point-and-shoot cameras.These are all 35mm compact cameras with auto-focus and a built-in flash.We also have these Polaroid cameras .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I don ’ t think I ’ ll need a Polaroid.Does this 35mm camera have an automatic flash ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it does.But you can turn it off if you want .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Okay , I ’ ll take this one.Does it come with batteries and a case ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , it does.Here , I ’ ll box it up for you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    }
+  ]
+}

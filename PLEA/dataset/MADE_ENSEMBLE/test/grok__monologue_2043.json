@@ -1,0 +1,90 @@
+{
+  "id": "monologue_2043",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "What a cute scene in this kitchen, almost.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9146655797958374
+    },
+    {
+      "text": "The kids are trying to get cookies from the jar without getting caught.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8754521608352661
+    },
+    {
+      "text": "The boy's on the stool, reaching up so determinedly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.859039306640625
+    },
+    {
+      "text": "But that stool doesn't look stable at all.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.44209086894989014
+    },
+    {
+      "text": "It could tip over any moment, and he'd come crashing down.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.48129212856292725
+    },
+    {
+      "text": "The girl is eagerly waiting, her arm stretched out.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6709871292114258
+    },
+    {
+      "text": "Over at the sink, the woman's busy with the dishes.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9441585540771484
+    },
+    {
+      "text": "She's not noticing the water overflowing everywhere.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5289721488952637
+    },
+    {
+      "text": "It's pouring out and puddling on the floor.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6462095975875854
+    },
+    {
+      "text": "Her shoe must be soaked, but she keeps going.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4384309947490692
+    },
+    {
+      "text": "The garden through the window is so serene.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6302390694618225
+    },
+    {
+      "text": "This contrast makes me worry about the kids' safety.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.37511709332466125
+    }
+  ]
+}

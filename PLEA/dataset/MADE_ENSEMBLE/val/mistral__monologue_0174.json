@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0174",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I notice the boy balancing on that stool, and it makes me nervous.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5932108759880066
+    },
+    {
+      "text": "He’s stretching so far to reach the cookies, and the stool is already tilting.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46632567048072815
+    },
+    {
+      "text": "The girl is just standing there, waiting for a cookie like nothing’s wrong.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.46309950947761536
+    },
+    {
+      "text": "I think she should be helping him instead of just watching.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7183741331100464
+    },
+    {
+      "text": "The woman is drying dishes like nothing is happening.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6337507367134094
+    },
+    {
+      "text": "She doesn’t even see the water spilling everywhere.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.39387571811676025
+    },
+    {
+      "text": "I wonder if she’s ever going to look up.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.47392308712005615
+    },
+    {
+      "text": "The sink is overflowing, and she’s just standing there.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.476094514131546
+    },
+    {
+      "text": "The floor is getting soaked, and she doesn’t care.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.4923645555973053
+    },
+    {
+      "text": "I think this is going to end badly.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4500473737716675
+    }
+  ]
+}

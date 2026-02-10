@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1068",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "This kitchen feels so familiar, yet today it holds an air of tension that I can't ignore.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.44964954257011414
+    },
+    {
+      "text": "The woman seems unfazed by the overflow, diligently polishing her plate as if everything is perfectly fine.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6841054558753967
+    },
+    {
+      "text": "But the water pooling at her feet is troubling; it’s as if the kitchen is slowly sinking into chaos.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.26771992444992065
+    },
+    {
+      "text": "And then there’s the boy, audaciously climbing the stool, his body stretched toward that cookie jar in a move that sends a jolt of fear through me.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4897990822792053
+    },
+    {
+      "text": "His determination is admirable, yet utterly reckless, and I can feel the anxiety rising in my chest.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.48597076535224915
+    },
+    {
+      "text": "The girl standing below him, her hand outstretched, sparks a sense of camaraderie that makes me smile despite the danger.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.7767502069473267
+    },
+    {
+      "text": "How carefree they are, oblivious to the mess surrounding them, which stands in stark contrast to the serene garden outside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47708070278167725
+    }
+  ]
+}

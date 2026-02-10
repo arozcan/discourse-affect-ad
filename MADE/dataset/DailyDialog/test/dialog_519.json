@@ -1,0 +1,33 @@
+{
+  "id": "dialog_519",
+  "segments": [
+    {
+      "text": "You still have not given me those files I ’ Ve asked you for .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 3
+    },
+    {
+      "text": "I ’ m sorry , Mr . Myers . I ’ Ve just been so busy today .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 4
+    },
+    {
+      "text": "I really don ’ t want to hear your excuses , Janet . We ’ re running a busy office here . You ’ re going to have to keep up .",
+      "speaker": "S1",
+      "predicted_emotion": "angry",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "You ’ re right , sir . I apologize . I ’ ll get those files for you now .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

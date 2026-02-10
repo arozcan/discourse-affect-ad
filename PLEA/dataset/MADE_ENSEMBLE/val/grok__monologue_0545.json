@@ -1,0 +1,90 @@
+{
+  "id": "monologue_0545",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I observe the woman at the sink, her back partially turned.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9183294773101807
+    },
+    {
+      "text": "She's holding a plate, wiping it meticulously with the towel.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9091780185699463
+    },
+    {
+      "text": "The faucet is on, and water is cascading over the sink's edge.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9089428186416626
+    },
+    {
+      "text": "It's flooding the counter and floor, creating a slippery hazard.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4429172873497009
+    },
+    {
+      "text": "Her foot is in the puddle already, she could slip any moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.45220324397087097
+    },
+    {
+      "text": "To her left, the boy's on that stool, stretching for the cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9414542317390442
+    },
+    {
+      "text": "The stool's tilting back, he looks like he's about to fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.44440406560897827
+    },
+    {
+      "text": "If he drops, those cookies will scatter, and he might get hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5058603882789612
+    },
+    {
+      "text": "The girl's right there, arm up, eyes on the jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9240492582321167
+    },
+    {
+      "text": "They're both in on this sneaky cookie grab.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.67122882604599
+    },
+    {
+      "text": "The open cabinets and window make the whole scene feel exposed.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8170472383499146
+    },
+    {
+      "text": "I hope nothing bad happens in this domestic disaster waiting to unfold.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.49546435475349426
+    }
+  ]
+}

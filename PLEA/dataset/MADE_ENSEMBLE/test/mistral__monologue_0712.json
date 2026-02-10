@@ -1,0 +1,76 @@
+{
+  "id": "monologue_0712",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the boy on that stool, and I’m terrified he’s going to fall.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9151442646980286
+    },
+    {
+      "text": "The water is just pouring out, and the woman doesn’t even seem to notice.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.3562883138656616
+    },
+    {
+      "text": "I notice the girl is just watching, and it’s like she doesn’t care about the danger.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5531836748123169
+    },
+    {
+      "text": "The puddle is spreading, and someone is going to slip and get hurt.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6002798080444336
+    },
+    {
+      "text": "I think the woman is going to be so upset when she finally sees the mess.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "disgusted",
+      "teacher_confidence": 0.488198459148407
+    },
+    {
+      "text": "The garden outside looks so calm, but inside, it’s a disaster waiting to happen.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.226057767868042
+    },
+    {
+      "text": "I wonder if the kids will get caught before something bad happens.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.48487967252731323
+    },
+    {
+      "text": "The boy is stretching so far, and the stool looks like it’s about to tip.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.42967528104782104
+    },
+    {
+      "text": "The light from the window is so bright, but it’s like no one is paying attention to the real problems.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.33373188972473145
+    },
+    {
+      "text": "I feel like I need to look away because I’m so worried about what’s going to happen next.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8944801092147827
+    }
+  ]
+}

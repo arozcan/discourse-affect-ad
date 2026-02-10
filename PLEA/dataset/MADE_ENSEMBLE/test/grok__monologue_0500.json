@@ -1,0 +1,90 @@
+{
+  "id": "monologue_0500",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "I observe the woman at the sink, her apron tied neatly.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.89156174659729
+    },
+    {
+      "text": "She's polishing that plate so meticulously, unaware of the water spilling over.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.616268515586853
+    },
+    {
+      "text": "The puddle is growing around her feet, and it makes me worry for her safety.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.6869875192642212
+    },
+    {
+      "text": "If she slips, it could be really bad, especially with the kids around.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5098106861114502
+    },
+    {
+      "text": "The boy on the stool is stretching so high, his face full of determination.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5700557231903076
+    },
+    {
+      "text": "But that stool looks unstable, ready to give way.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.4294203817844391
+    },
+    {
+      "text": "His little sister is just standing there, hand outstretched, hoping for a share.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6108803153038025
+    },
+    {
+      "text": "It's heartbreaking how innocent their mischief is amid all this danger.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.7822614312171936
+    },
+    {
+      "text": "The open window shows a beautiful garden, so serene compared to this.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.6453620791435242
+    },
+    {
+      "text": "I feel a pang of sorrow thinking about what might happen next.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "sad",
+      "teacher_confidence": 0.9707741737365723
+    },
+    {
+      "text": "The cookies in the jar look tempting, but this isn't the way to get them.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5959912538528442
+    },
+    {
+      "text": "Why isn't anyone paying attention to the real problems here?",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5727975964546204
+    }
+  ]
+}

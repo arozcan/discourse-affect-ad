@@ -1,0 +1,69 @@
+{
+  "id": "monologue_5642",
+  "label": "mistral-large-latest",
+  "segments": [
+    {
+      "text": "I see the water overflowing, and it’s making me really anxious.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.9370249509811401
+    },
+    {
+      "text": "The woman is just standing there, drying that plate like nothing is happening.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4657798111438751
+    },
+    {
+      "text": "I think the sink is completely clogged, and she doesn’t even realize it.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5297136306762695
+    },
+    {
+      "text": "The puddle is getting bigger, and her foot is already in it.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4966467022895813
+    },
+    {
+      "text": "I can’t believe she hasn’t turned around to see the mess yet.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.8811584115028381
+    },
+    {
+      "text": "The kids are about to make things even worse with that stupid stool.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.5345935225486755
+    },
+    {
+      "text": "I wonder if she’ll ever notice what’s going on behind her.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.47097644209861755
+    },
+    {
+      "text": "The whole kitchen is just waiting for something bad to happen.",
+      "predicted_emotion": "sad",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5167756676673889
+    },
+    {
+      "text": "I hope someone stops this before it gets out of control.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5445802807807922
+    }
+  ]
+}

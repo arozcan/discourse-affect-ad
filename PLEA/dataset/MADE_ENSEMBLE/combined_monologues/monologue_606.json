@@ -1,0 +1,55 @@
+{
+  "id": "monologue_606",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "I notice the water spilling over the sink; it feels like an accident waiting to happen.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.3529013693332672
+    },
+    {
+      "text": "The woman's indifference strikes me as strange; how can she not see the mess?",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6743974685668945
+    },
+    {
+      "text": "The puddle grows larger, creeping dangerously close to the children as they scheme and plot.",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.3291361629962921
+    },
+    {
+      "text": "The boy's stool looks like it could tip at any moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6516454219818115
+    },
+    {
+      "text": "I can't help but think of the possible injuries if he falls.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.45415154099464417
+    },
+    {
+      "text": "He stretches higher, clearly determined to reach that cookie jar.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4794178605079651
+    },
+    {
+      "text": "The girl's anticipation is palpable; she practically glows with excitement as she awaits her treat.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.9326810836791992
+    }
+  ]
+}

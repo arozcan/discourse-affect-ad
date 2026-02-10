@@ -1,0 +1,166 @@
+{
+  "id": "dialog_2249",
+  "segments": [
+    {
+      "text": "Hello . Can I help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I hope so . I would like to register for Comp Lit 287 .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "I'm sorry , but that class is already full.And also , students are supposed to register through the touch-tone registration system .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 4
+    },
+    {
+      "text": "I know . I already tried to register for it by phone , but the computer won't let me .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's because it's full .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "But I'm a new student here . I thought maybe there was some way I could get into the class . I thought I should come and talk to you in the department office .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I could put you on a waiting list.But that doesn't guarantee you will get into the class . What is your name ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 2
+    },
+    {
+      "text": "My name is Karen Huang . That's spelled H - U - A - N - G .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    },
+    {
+      "text": "Alright . And what is your major ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 8,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm a comparative literature major .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 9,
+      "dialog_act": 1
+    },
+    {
+      "text": "Wait a minute . You're a Comp Lit major ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 10,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , that's right .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 11,
+      "dialog_act": 1
+    },
+    {
+      "text": "Why didn't you tell me ? I didn't know you were one of our students .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 12,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's why I'm trying to get into Comp Lit 287 . I know it's a required class.And Professor Cohen told me I need to take it .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 13,
+      "dialog_act": 1
+    },
+    {
+      "text": "The university computer system saves extra places , in class 287 for comp lit students . I can give you a special code.When you register by phone , you can use the code to get into the class .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 14,
+      "dialog_act": 3
+    },
+    {
+      "text": "Even if the class is full ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 15,
+      "dialog_act": 2
+    },
+    {
+      "text": "That's right .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 16,
+      "dialog_act": 1
+    },
+    {
+      "text": "Oh , I didn't know that .",
+      "speaker": "S2",
+      "predicted_emotion": "surprised",
+      "utterance_id": 17,
+      "dialog_act": 1
+    },
+    {
+      "text": "Sure . Here is the code number , with information on how to use it .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 18,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you . So you think I will be able to get in with this ?",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 19,
+      "dialog_act": 2
+    },
+    {
+      "text": "Sure . Just call the touch-tone registration system again.Then , follow the directions on the sheet . You will get in no problem .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 20,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 21,
+      "dialog_act": 4
+    },
+    {
+      "text": "Next time you come in here , I will recognize you .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 22,
+      "dialog_act": 1
+    }
+  ]
+}

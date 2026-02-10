@@ -1,0 +1,61 @@
+{
+  "id": "dialog_9457",
+  "segments": [
+    {
+      "text": "Hello , welcome to Credit Services . How can we help you ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'm interested in applying for a credit card with you .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 3
+    },
+    {
+      "text": "Are you an existing customer ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 2
+    },
+    {
+      "text": "Yes , I've had a Current Account with a debit card with you for years . Now , I'm looking at upgrading to a credit card .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 3
+    },
+    {
+      "text": "May I ask why you didn't think of applying for a credit card with us sooner ? Most young people jump at the chance .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 2
+    },
+    {
+      "text": "When I opened the account with you , I was a student , I graduated a couple of years ago and have a steady salary , so I figured now would be the best time to go ahead .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "That's very sensible of you . We have many fresh graduates applying for credit cards , getting them and then going on a spending spree and being unable to meet the repayments .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 1
+    },
+    {
+      "text": "As you can see from the statements for my Current Account , I have never been overdrawn . I'm always very careful about that .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 1
+    }
+  ]
+}

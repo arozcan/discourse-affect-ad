@@ -1,0 +1,33 @@
+{
+  "id": "dialog_578",
+  "segments": [
+    {
+      "text": "Ms Anderson , my name is Mike . I am Division Chief of ABC Company . Welcome to Toronto .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 0,
+      "dialog_act": 1
+    },
+    {
+      "text": "Thank you . It's a pleasure to meet you .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "A pleasure meeting you as well , the flowers are for you .",
+      "speaker": "S1",
+      "predicted_emotion": "happy",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thank you , they are beautiful .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 3,
+      "dialog_act": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dialog_1009",
+  "segments": [
+    {
+      "text": "What do you think of the new television channel ? Aren't the programs awful ?",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I quite agree with you . They are terrible . They are complete waste of time , but my wife disagrees with me .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "Actually , what bothers me is the violence . There are far too many detective and police shows .",
+      "speaker": "S1",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 2,
+      "dialog_act": 1
+    },
+    {
+      "text": "I couldn't agree with you more . There aren't enough educational programs , and even the news shows are not well done .",
+      "speaker": "S2",
+      "predicted_emotion": "disgusted",
+      "utterance_id": 3,
+      "dialog_act": 1
+    },
+    {
+      "text": "You are absolutely right . They are too brief . They don't tell you anything .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "dialog_3310",
+  "segments": [
+    {
+      "text": "How is the college search going ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "It's a huge headache . I have no idea what I want to do .",
+      "speaker": "S2",
+      "predicted_emotion": "sad",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "But don't you want to study music ? Shouldn't it be easy ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "It should be , but there are too many options . My grades are good enough that I have a lot of choices , but after that ...",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 4
+    },
+    {
+      "text": "I know . You have to decide if you want to attend a school in a city or in the country , a big school or a small school , a public or private school ...",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Yup , you understand . And my parents are trying to pressure me into going to a Catholic college . They both attended one and think that it combines a good education with good discipline . And the tuition is usually pretty low .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 1
+    },
+    {
+      "text": "I see . Well , don't forget to talk to the college counselor at the school . He usually gives good advice and can help point you in the right direction . He gave me some information , and next week I'm going to take a look at some of the colleges he recommended .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Thanks for the information . And good luck in your college search .",
+      "speaker": "S2",
+      "predicted_emotion": "happy",
+      "utterance_id": 7,
+      "dialog_act": 4
+    }
+  ]
+}

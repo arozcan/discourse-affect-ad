@@ -1,0 +1,61 @@
+{
+  "id": "dialog_8015",
+  "segments": [
+    {
+      "text": "How much will our order from your factory be ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 0,
+      "dialog_act": 2
+    },
+    {
+      "text": "I'll be happy to get back to you with an estimate in the next few days .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 1,
+      "dialog_act": 1
+    },
+    {
+      "text": "I'm afraid I can't wait that long . Can your office at least provide me with a ballpark figure ?",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 2,
+      "dialog_act": 3
+    },
+    {
+      "text": "Well , I would need an idea of how large your order would be . About how many units would you need ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 3,
+      "dialog_act": 2
+    },
+    {
+      "text": "Just give me an estimated figure for an order of 100 units .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 4,
+      "dialog_act": 1
+    },
+    {
+      "text": "Please give me a few minute to calculate ... Our asking price should be about $ 100 per unit with an order of 100 . Is that price acceptable to you ?",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 5,
+      "dialog_act": 3
+    },
+    {
+      "text": "Your estimated is seems a little high to me , we're willing to pay $ 80 per unit .",
+      "speaker": "S1",
+      "predicted_emotion": "neutral",
+      "utterance_id": 6,
+      "dialog_act": 3
+    },
+    {
+      "text": "Would an order of only 100 units , it'll be difficult to work within that kind of budget . Maybe if you were ordering 500 units or more units , we might be able to work something out .",
+      "speaker": "S2",
+      "predicted_emotion": "neutral",
+      "utterance_id": 7,
+      "dialog_act": 3
+    }
+  ]
+}

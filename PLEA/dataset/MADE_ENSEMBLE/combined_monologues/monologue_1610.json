@@ -1,0 +1,55 @@
+{
+  "id": "monologue_1610",
+  "label": "gpt-4o-mini",
+  "segments": [
+    {
+      "text": "The kitchen feels almost alive with the activities happening, yet there’s a strange stillness in the air.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5578112006187439
+    },
+    {
+      "text": "The sound of running water mixes with the children's quiet giggles; it’s deceptive.",
+      "predicted_emotion": "happy",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.7471569776535034
+    },
+    {
+      "text": "I can see the puddle growing, and it makes me feel uneasy, as if I’m witnessing a disaster waiting to unfold.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.8998591899871826
+    },
+    {
+      "text": "I want to shout out a warning, but I also don’t want to spoil their innocent joy.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.38968944549560547
+    },
+    {
+      "text": "Why is the woman so engrossed in her task?",
+      "predicted_emotion": "angry",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.6287012696266174
+    },
+    {
+      "text": "It’s frustrating to watch the impending accident unfold right before my eyes.",
+      "predicted_emotion": "disgusted",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.7749078273773193
+    },
+    {
+      "text": "Meanwhile, the garden outside looks peaceful, a stark contrast to the chaos inside.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5071896314620972
+    }
+  ]
+}

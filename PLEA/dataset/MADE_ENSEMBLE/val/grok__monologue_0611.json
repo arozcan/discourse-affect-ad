@@ -1,0 +1,97 @@
+{
+  "id": "monologue_0611",
+  "label": "grok-4-fast-reasoning",
+  "segments": [
+    {
+      "text": "Oh no, the sink is overflowing uncontrollably.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.5750851035118103
+    },
+    {
+      "text": "Water is cascading down onto the floor in sheets.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5995656251907349
+    },
+    {
+      "text": "The woman hasn't noticed; she's too busy with her plate.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.6810762882232666
+    },
+    {
+      "text": "Her foot is wet, and she could slip any moment.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5226254463195801
+    },
+    {
+      "text": "Look at that boy climbing the stool to the cabinet.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "surprised",
+      "teacher_confidence": 0.5148847103118896
+    },
+    {
+      "text": "The stool is splayed out, about to tip backward.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.8786808252334595
+    },
+    {
+      "text": "He's reaching right into the cookie jar.",
+      "predicted_emotion": "surprised",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.5537918210029602
+    },
+    {
+      "text": "The girl beside him has her hand up, waiting.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.9412845373153687
+    },
+    {
+      "text": "This is so dangerous; what if he falls?",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "fearful",
+      "teacher_confidence": 0.7730039954185486
+    },
+    {
+      "text": "The puddle is growing, making everything slick.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4942244291305542
+    },
+    {
+      "text": "I hope the window's breeze doesn't knock him off balance.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "happy",
+      "teacher_confidence": 0.5234273672103882
+    },
+    {
+      "text": "The cookies might not be worth this risk.",
+      "predicted_emotion": "neutral",
+      "speaker": "PAR",
+      "teacher_emotion": "angry",
+      "teacher_confidence": 0.3156976103782654
+    },
+    {
+      "text": "Someone has to intervene before an accident happens.",
+      "predicted_emotion": "fearful",
+      "speaker": "PAR",
+      "teacher_emotion": "neutral",
+      "teacher_confidence": 0.4689485728740692
+    }
+  ]
+}
