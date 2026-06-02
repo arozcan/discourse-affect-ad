@@ -1,8 +1,4 @@
-# Title
-
-Discourse-Level Affective Structure Framework: Code, Data, and Reproducibility Guide
-
-## Description
+# Discourse-Level Affective Structure Framework: Code, Data, and Reproducibility Guide
 
 This repository contains the code, processed artifacts, and documentation for a
 three-stage framework that studies discourse-level affective structure in
