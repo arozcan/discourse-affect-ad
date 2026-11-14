@@ -37,6 +37,7 @@ Konuşmacı seçimi parametriktir:
 import os
 import json
 import argparse
+import hashlib
 from glob import glob
 from typing import List, Dict, Any, Tuple
 
@@ -319,11 +320,40 @@ def main():
         required=True,
         help="Çıkış pickle dosyası (örn: features/adresso21_text_emo_segments.pkl)",
     )
+    parser.add_argument("--split", choices=["train", "test", "both"], default="both",
+                        help="Only extract the requested split; default preserves the previous split selection")
+    parser.add_argument("--dry_run", action="store_true",
+                        help="Validate input records and checkpoint without loading encoders")
+    parser.add_argument("--overwrite", action="store_true",
+                        help="Explicitly allow replacing an existing feature output")
 
     args = parser.parse_args()
+    if os.path.exists(args.output_pkl) and not args.overwrite:
+        parser.error(f"Output already exists: {args.output_pkl}; choose a new path or use --overwrite")
+    ckpt_path = args.emo_ckpt_dir
+    if os.path.isdir(ckpt_path):
+        ckpt_path = os.path.join(ckpt_path, "model.pt")
+    if not os.path.isfile(ckpt_path):
+        parser.error(f"Emotion checkpoint not found: {ckpt_path}")
+    selected_splits = ["train", "test"] if args.split == "both" else [args.split]
+    input_files = []
+    for split in selected_splits:
+        split_dir = os.path.join(args.data_dir, split)
+        if not os.path.isdir(split_dir) and args.split == "both":
+            continue
+        files = load_json_files(split_dir)
+        if not files:
+            parser.error(f"No record JSON files in {split_dir}")
+        input_files.extend(files)
+        print(f"Input {split}: {len(files)} record JSON files")
+    if not input_files:
+        parser.error("No input records found")
+    if args.dry_run:
+        print(f"Dry run: split={args.split}, checkpoint={ckpt_path}, output={args.output_pkl}; encoders not loaded")
+        return
     set_deterministic(42)
 
-    os.makedirs(os.path.dirname(args.output_pkl), exist_ok=True)
+    os.makedirs(os.path.dirname(args.output_pkl) or ".", exist_ok=True)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"🖥 Using device: {device}")
@@ -355,7 +385,7 @@ def main():
     if not os.path.isfile(ckpt_path):
         raise FileNotFoundError(f"Emotion checkpoint not found: {ckpt_path}")
 
-    state_dict = torch.load(ckpt_path, map_location=device)
+    state_dict = torch.load(ckpt_path, map_location=device, weights_only=True)
     emo_model.load_state_dict(state_dict)
     emo_model.eval()
     print("✅ Emotion model loaded.")
@@ -368,7 +398,7 @@ def main():
 
     convs_all = []
 
-    if os.path.isdir(train_dir):
+    if "train" in selected_splits and os.path.isdir(train_dir):
         convs_train = process_split(
             train_dir,
             "train",
@@ -381,10 +411,10 @@ def main():
             speaker_mode=args.speaker_mode,
         )
         convs_all.extend(convs_train)
-    else:
+    elif "train" in selected_splits:
         print(f"⚠️ Train dir not found: {train_dir}")
 
-    if os.path.isdir(test_dir):
+    if "test" in selected_splits and os.path.isdir(test_dir):
         convs_test = process_split(
             test_dir,
             "test",
@@ -397,7 +427,7 @@ def main():
             speaker_mode=args.speaker_mode,
         )
         convs_all.extend(convs_test)
-    else:
+    elif "test" in selected_splits:
         print(f"⚠️ Test dir not found: {test_dir}")
 
     data = {
@@ -406,10 +436,34 @@ def main():
         "text_model_name": args.text_model_name,
         "speaker_mode": args.speaker_mode,
     }
+    if args.split == "test":
+        expected_ids = {os.path.splitext(os.path.basename(path))[0] for path in input_files}
+        actual_ids = [conv["conv_id"] for conv in convs_all]
+        if len(actual_ids) != len(set(actual_ids)) or set(actual_ids) != expected_ids:
+            raise ValueError("Test extraction skipped, duplicated or mismatched input records; output not written")
 
     import pickle
     with open(args.output_pkl, "wb") as f:
         pickle.dump(data, f)
+
+    def sha256(path):
+        digest = hashlib.sha256()
+        with open(path, "rb") as handle:
+            for block in iter(lambda: handle.read(1024 * 1024), b""):
+                digest.update(block)
+        return digest.hexdigest()
+
+    metadata = {
+        "split": args.split, "records": len(convs_all),
+        "text_model_name": args.text_model_name, "speaker_mode": args.speaker_mode,
+        "max_len": args.max_len, "batch_size": args.batch_size,
+        "emotion_checkpoint": os.path.abspath(ckpt_path),
+        "emotion_checkpoint_sha256": sha256(ckpt_path),
+        "input_sha256": {os.path.relpath(path, args.data_dir): sha256(path) for path in input_files},
+        "output_sha256": sha256(args.output_pkl), "torch_version": torch.__version__,
+    }
+    with open(args.output_pkl + ".metadata.json", "w", encoding="utf-8") as handle:
+        json.dump(metadata, handle, ensure_ascii=False, indent=2)
 
     print(f"\n💾 Saved {len(convs_all)} conversations to: {args.output_pkl}")
     print("✅ Done.")

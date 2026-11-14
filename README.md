@@ -10,13 +10,17 @@ The framework has three components:
 - `PLEA`: pseudo-label-aware utterance-level affective learning
 - `CADENCE`: discourse-level clinical modeling for AD detection on ADReSSo
 
+## Version 1.1.0
+
+Official-test inference and statistical analysis commands are documented in [CADENCE/REPRODUCIBILITY.md](CADENCE/REPRODUCIBILITY.md); changes are listed in [CHANGELOG.md](CHANGELOG.md). Model weights, third-party datasets, and ADReSSo-derived transcripts/features are not included in the current release. Existing local copies are preserved; earlier Git history is unchanged.
+
 ## Dataset Information
 
 ### Datasets used in this study
 
 | Dataset | Role in study | Source type | Access / URL |
 |---|---|---|---|
-| MADE corpus | Synthetic monologue corpus created in this study and used as the main affective pretraining resource | This study | https://github.com/arozcan/llm-emotion-audit |
+| MADE corpus | Synthetic intermediate corpus from the author’s MADE work, used for affective representation learning | Author-created resource | [MADE](MADE/) |
 | ADReSSo 2021 | Clinical downstream benchmark for Alzheimer's disease detection | Third-party controlled-access dataset | https://talkbank.org/dementia/ADReSSo-2021/ |
 | MELD | Human-annotated emotion benchmark used for MADE validation and PLEA teacher training | Third-party dataset | https://github.com/declare-lab/MELD |
 | IEMOCAP | Human-annotated emotion benchmark used for MADE validation | Third-party dataset | https://sail.usc.edu/iemocap/ |
@@ -25,8 +29,8 @@ The framework has three components:
 
 ### Data availability and restrictions
 
-- The MADE corpus was constructed in this study and its processing pipeline is
-  documented in the public repository listed above.
+- The MADE corpus is an author-created intermediate resource; its processing
+  pipeline and synthetic data are included under `MADE/`.
 - ADReSSo is a controlled-access third-party dataset and must be requested from
   its original provider through DementiaBank/TalkBank.
 - External benchmark datasets such as MELD, IEMOCAP, DailyDialog, and
@@ -41,10 +45,10 @@ The framework has three components:
 
 ### MADE corpus source details
 
-- Repository URL: https://github.com/arozcan/llm-emotion-audit
-- MADE is not a third-party corpus. It is the synthetic corpus constructed in
-  this study from model-generated monologues and the accompanying processing
-  pipeline is included in this repository.
+- Included source: [MADE](MADE/) in https://github.com/arozcan/discourse-affect-ad
+- Original MADE project: https://github.com/arozcan/llm-emotion-audit
+- MADE is an author-created synthetic resource from separate work. Its
+  accompanying processing pipeline is included in this repository.
 
 ## Code Information
 
@@ -272,7 +276,9 @@ ADReSSo speech recordings are segmented into utterances with WhisperX. Each
 utterance is encoded with semantic and affective representations, and the
 resulting sequences are modeled with discourse-level neural architectures such
 as BiLSTM, BiGRU, and Transformer-based variants. Evaluation is carried out
-with cross-validation on the ADReSSo diagnosis benchmark.
+with validation-selected development folds and a fixed official-test ensemble.
+The [evaluation guide](CADENCE/REPRODUCIBILITY.md) explains checkpoint selection
+and participant-overlap limitations.
 
 ## Citations
 

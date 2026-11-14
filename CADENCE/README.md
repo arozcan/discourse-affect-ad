@@ -62,7 +62,7 @@ python scripts/prepare_adresso_whisperx_segments.py \
   --output_root dataset/ADReSSo21_WHISPERX_SEG
 ```
 
-This step produces time-aligned utterance-level transcripts for each speaker.
+This step produces time-aligned utterance segments from full recordings, without verified patient/interviewer separation. The 6 s segmentation setting is a soft target, not a strict upper bound.
 
 ---
 
@@ -133,8 +133,7 @@ python scripts/train_eval_adresso_seq.py \
   --save_fold_predictions
 ```
 
-All experiments are evaluated using **5-fold cross-validation** under
-demographically matched protocols.
+Development experiments use **recording-level 5-fold cross-validation**. The same held-out fold selects the best checkpoint and supplies its reported score; there is no inner validation split. See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for the fixed official-test evaluation and repeated-participant limitations.
 
 ---
 
@@ -146,8 +145,7 @@ CADENCE supports systematic ablations over representation type:
 - `emo_hidden`
 - `text+emo_hidden`
 
-Late fusion of semantic and affective representations consistently yields the
-strongest performance.
+Dual-stream modeling gives the highest mean development scores among the evaluated representations. Its official-test advantage over emotion-only is not statistically significant.
 
 ---
 
@@ -175,6 +173,10 @@ and class separability.
 
 ---
 
+## Official test and statistical analysis
+
+See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for preprocessing, inference-only evaluation, paired tests, participant grouping and split auditing. Aggregate outputs are in [results](results/). Model weights and clinical data are supplied locally; these are not downloaded automatically by the evaluation script.
+
 ## Key Findings
 
 - Discourse-level affective structure provides diagnostic information beyond
@@ -183,8 +185,7 @@ and class separability.
   effectively to human-authored spontaneous speech  
 - Ensemble-supervised affective learning yields more stable and transferable
   representations than single-teacher supervision  
-- Best-performing configurations exceed **91% accuracy and F1** on ADReSSo
-  using text-only inputs  
+- Best-performing configurations exceed **91% accuracy and F1** on validation-selected development folds using transcripts; official dual-stream test accuracy is **87.32%** and weighted F1 is **87.29%**
 
 ---
 
@@ -255,7 +256,7 @@ If you use CADENCE, please cite the accompanying paper:
 
 ```bibtex
 @article{ozcan2026discourseaffect,
-  title   = {Discourse-Level Affective Structure in Speech for Alzheimer’s Detection},
+  title   = {Alzheimer’s disease detection from transcribed speech via discourse-level affective modeling},
   author  = {Ozcan, Ahmet Remzi},
   year    = {2026}
 }

@@ -1,0 +1,13 @@
+model_id,metric,mean,sd,n_models,interpretation
+dual_stream,accuracy,0.8450704225352114,0.041781399927299526,5,between-model variation on the same test participants
+dual_stream,weighted_f1,0.8448730880859255,0.041699769606562596,5,between-model variation on the same test participants
+dual_stream,sensitivity_ad,0.8171428571428571,0.029137254363387325,5,between-model variation on the same test participants
+dual_stream,specificity_cn,0.8722222222222221,0.059835164523716684,5,between-model variation on the same test participants
+text_only,accuracy,0.6309859154929578,0.010539879962743531,5,between-model variation on the same test participants
+text_only,weighted_f1,0.6222093847429377,0.015556621206630962,5,between-model variation on the same test participants
+text_only,sensitivity_ad,0.49142857142857144,0.06614763944451556,5,between-model variation on the same test participants
+text_only,specificity_cn,0.7666666666666667,0.048432210483785286,5,between-model variation on the same test participants
+emotion_only,accuracy,0.8,0.04120771503754307,5,between-model variation on the same test participants
+emotion_only,weighted_f1,0.799234022432034,0.04115383101534365,5,between-model variation on the same test participants
+emotion_only,sensitivity_ad,0.7428571428571429,0.03614031611621006,5,between-model variation on the same test participants
+emotion_only,specificity_cn,0.8555555555555555,0.05386310952684808,5,between-model variation on the same test participants

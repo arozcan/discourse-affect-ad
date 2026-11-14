@@ -1159,16 +1159,16 @@ def main():
         plt.figure(figsize=(7, 6))
         im = plt.imshow(M, cmap="viridis")
         plt.colorbar(im, fraction=0.046, pad=0.04)
-        plt.xticks(range(len(labels)), labels, rotation=45, ha="right")
-        plt.yticks(range(len(labels)), labels)
+        plt.xticks(range(len(labels)), labels, rotation=45, ha="right", fontsize=11)
+        plt.yticks(range(len(labels)), labels, fontsize=11)
 
-        plt.xlabel("Next Emotion")
-        plt.ylabel("Current Emotion")
+        plt.xlabel("Next Emotion", fontsize=11)
+        plt.ylabel("Current Emotion", fontsize=11)
 
 
         plt.title(title)
         plt.tight_layout()
-        plt.savefig(out_path, dpi=200)
+        plt.savefig(out_path, dpi=300)
         plt.close()
 
     plot_transition_matrix(

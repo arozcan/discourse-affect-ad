@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 """
-ADReSSo21 için WhisperX tabanlı hazırlık script'i (CSV ve diarization YOK).
+ADReSSo21 için WhisperX tabanlı train/test hazırlığı (speaker CSV ve diarization kullanılmaz).
 
 Yeni alternatif mantık:
 
-- CSV segmentation tamamen YOK SAYILIR.
+- Konuşmacı segmentation CSV'leri kullanılmaz; test tanısı için ayrı ID,Dx CSV okunabilir.
 - Tüm ses dosyası baştan sona WhisperX ASR ile çözülür, word-level timestamplar alınır.
 - WhisperX segmentleri kullanılmaz, bunun yerine kelime zamanlamalarına göre ikincil segmentasyon yapılır.
-- Segmentler doğal duraklamalara (kelimeler arası 0.6 sn üzeri boşluk) ve maksimum/minimum segment uzunluklarına göre oluşturulur.
+- Segmentler doğal duraklamalara (kelimeler arası en az 0.9 sn boşluk) ve maksimum/minimum segment uzunluklarına göre oluşturulur.
 - Tüm segmentler konuşmacı olarak PAR kabul edilir.
 - Diarization kullanılmaz.
 
@@ -29,20 +29,16 @@ Yeni alternatif mantık:
 }
 """
 
+from __future__ import annotations
+
 import os
 import glob
 import json
-import re
 from typing import List, Dict, Any, Tuple
 
-import numpy as np
-import pandas as pd
-import soundfile as sf
-from scipy.signal import resample_poly
-
-import torch
-import whisperx
 import argparse
+
+from prepare_adresso_test_labels import load_test_labels
 
 # === Kök klasörler ===
 ADRESSO_ROOT = "download/ADReSSo21/diagnosis"
@@ -51,21 +47,23 @@ OUTPUT_ROOT = "dataset/ADReSSo21_WHISPERX_SEG"
 # ------------------------------------------------------------------
 # 1) Cihaz + WhisperX ASR modeli
 # ------------------------------------------------------------------
-if torch.cuda.is_available():
-    device = "cuda"
-    compute_type = "float16"  # GPU varsa daha hızlı
-else:
-    device = "cpu"
-    compute_type = "int8"     # CPU'da bellek için daha hafif (istersen "float32" yapabilirsin)
+asr_model = None
 
-print(f"▶ Torch device: {device}")
-print(f"▶ WhisperX ASR modeli yükleniyor (large-v2, device={device}, compute_type={compute_type})")
 
-asr_model = whisperx.load_model(
-    "large-v2",
-    device=device,
-    compute_type=compute_type,
-)
+def initialize_asr():
+    # Load heavy dependencies/model only after CLI and input checks.
+    global np, sf, resample_poly, torch, whisperx, device, compute_type, asr_model
+    import numpy as np
+    import soundfile as sf
+    from scipy.signal import resample_poly
+    import torch
+    import whisperx
+
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    compute_type = "float16" if device == "cuda" else "int8"
+    print(f"▶ WhisperX large-v2 (device={device}, compute_type={compute_type})")
+    asr_model = whisperx.load_model("large-v2", device=device, compute_type=compute_type)
+
 
 # Yeni segmentasyon parametreleri
 PAUSE_SPLIT_SEC = 0.9  # Kelimeler arası boşluk 0.9 sn veya daha fazla ise yeni segment başlat
@@ -164,7 +162,7 @@ def transcribe_interval(
 def process_file(
     audio_path: str,
     seg_path: str,
-    label: str,
+    label: str | None,
     split: str,
     pad_before_ms: float = 50.0,
     pad_after_ms: float = 50.0,
@@ -216,7 +214,7 @@ def transcribe_full_audio(
     """
     Full-audio ASR using WhisperX with word-level timestamps.
     Secondary pause-based segmentation is applied:
-    - New segment if gap between words >= PAUSE_SPLIT_SEC or current segment duration >= MAX_SEG_SEC
+    - Split if gap >= PAUSE_SPLIT_SEC, or duration >= MAX_SEG_SEC and gap >= 0.3 s.
     - Segments shorter than MIN_SEG_SEC are discarded or merged.
     All speakers are labeled as PAR.
     """
@@ -405,7 +403,7 @@ def build_split_train():
     print(f"📄 Index dosyası: {index_path}")
 
 
-def build_split_test():
+def build_split_test(labels_csv=None):
     """
     test-dist:
       audio:        ADReSSo21/diagnosis/test-dist/audio/*.wav
@@ -415,12 +413,12 @@ def build_split_test():
     split = "test"
     audio_dir = os.path.join(ADRESSO_ROOT, "test-dist", "audio")
     out_dir = os.path.join(OUTPUT_ROOT, "test")
-    os.makedirs(out_dir, exist_ok=True)
-
     if not os.path.isdir(audio_dir):
         print(f"⚠️ Test audio klasörü yok: {audio_dir}")
         return
 
+    labels = load_test_labels(labels_csv, audio_dir) if labels_csv else {}
+    os.makedirs(out_dir, exist_ok=True)
     audio_files = sorted(glob.glob(os.path.join(audio_dir, "*.wav")))
     print(f"📂 test-dist: {len(audio_files)} audio dosyası")
 
@@ -432,7 +430,7 @@ def build_split_test():
         data = process_file(
             audio_path=audio_path,
             seg_path=None,
-            label=None,  # test label yok
+            label=labels.get(base_name),  # metadata only; never supplied to ASR
             split=split,
         )
 
@@ -447,7 +445,7 @@ def build_split_test():
             {
                 "id": data["id"],
                 "split": split,
-                "label": None,
+                "label": data["label"],
                 "json_path": out_path,
             }
         )
@@ -482,15 +480,54 @@ def main():
         help="Output directory for WhisperX-segmented dataset"
     )
 
+    parser.add_argument(
+        "--split", choices=["train", "test", "both"], default="train",
+        help="Split to process; choose test to preserve existing training outputs",
+    )
+    parser.add_argument(
+        "--test_labels_csv", default=None,
+        help="Optional official ID,Dx CSV; labels are metadata and do not affect ASR",
+    )
+    parser.add_argument(
+        "--dry_run", action="store_true",
+        help="Validate input IDs and show counts without loading ASR or writing outputs",
+    )
     args = parser.parse_args()
 
     ADRESSO_ROOT = args.adresso_root
     OUTPUT_ROOT = args.output_root
 
-    os.makedirs(OUTPUT_ROOT, exist_ok=True)
+    if args.test_labels_csv and args.split == "train":
+        parser.error("--test_labels_csv requires --split test or both")
 
-    build_split_train()
-    #build_split_test()
+    if args.split in ("test", "both"):
+        audio_dir = os.path.join(ADRESSO_ROOT, "test-dist", "audio")
+        test_files = sorted(glob.glob(os.path.join(audio_dir, "*.wav")))
+        if not test_files:
+            parser.error(f"No test WAV files in {audio_dir}")
+        if args.test_labels_csv:
+            labels = load_test_labels(args.test_labels_csv, audio_dir)
+            print(f"Test input: {len(labels)} recordings, "
+                  f"ad={sum(x == 'ad' for x in labels.values())}, "
+                  f"cn={sum(x == 'cn' for x in labels.values())}")
+        else:
+            print(f"Test input: {len(test_files)} recordings, labels omitted")
+
+    if args.split in ("train", "both"):
+        for label in ("ad", "cn"):
+            audio_dir = os.path.join(ADRESSO_ROOT, "train", "audio", label)
+            print(f"Train input ({label}): {len(glob.glob(os.path.join(audio_dir, '*.wav')))} recordings")
+
+    if args.dry_run:
+        print(f"Dry run: split={args.split}; output={OUTPUT_ROOT}; ASR not loaded")
+        return
+
+    initialize_asr()
+    os.makedirs(OUTPUT_ROOT, exist_ok=True)
+    if args.split in ("train", "both"):
+        build_split_train()
+    if args.split in ("test", "both"):
+        build_split_test(args.test_labels_csv)
 
 
 if __name__ == "__main__":
